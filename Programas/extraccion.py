@@ -17,11 +17,11 @@ carpeta_proyecto = carpeta_actual.parent
 # Ruta del archivo XML y CSV
 carpeta_proyecto = carpeta_proyecto / 'Archivos'
 # Nombre del archivo CSV de salida
-csv_salida = carpeta_proyecto / 'metadata_sin_limpiar.csv'
+csv_salida = carpeta_proyecto / 'metadata_sucia.csv'
 
 campos_csv = [
     'filename', 'filepath', 'title', 'artist', 'album', 'album_artist',
-    'genre', 'date', 'year', 'duration_seconds', 'bpm',
+    'genre', 'date', 'duration_seconds', 'bpm',
     'beaTunes_tempo_COLOR', 'beaTunes_SPECTRUM',
     'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR'
 ]
@@ -46,7 +46,6 @@ def extraer_metadatos_mp3(archivo):
         tags = audio.tags or {}
 
         fecha = str(tags.get('TDRC', [''])[0]) if 'TDRC' in tags else ''
-        anio = fecha[:4] if fecha else ''
 
         return {
             'title': tags.get('TIT2', [''])[0] if 'TIT2' in tags else '',
@@ -55,7 +54,6 @@ def extraer_metadatos_mp3(archivo):
             'album_artist': tags.get('TPE2', [''])[0] if 'TPE2' in tags else '',
             'genre': tags.get('TCON', [''])[0] if 'TCON' in tags else '',
             'date': fecha,
-            'year': anio,
             'duration_seconds': round(audio.info.length, 2),
             'bpm': tags.get('TBPM', [''])[0] if 'TBPM' in tags else '',
             'beaTunes_tempo_COLOR': extraer_txxx(tags, 'beaTunes_tempo_COLOR'),
@@ -77,7 +75,6 @@ def extraer_metadatos_m4a(archivo):
         tags = audio.tags or {}
 
         fecha = limpiar_valor(tags.get('©day', [''])[0])
-        anio = fecha[:4] if fecha else ''
 
         return {
             'title': limpiar_valor(tags.get('\xa9nam', [''])[0]),
@@ -86,7 +83,6 @@ def extraer_metadatos_m4a(archivo):
             'album_artist': limpiar_valor(tags.get('aART', [''])[0]),
             'genre': limpiar_valor(tags.get('\xa9gen', [''])[0]),
             'date': fecha,
-            'year': anio,
             'duration_seconds': round(audio.info.length, 2),
             'bpm': limpiar_valor(tags.get('tmpo', [''])[0]),
             'beaTunes_tempo_COLOR': extraer_atom_m4a(tags, 'beaTunes_tempo_COLOR'),

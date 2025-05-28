@@ -47,6 +47,11 @@ def main():
         print("🛑 Proceso detenido por error en unión.")
         sys.exit(1)
 
+    print("\n4) Filtrado de columnas")
+    if not ejecutar_script('Programas/filtrado.py'):
+        print("🛑 Proceso detenido por error en el filtrado.")
+        sys.exit(1)
+
     print("\n✅ Proceso ETL completado con éxito.")
 
 if __name__ == "__main__":
