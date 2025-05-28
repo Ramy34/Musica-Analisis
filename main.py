@@ -52,6 +52,11 @@ def main():
         print("🛑 Proceso detenido por error en el filtrado.")
         sys.exit(1)
 
+    print("\n5) Borrado de archivos de entrada")
+    if not ejecutar_script('Programas/borrado.py'):
+        print("🛑 Proceso detenido por error en el borrado.")
+        sys.exit(1)        
+
     print("\n✅ Proceso ETL completado con éxito.")
 
 if __name__ == "__main__":

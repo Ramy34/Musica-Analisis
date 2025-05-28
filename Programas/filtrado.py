@@ -17,7 +17,7 @@ ruta_salida = Path(output_file)  # Cambia aquí donde quieres guardar el CSV fil
 
 # Columnas que quieres conservar
 columnas_deseadas = [
-    'title', 'artist', 'album', 'album_artist', 'genre', 'date',
+    'title', 'Artist', 'album', 'Album Artist', 'genre', 'date',
     'duration_seconds', 'bpm', 'beaTunes_tempo_COLOR', 'beaTunes_SPECTRUM',
     'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR', 'Track ID', 'Kind',
     'Total Time', 'Year', 'Bit Rate', 'Sample Rate', 'Rating', 'Album Rating',
@@ -33,8 +33,8 @@ df = pd.read_csv(ruta_csv_final)
 columnas_existentes = [col for col in columnas_deseadas if col in df.columns]
 df_filtrado = df[columnas_existentes]
 
-# Renombrar columna 'Year' a 'year'
-df_filtrado = df_filtrado.rename(columns={'year5': 'year'})
+df_filtrado = df_filtrado.rename(columns={'Artist': 'artist'})
+df_filtrado = df_filtrado.rename(columns={'Album Artist': 'album_artist'})
 
 # Guardar CSV filtrado
 df_filtrado.to_csv(ruta_salida, index=False)
