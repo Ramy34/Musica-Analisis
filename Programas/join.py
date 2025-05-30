@@ -12,18 +12,11 @@ archivoiTunes = carpeta_proyecto / 'itunes_tracks.csv'
 output_file = carpeta_proyecto / 'metadata_sin_limpiar.csv'
 output_file_sin_match = carpeta_proyecto / 'sin_match.csv'
 
-# Cargar CSVs
-df_meta = pd.read_csv(archivoScript)
-df_itunes = pd.read_csv(archivoiTunes)
-
 # Funciones para limpiar texto
 def clean_text(x):
     if pd.isna(x):
         return ''
     return str(x).lower().strip()
-
-# Normalizar nombre de archivo en metadata
-df_meta['join_path'] = df_meta['filepath'].apply(lambda x: os.path.basename(str(x)).strip().lower())
 
 # Normalizar location en itunes
 def obtener_filename_itunes(location):
@@ -33,6 +26,14 @@ def obtener_filename_itunes(location):
     location = urllib.parse.unquote(location)
     return os.path.basename(location).strip().lower()
 
+# Cargar CSVs
+df_meta = pd.read_csv(archivoScript)
+df_itunes = pd.read_csv(archivoiTunes)
+
+# Normalizar nombre de archivo en metadata
+df_meta['join_path'] = df_meta['filepath'].apply(lambda x: os.path.basename(str(x)).strip().lower())
+
+# Normalizar nombre de archivo en itunes
 df_itunes['join_path'] = df_itunes['Location'].apply(obtener_filename_itunes)
 
 # Limpiar artista y álbum

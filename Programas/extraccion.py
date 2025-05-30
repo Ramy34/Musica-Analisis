@@ -23,7 +23,7 @@ campos_csv = [
     'filename', 'filepath', 'title', 'artist', 'album', 'album_artist',
     'genre', 'date', 'duration_seconds', 'bpm',
     'beaTunes_tempo_COLOR', 'beaTunes_SPECTRUM',
-    'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR'
+    'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR', 'MOOD_DANCEABILITY', 'Tuning'
 ]
 
 def extraer_txxx(tags, desc):
@@ -60,6 +60,8 @@ def extraer_metadatos_mp3(archivo):
             'beaTunes_SPECTRUM': extraer_txxx(tags, 'beaTunes_SPECTRUM'),
             'beaTunes_COLOR': extraer_txxx(tags, 'beaTunes_COLOR'),
             'beaTunes_tempo_timbre_COLOR': extraer_txxx(tags, 'beaTunes_tempo_timbre_COLOR'),
+            'MOOD_DANCEABILITY': extraer_txxx(tags, 'MOOD_DANCEABILITY'),
+            'Tuning': extraer_txxx(tags, 'Tuning'),
         }
     except MutagenError:
         return {}
@@ -89,6 +91,8 @@ def extraer_metadatos_m4a(archivo):
             'beaTunes_SPECTRUM': extraer_atom_m4a(tags, 'beaTunes_SPECTRUM'),
             'beaTunes_COLOR': extraer_atom_m4a(tags, 'beaTunes_COLOR'),
             'beaTunes_tempo_timbre_COLOR': extraer_atom_m4a(tags, 'beaTunes_tempo_timbre_COLOR'),
+            'MOOD_DANCEABILITY': extraer_atom_m4a(tags, 'MOOD_DANCEABILITY'),
+            'Tuning': extraer_atom_m4a(tags, 'Tuning'),
         }
     except MutagenError:
         return {}
