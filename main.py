@@ -64,12 +64,22 @@ def main():
         print("🛑 Proceso detenido por error en el filtrado.")
         sys.exit(1)
 
-    print("\n5) Actualización del catálogo de artistas")
+    print("\n5) Creación del resúmen general")
+    if not ejecutar_script('Programas/resumen_general.py'):
+        print("🛑 Proceso detenido por error en la creación del resúmen general.")
+        sys.exit(1)
+
+    print("\n6) Actualización del catálogo de artistas")
     if not ejecutar_script('Programas/actualizar_artistas.py'):
         print("🛑 Proceso detenido por error en la actualización del catalogo de artistas.")
         sys.exit(1)
+    
+    print("\n7) Generar lista de canciones desnormalizada")
+    if not ejecutar_script('Programas/canciones.py'):
+        print("🛑 Proceso detenido por error en la desnormalización de canciones.")
+        sys.exit(1)
 
-    print("\n6) Borrado de archivos de entrada")
+    print("\n8) Borrado de archivos de entrada")
     if not ejecutar_script('Programas/borrado.py'):
         print("🛑 Proceso detenido por error en el borrado.")
         sys.exit(1)        

@@ -2,7 +2,6 @@ from pathlib import Path
 import pandas as pd
 import re
 
-
 carpeta_actual = Path(__file__).parent #Carpeta Programas
 carpeta_proyecto = carpeta_actual.parent #Carpeta Musica Analisis
 ruta_metadata = carpeta_proyecto / 'Salida'
@@ -16,10 +15,10 @@ artista = pd.read_csv(ruta_artista, low_memory=False)
 
 # Asegúrate de que el nombre de la columna sea igual o ajusta left_on / right_on
 # Por ejemplo, si es 'Artista' en metadata y 'artist' en artista.csv:
-df = metadata[~metadata["artist"].isin(artista["artist"])]
+df = metadata[~metadata["Artista"].isin(artista["Artista"])]
 
 # Eliminar duplicados por la columna 'artist'
-df = df.drop_duplicates(subset='artist')
+df = df.drop_duplicates(subset='Artista')
 
 # Separadores: feat o feat., &, x, con, with
 separators = ['feat\\.?', '&', 'con', 'with', '/','、']
@@ -46,7 +45,7 @@ def make_marker(index):
 # Lista para filas del nuevo DataFrame
 rows = []
 
-for original_artist in df['artist']:
+for original_artist in df['Artista']:
     clean_artist = str(original_artist)
     temp_artist = clean_artist
     exception_map = {}
@@ -75,8 +74,8 @@ for original_artist in df['artist']:
 
     for artist in final_parts:
         rows.append({
-            'artist': original_artist,
-            'artist_homogenized': artist
+            'Artista': original_artist,
+            'Artista Homologado': artist
         })
 
 # Crear DataFrame final y eliminar duplicados

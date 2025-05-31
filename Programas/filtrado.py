@@ -31,11 +31,41 @@ df = pd.read_csv(ruta_csv, low_memory=False)
 columnas_existentes = [col for col in columnas_deseadas if col in df.columns]
 df_filtrado = df[columnas_existentes]
 
-# Renombrar columnas
-df_filtrado = df_filtrado.rename(columns={'Artist': 'artist'})
-df_filtrado = df_filtrado.rename(columns={'Album Artist': 'album_artist'})
-df_filtrado = df_filtrado.rename(columns={'MOOD_DANCEABILITY': 'mood_danceability'})
-
+df_filtrado = df_filtrado.rename(columns={
+    'title': 'Canción',
+    'Artist': 'Artista',
+    'album': 'Álbum',
+    'Album Artist': 'Artista del Álbum',
+    'genre': 'Género',
+    'date': 'Fecha',
+    'duration_seconds': 'Duración Segundos',
+    'bpm': 'bpm',
+    'beaTunes_tempo_COLOR': 'Color Tempo de beaTunes',
+    'beaTunes_SPECTRUM': 'Espectro de beaTunes',
+    'beaTunes_COLOR': 'Color de beaTunes',
+    'beaTunes_tempo_timbre_COLOR': 'Color Tempo Timbre de beaTunes',
+    'Track ID': 'Id Pista',
+    'Kind': 'Tipo',
+    'Total Time': 'Tiempo Total',
+    'Year': 'Año',
+    'Bit Rate': 'Tasa de Bits',
+    'Sample Rate': 'Frecuencia de Muestreo',
+    'Rating': 'Valoración',
+    'Album Rating': 'Valoración Álbum',
+    'Album Rating Computed': 'Valoración Álbum Computada',
+    'Normalization': 'Normalización',
+    'File Folder Count': 'Cantidad Carpetas Archivo',
+    'Library Folder Count': 'Cantidad Carpetas Biblioteca',
+    'Play Count': 'Reproducciones',	
+    'Play Date': 'Fecha de Reproducción',
+    'Play Date UTC': 'Fecha de Reproducción UTC',
+    'Composer': 'Compositor',
+    'Compilation': 'Compilación',
+    'Explicit': 'Explícito',
+    'Rating Computed': 'Valoración Computada',
+    'MOOD_DANCEABILITY': 'Bailabilidad',
+    'Tuning': 'Afinación'
+})
 # Guardar CSV filtrado
 df_filtrado.to_csv(ruta_salida, index=False)
 print(f"[OK] Archivo filtrado guardado en {ruta_salida}")
