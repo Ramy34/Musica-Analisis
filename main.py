@@ -1,5 +1,7 @@
+from pathlib import Path
 import subprocess
 import sys
+
 
 def ejecutar_script(ruta):
     print(f"\n▶ Ejecutando: {ruta}")
@@ -32,6 +34,16 @@ def ejecutar_script(ruta):
 def main():
     print("🚀 Proceso de extracción, transformación y carga de datos")
 
+     # 🧪 Validar si hay archivos XML antes de continuar
+    carpeta_entrada = Path('Archivos')  # Ajusta esta ruta si es diferente
+    archivos_xml = list(carpeta_entrada.glob("*.xml"))
+
+    if not archivos_xml:
+        print("\n🛑 No se encontraron archivos XML en la carpeta 'Entrada'. Proceso detenido.")
+        sys.exit(1)
+    
+    print(f"📂 Se encontraron {len(archivos_xml)} archivo(s) XML. Iniciando proceso ETL...")
+
     print("\n1) Extracción de datos")
     if not ejecutar_script('Programas/extraccion.py'):
         print("🛑 Proceso detenido por error en extracción.")
@@ -52,7 +64,12 @@ def main():
         print("🛑 Proceso detenido por error en el filtrado.")
         sys.exit(1)
 
-    print("\n5) Borrado de archivos de entrada")
+    print("\n5) Actualización del catálogo de artistas")
+    if not ejecutar_script('Programas/actualizar_artistas.py'):
+        print("🛑 Proceso detenido por error en la actualización del catalogo de artistas.")
+        sys.exit(1)
+
+    print("\n6) Borrado de archivos de entrada")
     if not ejecutar_script('Programas/borrado.py'):
         print("🛑 Proceso detenido por error en el borrado.")
         sys.exit(1)        
