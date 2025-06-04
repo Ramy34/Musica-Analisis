@@ -30,4 +30,4 @@ df = pd.DataFrame(track_list)
 df.to_csv(archivoCSV, index=False)
 
 # Mostrar mensaje con número de canciones
-print(f"[OK] Archivo '{archivoCSV.name}' generado con {len(df)} canciones.", flush=True)
+print(f"[OK] Archivo '{archivoCSV}' generado con {len(df)} canciones.", flush=True)

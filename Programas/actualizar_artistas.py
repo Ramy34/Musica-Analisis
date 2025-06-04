@@ -35,7 +35,11 @@ comma_exceptions = [
     "3年E組うた担(渚&茅野&業&磯貝&前原)",
     "3年E組ヌル担(渚&業&寺坂&中村)",
     "Jesse & Joy",
-    "Fear, and Loathing in Las Vegas"
+    "Fear, and Loathing in Las Vegas",
+    "ConfidentialMX",
+    "GuruConnect",
+    "5 Seconds of Summer",
+    "Luis R Conriquez"
 ]
 
 # Crear marcador seguro que no se romperá con regex

@@ -79,7 +79,12 @@ def main():
         print("🛑 Proceso detenido por error en la desnormalización de canciones.")
         sys.exit(1)
 
-    print("\n8) Borrado de archivos de entrada")
+    print("\n8) Creación del reporte de playlists")
+    if not ejecutar_script('Programas/playlist.py'):
+        print("🛑 Proceso detenido por error en la creación del reporte de playlist.")
+        sys.exit(1)
+
+    print("\n9) Borrado de archivos de entrada")
     if not ejecutar_script('Programas/borrado.py'):
         print("🛑 Proceso detenido por error en el borrado.")
         sys.exit(1)        
