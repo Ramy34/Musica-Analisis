@@ -20,9 +20,9 @@ columnas_deseadas = [
     'Playlist','Canción', 'Artista','Álbum','Artista del Álbum','Género','Fecha','Duración Segundos',
     'bpm','Color Tempo de beaTunes','Espectro de beaTunes','Color de beaTunes','Color Tempo Timbre de beaTunes',
     'Id Pista','Tipo','Tiempo Total','Año','Tasa de Bits','Frecuencia de Muestreo', 'Valoración',
-    'Valoración Álbum','Valoración Álbum Computada','Normalización','Cantidad Carpetas Archivo',
-    'Cantidad Carpetas Biblioteca','Reproducciones','Fecha de Reproducción','Fecha de Reproducción UTC',
-    'Compositor','Compilación','Explícito','Valoración Computada','Bailabilidad','Afinación'
+    'Valoración Álbum','Normalización','Cantidad Carpetas Archivo', 'Cantidad Carpetas Biblioteca',
+    'Reproducciones','Fecha de Reproducción','Fecha de Reproducción UTC', 'Compositor','Compilación',
+    'Explícito','Bailabilidad','Afinación'
 ]
 
 # Funciones para limpiar texto

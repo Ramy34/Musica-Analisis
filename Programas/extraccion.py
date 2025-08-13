@@ -9,7 +9,7 @@ from mutagen.id3 import TXXX
 from mutagen import MutagenError
 
 # Ruta de la carpeta de música
-carpeta_musica = r'D:/Compartida/iTunes/iTunes Media/Music'
+carpeta_musica = r'F:/MEGA/iTunes'
 # Ruta del transformacion.py actual
 carpeta_actual = Path(__file__).parent
 # Subir a la raíz del proyecto

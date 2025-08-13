@@ -19,9 +19,9 @@ columnas_deseadas = [
     'duration_seconds', 'bpm', 'beaTunes_tempo_COLOR', 'beaTunes_SPECTRUM',
     'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR', 'Track ID', 'Kind',
     'Total Time', 'Year', 'Bit Rate', 'Sample Rate', 'Rating', 'Album Rating',
-    'Album Rating Computed', 'Normalization', 'File Folder Count',
-    'Library Folder Count', 'Play Count', 'Play Date', 'Play Date UTC',
-    'Composer', 'Compilation', 'Explicit', 'Rating Computed', 'MOOD_DANCEABILITY', 'Tuning'
+    'Normalization', 'File Folder Count','Library Folder Count', 
+    'Play Count', 'Play Date', 'Play Date UTC', 'Composer', 'Compilation', 
+    'Explicit', 'MOOD_DANCEABILITY', 'Tuning'
 ]
 
 # Cargar CSV
@@ -52,7 +52,6 @@ df_filtrado = df_filtrado.rename(columns={
     'Sample Rate': 'Frecuencia de Muestreo',
     'Rating': 'Valoración',
     'Album Rating': 'Valoración Álbum',
-    'Album Rating Computed': 'Valoración Álbum Computada',
     'Normalization': 'Normalización',
     'File Folder Count': 'Cantidad Carpetas Archivo',
     'Library Folder Count': 'Cantidad Carpetas Biblioteca',
@@ -62,7 +61,6 @@ df_filtrado = df_filtrado.rename(columns={
     'Composer': 'Compositor',
     'Compilation': 'Compilación',
     'Explicit': 'Explícito',
-    'Rating Computed': 'Valoración Computada',
     'MOOD_DANCEABILITY': 'Bailabilidad',
     'Tuning': 'Afinación'
 })
