@@ -12,6 +12,8 @@
   },
   "general": {
     "log_level": "INFO",
-    "threads": 4
+    "threads": 4,
+    "escala": 1000,
+    "procesar_todo": true
   }
 }

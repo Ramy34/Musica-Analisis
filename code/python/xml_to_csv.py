@@ -2,6 +2,12 @@ import plistlib
 import csv
 import os
 
+def clean(name):
+    name = (
+        name.replace("＊", "*")
+    )
+    return name
+
 def main(input_folder, output_folder):
     # Recorre todas las subcarpetas
     for root, dirs, files in os.walk(input_folder):
@@ -56,6 +62,8 @@ def main(input_folder, output_folder):
                                 value = carpeta_esquema
                             elif key == "ruta_absoluta":
                                 value = ruta_absoluta
+                            elif key == "Artist":
+                                value = clean(track_info.get("Artist", "Unknown Artist"))
                             else:
                                 value = track_info.get(key, "")
                                 # Convertir duración de ms a mm:ss
