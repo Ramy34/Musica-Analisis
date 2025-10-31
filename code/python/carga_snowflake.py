@@ -82,7 +82,7 @@ def actualizar_control_playlist(insertar, d, conn, nombre, esquema, registros):
         sql = f"INSERT INTO CONTROL_PLAYLIST (NAME, SCHEMA_NAME, RECORDS, INSERTAR) VALUES ('{nombre}', '{esquema}', {registros}, True)"
         cursor_tmp.execute(sql)
     conn.commit()
-    print(f"Carga completada: {registros} filas insertadas en {esquema}.{nombre}")
+    print(f"[OK] Carga completada: {registros} filas insertadas en {esquema}.{nombre}")
     cursor_tmp.close()
 
 def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
@@ -101,7 +101,7 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
         if d['archivo'].lower().endswith(".csv"):
 
             if buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper()) == False:
-                print(f"Omitido: {d['archivo']} en {d['subcarpeta']}")
+                print(f"[INFO] Omitido: {d['archivo']} en {d['subcarpeta']}")
             else:
                 TABLE = clean_name(d['archivo'].replace(".csv", ""))
                 SCHEMA = d['subcarpeta'].upper()
@@ -109,7 +109,7 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
                 df = pd.read_csv(d['ruta_completa'])
                 # Si el CSV está vacío, abortamos
                 if df.empty:
-                    print(f"El archivo {d['archivo']} está vacío. Se omite.")
+                    print(f"[INFO] El archivo {d['archivo']} está vacío. Se omite.")
                     continue
                 # Limpiar nombres de columnas
                 df.columns = [clean_name(c) for c in df.columns]
@@ -135,7 +135,7 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
                 finally:
                     cursor.close()
         else:
-            print(f"Omitido (no es CSV): {d['archivo']}")
+            print(f"[INFO] Omitido (no es CSV): {d['archivo']}")
     conn.close()
 
 if __name__ == "__main__":

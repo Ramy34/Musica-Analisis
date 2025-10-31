@@ -70,7 +70,7 @@ def main(input_folder, output_folder):
 
                 print(f"[INFO] Convertido: {input_file} → {output_file}")
 
-    print("¡[OK] Todos los XML se convirtieron a CSV manteniendo la estructura de carpetas!")
+    print("[OK] ¡Todos los XML se convirtieron a CSV manteniendo la estructura de carpetas!")
 
 if __name__ == "__main__":
 
