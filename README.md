@@ -1,15 +1,17 @@
 # 🎵 Tablero Musical
 
-**Tablero Musical** es un proyecto que combina **Python** y **Power BI** para visualizar y entender mejor lo que escuchamos en nuestra biblioteca de **iTunes**.  
+**Tablero Musical** es un proyecto que combina **Python**, **Snowflake** y **Power BI** para visualizar y entender mejor lo que escuchamos en nuestra biblioteca de **iTunes**.  
 
 El flujo de trabajo es el siguiente:
 - **Python** extrae metadatos de archivos de música locales (`.mp3` y `.m4a`), procesa la información y la convierte en archivos `.csv`.
-- **Power BI** consume esos reportes y los transforma en dashboards interactivos, similares a los que ofrecen plataformas de streaming, pero con el detalle de tu propia colección musical.
+- **Snowflake** actúa como base de datos en la nube, permitiendo almacenar, transformar y consultar los datos de forma eficiente.  
+- **Power BI** consume esos reportes o datos desde Snowflake y los transforma en dashboards interactivos, similares a los que ofrecen plataformas de streaming, pero con el detalle de tu propia colección musical.
 
 ---
 
 ## 📊 Tecnologías utilizadas
 - [Python](https://www.python.org/) – Procesamiento de datos y generación de reportes  
+- [Snowflake](https://www.snowflake.com/) – Almacenamiento y análisis de datos en la nube  
 - [Power BI](https://powerbi.microsoft.com/) – Visualización y dashboards interactivos  
 
 ---
@@ -31,10 +33,11 @@ Este proyecto está pensado para quienes escuchan música desde su **biblioteca 
 
 ## ✨ Valor agregado
 - Reportes en tiempo real: siempre tendrás la **última versión de tus datos** corriendo el script en Python.  
+- Integración con **Snowflake** para análisis avanzado y almacenamiento escalable.  
 - Mayor nivel de detalle que los resúmenes estándar de Spotify/YouTube.  
 - Basado en tu propia biblioteca de música, sin depender de servicios externos.  
 
 ---
 
 ## ⚙️ Instalación
-*(pendiente de completar pasos técnicos de instalación)*
+*(pendiente de completar pasos técnicos de instalación)*  
