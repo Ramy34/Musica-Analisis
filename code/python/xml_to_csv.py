@@ -35,10 +35,15 @@ def main(input_folder, output_folder):
 
                 tracks = plist.get("Tracks", {})
 
+                colums = ["Disliked", "Rating Computed"]      
                 all_keys = set()
                 for track_info in tracks.values():
+                    for colum in colums:
+                        if track_info.keys() == colum:
+                            colums.remove(colum)
                     all_keys.update(track_info.keys())
 
+                all_keys.update(colums) 
                 # Nuevas columnas personalizadas
                 all_keys.update(["playlist", "carpeta_esquema", "ruta_absoluta", "filename"])
 
@@ -68,7 +73,7 @@ def main(input_folder, output_folder):
                             elif key == "filename":
                                 value = extract_filename_from_location(track_info.get("Location", ""))
                             elif key == "Artist":
-                                value = clean(track_info.get("Artist", "Unknown Artist"))
+                                value = clean(track_info.get("Artist", "Unknown Artist"))                                           
                             else:
                                 value = track_info.get(key, "")
                                 if key == "Total Time" and isinstance(value, int):

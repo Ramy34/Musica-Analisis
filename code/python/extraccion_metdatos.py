@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
-from mutagen.id3 import TXXX
+from mutagen.id3 import TXXX, USLT
 from mutagen import MutagenError
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import multiprocessing
@@ -23,11 +23,46 @@ def limpiar_valor(valor):
             return valor.decode('latin1', errors='ignore')
     return valor
 
+# === Letras ===
+def extraer_letra_mp3(tags):
+    """
+    Devuelve un dict con:
+    - has_lyrics: 'Sí' o 'No'
+    - lyrics_text: texto completo (si existe)
+    """
+    try:
+        for frame in tags.getall('USLT'):
+            if frame.text and frame.text.strip():
+                return {'has_lyrics': 'Sí', 'lyrics_text': frame.text.strip()}
+        return {'has_lyrics': 'No', 'lyrics_text': ''}
+    except Exception:
+        return {'has_lyrics': 'No', 'lyrics_text': ''}
+
+def extraer_letra_m4a(tags):
+    """
+    Devuelve un dict con:
+    - has_lyrics: 'Sí' o 'No'
+    - lyrics_text: texto completo (si existe)
+    """
+    try:
+        letra = tags.get('©lyr', [''])
+        if letra and isinstance(letra, list):
+            letra = letra[0]
+        if letra and str(letra).strip():
+            return {'has_lyrics': 'Sí', 'lyrics_text': str(letra).strip()}
+        return {'has_lyrics': 'No', 'lyrics_text': ''}
+    except Exception:
+        return {'has_lyrics': 'No', 'lyrics_text': ''}
+
+# === Extracción de metadatos ===
 def extraer_metadatos_mp3(archivo):
     try:
         audio = MP3(archivo)
         tags = audio.tags or {}
         fecha = str(tags.get('TDRC', [''])[0]) if 'TDRC' in tags else ''
+
+        letras = extraer_letra_mp3(tags)
+
         return {
             'title': tags.get('TIT2', [''])[0] if 'TIT2' in tags else '',
             'artist': tags.get('TPE1', [''])[0] if 'TPE1' in tags else '',
@@ -43,6 +78,8 @@ def extraer_metadatos_mp3(archivo):
             'beaTunes_tempo_timbre_COLOR': extraer_txxx(tags, 'beaTunes_tempo_timbre_COLOR'),
             'MOOD_DANCEABILITY': extraer_txxx(tags, 'MOOD_DANCEABILITY'),
             'Tuning': extraer_txxx(tags, 'Tuning'),
+            'has_lyrics': letras['has_lyrics'],
+            'lyrics_text': letras['lyrics_text']
         }
     except MutagenError:
         return {}
@@ -57,6 +94,9 @@ def extraer_metadatos_m4a(archivo):
         audio = MP4(archivo)
         tags = audio.tags or {}
         fecha = limpiar_valor(tags.get('©day', [''])[0])
+
+        letras = extraer_letra_m4a(tags)
+
         return {
             'title': limpiar_valor(tags.get('\xa9nam', [''])[0]),
             'artist': limpiar_valor(tags.get('\xa9ART', [''])[0]),
@@ -72,10 +112,13 @@ def extraer_metadatos_m4a(archivo):
             'beaTunes_tempo_timbre_COLOR': extraer_atom_m4a(tags, 'beaTunes_tempo_timbre_COLOR'),
             'MOOD_DANCEABILITY': extraer_atom_m4a(tags, 'MOOD_DANCEABILITY'),
             'Tuning': extraer_atom_m4a(tags, 'Tuning'),
+            'has_lyrics': letras['has_lyrics'],
+            'lyrics_text': letras['lyrics_text']
         }
     except MutagenError:
         return {}
 
+# === Procesamiento ===
 def procesar_archivo(ruta_completa):
     extension = os.path.splitext(ruta_completa)[1].lower()
     if extension == '.mp3':
@@ -90,16 +133,14 @@ def procesar_archivo(ruta_completa):
     meta['filepath'] = ruta_completa
     return meta
 
-# 🔹 Versión adaptada de la función main
+# === Función principal ===
 def main(carpeta_musica, csv_salida, num_workers=4, escala=1000):
-   # multiprocessing.freeze_support()  # Necesario en Windows
-
     campos_csv = [
         'filename', 'filepath', 'title', 'artist', 'album', 'album_artist',
         'genre', 'date', 'duration_seconds', 'bpm',
         'beaTunes_tempo_COLOR', 'beaTunes_SPECTRUM',
         'beaTunes_COLOR', 'beaTunes_tempo_timbre_COLOR',
-        'MOOD_DANCEABILITY', 'Tuning'
+        'MOOD_DANCEABILITY', 'Tuning', 'has_lyrics', 'lyrics_text'
     ]
 
     datos_canciones = []
@@ -132,10 +173,9 @@ def main(carpeta_musica, csv_salida, num_workers=4, escala=1000):
 
     print(f"[OK] Metadatos exportados a '{csv_salida}' con {len(datos_canciones)} canciones.", flush=True)
 
-
-# 🔹 Solo se ejecuta este bloque si corres el script directamente
+# === Bloque principal ===
 if __name__ == '__main__':
-    multiprocessing.freeze_support()  # Necesario en Windows
+    multiprocessing.freeze_support()
     import argparse
 
     parser = argparse.ArgumentParser(description="Extraer metadatos de archivos de música y exportar a CSV.")
@@ -147,4 +187,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     main(args.carpeta_musica, args.csv_salida, args.threads, args.escala)
-
