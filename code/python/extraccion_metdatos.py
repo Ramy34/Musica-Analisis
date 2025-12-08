@@ -1,9 +1,7 @@
 import os
 import csv
-from pathlib import Path
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
-from mutagen.id3 import TXXX, USLT
 from mutagen import MutagenError
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import multiprocessing

@@ -5,10 +5,10 @@
     "schema": "PUBLIC"
   },
   "paths": {
-    "input_folder": "F:/OneDrive/Documentos/Códigos/Musica-Analisis/files/xml",
-    "output_folder": "F:/OneDrive/Documentos/Códigos/Musica-Analisis/files/csv",
-    "music_folder" : "F:/OneDrive/Documentos/iTunes/iTunes Media/Music",
-    "csv_metadata_output": "F:/OneDrive/Documentos/Códigos/Musica-Analisis/files/csv/General/Metadata.csv"
+    "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
+    "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
+    "music_folder" : "F:/iTunes/iTunes Media/Music",
+    "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/General/Metadata.csv"
   },
   "general": {
     "log_level": "INFO",
