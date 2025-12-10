@@ -4,7 +4,15 @@
     "database": "MUSICA",
     "schema": "PUBLIC"
   },
-  "paths": {
+  "paths_windows": {
+    "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
+    "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
+    "music_folder" : "F:/iTunes/iTunes Media/Music",
+    "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/RAW/Metadata.csv",
+    "csv_artistas_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Artistas.csv",
+    "csv_canciones_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Canciones.csv"
+  },
+    "paths_macos": {
     "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
     "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
     "music_folder" : "F:/iTunes/iTunes Media/Music",
@@ -16,6 +24,7 @@
     "log_level": "INFO",
     "threads": 4,
     "escala": 1000,
-    "procesar_todo": false
+    "procesar_todo": false,
+    "os": "windows"
   }
 }
