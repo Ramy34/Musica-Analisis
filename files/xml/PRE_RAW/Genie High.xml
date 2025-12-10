@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:51:13Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6403</key>
+		<dict>
+			<key>Track ID</key><integer>6403</integer>
+			<key>Name</key><string>Classic high</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8232147</integer>
+			<key>Total Time</key><integer>253936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3846782707</integer>
+			<key>Play Date UTC</key><date>2025-11-24T04:45:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10031</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36B838801802C61B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20classic/02%20Classic%20high.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6407</key>
+		<dict>
+			<key>Track ID</key><integer>6407</integer>
+			<key>Name</key><string>GDGD</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6253520</integer>
+			<key>Total Time</key><integer>192104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3838201115</integer>
+			<key>Play Date UTC</key><date>2025-08-16T19:58:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-17T08:08:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5889</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D9A29006BF54A79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20classic/04%20GDGD.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6417</key>
+		<dict>
+			<key>Track ID</key><integer>6417</integer>
+			<key>Name</key><string>Genie girl crash</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6290313</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3847089337</integer>
+			<key>Play Date UTC</key><date>2025-11-27T17:55:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>060BB764E8E68279</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20classic/09%20Genie%20girl%20crash.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6419</key>
+		<dict>
+			<key>Track ID</key><integer>6419</integer>
+			<key>Name</key><string>Koeshizuku</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7392884</integer>
+			<key>Total Time</key><integer>227709</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842284880</integer>
+			<key>Play Date UTC</key><date>2025-10-03T02:21:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10895</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F110FB2ED1CD4FB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20classic/10%20Koeshizuku.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6427</key>
+		<dict>
+			<key>Track ID</key><integer>6427</integer>
+			<key>Name</key><string>Dietter Noriko</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8871935</integer>
+			<key>Total Time</key><integer>274782</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841241023</integer>
+			<key>Play Date UTC</key><date>2025-09-21T00:23:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1457B480ECE42D6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Story/02%20Dietter%20Noriko.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6429</key>
+		<dict>
+			<key>Track ID</key><integer>6429</integer>
+			<key>Name</key><string>Fuben Na Kawaige</string>
+			<key>Artist</key><string>Genie High feat. AiNA the END</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7868856</integer>
+			<key>Total Time</key><integer>243435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3845734015</integer>
+			<key>Play Date UTC</key><date>2025-11-12T01:26:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7267</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0C28BC2DF21BADF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Story/03%20Fuben%20Na%20Kawaige.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6433</key>
+		<dict>
+			<key>Track ID</key><integer>6433</integer>
+			<key>Name</key><string>Primadonna</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8762426</integer>
+			<key>Total Time</key><integer>271360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835887303</integer>
+			<key>Play Date UTC</key><date>2025-07-21T01:15:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5855</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>Primadonna</string>
+			<key>Persistent ID</key><string>6B3E3ADCC0ECEFED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Story/05%20Primadonna.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6437</key>
+		<dict>
+			<key>Track ID</key><integer>6437</integer>
+			<key>Name</key><string>Guutara Bushi</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8527536</integer>
+			<key>Total Time</key><integer>264019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847095856</integer>
+			<key>Play Date UTC</key><date>2025-11-27T19:44:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-03T18:52:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7360</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>Guutara Bushi</string>
+			<key>Persistent ID</key><string>64D2B3563AE6D85A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Story/07%20Guutara%20Bushi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6441</key>
+		<dict>
+			<key>Track ID</key><integer>6441</integer>
+			<key>Name</key><string>Valentine Dorobou</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5840062</integer>
+			<key>Total Time</key><integer>180035</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844182147</integer>
+			<key>Play Date UTC</key><date>2025-10-25T01:22:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4292</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>Valentine Dorobou</string>
+			<key>Persistent ID</key><string>B2BFD68C4B8BFA37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Story/09%20Valentine%20Dorobou.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6447</key>
+		<dict>
+			<key>Track ID</key><integer>6447</integer>
+			<key>Name</key><string>natsuarashi</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6427100</integer>
+			<key>Total Time</key><integer>196884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3846336161</integer>
+			<key>Play Date UTC</key><date>2025-11-19T00:42:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>natsuarashi</string>
+			<key>Persistent ID</key><string>0E0B05CC5AFA6CA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/02%20natsuarashi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6449</key>
+		<dict>
+			<key>Track ID</key><integer>6449</integer>
+			<key>Name</key><string>baitoleader noriko</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6856769</integer>
+			<key>Total Time</key><integer>210311</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>155</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3841858253</integer>
+			<key>Play Date UTC</key><date>2025-09-28T03:50:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7392</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>baitoleader noriko</string>
+			<key>Persistent ID</key><string>507506DC170FD496</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/03%20baitoleader%20noriko.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6451</key>
+		<dict>
+			<key>Track ID</key><integer>6451</integer>
+			<key>Name</key><string>BABY LADY</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6844222</integer>
+			<key>Total Time</key><integer>209920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847102677</integer>
+			<key>Play Date UTC</key><date>2025-11-27T21:37:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-03T19:20:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3C2504FB01400D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/04%20BABY%20LADY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6455</key>
+		<dict>
+			<key>Track ID</key><integer>6455</integer>
+			<key>Name</key><string>Iindatte</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4756097</integer>
+			<key>Total Time</key><integer>144666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846335205</integer>
+			<key>Play Date UTC</key><date>2025-11-19T00:26:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>Iindatte</string>
+			<key>Persistent ID</key><string>E4B0B25B68D9B32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/06%20Iindatte.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6457</key>
+		<dict>
+			<key>Track ID</key><integer>6457</integer>
+			<key>Name</key><string>rubik love</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7163543</integer>
+			<key>Total Time</key><integer>219898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845457155</integer>
+			<key>Play Date UTC</key><date>2025-11-08T20:32:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3929</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C52E9DA9BF1FC34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/07%20rubik%20love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6459</key>
+		<dict>
+			<key>Track ID</key><integer>6459</integer>
+			<key>Name</key><string>geniehigh box</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5265176</integer>
+			<key>Total Time</key><integer>160574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>65</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844178823</integer>
+			<key>Play Date UTC</key><date>2025-10-25T00:27:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2555</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Genie High</string>
+			<key>Sort Name</key><string>geniehigh box</string>
+			<key>Persistent ID</key><string>C08BD7A920FB3C72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/08%20geniehigh%20box.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6461</key>
+		<dict>
+			<key>Track ID</key><integer>6461</integer>
+			<key>Name</key><string>takkyu monkey</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7330730</integer>
+			<key>Total Time</key><integer>225123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842198249</integer>
+			<key>Play Date UTC</key><date>2025-10-02T02:17:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>459E10CEEE6E5354</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/09%20takkyu%20monkey.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6465</key>
+		<dict>
+			<key>Track ID</key><integer>6465</integer>
+			<key>Name</key><string>geniestar</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7237104</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3838823625</integer>
+			<key>Play Date UTC</key><date>2025-08-24T00:53:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2143</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA27902C3DD2E28A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/geniestar/11%20geniestar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6469</key>
+		<dict>
+			<key>Track ID</key><integer>6469</integer>
+			<key>Name</key><string>Monster</string>
+			<key>Artist</key><string>Genie High feat. yama</string>
+			<key>Album Artist</key><string>Genie High feat. yama</string>
+			<key>Album</key><string>Monster - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8523853</integer>
+			<key>Total Time</key><integer>263549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:51Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835883695</integer>
+			<key>Play Date UTC</key><date>2025-07-21T00:14:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9542</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8320EA164C8AB13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High%20feat.%20yama/Monster%20-%20Single/01%20Monster.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11883</key>
+		<dict>
+			<key>Track ID</key><integer>11883</integer>
+			<key>Name</key><string>Cho Saiaku</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Cho Saiaku - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7292231</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>146</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3845988007</integer>
+			<key>Play Date UTC</key><date>2025-11-15T00:00:07Z</date>
+			<key>Release Date</key><date>2022-11-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>579C44D3EFBAAF0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Cho%20Saiaku%20-%20Single/01%20Cho%20Saiaku.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13029</key>
+		<dict>
+			<key>Track ID</key><integer>13029</integer>
+			<key>Name</key><string>PEAKY</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>PEAKY - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9313252</integer>
+			<key>Total Time</key><integer>225907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2025-01-17T06:03:37Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843654665</integer>
+			<key>Play Date UTC</key><date>2025-10-18T22:51:05Z</date>
+			<key>Release Date</key><date>2022-11-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10512</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8E854A2E14954F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/PEAKY%20-%20Single/01%20PEAKY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13049</key>
+		<dict>
+			<key>Track ID</key><integer>13049</integer>
+			<key>Name</key><string>No Makeup Star</string>
+			<key>Artist</key><string>Genie High feat. Utaha</string>
+			<key>Album Artist</key><string>Genie High feat. Utaha</string>
+			<key>Album</key><string>No Makeup Star - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10173494</integer>
+			<key>Total Time</key><integer>244645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:51Z</date>
+			<key>Date Added</key><date>2025-01-17T06:03:41Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3834831064</integer>
+			<key>Play Date UTC</key><date>2025-07-08T19:51:04Z</date>
+			<key>Release Date</key><date>2024-09-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17146</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3F7113626590FB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High%20feat.%20Utaha/No%20Makeup%20Star%20-%20Single/01%20No%20Makeup%20Star.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>23997</key>
+		<dict>
+			<key>Track ID</key><integer>23997</integer>
+			<key>Name</key><string>Katamede Ijouni Koishiteru</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Katamede Ijouni Koishiteru - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10697790</integer>
+			<key>Total Time</key><integer>257370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2025-03-03T05:39:51Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3844166352</integer>
+			<key>Play Date UTC</key><date>2025-10-24T20:59:12Z</date>
+			<key>Release Date</key><date>2018-03-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57B547BBF141DC0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Katamede%20Ijouni%20Koishiteru%20-%20Single/01%20Katamede%20Ijouni%20Koishiteru.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>23999</key>
+		<dict>
+			<key>Track ID</key><integer>23999</integer>
+			<key>Name</key><string>Randezvous Ni Touhikou</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9393482</integer>
+			<key>Total Time</key><integer>231851</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>176</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2025-03-03T05:39:51Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833399984</integer>
+			<key>Play Date UTC</key><date>2025-06-22T06:19:44Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5563</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>746458ABCAA80C42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20-%20EP/02%20Randezvous%20Ni%20Touhikou.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24013</key>
+		<dict>
+			<key>Track ID</key><integer>24013</integer>
+			<key>Name</key><string>Genie High Rhapsody</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High Rhapsody - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8633809</integer>
+			<key>Total Time</key><integer>202524</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>336</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3835541810</integer>
+			<key>Play Date UTC</key><date>2025-07-17T01:16:50Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3433</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02FB68667D383EA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Rhapsody%20-%20Single/01%20Genie%20High%20Rhapsody.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24015</key>
+		<dict>
+			<key>Track ID</key><integer>24015</integer>
+			<key>Name</key><string>Genie High No Theme</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10797425</integer>
+			<key>Total Time</key><integer>255675</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844169044</integer>
+			<key>Play Date UTC</key><date>2025-10-24T21:44:04Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2712</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53BA45CA4A80965C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20-%20EP/05%20Genie%20High%20No%20Theme.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24017</key>
+		<dict>
+			<key>Track ID</key><integer>24017</integer>
+			<key>Name</key><string>Tokyo Ha Ame</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10516564</integer>
+			<key>Total Time</key><integer>257347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847186708</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:58:28Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B165AD87DC11A4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20-%20EP/06%20Tokyo%20Ha%20Ame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24019</key>
+		<dict>
+			<key>Track ID</key><integer>24019</integer>
+			<key>Name</key><string>Shaminami</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Shaminami - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9137916</integer>
+			<key>Total Time</key><integer>225558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2025-03-03T05:48:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844085476</integer>
+			<key>Play Date UTC</key><date>2025-10-23T22:31:16Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>092F73F24CA84A50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Shaminami%20-%20Single/01%20Shaminami.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24021</key>
+		<dict>
+			<key>Track ID</key><integer>24021</integer>
+			<key>Name</key><string>Genie High Wash</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Genie High Wash - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6462587</integer>
+			<key>Total Time</key><integer>153925</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>65</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:53Z</date>
+			<key>Date Added</key><date>2025-03-03T05:48:27Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3847107335</integer>
+			<key>Play Date UTC</key><date>2025-11-27T22:55:35Z</date>
+			<key>Release Date</key><date>2020-05-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4138</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7A75523559C7C3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Genie%20High%20Wash%20-%20Single/01%20Genie%20High%20Wash.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24025</key>
+		<dict>
+			<key>Track ID</key><integer>24025</integer>
+			<key>Name</key><string>Cocoonsan</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Cocoonsan - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8998258</integer>
+			<key>Total Time</key><integer>221658</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844249480</integer>
+			<key>Play Date UTC</key><date>2025-10-25T20:04:40Z</date>
+			<key>Release Date</key><date>2021-07-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>497337B035D74A57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Cocoonsan%20-%20Single/01%20Cocoonsan.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24027</key>
+		<dict>
+			<key>Track ID</key><integer>24027</integer>
+			<key>Name</key><string>Eclair</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Eclair - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8812699</integer>
+			<key>Total Time</key><integer>212811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3839261202</integer>
+			<key>Play Date UTC</key><date>2025-08-29T02:26:42Z</date>
+			<key>Release Date</key><date>2022-05-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7087</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34859FDD19343C67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Eclair%20-%20Single/01%20Eclair.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24029</key>
+		<dict>
+			<key>Track ID</key><integer>24029</integer>
+			<key>Name</key><string>Kyashana Lip</string>
+			<key>Artist</key><string>Genie High feat. CHANMINA</string>
+			<key>Album Artist</key><string>Genie High feat. CHANMINA</string>
+			<key>Album</key><string>Kyashana Lip - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11115675</integer>
+			<key>Total Time</key><integer>268817</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:52Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3847099808</integer>
+			<key>Play Date UTC</key><date>2025-11-27T20:50:08Z</date>
+			<key>Release Date</key><date>2021-07-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4910</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>933B1EB9AC55586A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High%20feat.%20CHANMINA/Kyashana%20Lip%20-%20Single/01%20Kyashana%20Lip.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28579</key>
+		<dict>
+			<key>Track ID</key><integer>28579</integer>
+			<key>Name</key><string>Addicted to That Summer</string>
+			<key>Artist</key><string>Genie High</string>
+			<key>Album Artist</key><string>Genie High</string>
+			<key>Album</key><string>Addicted to That Summer - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6582995</integer>
+			<key>Total Time</key><integer>203232</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:54Z</date>
+			<key>Date Added</key><date>2025-09-03T06:20:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845982207</integer>
+			<key>Play Date UTC</key><date>2025-11-14T22:23:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9247</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93C9DDEE86621A0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Genie%20High/Addicted%20to%20That%20Summer%20-%20Single/01%20Addicted%20to%20That%20Summer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Genie High</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>97539</integer>
+			<key>Playlist Persistent ID</key><string>10CD090098673AF6</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkJTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABQARwBlAG4AaQBlACAASABpAGcAaAAAABkAAAEAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAA
+			AAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBl
+			AHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAAAgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYARgByAG8AbQAgAFQAaABl
+			ACAARgBpAHIAcwB0ACAAVABhAGsAZQ==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>23997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28579</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

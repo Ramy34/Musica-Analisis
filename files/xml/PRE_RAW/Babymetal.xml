@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:49:39Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4981</key>
+		<dict>
+			<key>Track ID</key><integer>4981</integer>
+			<key>Name</key><string>Megitsune</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>KITSUNE OF METAL GOD</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8037015</integer>
+			<key>Total Time</key><integer>247693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3841479687</integer>
+			<key>Play Date UTC</key><date>2025-09-23T18:41:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16415</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>BABYMETAL</string>
+			<key>Sort Name</key><string>Megitsune</string>
+			<key>Persistent ID</key><string>0EA5383CA701AEA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/02%20Megitsune.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4983</key>
+		<dict>
+			<key>Track ID</key><integer>4983</integer>
+			<key>Name</key><string>Gimme Chocolate!!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>TAKESHI UEDA</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7490100</integer>
+			<key>Total Time</key><integer>230739</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843149386</integer>
+			<key>Play Date UTC</key><date>2025-10-13T02:29:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-04T19:02:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14791</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>127DAE6A5C87279F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/03%20Gimme%20Chocolate!!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4985</key>
+		<dict>
+			<key>Track ID</key><integer>4985</integer>
+			<key>Name</key><string>Iine!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>Mish-Mosh</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8050989</integer>
+			<key>Total Time</key><integer>248267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3840395765</integer>
+			<key>Play Date UTC</key><date>2025-09-11T05:36:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17533</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>790B8354D4E2143C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/04%20Iine!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5001</key>
+		<dict>
+			<key>Track ID</key><integer>5001</integer>
+			<key>Name</key><string>Headbangeeeeerrrrr!!!!!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>Kitsune</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7816600</integer>
+			<key>Total Time</key><integer>240587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843151436</integer>
+			<key>Play Date UTC</key><date>2025-10-13T03:03:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19040</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53827769F246082E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/12%20Headbangeeeeerrrrr!!!!!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5003</key>
+		<dict>
+			<key>Track ID</key><integer>5003</integer>
+			<key>Name</key><string>Ijime, Dame, Zettai</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>TSUBOMETAL, KxBxMETAL &#38; TAKEMETAL</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11800340</integer>
+			<key>Total Time</key><integer>365270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844417562</integer>
+			<key>Play Date UTC</key><date>2025-10-27T19:46:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>20604</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C3250B71CCC0A9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/13%20Ijime,%20Dame,%20Zettai.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5065</key>
+		<dict>
+			<key>Track ID</key><integer>5065</integer>
+			<key>Name</key><string>Oh! MAJINAI</string>
+			<key>Artist</key><string>BABYMETAL feat. Joakim Broden</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>RYU-METAL</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6280445</integer>
+			<key>Total Time</key><integer>192731</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3827236675</integer>
+			<key>Play Date UTC</key><date>2025-04-11T22:17:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16518</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB91A88EB6C2401B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/05%20Oh!%20MAJINAI.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5067</key>
+		<dict>
+			<key>Track ID</key><integer>5067</integer>
+			<key>Name</key><string>Brand New Day</string>
+			<key>Artist</key><string>BABYMETAL feat. Tim Henson &#38; Scott Lepage</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MEG</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8065981</integer>
+			<key>Total Time</key><integer>248528</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3838820717</integer>
+			<key>Play Date UTC</key><date>2025-08-24T00:05:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11790</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A5236C0E0BD3627</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/06%20Brand%20New%20Day.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5069</key>
+		<dict>
+			<key>Track ID</key><integer>5069</integer>
+			<key>Name</key><string>Night Night Burn!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>NORiMETAL, Hola-METAL</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7179836</integer>
+			<key>Total Time</key><integer>220813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844175364</integer>
+			<key>Play Date UTC</key><date>2025-10-24T23:29:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19597</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>39CD325084972651</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/07%20Night%20Night%20Burn!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5073</key>
+		<dict>
+			<key>Track ID</key><integer>5073</integer>
+			<key>Name</key><string>Distortion</string>
+			<key>Artist</key><string>BABYMETAL feat. Alissa White-Gluz</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>TAKEMETAL</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6016298</integer>
+			<key>Total Time</key><integer>184476</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823757016</integer>
+			<key>Play Date UTC</key><date>2025-03-02T16:43:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17690</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D3F9A93A89BCF44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/09%20Distortion.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5075</key>
+		<dict>
+			<key>Track ID</key><integer>5075</integer>
+			<key>Name</key><string>PA PA YA!!</string>
+			<key>Artist</key><string>BABYMETAL feat. F.HERO</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>SIAMMETAL</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7642149</integer>
+			<key>Total Time</key><integer>235284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>158</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846767139</integer>
+			<key>Play Date UTC</key><date>2025-11-24T00:25:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>22233</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97E5F9E55738E04B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/10%20PA%20PA%20YA!!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5077</key>
+		<dict>
+			<key>Track ID</key><integer>5077</integer>
+			<key>Name</key><string>Kagerou</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>Yuyoyuppe, MK-METAL</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6858876</integer>
+			<key>Total Time</key><integer>210808</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3839863768</integer>
+			<key>Play Date UTC</key><date>2025-09-05T01:49:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16313</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB2F2E2A7205E93A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/11%20Kagerou.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5079</key>
+		<dict>
+			<key>Track ID</key><integer>5079</integer>
+			<key>Name</key><string>Starlight</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MEG</string>
+			<key>Album</key><string>METAL GALAXY</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7080472</integer>
+			<key>Total Time</key><integer>217338</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835882571</integer>
+			<key>Play Date UTC</key><date>2025-07-20T23:56:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-26T22:13:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15986</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03E0295A9DCD9DA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20GALAXY/12%20Starlight.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5087</key>
+		<dict>
+			<key>Track ID</key><integer>5087</integer>
+			<key>Name</key><string>KARATE</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>Yuyoyuppe</string>
+			<key>Album</key><string>Metal Resistance</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8539201</integer>
+			<key>Total Time</key><integer>263288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844169531</integer>
+			<key>Play Date UTC</key><date>2025-10-24T21:52:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-03T00:57:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16147</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A04E0F3639E4244</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/Metal%20Resistance/02%20KARATE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5091</key>
+		<dict>
+			<key>Track ID</key><integer>5091</integer>
+			<key>Name</key><string>YAVA!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>NAKAMETAL, MK-METAL &#38; KxBxMETAL</string>
+			<key>Album</key><string>Metal Resistance</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7439974</integer>
+			<key>Total Time</key><integer>228545</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835609980</integer>
+			<key>Play Date UTC</key><date>2025-07-17T20:13:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17201</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E4DB30E205FA80F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/Metal%20Resistance/04%20YAVA!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5103</key>
+		<dict>
+			<key>Track ID</key><integer>5103</integer>
+			<key>Name</key><string>No Rain, No Rainbow</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>YOSHIFU-METAL, MK-METAL &#38; NAKAMETAL</string>
+			<key>Album</key><string>Metal Resistance</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9411643</integer>
+			<key>Total Time</key><integer>290612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>79</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3840726754</integer>
+			<key>Play Date UTC</key><date>2025-09-15T01:32:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-21T01:02:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9953</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B8EA2C42BBEA000</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/Metal%20Resistance/10%20No%20Rain,%20No%20Rainbow.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5109</key>
+		<dict>
+			<key>Track ID</key><integer>5109</integer>
+			<key>Name</key><string>METALI!!</string>
+			<key>Artist</key><string>BABYMETAL feat. Tom Morello</string>
+			<key>Album Artist</key><string>BABYMETAL feat. Tom Morello</string>
+			<key>Composer</key><string>METAL-NIKI, RYU-METAL, NORIMETAL &#38; MEGMETAL</string>
+			<key>Album</key><string>METALI!!- Single</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6875902</integer>
+			<key>Total Time</key><integer>208718</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844173125</integer>
+			<key>Play Date UTC</key><date>2025-10-24T22:52:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12723</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83BED9E822A1FD32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL%20feat.%20Tom%20Morello/METALI!!-%20Single/01%20METALI!!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5111</key>
+		<dict>
+			<key>Track ID</key><integer>5111</integer>
+			<key>Name</key><string>METAL KINGDOM</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>KITSUNE of METAL GOD</string>
+			<key>Album</key><string>THE OTHER ONE</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11396166</integer>
+			<key>Total Time</key><integer>351477</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835089893</integer>
+			<key>Play Date UTC</key><date>2025-07-11T19:44:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12281</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OTHER ONE</string>
+			<key>Persistent ID</key><string>C731F26DA42959DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/THE%20OTHER%20ONE/01%20METAL%20KINGDOM.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5117</key>
+		<dict>
+			<key>Track ID</key><integer>5117</integer>
+			<key>Name</key><string>MAYA</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MAYAMETAL</string>
+			<key>Album</key><string>THE OTHER ONE</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6660942</integer>
+			<key>Total Time</key><integer>203520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3820349953</integer>
+			<key>Play Date UTC</key><date>2025-01-22T06:19:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9452</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OTHER ONE</string>
+			<key>Persistent ID</key><string>405459FFFDC55870</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/THE%20OTHER%20ONE/04%20MAYA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5119</key>
+		<dict>
+			<key>Track ID</key><integer>5119</integer>
+			<key>Name</key><string>Time Wave</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MK-METAL</string>
+			<key>Album</key><string>THE OTHER ONE</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9435360</integer>
+			<key>Total Time</key><integer>290220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847109096</integer>
+			<key>Play Date UTC</key><date>2025-11-27T23:24:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OTHER ONE</string>
+			<key>Persistent ID</key><string>58742F7DC5D966B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/THE%20OTHER%20ONE/05%20Time%20Wave.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5123</key>
+		<dict>
+			<key>Track ID</key><integer>5123</integer>
+			<key>Name</key><string>METALIZM</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>Metalian</string>
+			<key>Album</key><string>THE OTHER ONE</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7001605</integer>
+			<key>Total Time</key><integer>214151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>107</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3835165618</integer>
+			<key>Play Date UTC</key><date>2025-07-12T16:46:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4198</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OTHER ONE</string>
+			<key>Persistent ID</key><string>F1340C1D2B319CB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/THE%20OTHER%20ONE/07%20METALIZM.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5127</key>
+		<dict>
+			<key>Track ID</key><integer>5127</integer>
+			<key>Name</key><string>Light and Darkness</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MK-METAL, TAKEMETAL &#38; tatsuoMETAL</string>
+			<key>Album</key><string>THE OTHER ONE</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7968332</integer>
+			<key>Total Time</key><integer>244375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847093835</integer>
+			<key>Play Date UTC</key><date>2025-11-27T19:10:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13585</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>OTHER ONE</string>
+			<key>Persistent ID</key><string>8746ADCAEC43C6F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/THE%20OTHER%20ONE/09%20Light%20and%20Darkness.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5131</key>
+		<dict>
+			<key>Track ID</key><integer>5131</integer>
+			<key>Name</key><string>RATATATA</string>
+			<key>Artist</key><string>BABYMETAL &#38; Electric Callboy</string>
+			<key>Album Artist</key><string>BABYMETAL &#38; Electric Callboy</string>
+			<key>Composer</key><string>NORIMETAL, Kevin Ratajczak, Nico Sallach, Pascal Schillo &#38; Daniel Haniß</string>
+			<key>Album</key><string>RATATATA - Single</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7030414</integer>
+			<key>Total Time</key><integer>216555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3842290601</integer>
+			<key>Play Date UTC</key><date>2025-10-03T03:56:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4993</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B8B24DB69DC87EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL%20&#38;%20Electric%20Callboy/RATATATA%20-%20Single/01%20RATATATA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6209</key>
+		<dict>
+			<key>Track ID</key><integer>6209</integer>
+			<key>Name</key><string>Leave It All Behind</string>
+			<key>Artist</key><string>F.HERO, Bodyslam &#38; BABYMETAL</string>
+			<key>Album Artist</key><string>F.HERO, Bodyslam &#38; BABYMETAL</string>
+			<key>Composer</key><string>Thitiwat Rongthong, Nattawut Srimhok &#38; SIAMMETAL</string>
+			<key>Album</key><string>Leave It All Behind - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10030599</integer>
+			<key>Total Time</key><integer>247614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:05Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844410221</integer>
+			<key>Play Date UTC</key><date>2025-10-27T17:43:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12312</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>295A3AE5ADDE2012</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/F.HERO,%20Bodyslam%20&#38;%20BABYMETAL/Leave%20It%20All%20Behind%20-%20Single/01%20Leave%20It%20All%20Behind.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14615</key>
+		<dict>
+			<key>Track ID</key><integer>14615</integer>
+			<key>Name</key><string>Kingslayer</string>
+			<key>Artist</key><string>Bring Me The Horizon feat. BABYMETAL</string>
+			<key>Album Artist</key><string>Bring Me The Horizon</string>
+			<key>Composer</key><string>Oliver Sykes, Jordan Fish &#38; MK-METAL</string>
+			<key>Album</key><string>POST HUMAN- SURVIVAL HORROR</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9089792</integer>
+			<key>Total Time</key><integer>220102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:52Z</date>
+			<key>Date Added</key><date>2025-01-18T05:24:38Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844410965</integer>
+			<key>Play Date UTC</key><date>2025-10-27T17:56:05Z</date>
+			<key>Release Date</key><date>2020-10-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12115</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C7FE1F664AF6367</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Bring%20Me%20The%20Horizon/POST%20HUMAN-%20SURVIVAL%20HORROR/06%20Kingslayer.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14629</key>
+		<dict>
+			<key>Track ID</key><integer>14629</integer>
+			<key>Name</key><string>Bekhauf</string>
+			<key>Artist</key><string>Bloodywood feat. BABYMETAL</string>
+			<key>Album Artist</key><string>Bloodywood feat. BABYMETAL</string>
+			<key>Album</key><string>Bekhauf - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9295705</integer>
+			<key>Total Time</key><integer>228415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:52Z</date>
+			<key>Date Added</key><date>2025-01-18T05:33:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3821793100</integer>
+			<key>Play Date UTC</key><date>2025-02-07T23:11:40Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10353</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25829F39FD2D2589</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Bloodywood%20feat.%20BABYMETAL/Bekhauf%20-%20Single/01%20Bekhauf.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14631</key>
+		<dict>
+			<key>Track ID</key><integer>14631</integer>
+			<key>Name</key><string>BxMxC</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MEGMETAL, METAL CYPHER</string>
+			<key>Album</key><string>BxMxC - Single</string>
+			<key>Genre</key><string>J-Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7587887</integer>
+			<key>Total Time</key><integer>183089</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:12Z</date>
+			<key>Date Added</key><date>2025-01-18T05:33:16Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835794196</integer>
+			<key>Play Date UTC</key><date>2025-07-19T23:23:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-28T04:50:38Z</date>
+			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8659</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6145E2D3CE5A4CFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/BxMxC%20-%20Single/01%20BxMxC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24677</key>
+		<dict>
+			<key>Track ID</key><integer>24677</integer>
+			<key>Name</key><string>from me to u</string>
+			<key>Artist</key><string>BABYMETAL &#38; Poppy</string>
+			<key>Album Artist</key><string>BABYMETAL &#38; Poppy</string>
+			<key>Composer</key><string>MK-METAL, Jordan Fish &#38; Moriah Rose Pereira</string>
+			<key>Album</key><string>from me to u - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8455797</integer>
+			<key>Total Time</key><integer>204591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2025-04-05T02:16:55Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3834501933</integer>
+			<key>Play Date UTC</key><date>2025-07-05T00:25:33Z</date>
+			<key>Release Date</key><date>2025-04-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10908</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>079F9AFC18EF0FB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL%20&#38;%20Poppy/from%20me%20to%20u%20-%20Single/01%20from%20me%20to%20u.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27827</key>
+		<dict>
+			<key>Track ID</key><integer>27827</integer>
+			<key>Name</key><string>Kon! Kon!</string>
+			<key>Artist</key><string>BABYMETAL &#38; Bloodywood</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MK-METAL, RYU-METAL, Karan Katiyar, Jayant Bhadula &#38; Raoul Kerr</string>
+			<key>Album</key><string>METAL FORTH</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7724997</integer>
+			<key>Total Time</key><integer>235258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>107</integer>
+			<key>Date Modified</key><date>2025-10-17T06:57:09Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846156001</integer>
+			<key>Play Date UTC</key><date>2025-11-16T22:40:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15E61CF1D65A6518</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20FORTH/04%20Kon!%20Kon!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28115</key>
+		<dict>
+			<key>Track ID</key><integer>28115</integer>
+			<key>Name</key><string>Algorism</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>ALGO-METAL &#38; NORIMETAL</string>
+			<key>Album</key><string>METAL FORTH</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7148477</integer>
+			<key>Total Time</key><integer>217129</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-11-09T20:21:17Z</date>
+			<key>Date Added</key><date>2025-08-12T22:13:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846490238</integer>
+			<key>Play Date UTC</key><date>2025-11-20T19:30:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13451</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACABA48236864DFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20FORTH/08%20Algorism.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28125</key>
+		<dict>
+			<key>Track ID</key><integer>28125</integer>
+			<key>Name</key><string>Sunset Kiss</string>
+			<key>Artist</key><string>BABYMETAL &#38; Polyphia</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Composer</key><string>MK-METAL &#38; MEGMETAL</string>
+			<key>Album</key><string>METAL FORTH</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7017820</integer>
+			<key>Total Time</key><integer>213185</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-11-09T20:21:17Z</date>
+			<key>Date Added</key><date>2025-08-12T22:13:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846490446</integer>
+			<key>Play Date UTC</key><date>2025-11-20T19:34:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9188</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7384B15E930D09BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/BABYMETAL/METAL%20FORTH/06%20Sunset%20Kiss.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Babymetal</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>97234</integer>
+			<key>Playlist Persistent ID</key><string>85C3B8CAADD58DAE</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeJTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQgBBAEIAWQBNAEUAVABBAEwAAAAZAAABAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
+			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
+			ACAAbABpAHYAZQAAADcDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbw==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4983</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28115</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28125</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:52:07Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7563</key>
+		<dict>
+			<key>Track ID</key><integer>7563</integer>
+			<key>Name</key><string>juice box</string>
+			<key>Artist</key><string>MAISONdes feat. aruma &#38; 案山子</string>
+			<key>Album Artist</key><string>MAISONdes feat. aruma &#38; 案山子</string>
+			<key>Album</key><string>juice box - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7730342</integer>
+			<key>Total Time</key><integer>238158</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>111</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846786442</integer>
+			<key>Play Date UTC</key><date>2025-11-24T05:47:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9342</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F749EE3649DC5F67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20aruma%20&#38;%20%E6%A1%88%E5%B1%B1%E5%AD%90/juice%20box%20-%20Single/01%20juice%20box.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7567</key>
+		<dict>
+			<key>Track ID</key><integer>7567</integer>
+			<key>Name</key><string>いえない</string>
+			<key>Artist</key><string>MAISONdes feat. 堂村璃羽, 301 &#38; GeG</string>
+			<key>Album Artist</key><string>MAISONdes feat. 堂村璃羽, 301 &#38; GeG</string>
+			<key>Album</key><string>いえない - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7018520</integer>
+			<key>Total Time</key><integer>216346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3841340856</integer>
+			<key>Play Date UTC</key><date>2025-09-22T04:07:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3806</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>496B7168F9439C73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E5%A0%82%E6%9D%91%E7%92%83%E7%BE%BD,%20301%20&#38;%20GeG/%E3%81%84%E3%81%88%E3%81%AA%E3%81%84%20-%20Single/01%20%E3%81%84%E3%81%88%E3%81%AA%E3%81%84.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7587</key>
+		<dict>
+			<key>Track ID</key><integer>7587</integer>
+			<key>Name</key><string>アイウエ</string>
+			<key>Artist</key><string>MAISONdes feat. 美波 &#38; SAKURAmoti</string>
+			<key>Album Artist</key><string>MAISONdes feat. 美波 &#38; SAKURAmoti</string>
+			<key>Album</key><string>アイウエ - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7244934</integer>
+			<key>Total Time</key><integer>222484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3834418522</integer>
+			<key>Play Date UTC</key><date>2025-07-04T01:15:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>20317</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A10C1F983E721D9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E7%BE%8E%E6%B3%A2%20&#38;%20SAKURAmoti/%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A8%20-%20Single/01%20%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A8.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7589</key>
+		<dict>
+			<key>Track ID</key><integer>7589</integer>
+			<key>Name</key><string>アイタリナイ</string>
+			<key>Artist</key><string>MAISONdes feat. yama &#38; ニト。</string>
+			<key>Album Artist</key><string>MAISONdes feat. yama &#38; ニト。</string>
+			<key>Album</key><string>アイタリナイ - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5311458</integer>
+			<key>Total Time</key><integer>162481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3846910071</integer>
+			<key>Play Date UTC</key><date>2025-11-25T16:07:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C76A9B37B4538D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20yama%20&#38;%20%E3%83%8B%E3%83%88%E3%80%82/%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4%20-%20Single/01%20%E3%82%A2%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%8A%E3%82%A4.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7591</key>
+		<dict>
+			<key>Track ID</key><integer>7591</integer>
+			<key>Name</key><string>アイワナムチュー</string>
+			<key>Artist</key><string>MAISONdes feat. asmi &#38; すりぃ</string>
+			<key>Album Artist</key><string>MAISONdes feat. asmi &#38; すりぃ</string>
+			<key>Album</key><string>アイワナムチュー - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6707855</integer>
+			<key>Total Time</key><integer>205871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>79</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3839864542</integer>
+			<key>Play Date UTC</key><date>2025-09-05T02:02:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10312</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>140A4885861A22AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20asmi%20&#38;%20%E3%81%99%E3%82%8A%E3%81%83/%E3%82%A2%E3%82%A4%E3%83%AF%E3%83%8A%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC%20-%20Single/01%20%E3%82%A2%E3%82%A4%E3%83%AF%E3%83%8A%E3%83%A0%E3%83%81%E3%83%A5%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7597</key>
+		<dict>
+			<key>Track ID</key><integer>7597</integer>
+			<key>Name</key><string>ダンス・ダンス・ダダ</string>
+			<key>Artist</key><string>MAISONdes feat. EMA &#38; たなか</string>
+			<key>Album Artist</key><string>MAISONdes feat. EMA &#38; たなか</string>
+			<key>Album</key><string>ダンス・ダンス・ダダ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7465133</integer>
+			<key>Total Time</key><integer>229746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841994032</integer>
+			<key>Play Date UTC</key><date>2025-09-29T17:33:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AEAE07486A20CAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20EMA%20&#38;%20%E3%81%9F%E3%81%AA%E3%81%8B/%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%80%20-%20Single/01%20%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%80%E3%83%80.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7603</key>
+		<dict>
+			<key>Track ID</key><integer>7603</integer>
+			<key>Name</key><string>トウキョウ・シャンディ・ランデヴ</string>
+			<key>Artist</key><string>MAISONdes feat. 花譜 &#38; ツミキ</string>
+			<key>Album Artist</key><string>MAISONdes feat. 花譜 &#38; ツミキ</string>
+			<key>Album</key><string>トウキョウ・シャンディ・ランデヴ - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6023598</integer>
+			<key>Total Time</key><integer>184894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842431988</integer>
+			<key>Play Date UTC</key><date>2025-10-04T19:13:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11269</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61B0FCA9F3BBA5F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E8%8A%B1%E8%AD%9C%20&#38;%20%E3%83%84%E3%83%9F%E3%82%AD/%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%20-%20Single/01%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7617</key>
+		<dict>
+			<key>Track ID</key><integer>7617</integer>
+			<key>Name</key><string>バイマイダーリン</string>
+			<key>Artist</key><string>MAISONdes feat. みきまりあ &#38; ニト。</string>
+			<key>Album Artist</key><string>MAISONdes feat. みきまりあ &#38; ニト。</string>
+			<key>Album</key><string>バイマイダーリン - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5221427</integer>
+			<key>Total Time</key><integer>160261</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3841241183</integer>
+			<key>Play Date UTC</key><date>2025-09-21T00:26:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11126</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>524B92DFEA2973DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E3%81%BF%E3%81%8D%E3%81%BE%E3%82%8A%E3%81%82%20&#38;%20%E3%83%8B%E3%83%88%E3%80%82/%E3%83%90%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3%20-%20Single/01%20%E3%83%90%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%80%E3%83%BC%E3%83%AA%E3%83%B3.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7621</key>
+		<dict>
+			<key>Track ID</key><integer>7621</integer>
+			<key>Name</key><string>ヨワネハキ</string>
+			<key>Artist</key><string>MAISONdes feat. 和ぬか &#38; asmi</string>
+			<key>Album Artist</key><string>MAISONdes feat. 和ぬか &#38; asmi</string>
+			<key>Album</key><string>ヨワネハキ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5456115</integer>
+			<key>Total Time</key><integer>167079</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3847187317</integer>
+			<key>Play Date UTC</key><date>2025-11-28T21:08:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D7187FDC9259DF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E5%92%8C%E3%81%AC%E3%81%8B%20&#38;%20asmi/%E3%83%A8%E3%83%AF%E3%83%8D%E3%83%8F%E3%82%AD%20-%20Single/01%20%E3%83%A8%E3%83%AF%E3%83%8D%E3%83%8F%E3%82%AD.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7627</key>
+		<dict>
+			<key>Track ID</key><integer>7627</integer>
+			<key>Name</key><string>ラリー、ラリー</string>
+			<key>Artist</key><string>MAISONdes feat. Pii &#38; meiyo</string>
+			<key>Album Artist</key><string>MAISONdes feat. Pii &#38; meiyo</string>
+			<key>Album</key><string>ラリー、ラリー - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5069424</integer>
+			<key>Total Time</key><integer>156421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846909287</integer>
+			<key>Play Date UTC</key><date>2025-11-25T15:54:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4279</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B1A44610A48E8395</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20Pii%20&#38;%20meiyo/%E3%83%A9%E3%83%AA%E3%83%BC%E3%80%81%E3%83%A9%E3%83%AA%E3%83%BC%20-%20Single/01%20%E3%83%A9%E3%83%AA%E3%83%BC%E3%80%81%E3%83%A9%E3%83%AA%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32867</key>
+		<dict>
+			<key>Track ID</key><integer>32867</integer>
+			<key>Name</key><string>化けの皮</string>
+			<key>Artist</key><string>MAISONdes feat. こぼ・かなえる, 重音テト, Giga &#38; TeddyLoid</string>
+			<key>Album Artist</key><string>MAISONdes feat. こぼ・かなえる, 重音テト, Giga &#38; TeddyLoid</string>
+			<key>Album</key><string>化けの皮 - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7578344</integer>
+			<key>Total Time</key><integer>179885</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2025-10-23T18:49:05Z</date>
+			<key>Date Added</key><date>2025-10-23T05:54:24Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844094381</integer>
+			<key>Play Date UTC</key><date>2025-10-24T00:59:41Z</date>
+			<key>Release Date</key><date>2025-10-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>20579</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>434AD8956411C237</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/MAISONdes%20feat.%20%E3%81%93%E3%81%BC%E3%83%BB%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B,%20%E9%87%8D%E9%9F%B3%E3%83%86%E3%83%88,%20Giga%20&#38;%20Te/%E5%8C%96%E3%81%91%E3%81%AE%E7%9A%AE%20-%20Single/01%20%E5%8C%96%E3%81%91%E3%81%AE%E7%9A%AE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Maisondes</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>97760</integer>
+			<key>Playlist Persistent ID</key><string>A452FF992BBA1D2A</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAohTTHN0AAEAAQAAAAYAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIATQBBAEkAUwBPAE4AZABlAHMAAAAZAAABAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
+			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
+			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAAIDAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAg
+			AEYAaQByAHMAdAAgAFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHg=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7627</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7617</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32867</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

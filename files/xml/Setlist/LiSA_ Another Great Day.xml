@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:59:27Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13759</key>
+		<dict>
+			<key>Track ID</key><integer>13759</integer>
+			<key>Name</key><string>GL</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>Avu Barazono</string>
+			<key>Album</key><string>LADYBUG</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7488138</integer>
+			<key>Total Time</key><integer>180999</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:19Z</date>
+			<key>Date Added</key><date>2025-01-17T18:19:47Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845733271</integer>
+			<key>Play Date UTC</key><date>2025-11-12T01:14:31Z</date>
+			<key>Release Date</key><date>2021-05-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3098</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADF648411B2F689C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/LADYBUG/04%20GL.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15065</key>
+		<dict>
+			<key>Track ID</key><integer>15065</integer>
+			<key>Name</key><string>REALiZE</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Album</key><string>REALiZE - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7908570</integer>
+			<key>Total Time</key><integer>190543</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:16Z</date>
+			<key>Date Added</key><date>2025-01-20T22:19:52Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3833924937</integer>
+			<key>Play Date UTC</key><date>2025-06-28T08:08:57Z</date>
+			<key>Release Date</key><date>2023-06-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3B067EDB2034593</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/REALiZE%20-%20Single/01%20REALiZE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21015</key>
+		<dict>
+			<key>Track ID</key><integer>21015</integer>
+			<key>Name</key><string>Crossing Field</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>Watanabe Shou</string>
+			<key>Album</key><string>crossing field</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10052945</integer>
+			<key>Total Time</key><integer>249391</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>179</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:20Z</date>
+			<key>Date Added</key><date>2025-02-23T20:25:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3840194196</integer>
+			<key>Play Date UTC</key><date>2025-09-08T21:36:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11372</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>132F562CA7FB1C4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/crossing%20field/01%20Crossing%20Field.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21079</key>
+		<dict>
+			<key>Track ID</key><integer>21079</integer>
+			<key>Name</key><string>Rising Hope</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>Tomoya Tabuchi</string>
+			<key>Album</key><string>Rising Hope</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10121061</integer>
+			<key>Total Time</key><integer>251088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:16Z</date>
+			<key>Date Added</key><date>2025-02-23T20:26:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3846063768</integer>
+			<key>Play Date UTC</key><date>2025-11-15T21:02:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11370</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>293F368093FAA56D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/Rising%20Hope/01%20Rising%20Hope.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21119</key>
+		<dict>
+			<key>Track ID</key><integer>21119</integer>
+			<key>Name</key><string>だってアタシのヒーロー。</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>渡辺翔</string>
+			<key>Album</key><string>だってアタシのヒーロー。</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9419354</integer>
+			<key>Total Time</key><integer>234161</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-09-23T04:11:52Z</date>
+			<key>Date Added</key><date>2025-02-23T20:26:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833906552</integer>
+			<key>Play Date UTC</key><date>2025-06-28T03:02:32Z</date>
+			<key>Normalization</key><integer>19682</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5001D8F227EADF85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/%E3%81%A0%E3%81%A3%E3%81%A6%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%80%82/01%20%E3%81%A0%E3%81%A3%E3%81%A6%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%80%82.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24173</key>
+		<dict>
+			<key>Track ID</key><integer>24173</integer>
+			<key>Name</key><string>ReawakeR</string>
+			<key>Artist</key><string>LiSA feat. Felix of Stray Kids</string>
+			<key>Album Artist</key><string>LISA</string>
+			<key>Album</key><string>ReawakeR - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7653069</integer>
+			<key>Total Time</key><integer>187664</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:14Z</date>
+			<key>Date Added</key><date>2025-03-07T05:24:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843560724</integer>
+			<key>Play Date UTC</key><date>2025-10-17T20:45:24Z</date>
+			<key>Release Date</key><date>2025-01-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4847</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7124080839A33702</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LISA/ReawakeR%20-%20Single/01%20ReawakeR.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24181</key>
+		<dict>
+			<key>Track ID</key><integer>24181</integer>
+			<key>Name</key><string>RED ZONE</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LISA</string>
+			<key>Album</key><string>ReawakeR - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7305691</integer>
+			<key>Total Time</key><integer>177493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:16Z</date>
+			<key>Date Added</key><date>2025-03-07T05:24:44Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847200695</integer>
+			<key>Play Date UTC</key><date>2025-11-29T00:51:35Z</date>
+			<key>Release Date</key><date>2025-03-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7251</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34CDA926AEFE7720</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/ReawakeR%20-%20Single/02%20RED%20ZONE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27333</key>
+		<dict>
+			<key>Track ID</key><integer>27333</integer>
+			<key>Name</key><string>WiLD CANDY</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>礒崎健史</string>
+			<key>Album</key><string>LOVER'S'MiLE</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7643314</integer>
+			<key>Total Time</key><integer>235520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-09-23T05:26:04Z</date>
+			<key>Date Added</key><date>2025-06-26T15:58:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833882174</integer>
+			<key>Play Date UTC</key><date>2025-06-27T20:16:14Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EA8D647A052CE61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/LOVER'S'MiLE/05%20WiLD%20CANDY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27527</key>
+		<dict>
+			<key>Track ID</key><integer>27527</integer>
+			<key>Name</key><string>MAKE A MiRACLE</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Album</key><string>ブラックボックス - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7771242</integer>
+			<key>Total Time</key><integer>240326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>175</integer>
+			<key>Date Modified</key><date>2025-07-12T08:56:29Z</date>
+			<key>Date Added</key><date>2025-06-26T15:58:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833926435</integer>
+			<key>Play Date UTC</key><date>2025-06-28T08:33:55Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3DFED2DEE1F5F41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%20-%20Single/02%20MAKE%20A%20MiRACLE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27557</key>
+		<dict>
+			<key>Track ID</key><integer>27557</integer>
+			<key>Name</key><string>明け星</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>梶浦由記</string>
+			<key>Album</key><string>明け星 - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8682190</integer>
+			<key>Total Time</key><integer>269113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:15Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3833956321</integer>
+			<key>Play Date UTC</key><date>2025-06-28T16:52:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10087</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0B3928D85EDDEC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/%E6%98%8E%E3%81%91%E6%98%9F%20-%20Single/01%20%E6%98%8E%E3%81%91%E6%98%9F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27613</key>
+		<dict>
+			<key>Track ID</key><integer>27613</integer>
+			<key>Name</key><string>QUEEN</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Album</key><string>QUEEN - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6115983</integer>
+			<key>Total Time</key><integer>188029</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:16Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3839942819</integer>
+			<key>Play Date UTC</key><date>2025-09-05T23:46:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9749</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7BE45FF8CC68B19E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/QUEEN%20-%20Single/01%20QUEEN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27621</key>
+		<dict>
+			<key>Track ID</key><integer>27621</integer>
+			<key>Name</key><string>oath sign</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>渡辺翔</string>
+			<key>Album</key><string>oath sign - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8053277</integer>
+			<key>Total Time</key><integer>249417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:17Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3834414887</integer>
+			<key>Play Date UTC</key><date>2025-07-04T00:14:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16106</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8964F04F0208D36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/oath%20sign%20-%20EP/01%20oath%20sign.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27633</key>
+		<dict>
+			<key>Track ID</key><integer>27633</integer>
+			<key>Name</key><string>homura</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>Yuki Kajiura</string>
+			<key>Album</key><string>homura - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8862159</integer>
+			<key>Total Time</key><integer>274546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:19Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843633286</integer>
+			<key>Play Date UTC</key><date>2025-10-18T16:54:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7522</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CBAA9647ECF5CD06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/homura%20-%20EP/01%20homura.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27653</key>
+		<dict>
+			<key>Track ID</key><integer>27653</integer>
+			<key>Name</key><string>Catch the Moment</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>田淵智也</string>
+			<key>Album</key><string>Catch the Moment - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9122131</integer>
+			<key>Total Time</key><integer>282932</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:21Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3834331547</integer>
+			<key>Play Date UTC</key><date>2025-07-03T01:05:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17436</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A5034DCF3CF1B5EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/Catch%20the%20Moment%20-%20Single/01%20Catch%20the%20Moment.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27659</key>
+		<dict>
+			<key>Track ID</key><integer>27659</integer>
+			<key>Name</key><string>best day, best way</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>田淵智也</string>
+			<key>Album</key><string>best day,best way - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9199840</integer>
+			<key>Total Time</key><integer>284551</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-09-23T05:04:52Z</date>
+			<key>Date Added</key><date>2025-06-26T15:59:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833889455</integer>
+			<key>Play Date UTC</key><date>2025-06-27T22:17:35Z</date>
+			<key>Normalization</key><integer>17004</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>198834FC52E80424</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/best%20day,best%20way%20-%20EP/01%20best%20day,%20best%20way.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27671</key>
+		<dict>
+			<key>Track ID</key><integer>27671</integer>
+			<key>Name</key><string>ADAMAS</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>KAYOKO</string>
+			<key>Album</key><string>赤い罠(who loves it ) - ADAMAS - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7278507</integer>
+			<key>Total Time</key><integer>225123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:14Z</date>
+			<key>Date Added</key><date>2025-06-27T19:52:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844417789</integer>
+			<key>Play Date UTC</key><date>2025-10-27T19:49:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16142</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6766ABD1313FB0CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/%E8%B5%A4%E3%81%84%E7%BD%A0(who%20loves%20it%20)%20-%20ADAMAS%20-%20EP/02%20ADAMAS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27685</key>
+		<dict>
+			<key>Track ID</key><integer>27685</integer>
+			<key>Name</key><string>紅蓮華</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>草野華余子</string>
+			<key>Album</key><string>紅蓮華 - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7712311</integer>
+			<key>Total Time</key><integer>238706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:14Z</date>
+			<key>Date Added</key><date>2025-06-27T20:09:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3837852799</integer>
+			<key>Play Date UTC</key><date>2025-08-12T19:13:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13157</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C667F3828478355</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/%E7%B4%85%E8%93%AE%E8%8F%AF%20-%20EP/01%20%E7%B4%85%E8%93%AE%E8%8F%AF.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27697</key>
+		<dict>
+			<key>Track ID</key><integer>27697</integer>
+			<key>Name</key><string>unlasting</string>
+			<key>Artist</key><string>LiSA</string>
+			<key>Album Artist</key><string>LiSA</string>
+			<key>Composer</key><string>Kayoko Kusano</string>
+			<key>Album</key><string>unlasting - EP</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9582421</integer>
+			<key>Total Time</key><integer>297926</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:16Z</date>
+			<key>Date Added</key><date>2025-06-27T20:44:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845206809</integer>
+			<key>Play Date UTC</key><date>2025-11-05T23:00:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5729</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>967CBA0C1BDC3BB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/LiSA/unlasting%20-%20EP/01%20unlasting.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>LiSA: Another Great Day</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>98898</integer>
+			<key>Playlist Persistent ID</key><string>DD742317020CE78C</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>27621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27659</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

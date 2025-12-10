@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-09T00:02:01Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8411</key>
+		<dict>
+			<key>Track ID</key><integer>8411</integer>
+			<key>Name</key><string>We are</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TORU, Colin Brittain, Taka, Nick Long, TORU, Nick Long, Colin Brittain &#38; Taka</string>
+			<key>Album</key><string>Ambitions</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>58002235</integer>
+			<key>Total Time</key><integer>255484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>148</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:55Z</date>
+			<key>Date Added</key><date>2024-09-26T20:55:25Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845721968</integer>
+			<key>Play Date UTC</key><date>2025-11-11T22:06:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10083</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09BC54F31A8E4EF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Ambitions/04%20We%20are.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8499</key>
+		<dict>
+			<key>Track ID</key><integer>8499</integer>
+			<key>Name</key><string>Stand Out Fit In</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Derek Fuhrmann, Jamil Kazmi, Liam O'Donnell &#38; Taka</string>
+			<key>Album</key><string>Eye of the Storm</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>30120699</integer>
+			<key>Total Time</key><integer>214546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:56:12Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835889229</integer>
+			<key>Play Date UTC</key><date>2025-07-21T01:47:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6884</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87789B50413D659F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Eye%20of%20the%20Storm/02%20Stand%20Out%20Fit%20In.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8579</key>
+		<dict>
+			<key>Track ID</key><integer>8579</integer>
+			<key>Name</key><string>Save Yourself</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Andrew DeCaro, Charles Roberts Nelsen, Derek Tyler Carter, Kyle Buckley, Luis SHNDO Martinez, Rob Cavallo, Sasha Sirota, Taka &#38; Toru</string>
+			<key>Album</key><string>Luxury Disease</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>46124315</integer>
+			<key>Total Time</key><integer>197995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:51Z</date>
+			<key>Date Added</key><date>2024-09-26T20:56:48Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3847098152</integer>
+			<key>Play Date UTC</key><date>2025-11-27T20:22:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10694</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8B80F300BD4CA31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Luxury%20Disease/01%20Save%20Yourself.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8587</key>
+		<dict>
+			<key>Track ID</key><integer>8587</integer>
+			<key>Name</key><string>Let Me Let You Go</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Ashton Irwin, Colin Brittian, Elisha Noll, Madison Simmen &#38; Taka</string>
+			<key>Album</key><string>Luxury Disease</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>41954477</integer>
+			<key>Total Time</key><integer>180211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:50Z</date>
+			<key>Date Added</key><date>2024-09-26T20:56:53Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843122094</integer>
+			<key>Play Date UTC</key><date>2025-10-12T18:54:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8898</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DAA70A95728720EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Luxury%20Disease/05%20Let%20Me%20Let%20You%20Go.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8597</key>
+		<dict>
+			<key>Track ID</key><integer>8597</integer>
+			<key>Name</key><string>Renegades</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>David Pramik, Ed Sheeran, Janee 'Jin Jin' Bennett, Masato Hayakawa &#38; Taka</string>
+			<key>Album</key><string>Luxury Disease</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>55499526</integer>
+			<key>Total Time</key><integer>244538</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>154</integer>
+			<key>Date Modified</key><date>2025-10-04T10:44:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:57:03Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846496371</integer>
+			<key>Play Date UTC</key><date>2025-11-20T21:12:51Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6870</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC5AFB5F5E885CD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Luxury%20Disease/10%20Renegades.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8635</key>
+		<dict>
+			<key>Track ID</key><integer>8635</integer>
+			<key>Name</key><string>Make It Out Alive</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Kane Churko</string>
+			<key>Album</key><string>Make It Out Alive</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>50671172</integer>
+			<key>Total Time</key><integer>209799</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:49Z</date>
+			<key>Date Added</key><date>2024-09-26T20:57:23Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846785749</integer>
+			<key>Play Date UTC</key><date>2025-11-24T05:35:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-28T00:04:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13208</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2425D4C501B9A05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Make%20It%20Out%20Alive/01%20Make%20It%20Out%20Alive.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8663</key>
+		<dict>
+			<key>Track ID</key><integer>8663</integer>
+			<key>Name</key><string>Wherever You Are</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TAKA</string>
+			<key>Album</key><string>Niche Syndrome</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>37579695</integer>
+			<key>Total Time</key><integer>295600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2025-09-23T03:49:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:57:36Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3829947137</integer>
+			<key>Play Date UTC</key><date>2025-05-13T07:12:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-01-16T01:25:06Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Wherever You Are</string>
+			<key>Persistent ID</key><string>BE98C380FFCCDB3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Niche%20Syndrome/09%20Wherever%20You%20Are.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8739</key>
+		<dict>
+			<key>Track ID</key><integer>8739</integer>
+			<key>Name</key><string>The Beginning</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TAKA</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>42711937</integer>
+			<key>Total Time</key><integer>292733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>182</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:48Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:07Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3840281644</integer>
+			<key>Play Date UTC</key><date>2025-09-09T21:54:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Beginning</string>
+			<key>Persistent ID</key><string>B7DD5A8158C1C6C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/04%20The%20Beginning.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19249</key>
+		<dict>
+			<key>Track ID</key><integer>19249</integer>
+			<key>Name</key><string>The Pilot &#60;/3</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Derek Tyler Carter, Jin Jin, Pete Nappi &#38; Taka.</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>8275200</integer>
+			<key>Total Time</key><integer>231940</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T19:00:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842280899</integer>
+			<key>Play Date UTC</key><date>2025-10-03T01:14:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9316</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Pilot &#60;/3</string>
+			<key>Persistent ID</key><string>1914552567CFB1EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/11%20The%20Pilot%20__3.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19251</key>
+		<dict>
+			<key>Track ID</key><integer>19251</integer>
+			<key>Name</key><string>Tiny Pieces</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Dan Lancaster, Derek Tyler Carter, Sasha Sirota &#38; Taka.</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>7676935</integer>
+			<key>Total Time</key><integer>214091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T19:00:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847116910</integer>
+			<key>Play Date UTC</key><date>2025-11-28T01:35:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Tiny Pieces</string>
+			<key>Persistent ID</key><string>C60E5A94BF2FB9CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/07%20Tiny%20Pieces.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19257</key>
+		<dict>
+			<key>Track ID</key><integer>19257</integer>
+			<key>Name</key><string>C.U.R.I.O.S.I.T.Y.</string>
+			<key>Artist</key><string>ONE OK ROCK feat. CHICO CARLITO and Paledusk</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>CHICO CARLITO, Dai Dai, David Pramik, Derek Tyler Carter, Dru Decarro, Jamil Kazmi, Kaito, Ryota, Soma Genda, Taka., Tenma Tai, Tomoya &#38; Toru</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>7023533</integer>
+			<key>Total Time</key><integer>188626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>86</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:44Z</date>
+			<key>Date Added</key><date>2025-02-20T19:00:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3840606766</integer>
+			<key>Play Date UTC</key><date>2025-09-13T16:12:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13102</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3304C270DEF258A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/10%20C.U.R.I.O.S.I.T.Y..m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19259</key>
+		<dict>
+			<key>Track ID</key><integer>19259</integer>
+			<key>Name</key><string>+Matter</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Dai Dai, Derek Tyler Carter, Jason Aalon, Pete Nappi &#38; Taka.</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>8640171</integer>
+			<key>Total Time</key><integer>232964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T18:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847200114</integer>
+			<key>Play Date UTC</key><date>2025-11-29T00:41:54Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10568</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>+Matter</string>
+			<key>Persistent ID</key><string>F02A298EA5A11EBF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/09%20+Matter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19263</key>
+		<dict>
+			<key>Track ID</key><integer>19263</integer>
+			<key>Name</key><string>NASTY</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Derek Tyler Carter, Robert Phipps, Taka. &#38; Will IDAP</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>7505004</integer>
+			<key>Total Time</key><integer>203922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T19:00:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3845282437</integer>
+			<key>Play Date UTC</key><date>2025-11-06T20:00:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9113</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>NASTY</string>
+			<key>Persistent ID</key><string>F65DA209B3E7D5EE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/01%20NASTY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19265</key>
+		<dict>
+			<key>Track ID</key><integer>19265</integer>
+			<key>Name</key><string>Delusion:All</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Dan Lancaster, Derek Tyler Carter, Jason Aalon &#38; Taka.</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>7221331</integer>
+			<key>Total Time</key><integer>184909</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T18:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3833721844</integer>
+			<key>Play Date UTC</key><date>2025-06-25T23:44:04Z</date>
+			<key>Release Date</key><date>2024-07-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11033</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Delusion:All</string>
+			<key>Persistent ID</key><string>0586CF2A187DF5B2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/04%20Delusion_All.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19267</key>
+		<dict>
+			<key>Track ID</key><integer>19267</integer>
+			<key>Name</key><string>Tropical Therapy</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Derek Tyler Carter, Jin Jin, Pete Nappi &#38; Taka.</string>
+			<key>Album</key><string>DETOX - International Version</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>7509272</integer>
+			<key>Total Time</key><integer>208666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:53Z</date>
+			<key>Date Added</key><date>2025-02-20T19:00:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3839942338</integer>
+			<key>Play Date UTC</key><date>2025-09-05T23:38:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-20T23:09:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8990</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Tropical Therapy</string>
+			<key>Persistent ID</key><string>5A4D4C2F234881A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX%20-%20International%20Version/03%20Tropical%20Therapy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19275</key>
+		<dict>
+			<key>Track ID</key><integer>19275</integer>
+			<key>Name</key><string>Dystopia</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Derek Tyler Carter, Elijah Noll, Jin Jin, Pete Nappi &#38; Taka.</string>
+			<key>Album</key><string>DETOX</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>1981522</integer>
+			<key>Total Time</key><integer>189903</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:54Z</date>
+			<key>Date Added</key><date>2025-02-21T00:15:09Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3824220915</integer>
+			<key>Play Date UTC</key><date>2025-03-08T01:35:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-22T22:50:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10764</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EAE4CC2FC922D20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX/02%20Dystopia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19283</key>
+		<dict>
+			<key>Track ID</key><integer>19283</integer>
+			<key>Name</key><string>Puppets Can't Control You</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Dai Dai, Derek Tyler Carter, Dru Decarro, GIANNI TAYLOR &#38; Taka.</string>
+			<key>Album</key><string>DETOX</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>2019340</integer>
+			<key>Total Time</key><integer>194500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:54Z</date>
+			<key>Date Added</key><date>2025-02-21T00:15:09Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3843681372</integer>
+			<key>Play Date UTC</key><date>2025-10-19T06:16:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10747</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BC40589A9C2F5D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/DETOX/06%20Puppets%20Can't%20Control%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>One Ok Rock: DETOX Tour</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>98934</integer>
+			<key>Playlist Persistent ID</key><string>4570ABAEDCA1927D</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19283</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19263</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19257</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19259</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8411</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

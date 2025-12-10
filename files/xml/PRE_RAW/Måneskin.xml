@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:52:15Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7649</key>
+		<dict>
+			<key>Track ID</key><integer>7649</integer>
+			<key>Name</key><string>VALENTINE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7007136</integer>
+			<key>Total Time</key><integer>217129</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845734644</integer>
+			<key>Play Date UTC</key><date>2025-11-12T01:37:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7778</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FF4269D9C03D8C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/02%20VALENTINE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7651</key>
+		<dict>
+			<key>Track ID</key><integer>7651</integer>
+			<key>Name</key><string>OFF MY FACE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4857156</integer>
+			<key>Total Time</key><integer>149942</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3838651613</integer>
+			<key>Play Date UTC</key><date>2025-08-22T01:06:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7697</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>616EC9750A1E9140</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/03%20OFF%20MY%20FACE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7653</key>
+		<dict>
+			<key>Track ID</key><integer>7653</integer>
+			<key>Name</key><string>THE DRIVER</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6083447</integer>
+			<key>Total Time</key><integer>188264</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>139</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842124990</integer>
+			<key>Play Date UTC</key><date>2025-10-01T05:56:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6720</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>DRIVER</string>
+			<key>Persistent ID</key><string>3EECF06CE9E88A20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/04%20THE%20DRIVER.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7655</key>
+		<dict>
+			<key>Track ID</key><integer>7655</integer>
+			<key>Name</key><string>TRASTEVERE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5897038</integer>
+			<key>Total Time</key><integer>182439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3841864121</integer>
+			<key>Play Date UTC</key><date>2025-09-28T05:28:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9499</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A11265DF267322D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/05%20TRASTEVERE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7657</key>
+		<dict>
+			<key>Track ID</key><integer>7657</integer>
+			<key>Name</key><string>OWN MY MIND</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6202149</integer>
+			<key>Total Time</key><integer>191973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>114</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843561638</integer>
+			<key>Play Date UTC</key><date>2025-10-17T21:00:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3F79FFA181BC1E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/06%20OWN%20MY%20MIND.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7659</key>
+		<dict>
+			<key>Track ID</key><integer>7659</integer>
+			<key>Name</key><string>GOSSIP</string>
+			<key>Artist</key><string>Måneskin feat. Tom Morello</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Joe Janiak, Madison Love, Damiano David, Ethan Torchio, Victoria De Angelis &#38; Thomas Raggi</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5448165</integer>
+			<key>Total Time</key><integer>168411</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847103793</integer>
+			<key>Play Date UTC</key><date>2025-11-27T21:56:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9578</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C993727F6F8DFDE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/07%20GOSSIP.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7661</key>
+		<dict>
+			<key>Track ID</key><integer>7661</integer>
+			<key>Name</key><string>TIMEZONE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5811772</integer>
+			<key>Total Time</key><integer>179774</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3841918934</integer>
+			<key>Play Date UTC</key><date>2025-09-28T20:42:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8408</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5526848B6CC5A10C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/08%20TIMEZONE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7663</key>
+		<dict>
+			<key>Track ID</key><integer>7663</integer>
+			<key>Name</key><string>BLA BLA BLA</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5972271</integer>
+			<key>Total Time</key><integer>184790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3838652708</integer>
+			<key>Play Date UTC</key><date>2025-08-22T01:25:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8006</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E42420B53F640B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/09%20BLA%20BLA%20BLA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7665</key>
+		<dict>
+			<key>Track ID</key><integer>7665</integer>
+			<key>Name</key><string>BABY SAID</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5332793</integer>
+			<key>Total Time</key><integer>164806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3846914491</integer>
+			<key>Play Date UTC</key><date>2025-11-25T17:21:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7046</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F44B3675D11CFB06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/10%20BABY%20SAID.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7667</key>
+		<dict>
+			<key>Track ID</key><integer>7667</integer>
+			<key>Name</key><string>GASOLINE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7139289</integer>
+			<key>Total Time</key><integer>221178</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846151210</integer>
+			<key>Play Date UTC</key><date>2025-11-16T21:20:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9958</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>30AD999D87F7A2EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/11%20GASOLINE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7669</key>
+		<dict>
+			<key>Track ID</key><integer>7669</integer>
+			<key>Name</key><string>FEEL</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5437277</integer>
+			<key>Total Time</key><integer>168071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3846769490</integer>
+			<key>Play Date UTC</key><date>2025-11-24T01:04:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-08-22T01:38:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10879</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6B894F0D0FA68FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/12%20FEEL.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7671</key>
+		<dict>
+			<key>Track ID</key><integer>7671</integer>
+			<key>Name</key><string>DON'T WANNA SLEEP</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5056112</integer>
+			<key>Total Time</key><integer>156160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3838653418</integer>
+			<key>Play Date UTC</key><date>2025-08-22T01:36:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-08-22T01:38:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA89EAB12C02BA6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/13%20DON'T%20WANNA%20SLEEP.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7679</key>
+		<dict>
+			<key>Track ID</key><integer>7679</integer>
+			<key>Name</key><string>MARK CHAPMAN</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>RUSH! (ARE U COMING )</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7108286</integer>
+			<key>Total Time</key><integer>220290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>173</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847096891</integer>
+			<key>Play Date UTC</key><date>2025-11-27T20:01:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12459</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>895D8C3AFE3E8390</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/17%20MARK%20CHAPMAN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7697</key>
+		<dict>
+			<key>Track ID</key><integer>7697</integer>
+			<key>Name</key><string>I WANNA BE YOUR SLAVE</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David, Victoria De Angelis, Thomas Raggi &#38; Ethan Torchio</string>
+			<key>Album</key><string>Teatro d'Ira - Vol. I</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5692716</integer>
+			<key>Total Time</key><integer>173479</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847184820</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:27:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6767</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5386663C440701E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Teatro%20d'Ira%20-%20Vol.%20I/04%20I%20WANNA%20BE%20YOUR%20SLAVE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28155</key>
+		<dict>
+			<key>Track ID</key><integer>28155</integer>
+			<key>Name</key><string>Beggin'</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Peggy Farina &#38; Bob Gaudio</string>
+			<key>Album</key><string>Chosen</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6891685</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3838488375</integer>
+			<key>Play Date UTC</key><date>2025-08-20T03:46:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5597</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86EE700575949FBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/04%20Beggin'.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28159</key>
+		<dict>
+			<key>Track ID</key><integer>28159</integer>
+			<key>Name</key><string>Fear for Nobody</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>Il ballo della vita</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4945277</integer>
+			<key>Total Time</key><integer>150935</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3838643229</integer>
+			<key>Play Date UTC</key><date>2025-08-21T22:47:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>721050B468306C8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/05%20Fear%20for%20Nobody.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28161</key>
+		<dict>
+			<key>Track ID</key><integer>28161</integer>
+			<key>Name</key><string>Let's Get It Started</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Will Adams, Mike Fratantuno, Jaime Gomez, George Pajon Jr., Allan Pineda &#38; Terence Yoshiaki Graves</string>
+			<key>Album</key><string>Chosen</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4819029</integer>
+			<key>Total Time</key><integer>146938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>114</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3843665759</integer>
+			<key>Play Date UTC</key><date>2025-10-19T01:55:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7227</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBE284272DBB9D7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/05%20Let's%20Get%20It%20Started.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28165</key>
+		<dict>
+			<key>Track ID</key><integer>28165</integer>
+			<key>Name</key><string>New Song</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>Il ballo della vita</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6957005</integer>
+			<key>Total Time</key><integer>213838</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844250376</integer>
+			<key>Play Date UTC</key><date>2025-10-25T20:19:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10561</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>005DC227779DBF2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/01%20New%20Song.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28167</key>
+		<dict>
+			<key>Track ID</key><integer>28167</integer>
+			<key>Name</key><string>SUPERMODEL</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David, Victoria De Angelis, Thomas Raggi, Ethan Torchio, Max Martin, Sylvester Willy Silversteen, Rami Yacoub &#38; Justin Tranter</string>
+			<key>Album</key><string>SUPERMODEL - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4813551</integer>
+			<key>Total Time</key><integer>148192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>121</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3838650179</integer>
+			<key>Play Date UTC</key><date>2025-08-22T00:42:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9652</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BEA58E14CCD699C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/SUPERMODEL%20-%20Single/01%20SUPERMODEL.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28177</key>
+		<dict>
+			<key>Track ID</key><integer>28177</integer>
+			<key>Name</key><string>ZITTI E BUONI</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David, Victoria De Angelis, Thomas Raggi &#38; Ethan Torchio</string>
+			<key>Album</key><string>ZITTI E BUONI - Single</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6283039</integer>
+			<key>Total Time</key><integer>192783</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:09Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3842292915</integer>
+			<key>Play Date UTC</key><date>2025-10-03T04:35:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9295</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>868F5BDAC08098D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/ZITTI%20E%20BUONI%20-%20Single/01%20ZITTI%20E%20BUONI.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28179</key>
+		<dict>
+			<key>Track ID</key><integer>28179</integer>
+			<key>Name</key><string>Chosen</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Ethan Torchio, Victoria De Angelis &#38; Thomas Raggi</string>
+			<key>Album</key><string>Chosen - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5207990</integer>
+			<key>Total Time</key><integer>161071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846177195</integer>
+			<key>Play Date UTC</key><date>2025-11-17T04:33:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10505</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1420DF08A1549243</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen%20-%20Single/01%20Chosen.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28183</key>
+		<dict>
+			<key>Track ID</key><integer>28183</integer>
+			<key>Name</key><string>HONEY (ARE U COMING )</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David</string>
+			<key>Album</key><string>HONEY (ARE U COMING ) - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5407000</integer>
+			<key>Total Time</key><integer>167418</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3838651246</integer>
+			<key>Play Date UTC</key><date>2025-08-22T01:00:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13278</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D109DBBAB3BBA34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/HONEY%20(ARE%20U%20COMING%20)%20-%20Single/01%20HONEY%20(ARE%20U%20COMING%20).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28187</key>
+		<dict>
+			<key>Track ID</key><integer>28187</integer>
+			<key>Name</key><string>MAMMAMIA</string>
+			<key>Artist</key><string>Måneskin</string>
+			<key>Album Artist</key><string>Måneskin</string>
+			<key>Composer</key><string>Damiano David, Victoria De Angelis, Ethan Torchio &#38; Thomas Raggi</string>
+			<key>Album</key><string>MAMMAMIA - Single</string>
+			<key>Genre</key><string>Hard rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6163513</integer>
+			<key>Total Time</key><integer>186906</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:11Z</date>
+			<key>Date Added</key><date>2025-08-12T22:32:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846908305</integer>
+			<key>Play Date UTC</key><date>2025-11-25T15:38:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A606133CEBAD3652</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/MAMMAMIA%20-%20Single/01%20MAMMAMIA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Måneskin</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>97774</integer>
+			<key>Playlist Persistent ID</key><string>6F19118D01100199</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAihTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAATQDlAG4AZQBzAGsAaQBuAAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAA
+			AAEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAg
+			AGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAGUAcwAgAGwAaQB2AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHg=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>28179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7649</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7679</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

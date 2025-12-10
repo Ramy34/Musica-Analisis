@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:50:37Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5997</key>
+		<dict>
+			<key>Track ID</key><integer>5997</integer>
+			<key>Name</key><string>Dance The Night (From Barbie The Album)</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Andrew Wyatt, Caroline Ailin, Dua Lipa &#38; Mark Ronson</string>
+			<key>Album</key><string>Dance The Night (From Barbie The Album) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5712975</integer>
+			<key>Total Time</key><integer>176692</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:18Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3831057497</integer>
+			<key>Play Date UTC</key><date>2025-05-26T03:38:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5817</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29B50CDE0E641CA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dance%20The%20Night%20(From%20Barbie%20The%20Album)/01%20Dance%20The%20Night%20(From%20Barbie%20The.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6003</key>
+		<dict>
+			<key>Track ID</key><integer>6003</integer>
+			<key>Name</key><string>Hotter Than Hell</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Adam Midgley, Gerard O'Connell &#38; Tommy Baxter</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6109850</integer>
+			<key>Total Time</key><integer>188081</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845975112</integer>
+			<key>Play Date UTC</key><date>2025-11-14T20:25:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7606</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19BCBEA1103AF9E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/03%20Hotter%20Than%20Hell.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6011</key>
+		<dict>
+			<key>Track ID</key><integer>6011</integer>
+			<key>Name</key><string>Garden</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Greg Wells &#38; Sean Douglas</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7388795</integer>
+			<key>Total Time</key><integer>228048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3843633514</integer>
+			<key>Play Date UTC</key><date>2025-10-18T16:58:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7604</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7AF1498E8474B521</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/07%20Garden.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6013</key>
+		<dict>
+			<key>Track ID</key><integer>6013</integer>
+			<key>Name</key><string>No Goodbyes</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, GRADES, Ilsey Juber &#38; Lindy Robbins</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7009293</integer>
+			<key>Total Time</key><integer>216189</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3822553200</integer>
+			<key>Play Date UTC</key><date>2025-02-16T18:20:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B6D57647BAD1809</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/08%20No%20Goodbyes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6015</key>
+		<dict>
+			<key>Track ID</key><integer>6015</integer>
+			<key>Name</key><string>Thinking 'Bout You</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa &#38; Adam Argyle</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5597434</integer>
+			<key>Total Time</key><integer>172068</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847117645</integer>
+			<key>Play Date UTC</key><date>2025-11-28T01:47:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4202</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>76B3DF6770F9B508</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/09%20Thinking%20'Bout%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6017</key>
+		<dict>
+			<key>Track ID</key><integer>6017</integer>
+			<key>Name</key><string>New Rules</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Emily Warren &#38; Ian Kirkpatrick</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6793625</integer>
+			<key>Total Time</key><integer>209449</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847196245</integer>
+			<key>Play Date UTC</key><date>2025-11-28T23:37:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3483</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D58CD5FE24470E4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/10%20New%20Rules.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6031</key>
+		<dict>
+			<key>Track ID</key><integer>6031</integer>
+			<key>Name</key><string>Last Dance</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Stephen "Koz" Kozmeniuk &#38; Talay Riley</string>
+			<key>Album</key><string>Dua Lipa (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7422237</integer>
+			<key>Total Time</key><integer>229093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837348639</integer>
+			<key>Play Date UTC</key><date>2025-08-06T23:10:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4334C4DB8B6D4936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/17%20Last%20Dance.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6037</key>
+		<dict>
+			<key>Track ID</key><integer>6037</integer>
+			<key>Name</key><string>Cool</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Ben Kohn, Camille Purcell, Dua Lipa, Peter Kelleher, Shakka Philip, Tom Barnes, Tove Lo</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6781490</integer>
+			<key>Total Time</key><integer>209711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3825864195</integer>
+			<key>Play Date UTC</key><date>2025-03-27T02:03:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-15T21:35:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6394</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2170737144DFF05E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/03%20Cool.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6039</key>
+		<dict>
+			<key>Track ID</key><integer>6039</integer>
+			<key>Name</key><string>Physical</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Clarence Coffee Jr, Jason Evigan &#38; Sarah Hudson</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6277436</integer>
+			<key>Total Time</key><integer>193959</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843119578</integer>
+			<key>Play Date UTC</key><date>2025-10-12T18:12:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7813</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32EDF911A6366D25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/04%20Physical.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6041</key>
+		<dict>
+			<key>Track ID</key><integer>6041</integer>
+			<key>Name</key><string>Levitating</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Clarence Coffee Jr., Dua Lipa, Sarah Hudson, Stephen Kozmeniuk</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6597422</integer>
+			<key>Total Time</key><integer>203937</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3842463724</integer>
+			<key>Play Date UTC</key><date>2025-10-05T04:02:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9870</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36492FF9B99587D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/05%20Levitating.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6045</key>
+		<dict>
+			<key>Track ID</key><integer>6045</integer>
+			<key>Name</key><string>Hallucinate</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6746389</integer>
+			<key>Total Time</key><integer>208613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3840283800</integer>
+			<key>Play Date UTC</key><date>2025-09-09T22:30:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6134</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A5861BCD7019F77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/07%20Hallucinate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6047</key>
+		<dict>
+			<key>Track ID</key><integer>6047</integer>
+			<key>Name</key><string>Love Again</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Chelcee Grimes, Clarence Coffee Jr, Crosby, Dua Lipa, Stephen Kozmeniuk, Wallman &#38; Wartell</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8331289</integer>
+			<key>Total Time</key><integer>258142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3844159597</integer>
+			<key>Play Date UTC</key><date>2025-10-24T19:06:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D506E2F39647211</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/08%20Love%20Again.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6049</key>
+		<dict>
+			<key>Track ID</key><integer>6049</integer>
+			<key>Name</key><string>Break My Heart</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Andrew Wotman, Ali Tamposi, Stefan Johnson, Jordan K. Johnson, Andrew Farriss &#38; Michael Hutchence</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7173546</integer>
+			<key>Total Time</key><integer>221962</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3827240458</integer>
+			<key>Play Date UTC</key><date>2025-04-11T23:20:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7933</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4770A3556F86B23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/09%20Break%20My%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6057</key>
+		<dict>
+			<key>Track ID</key><integer>6057</integer>
+			<key>Name</key><string>Houdini</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker &#38; Tobias Jesso Jr.</string>
+			<key>Album</key><string>Houdini - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6018575</integer>
+			<key>Total Time</key><integer>186044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843653142</integer>
+			<key>Play Date UTC</key><date>2025-10-18T22:25:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4778</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11ED624D33B7603F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Houdini%20-%20Single/01%20Houdini.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6059</key>
+		<dict>
+			<key>Track ID</key><integer>6059</integer>
+			<key>Name</key><string>Illusion</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker &#38; Tobias Jesso Jr.</string>
+			<key>Album</key><string>Illusion - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6076208</integer>
+			<key>Total Time</key><integer>188264</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3834831984</integer>
+			<key>Play Date UTC</key><date>2025-07-08T20:06:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A18FFC41FA98290</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Illusion%20-%20Single/01%20Illusion.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6063</key>
+		<dict>
+			<key>Track ID</key><integer>6063</integer>
+			<key>Name</key><string>End Of An Era</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker &#38; Tobias Jesso Jr.</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6327106</integer>
+			<key>Total Time</key><integer>196336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3826295037</integer>
+			<key>Play Date UTC</key><date>2025-04-01T01:43:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4927</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>End Of An Era</string>
+			<key>Persistent ID</key><string>ABB5E59A06428C58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/01%20End%20Of%20An%20Era.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6069</key>
+		<dict>
+			<key>Track ID</key><integer>6069</integer>
+			<key>Name</key><string>These Walls</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Andrew Wyatt, Billy Walsh, Caroline Ailin, Danny L Harle &#38; Dua Lipa</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7017566</integer>
+			<key>Total Time</key><integer>217913</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3825877783</integer>
+			<key>Play Date UTC</key><date>2025-03-27T05:49:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4496</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>These Walls</string>
+			<key>Persistent ID</key><string>1654323B95915B5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/04%20These%20Walls.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6071</key>
+		<dict>
+			<key>Track ID</key><integer>6071</integer>
+			<key>Name</key><string>Whatcha Doing</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Ali Tamposi, Caroline Ailin, Danny L Harle, Dua Lipa &#38; Kevin Parker</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6390631</integer>
+			<key>Total Time</key><integer>198321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844096670</integer>
+			<key>Play Date UTC</key><date>2025-10-24T01:37:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5895</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>Whatcha Doing</string>
+			<key>Persistent ID</key><string>579EB66D003C0E1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/05%20Whatcha%20Doing.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6077</key>
+		<dict>
+			<key>Track ID</key><integer>6077</integer>
+			<key>Name</key><string>Falling Forever</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Ali Tamposi, Caroline Ailin, Danny L Harle, Dua Lipa, Emily Warren &#38; Ian Kirkpatrick</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7187282</integer>
+			<key>Total Time</key><integer>223216</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833361288</integer>
+			<key>Play Date UTC</key><date>2025-06-21T19:34:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5021</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>Falling Forever</string>
+			<key>Persistent ID</key><string>DECC2D95D08ABC81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/08%20Falling%20Forever.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6081</key>
+		<dict>
+			<key>Track ID</key><integer>6081</integer>
+			<key>Name</key><string>Maria</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Andrew Wyatt, Caroline Ailin, Danny L Harle, Dua Lipa &#38; Julia Michaels</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6053744</integer>
+			<key>Total Time</key><integer>187794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847187150</integer>
+			<key>Play Date UTC</key><date>2025-11-28T21:05:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2961</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>Maria</string>
+			<key>Persistent ID</key><string>9F0E869830225B98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/10%20Maria.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6083</key>
+		<dict>
+			<key>Track ID</key><integer>6083</integer>
+			<key>Name</key><string>Happy For You</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker &#38; Tobias Jesso Jr.</string>
+			<key>Album</key><string>Radical Optimism</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7910336</integer>
+			<key>Total Time</key><integer>245812</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846153025</integer>
+			<key>Play Date UTC</key><date>2025-11-16T21:50:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5239</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Radical Optimism</string>
+			<key>Sort Artist</key><string>Dua Lipa</string>
+			<key>Sort Name</key><string>Happy For You</string>
+			<key>Persistent ID</key><string>D54D8240B6875888</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/11%20Happy%20For%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6107</key>
+		<dict>
+			<key>Track ID</key><integer>6107</integer>
+			<key>Name</key><string>Training Season</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker, Martina Sorbara, Nicholas Gale, Shaun Frank, Steve Francis Richard Mastroianni, Tobias Jesso Jr. &#38; Yaakov Gruzman</string>
+			<key>Album</key><string>Training Season - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7130224</integer>
+			<key>Total Time</key><integer>209606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3842285299</integer>
+			<key>Play Date UTC</key><date>2025-10-03T02:28:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6272</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E22DEE819BB481DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Training%20Season%20-%20Single/01%20Training%20Season.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6109</key>
+		<dict>
+			<key>Track ID</key><integer>6109</integer>
+			<key>Name</key><string>Fever</string>
+			<key>Artist</key><string>Dua Lipa &#38; Angèle</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Angèle, Caroline Ailin, Dua Lipa, Ian Kirkpatrick, Jacob Kasher Hindlin &#38; Julia Michaels</string>
+			<key>Album</key><string>Future Nostalgia</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5089641</integer>
+			<key>Total Time</key><integer>157022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845547249</integer>
+			<key>Play Date UTC</key><date>2025-11-09T21:34:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>816D41AC2DEB1818</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/13%20Fever.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12075</key>
+		<dict>
+			<key>Track ID</key><integer>12075</integer>
+			<key>Name</key><string>Prisoner</string>
+			<key>Artist</key><string>Miley Cyrus feat. Dua Lipa</string>
+			<key>Album Artist</key><string>Miley Cyrus</string>
+			<key>Composer</key><string>Miley Cyrus, Miley Cyrus, Dua Lipa, Dua Lipa, Andrew Wotman, Andrew Wotman, Jordan K. Johnson, Jordan K. Johnson, Marcus Lomax, Marcus Lomax, Stefan Johnson, Stefan Johnson, Ali Tamposi, Ali Tamposi, Jonathan Bellion &#38; Jonathan Bellion</string>
+			<key>Album</key><string>Plastic Hearts</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7093055</integer>
+			<key>Total Time</key><integer>169000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:02Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842282768</integer>
+			<key>Play Date UTC</key><date>2025-10-03T01:46:08Z</date>
+			<key>Release Date</key><date>2020-11-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5757</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48A9BA3F045FEA1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Miley%20Cyrus/Plastic%20Hearts/04%20Prisoner.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17547</key>
+		<dict>
+			<key>Track ID</key><integer>17547</integer>
+			<key>Name</key><string>Blow Your Mind (Mwah)</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Jon Levine &#38; Lauren Christy</string>
+			<key>Album</key><string>Blow Your Mind (Mwah) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7487730</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:18Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:35Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3832241362</integer>
+			<key>Play Date UTC</key><date>2025-06-08T20:29:22Z</date>
+			<key>Release Date</key><date>2016-08-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5192</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0DA2E21561F42DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Blow%20Your%20Mind%20(Mwah)%20-%20Single/01%20Blow%20Your%20Mind%20(Mwah).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17555</key>
+		<dict>
+			<key>Track ID</key><integer>17555</integer>
+			<key>Name</key><string>CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score)</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa/Clarence Coffee Jr.</string>
+			<key>Album</key><string>CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score) - Single</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9736117</integer>
+			<key>Total Time</key><integer>231874</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:18Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:35Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843575132</integer>
+			<key>Play Date UTC</key><date>2025-10-18T00:45:32Z</date>
+			<key>Release Date</key><date>2021-06-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5382</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>116682E8701903D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20with%20orig/01%20CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20wi.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17565</key>
+		<dict>
+			<key>Track ID</key><integer>17565</integer>
+			<key>Name</key><string>Cold Heart (PNAU Remix)</string>
+			<key>Artist</key><string>Elton John &#38; Dua Lipa</string>
+			<key>Album Artist</key><string>Elton John &#38; Dua Lipa</string>
+			<key>Composer</key><string>Elton John, Bernie Taupin, Peter Mayes, Nicholas Littlemore &#38; Sam Littlemore</string>
+			<key>Album</key><string>Cold Heart (PNAU Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8531096</integer>
+			<key>Total Time</key><integer>202803</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:06Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:36Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3825961375</integer>
+			<key>Play Date UTC</key><date>2025-03-28T05:02:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-08-16T17:47:02Z</date>
+			<key>Release Date</key><date>2021-08-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2514</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC12445ABB2F7E92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Elton%20John%20&#38;%20Dua%20Lipa/Cold%20Heart%20(PNAU%20Remix)%20-%20Single/01%20Cold%20Heart%20(PNAU%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17575</key>
+		<dict>
+			<key>Track ID</key><integer>17575</integer>
+			<key>Name</key><string>Don't Start Now</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Caroline Ailin, Emily Warren &#38; Ian Kirkpatrick</string>
+			<key>Album</key><string>Don't Start Now - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7669874</integer>
+			<key>Total Time</key><integer>183345</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:18Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:37Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846912104</integer>
+			<key>Play Date UTC</key><date>2025-11-25T16:41:44Z</date>
+			<key>Release Date</key><date>2019-10-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4260</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E54BD95AB2D377A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Don't%20Start%20Now%20-%20Single/01%20Don't%20Start%20Now.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17589</key>
+		<dict>
+			<key>Track ID</key><integer>17589</integer>
+			<key>Name</key><string>Future Nostalgia</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Clarence Coffee Jr &#38; Jeff Bhasker</string>
+			<key>Album</key><string>Future Nostalgia - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7651535</integer>
+			<key>Total Time</key><integer>184947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:16Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:37Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3847186018</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:46:58Z</date>
+			<key>Release Date</key><date>2019-12-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4278</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>33364DD30C80A0BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia%20-%20Single/01%20Future%20Nostalgia.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17645</key>
+		<dict>
+			<key>Track ID</key><integer>17645</integer>
+			<key>Name</key><string>One Kiss</string>
+			<key>Artist</key><string>Calvin Harris, Dua Lipa</string>
+			<key>Album Artist</key><string>Calvin Harris, Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Adam Wiles &#38; Jessie Reyez</string>
+			<key>Album</key><string>One Kiss - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9091406</integer>
+			<key>Total Time</key><integer>214901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:50Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:37Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3834417597</integer>
+			<key>Play Date UTC</key><date>2025-07-04T00:59:57Z</date>
+			<key>Release Date</key><date>2018-04-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5686</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E370EF752080BB65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Calvin%20Harris,%20Dua%20Lipa/One%20Kiss%20-%20Single/01%20One%20Kiss.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17657</key>
+		<dict>
+			<key>Track ID</key><integer>17657</integer>
+			<key>Name</key><string>Real Groove (Studio 2054 Remix)</string>
+			<key>Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
+			<key>Album Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
+			<key>Composer</key><string>Alida Garpestad Peck, Kylie Minogue, Nico Stadi &#38; Teemu Brunila</string>
+			<key>Album</key><string>Real Groove (Studio 2054 Remix) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10888593</integer>
+			<key>Total Time</key><integer>262943</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:32Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:37Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845719766</integer>
+			<key>Play Date UTC</key><date>2025-11-11T21:29:26Z</date>
+			<key>Release Date</key><date>2020-12-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4232</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79C7C7A85D1E0778</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Kylie%20Minogue%20&#38;%20Dua%20Lipa/Real%20Groove%20(Studio%202054%20Remix)%20-%20Single/01%20Real%20Groove%20(Studio%202054%20Remix).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17671</key>
+		<dict>
+			<key>Track ID</key><integer>17671</integer>
+			<key>Name</key><string>Swan Song (From the Motion Picture 'Alita- Battle Angel')</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Dua Lipa, Justin Tranter, Kennedi Lykken, Mattias Larsson, Robin Fredriksson &#38; Tom Holkenborg</string>
+			<key>Album</key><string>Swan Song (From the Motion Picture 'Alita- Battle Angel') - Single</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7547410</integer>
+			<key>Total Time</key><integer>182137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2025-02-17T16:09:38Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3845548616</integer>
+			<key>Play Date UTC</key><date>2025-11-09T21:56:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-29T00:00:38Z</date>
+			<key>Release Date</key><date>2019-01-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4002</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE7CF386DC7612DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Swan%20Song%20(From%20the%20Motion%20Picture%20'Alit/01%20Swan%20Song%20(From%20the%20Motion%20Pictur%202.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17975</key>
+		<dict>
+			<key>Track ID</key><integer>17975</integer>
+			<key>Name</key><string>No Lie</string>
+			<key>Artist</key><string>Sean Paul feat. Dua Lipa</string>
+			<key>Album Artist</key><string>Sean Paul feat. Dua Lipa</string>
+			<key>Composer</key><string>Sean Paul Henriques, Emily Warren, Andrew Jackson, Jamie Sanderson &#38; Philip Kembo</string>
+			<key>Album</key><string>No Lie - Single</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9277222</integer>
+			<key>Total Time</key><integer>221240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:59Z</date>
+			<key>Date Added</key><date>2025-02-18T05:23:52Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3831905570</integer>
+			<key>Play Date UTC</key><date>2025-06-04T23:12:50Z</date>
+			<key>Release Date</key><date>2016-11-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6608</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0290FA0A8D8EB58E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Sean%20Paul%20feat.%20Dua%20Lipa/No%20Lie%20-%20Single/01%20No%20Lie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17979</key>
+		<dict>
+			<key>Track ID</key><integer>17979</integer>
+			<key>Name</key><string>Scared to Be Lonely</string>
+			<key>Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
+			<key>Album Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
+			<key>Composer</key><string>Martijn Garritsen, Georgia Ku Overton, Nathaniel Campany, Kyle Shearer &#38; Giorgio Tuinfort</string>
+			<key>Album</key><string>Scared To Be Lonely - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9091361</integer>
+			<key>Total Time</key><integer>220938</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>69</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:08Z</date>
+			<key>Date Added</key><date>2025-02-18T05:23:52Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3832860522</integer>
+			<key>Play Date UTC</key><date>2025-06-16T00:28:42Z</date>
+			<key>Release Date</key><date>2017-01-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2955</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>971B3A6FB8039403</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Martin%20Garrix%20&#38;%20Dua%20Lipa/Scared%20To%20Be%20Lonely%20-%20Single/01%20Scared%20to%20Be%20Lonely.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18015</key>
+		<dict>
+			<key>Track ID</key><integer>18015</integer>
+			<key>Name</key><string>Want To</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Amish Dilipkumar Patel/Andrew Jackson/Dua Lipa</string>
+			<key>Album</key><string>Dua Lipa (Complete Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8735040</integer>
+			<key>Total Time</key><integer>211882</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:18Z</date>
+			<key>Date Added</key><date>2025-02-18T06:43:05Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845982605</integer>
+			<key>Play Date UTC</key><date>2025-11-14T22:30:05Z</date>
+			<key>Release Date</key><date>2018-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6059</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F1DE47BA6D06292</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/18%20Want%20To.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18017</key>
+		<dict>
+			<key>Track ID</key><integer>18017</integer>
+			<key>Name</key><string>Running</string>
+			<key>Artist</key><string>Dua Lipa</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Andrew Wyatt/Dua Lipa</string>
+			<key>Album</key><string>Dua Lipa (Complete Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9268442</integer>
+			<key>Total Time</key><integer>222006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:17Z</date>
+			<key>Date Added</key><date>2025-02-18T06:43:05Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843570364</integer>
+			<key>Play Date UTC</key><date>2025-10-17T23:26:04Z</date>
+			<key>Release Date</key><date>2017-06-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6852</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>730FA0176ABF56BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/19%20Running.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18019</key>
+		<dict>
+			<key>Track ID</key><integer>18019</integer>
+			<key>Name</key><string>Kiss and Make Up</string>
+			<key>Artist</key><string>Dua Lipa &#38; BLACKPINK</string>
+			<key>Album Artist</key><string>Dua Lipa</string>
+			<key>Composer</key><string>Chelcee Grimes/Dua Lipa/Marc Vincent/Mathieu Jomphe-Lepine/Teddy Parker/Yannick Rastogi/Zacharie Raymond</string>
+			<key>Album</key><string>Dua Lipa (Complete Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7953391</integer>
+			<key>Total Time</key><integer>189242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:56:15Z</date>
+			<key>Date Added</key><date>2025-02-18T06:43:05Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3832747077</integer>
+			<key>Play Date UTC</key><date>2025-06-14T16:57:57Z</date>
+			<key>Release Date</key><date>2018-10-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4792</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B2D8D6018E61C036</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/20%20Kiss%20and%20Make%20Up.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Dua Lipa</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>97407</integer>
+			<key>Playlist Persistent ID</key><string>E84200D4B74DA227</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAARAB1AGEAIABMAGkAcABhAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBv
+			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AA4AZQBzACAAbABpAHYAZQAAABkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAG0AAAAA
+			AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17589</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6047</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6083</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

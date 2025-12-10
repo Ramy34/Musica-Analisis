@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-09T00:02:17Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8357</key>
+		<dict>
+			<key>Track ID</key><integer>8357</integer>
+			<key>Name</key><string>Mighty Long Fall</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>ONE OK ROCKJ. Feldmann</string>
+			<key>Album</key><string>35xxxv</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>58946093</integer>
+			<key>Total Time</key><integer>243137</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>79</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:45Z</date>
+			<key>Date Added</key><date>2024-09-26T20:54:50Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3837425964</integer>
+			<key>Play Date UTC</key><date>2025-08-07T20:39:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01AC9A146D06972E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/35xxxv/05%20Mighty%20Long%20Fall.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8363</key>
+		<dict>
+			<key>Track ID</key><integer>8363</integer>
+			<key>Name</key><string>Decision</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>J. Feldmann</string>
+			<key>Album</key><string>35xxxv</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52511992</integer>
+			<key>Total Time</key><integer>224867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2025-09-23T06:12:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:54:55Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3829921622</integer>
+			<key>Play Date UTC</key><date>2025-05-13T00:07:02Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9095</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E58942A8561B17A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/35xxxv/08%20Decision.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8371</key>
+		<dict>
+			<key>Track ID</key><integer>8371</integer>
+			<key>Name</key><string>Stuck in the middle</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>J. Feldmann</string>
+			<key>Album</key><string>35xxxv</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>51900322</integer>
+			<key>Total Time</key><integer>212670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:45Z</date>
+			<key>Date Added</key><date>2024-09-26T20:54:59Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845979105</integer>
+			<key>Play Date UTC</key><date>2025-11-14T21:31:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-03T02:11:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15583</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D93B663B81DCD0A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/35xxxv/12%20Stuck%20in%20the%20middle.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8663</key>
+		<dict>
+			<key>Track ID</key><integer>8663</integer>
+			<key>Name</key><string>Wherever You Are</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TAKA</string>
+			<key>Album</key><string>Niche Syndrome</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>37579695</integer>
+			<key>Total Time</key><integer>295600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2025-09-23T03:49:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:57:36Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3829947137</integer>
+			<key>Play Date UTC</key><date>2025-05-13T07:12:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-01-16T01:25:06Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>ONE OK ROCK</string>
+			<key>Sort Name</key><string>Wherever You Are</string>
+			<key>Persistent ID</key><string>BE98C380FFCCDB3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/Niche%20Syndrome/09%20Wherever%20You%20Are.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8739</key>
+		<dict>
+			<key>Track ID</key><integer>8739</integer>
+			<key>Name</key><string>The Beginning</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TAKA</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>42711937</integer>
+			<key>Total Time</key><integer>292733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>182</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:48Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:07Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3840281644</integer>
+			<key>Play Date UTC</key><date>2025-09-09T21:54:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Beginning</string>
+			<key>Persistent ID</key><string>B7DD5A8158C1C6C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/04%20The%20Beginning.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8741</key>
+		<dict>
+			<key>Track ID</key><integer>8741</integer>
+			<key>Name</key><string>Clock Strikes</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Toru, Taka</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>31767434</integer>
+			<key>Total Time</key><integer>235346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:47Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:08Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3832686531</integer>
+			<key>Play Date UTC</key><date>2025-06-14T00:08:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8444</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BADA35336B3F2C2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/05%20Clock%20Strikes.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8743</key>
+		<dict>
+			<key>Track ID</key><integer>8743</integer>
+			<key>Name</key><string>Be the light</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>TAKA</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48633526</integer>
+			<key>Total Time</key><integer>338920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2025-09-23T03:11:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:09Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3843122434</integer>
+			<key>Play Date UTC</key><date>2025-10-12T19:00:34Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8550</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4A108BAB4D30A03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/06%20Be%20the%20light.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8745</key>
+		<dict>
+			<key>Track ID</key><integer>8745</integer>
+			<key>Name</key><string>Nothing Helps</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>ONE OK ROCK</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>40273165</integer>
+			<key>Total Time</key><integer>286066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:47Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:10Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844099090</integer>
+			<key>Play Date UTC</key><date>2025-10-24T02:18:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F89A888444B2C092</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/07%20Nothing%20Helps.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8751</key>
+		<dict>
+			<key>Track ID</key><integer>8751</integer>
+			<key>Name</key><string>Deeper Deeper</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>Tomoya,Ryota</string>
+			<key>Album</key><string>人生×僕=</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>30689749</integer>
+			<key>Total Time</key><integer>216453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>159</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:47Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:12Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3837437412</integer>
+			<key>Play Date UTC</key><date>2025-08-07T23:50:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12472</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87FB105D281FE9E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E4%BA%BA%E7%94%9F%C3%97%E5%83%95=/11%20Deeper%20Deeper.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8773</key>
+		<dict>
+			<key>Track ID</key><integer>8773</integer>
+			<key>Name</key><string>NO SCARED</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>ONE OK ROCK</string>
+			<key>Album</key><string>残響リファレンス</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>31892861</integer>
+			<key>Total Time</key><integer>219186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:22Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3843651883</integer>
+			<key>Play Date UTC</key><date>2025-10-18T22:04:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11794</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B59F418A2BE2AFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E6%AE%8B%E9%9F%BF%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/04%20NO%20SCARED.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8781</key>
+		<dict>
+			<key>Track ID</key><integer>8781</integer>
+			<key>Name</key><string>Re:make</string>
+			<key>Artist</key><string>ONE OK ROCK</string>
+			<key>Album Artist</key><string>ONE OK ROCK</string>
+			<key>Composer</key><string>ONE OK ROCK</string>
+			<key>Album</key><string>残響リファレンス</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>29658423</integer>
+			<key>Total Time</key><integer>204493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>172</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:26Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847186223</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:50:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-05T23:22:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15890</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C842E555ADF0540</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/ONE%20OK%20ROCK/%E6%AE%8B%E9%9F%BF%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9/08%20Re_make.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>One Ok Rock: USA - South America - Europe Tour 2014</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>98980</integer>
+			<key>Playlist Persistent ID</key><string>EF777635134EA5BF</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8773</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8663</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-12-08T23:57:11Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/F:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6337</key>
+		<dict>
+			<key>Track ID</key><integer>6337</integer>
+			<key>Name</key><string>Future Ice Cream</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Ototune</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>71511437</integer>
+			<key>Total Time</key><integer>305853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:33Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3847102042</integer>
+			<key>Play Date UTC</key><date>2025-11-27T21:27:22Z</date>
+			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10036</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>431284E8A372B70D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/01%20Future%20Ice%20Cream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6339</key>
+		<dict>
+			<key>Track ID</key><integer>6339</integer>
+			<key>Name</key><string>For You Ufo</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Ototune</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>59588808</integer>
+			<key>Total Time</key><integer>252563</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:35Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3837790881</integer>
+			<key>Play Date UTC</key><date>2025-08-12T02:01:21Z</date>
+			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9943</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>617BF64A7372C77D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/02%20For%20You%20Ufo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6345</key>
+		<dict>
+			<key>Track ID</key><integer>6345</integer>
+			<key>Name</key><string>Uso</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Ototune</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>65533879</integer>
+			<key>Total Time</key><integer>284119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:40Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3846150989</integer>
+			<key>Play Date UTC</key><date>2025-11-16T21:16:29Z</date>
+			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4442</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>489AB2F423E9CB27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/05%20Uso.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6353</key>
+		<dict>
+			<key>Track ID</key><integer>6353</integer>
+			<key>Name</key><string>Owarase Night</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原 康司</string>
+			<key>Album</key><string>Owarase Night</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8539492</integer>
+			<key>Total Time</key><integer>263627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3846408621</integer>
+			<key>Play Date UTC</key><date>2025-11-19T20:50:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7421</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>751552DAFE40C535</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/01%20Owarase%20Night.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6355</key>
+		<dict>
+			<key>Track ID</key><integer>6355</integer>
+			<key>Name</key><string>DNA Desu</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>[Source from www.alljpnews.com]</string>
+			<key>Album</key><string>Owarase Night</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7095856</integer>
+			<key>Total Time</key><integer>218514</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845720361</integer>
+			<key>Play Date UTC</key><date>2025-11-11T21:39:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8055</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3977B91B0C0FB08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/02%20DNA%20Desu.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6361</key>
+		<dict>
+			<key>Track ID</key><integer>6361</integer>
+			<key>Name</key><string>Sweater Wo Nugasanaide</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>[Source from www.alljpnews.com]</string>
+			<key>Album</key><string>Owarase Night</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8406590</integer>
+			<key>Total Time</key><integer>259474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3820350239</integer>
+			<key>Play Date UTC</key><date>2025-01-22T06:23:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6382</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EF2C1926872ECBD9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/05%20Sweater%20Wo%20Nugasanaide.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6363</key>
+		<dict>
+			<key>Track ID</key><integer>6363</integer>
+			<key>Name</key><string>Ai No Meiwaku</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>[Source from www.alljpnews.com]</string>
+			<key>Album</key><string>Owarase Night</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6704651</integer>
+			<key>Total Time</key><integer>206288</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841831173</integer>
+			<key>Play Date UTC</key><date>2025-09-27T20:19:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6781</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCB5E4DEC4207F7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/06%20Ai%20No%20Meiwaku.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6365</key>
+		<dict>
+			<key>Track ID</key><integer>6365</integer>
+			<key>Name</key><string>Sayonara Curtain</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>[Source from www.alljpnews.com]</string>
+			<key>Album</key><string>Owarase Night</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8261134</integer>
+			<key>Total Time</key><integer>254928</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3841474786</integer>
+			<key>Play Date UTC</key><date>2025-09-23T17:19:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6263</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0CE266B0C8AED39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/07%20Sayonara%20Curtain.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6367</key>
+		<dict>
+			<key>Track ID</key><integer>6367</integer>
+			<key>Name</key><string>Peppermint Gum</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Peppermint Gum - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48593316</integer>
+			<key>Total Time</key><integer>230968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:46Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847097737</integer>
+			<key>Play Date UTC</key><date>2025-11-27T20:15:37Z</date>
+			<key>Release Date</key><date>2023-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3083</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2E45302B8FE7FAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Peppermint%20Gum%20-%20Single/01%20Peppermint%20Gum.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6369</key>
+		<dict>
+			<key>Track ID</key><integer>6369</integer>
+			<key>Name</key><string>Sparkle Dancer</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Sparkle Dancer - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6791369</integer>
+			<key>Total Time</key><integer>208613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>141</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3840620741</integer>
+			<key>Play Date UTC</key><date>2025-09-13T20:05:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8322</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD19967785F83D81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Sparkle%20Dancer%20-%20Single/01%20Sparkle%20Dancer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6371</key>
+		<dict>
+			<key>Track ID</key><integer>6371</integer>
+			<key>Name</key><string>Togenkyo</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>Togenkyo</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9547207</integer>
+			<key>Total Time</key><integer>237353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:47Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3841862604</integer>
+			<key>Play Date UTC</key><date>2025-09-28T05:03:24Z</date>
+			<key>Release Date</key><date>2017-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11630</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5472BAFA62EBAA84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/01%20Togenkyo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6373</key>
+		<dict>
+			<key>Track ID</key><integer>6373</integer>
+			<key>Name</key><string>Slowly Dance</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原 康司</string>
+			<key>Album</key><string>Togenkyo</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10687809</integer>
+			<key>Total Time</key><integer>265403</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:47Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3845456525</integer>
+			<key>Play Date UTC</key><date>2025-11-08T20:22:05Z</date>
+			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10233</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CC2D171B86863D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/02%20Slowly%20Dance.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6377</key>
+		<dict>
+			<key>Track ID</key><integer>6377</integer>
+			<key>Name</key><string>Tarinaieye</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原 康司</string>
+			<key>Album</key><string>Togenkyo</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11018612</integer>
+			<key>Total Time</key><integer>273483</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:47Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844248265</integer>
+			<key>Play Date UTC</key><date>2025-10-25T19:44:25Z</date>
+			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7920</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F6909930F5800C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/04%20Tarinaieye.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6379</key>
+		<dict>
+			<key>Track ID</key><integer>6379</integer>
+			<key>Name</key><string>Midnight Glider</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原 康司</string>
+			<key>Album</key><string>Togenkyo</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9604262</integer>
+			<key>Total Time</key><integer>236703</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843145689</integer>
+			<key>Play Date UTC</key><date>2025-10-13T01:28:09Z</date>
+			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B59F0F076119D3E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/05%20Midnight%20Glider.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6391</key>
+		<dict>
+			<key>Track ID</key><integer>6391</integer>
+			<key>Name</key><string>Midnight Creative Drive</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>Yuyukaneikaiyuroku</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7628856</integer>
+			<key>Total Time</key><integer>235363</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837862343</integer>
+			<key>Play Date UTC</key><date>2025-08-12T21:52:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4052</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1800BDD5794BE387</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Yuyukaneikaiyuroku/04%20Midnight%20Creative%20Drive.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6399</key>
+		<dict>
+			<key>Track ID</key><integer>6399</integer>
+			<key>Name</key><string>瞳のランデヴー</string>
+			<key>Artist</key><string>Fujifabric &#38; フレデリック</string>
+			<key>Album Artist</key><string>Fujifabric &#38; フレデリック</string>
+			<key>Album</key><string>瞳のランデヴー - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8570316</integer>
+			<key>Total Time</key><integer>257358</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:58Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837241022</integer>
+			<key>Play Date UTC</key><date>2025-08-05T17:17:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6895</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A1986EA27B5947FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/Fujifabric%20&#38;%20%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC%20-%20Single/01%20%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11491</key>
+		<dict>
+			<key>Track ID</key><integer>11491</integer>
+			<key>Name</key><string>ANSWER</string>
+			<key>Artist</key><string>フレデリック×須田景凪</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>ANSWER</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC coincidente</string>
+			<key>Size</key><integer>8076177</integer>
+			<key>Total Time</key><integer>222533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:05Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845447119</integer>
+			<key>Play Date UTC</key><date>2025-11-08T17:45:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8ED0C05F1D1FA97B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/01%20ANSWER.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11493</key>
+		<dict>
+			<key>Track ID</key><integer>11493</integer>
+			<key>Name</key><string>TOMOSHI BEAT</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>Koji Mihara</string>
+			<key>Album</key><string>ANSWER</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>26637553</integer>
+			<key>Total Time</key><integer>194277</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>143</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:38Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3844097516</integer>
+			<key>Play Date UTC</key><date>2025-10-24T01:51:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6898</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BD632989983F8D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/02%20TOMOSHI%20BEAT.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11501</key>
+		<dict>
+			<key>Track ID</key><integer>11501</integer>
+			<key>Name</key><string>オドループ</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>oddloop</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>36559642</integer>
+			<key>Total Time</key><integer>255293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>172</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:42Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837353897</integer>
+			<key>Play Date UTC</key><date>2025-08-07T00:38:17Z</date>
+			<key>Release Date</key><date>2014-09-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9314</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89346436F6B7DED9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/oddloop/01%20%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11515</key>
+		<dict>
+			<key>Track ID</key><integer>11515</integer>
+			<key>Name</key><string>PEEK A BOO</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>PEEK A BOO</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>30891541</integer>
+			<key>Total Time</key><integer>232710</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>111</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:09Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:46Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3829853798</integer>
+			<key>Play Date UTC</key><date>2025-05-12T05:16:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3652</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2856B12E21A47A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/PEEK%20A%20BOO/01%20PEEK%20A%20BOO.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11533</key>
+		<dict>
+			<key>Track ID</key><integer>11533</integer>
+			<key>Name</key><string>ほねのふね</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>みはらこーじ</string>
+			<key>Album</key><string>うちゅうにむちゅう</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>44755264</integer>
+			<key>Total Time</key><integer>202161</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>104</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:57Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847260674</integer>
+			<key>Play Date UTC</key><date>2025-11-29T17:31:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2EBA72DE0447DDA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%86%E3%81%A1%E3%82%85%E3%81%86%E3%81%AB%E3%82%80%E3%81%A1%E3%82%85%E3%81%86/06%20%E3%81%BB%E3%81%AD%E3%81%AE%E3%81%B5%E3%81%AD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11535</key>
+		<dict>
+			<key>Track ID</key><integer>11535</integer>
+			<key>Name</key><string>かなしいうれしい</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣</string>
+			<key>Album</key><string>かなしいうれしい</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>68479121</integer>
+			<key>Total Time</key><integer>285305</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:03Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846252245</integer>
+			<key>Play Date UTC</key><date>2025-11-18T01:24:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11029</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F88520AC03AA33D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/01%20%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11539</key>
+		<dict>
+			<key>Track ID</key><integer>11539</integer>
+			<key>Name</key><string>まちがいさがしの国</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣 &#38; 三原康嗣</string>
+			<key>Album</key><string>かなしいうれしい</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52290636</integer>
+			<key>Total Time</key><integer>223529</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:03Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846154555</integer>
+			<key>Play Date UTC</key><date>2025-11-16T22:15:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9490</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>346431EF15CCF0FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/03%20%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%84%E3%81%95%E3%81%8C%E3%81%97%E3%81%AE%E5%9B%BD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11541</key>
+		<dict>
+			<key>Track ID</key><integer>11541</integer>
+			<key>Name</key><string>オンリーワンダー</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原 康司</string>
+			<key>Album</key><string>オンリーワンダー</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>70605848</integer>
+			<key>Total Time</key><integer>284920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>168</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:04Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841310820</integer>
+			<key>Play Date UTC</key><date>2025-09-21T19:47:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8200</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>620CA8F2933CD93C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC/01%20%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11551</key>
+		<dict>
+			<key>Track ID</key><integer>11551</integer>
+			<key>Name</key><string>サイカ</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>サイカ</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>33146251</integer>
+			<key>Total Time</key><integer>255132</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:11Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837783251</integer>
+			<key>Play Date UTC</key><date>2025-08-11T23:54:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4873</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA7AE82783A5582F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%B5%E3%82%A4%E3%82%AB/01%20%E3%82%B5%E3%82%A4%E3%82%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11555</key>
+		<dict>
+			<key>Track ID</key><integer>11555</integer>
+			<key>Name</key><string>リリリピート</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>フレデリズム</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC coincidente</string>
+			<key>Size</key><integer>9733467</integer>
+			<key>Total Time</key><integer>273746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844159047</integer>
+			<key>Play Date UTC</key><date>2025-10-24T18:57:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9657</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA12C832FC338878</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/02%20%E3%83%AA%E3%83%AA%E3%83%AA%E3%83%94%E3%83%BC%E3%83%88.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11559</key>
+		<dict>
+			<key>Track ID</key><integer>11559</integer>
+			<key>Name</key><string>KITAKU BEATS</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>フレデリズム</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC coincidente</string>
+			<key>Size</key><integer>9106586</integer>
+			<key>Total Time</key><integer>260506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3846778379</integer>
+			<key>Play Date UTC</key><date>2025-11-24T03:32:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7703</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6C63FBEEF1CF224</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/04%20KITAKU%20BEATS.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11567</key>
+		<dict>
+			<key>Track ID</key><integer>11567</integer>
+			<key>Name</key><string>ナイトステップ</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>フレデリズム</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52940143</integer>
+			<key>Total Time</key><integer>230306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:18Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3846485905</integer>
+			<key>Play Date UTC</key><date>2025-11-20T18:18:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7196</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B68C56A216EFA8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/08%20%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11577</key>
+		<dict>
+			<key>Track ID</key><integer>11577</integer>
+			<key>Name</key><string>音楽という名前の服</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康司</string>
+			<key>Album</key><string>フレデリズム</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC coincidente</string>
+			<key>Size</key><integer>9743240</integer>
+			<key>Total Time</key><integer>281640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842119050</integer>
+			<key>Play Date UTC</key><date>2025-10-01T04:17:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7114</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B53AA03E12116A2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/13%20%E9%9F%B3%E6%A5%BD%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E5%89%8D%E3%81%AE%E6%9C%8D.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11587</key>
+		<dict>
+			<key>Track ID</key><integer>11587</integer>
+			<key>Name</key><string>Endless Mayday</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>フレデリズム 2</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>40934228</integer>
+			<key>Total Time</key><integer>163134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:24Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3837266566</integer>
+			<key>Play Date UTC</key><date>2025-08-06T00:22:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14172</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>522B5735AF098402</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/03%20Endless%20Mayday.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11591</key>
+		<dict>
+			<key>Track ID</key><integer>11591</integer>
+			<key>Name</key><string>Touhikou</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣</string>
+			<key>Album</key><string>フレデリズム 2</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>68423760</integer>
+			<key>Total Time</key><integer>279693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:07Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:27Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3844606764</integer>
+			<key>Play Date UTC</key><date>2025-10-30T00:19:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10031</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DDBF85BB482F7BA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/05%20Touhikou.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11593</key>
+		<dict>
+			<key>Track ID</key><integer>11593</integer>
+			<key>Name</key><string>Sukiraism</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣</string>
+			<key>Album</key><string>フレデリズム 2</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48685536</integer>
+			<key>Total Time</key><integer>200280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:28Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844178536</integer>
+			<key>Play Date UTC</key><date>2025-10-25T00:22:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-11-20T18:36:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10EA56DEE62AA288</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/06%20Sukiraism.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11595</key>
+		<dict>
+			<key>Track ID</key><integer>11595</integer>
+			<key>Name</key><string>Yoso no Piranha</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>フレデリズム 2</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>44612886</integer>
+			<key>Total Time</key><integer>199889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:29Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3833113480</integer>
+			<key>Play Date UTC</key><date>2025-06-18T22:44:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6707</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B138DBFE39F9DA7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/07%20Yoso%20no%20Piranha.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11609</key>
+		<dict>
+			<key>Track ID</key><integer>11609</integer>
+			<key>Name</key><string>ジャンキー</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>Koji Mihara</string>
+			<key>Album</key><string>フレデリズム 3</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>31966047</integer>
+			<key>Total Time</key><integer>215605</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:38Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847191759</integer>
+			<key>Play Date UTC</key><date>2025-11-28T22:22:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6390</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89D81E374D5EEBB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/01%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AD%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11629</key>
+		<dict>
+			<key>Track ID</key><integer>11629</integer>
+			<key>Name</key><string>YOU RAY</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>Koji Mihara</string>
+			<key>Album</key><string>フレデリズム 3</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>24805212</integer>
+			<key>Total Time</key><integer>234133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:46Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3843123614</integer>
+			<key>Play Date UTC</key><date>2025-10-12T19:20:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2015</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACCDFFA53ED6E6B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/11%20YOU%20RAY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11631</key>
+		<dict>
+			<key>Track ID</key><integer>11631</integer>
+			<key>Name</key><string>蜃気楼</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>Koji Mihara</string>
+			<key>Album</key><string>フレデリズム 3</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>37531395</integer>
+			<key>Total Time</key><integer>245094</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:47Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3847195056</integer>
+			<key>Play Date UTC</key><date>2025-11-28T23:17:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8335</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD1F1231A06407A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/12%20%E8%9C%83%E6%B0%97%E6%A5%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11637</key>
+		<dict>
+			<key>Track ID</key><integer>11637</integer>
+			<key>Name</key><string>飄々とエモーション</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣</string>
+			<key>Album</key><string>飄々とエモーション</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>69095802</integer>
+			<key>Total Time</key><integer>290213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:52Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841992526</integer>
+			<key>Play Date UTC</key><date>2025-09-29T17:08:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9901</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>807CAD39A4B04DD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/01%20%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11639</key>
+		<dict>
+			<key>Track ID</key><integer>11639</integer>
+			<key>Name</key><string>シンセンス</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Composer</key><string>三原康嗣</string>
+			<key>Album</key><string>飄々とエモーション</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>60825217</integer>
+			<key>Total Time</key><integer>245746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:05Z</date>
+			<key>Date Added</key><date>2024-09-26T21:04:52Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3832138975</integer>
+			<key>Play Date UTC</key><date>2025-06-07T16:02:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8082</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C3F3A348DD049F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/02%20%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11703</key>
+		<dict>
+			<key>Track ID</key><integer>11703</integer>
+			<key>Name</key><string>煌舟</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>CITRUS CURIO CITY</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11627723</integer>
+			<key>Total Time</key><integer>239830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>71</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:10Z</date>
+			<key>Date Added</key><date>2025-01-15T21:16:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3827296984</integer>
+			<key>Play Date UTC</key><date>2025-04-12T15:03:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-15T22:20:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11237</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88511EEC528DF3B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/CITRUS%20CURIO%20CITY/02%20%E7%85%8C%E8%88%9F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14585</key>
+		<dict>
+			<key>Track ID</key><integer>14585</integer>
+			<key>Name</key><string>Yona Yona Dance (Frederhythm Ver.)</string>
+			<key>Artist</key><string>フレデリック</string>
+			<key>Album Artist</key><string>フレデリック</string>
+			<key>Album</key><string>YONA YONA DANCE (Frederhythm Ver.) - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9641678</integer>
+			<key>Total Time</key><integer>229250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2025-10-17T06:53:08Z</date>
+			<key>Date Added</key><date>2025-01-18T04:38:04Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3834341282</integer>
+			<key>Play Date UTC</key><date>2025-07-03T03:48:02Z</date>
+			<key>Release Date</key><date>2022-01-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5086</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5ACB116C095E37E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/YONA%20YONA%20DANCE%20(Frederhythm%20Ver.)%20-%20Sin/01%20Yona%20Yona%20Dance%20(Frederhythm%20Ver..m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16781</key>
+		<dict>
+			<key>Track ID</key><integer>16781</integer>
+			<key>Name</key><string>KANPAI FUNK</string>
+			<key>Artist</key><string>meiyo feat. フレデリック</string>
+			<key>Album Artist</key><string>meiyo</string>
+			<key>Album</key><string>POP SOS</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8773049</integer>
+			<key>Total Time</key><integer>214204</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:06Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:20Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842278292</integer>
+			<key>Play Date UTC</key><date>2025-10-03T00:31:32Z</date>
+			<key>Release Date</key><date>2023-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6937</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B631D45025C6924</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/F:/iTunes/iTunes%20Media/Music/meiyo/POP%20SOS/09%20KANPAI%20FUNK.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>フレデリック</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>98445</integer>
+			<key>Playlist Persistent ID</key><string>D2B23EF0EDAD6254</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjpTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAww1TDsMMcw6jDDMK8AAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAA
+			AAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBzACAAbABp
+			AHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAAIDAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQBy
+			AHMAdAAgAFQAYQBrAGU=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11587</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16781</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
