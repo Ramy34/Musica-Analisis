@@ -131,7 +131,7 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
                     )
                     actualizar_control_playlist(insertar, d, conn, TABLE, SCHEMA, nrows)
                 except Exception as e:
-                    print(f"Error: {e}")
+                    print(f"[Error]: {e}")
                 finally:
                     cursor.close()
         else:
