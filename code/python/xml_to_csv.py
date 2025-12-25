@@ -36,7 +36,7 @@ def main(input_folder, output_folder):
                 tracks = plist.get("Tracks", {})
 
                 colums = ["Disliked", "Rating Computed", "Explicit", "Matched", "Compilation", "Sort Album Artist", "Purchased", 
-                          "Sort Artist", "Sort Album" ,"Sort Name", "Composer", "Release Date", "Skip Date", "Skip Count"
+                          "Sort Artist", "Sort Album" ,"Sort Name", "Composer", "Release Date", "Skip Date", "Skip Count", "Loved"
                           ]      
                 all_keys = set()
                 for track_info in tracks.values():

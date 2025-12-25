@@ -1,0 +1,340 @@
+-- Creación de las vistas
+CREATE OR REPLACE SECURE VIEW vista.biblioteca AS
+SELECT
+	a.ALBUM as "Álbum",
+	a.ARTIST as "Artista",
+	a.GENRE as "Género",
+	a.NAME as "Canción",
+	a.TOTAL_TIME as "Duración minutos",
+	a.FILENAME as "Nombre archivo",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	a.ALBUM_RATING as "Calificacion del álbum",
+	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
+	a.ARTWORK_COUNT as "Carátula",
+	a.BPM as "Bpm",
+	a.BIT_RATE as "Ratio de bit",
+	a.COMMENTS as "Comentarios",
+	a.COMPILATION as "Compilación",
+	a.COMPOSER as "Compositor",
+	a.DATE_ADDED as "Fecha de adición",
+	a.DATE_MODIFIED as "Fecha de modificación",
+	a.DISC_COUNT as "Número de disco",
+	a.DISC_NUMBER as "Número de discos",
+	a.DISLIKED as "No me gusta",
+	a.EXPLICIT as "Explícito",
+	a.KIND as "Tipo de archivo",
+	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
+	a.MATCHED as "Matched",
+	a.NORMALIZATION "Normalización",
+	a.PERSISTENT_ID "Id",
+	a.PLAY_DATE as "Fecha de última reproducción",
+	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
+	a.PURCHASED as "Comprado",
+	a.RATING_COMPUTED as "Calificación computarizada",
+	a.RELEASE_DATE as "Fecha de lanzamiento",
+	a.SAMPLE_RATE as "Ratio de muestro",
+	a.SIZE as "Tamño",
+	a.SKIP_COUNT as "Cuenta de saltos",
+	a.SKIP_DATE as "Fecha del último salto",	
+	a.TRACK_COUNT as "Número canciones álbum",
+	a.TRACK_ID as "Id canción",
+	a.TRACK_NUMBER as "Número canción álbum",
+	a.TRACK_TYPE as "Tipo canción",
+	a.YEAR as "Año",
+	b.FILEPATH as "Ruta archivo",
+	b.DURATION_SECONDS as "Duración segundos",
+	b.BEATUNES_TEMPO_COLOR as "Tempo color",
+	b.BEATUNES_SPECTRUM as "Espctro",
+	b.BEATUNES_COLOR as "Color", 
+	b.BEATUNES_TEMPO_TIMBRE_COLOR as "Tempo Timbre Color",
+	b.MOOD_DANCEABILITY as "Danzabilidad",
+	b.TUNING as "Tuning",
+	b.HAS_LYRICS as "Tiene letra",
+	b.LYRICS_TEXT as "Letra",
+    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
+    b.DURATION_SECONDS / 3600 as "Duración horas",
+    IFF(a.RATING = 20, '1',
+        IFF(a.RATING = 40, '2', 
+            IFF(a.RATING = 60, '3', 
+                IFF(a.RATING = 80, '4', 
+                    IFF(a.RATING = 100, '5', '0'
+    ))))) as "Calificación",
+    IFF(b.DURATION_SECONDS <=30.00, '0',
+        IFF(b.DURATION_SECONDS > 30.00 AND b.DURATION_SECONDS <= 90.00, '1',
+            IFF(b.DURATION_SECONDS > 90.00 AND b.DURATION_SECONDS <= 150.00, '2',
+                IFF(b.DURATION_SECONDS > 150.00 AND b.DURATION_SECONDS <= 210.00, '3',
+                    IFF(b.DURATION_SECONDS > 210.00 AND b.DURATION_SECONDS <= 270.00, '4',
+                        IFF(b.DURATION_SECONDS > 270.00 AND b.DURATION_SECONDS <= 330.00, '5', 
+                            IFF(b.DURATION_SECONDS > 330.00 AND b.DURATION_SECONDS <= 390.00, '6', 
+                                IFF(b.DURATION_SECONDS > 390.00 AND b.DURATION_SECONDS <= 450.00, '7', 
+                                    IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
+    ))))))))) as "Escala de minutos",
+    IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
+    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido"
+FROM 
+    raw.biblioteca a 
+INNER JOIN 
+	raw.metadata b 
+ON 
+	a.artist = b.artist 
+AND 
+	a.album = b.album  
+AND 
+	upper(a.filename) = upper(b.filename);
+
+-- Creamos la vista del resumen del top 25
+CREATE OR REPLACE SECURE VIEW vista.resumen_favoritas AS
+SELECT
+	a.ALBUM as "Álbum",
+	a.ARTIST as "Artista",
+	a.GENRE as "Género",
+	a.NAME as "Canción",
+	a.TOTAL_TIME as "Duración minutos",
+	a.FILENAME as "Nombre archivo",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	a.ALBUM_RATING as "Calificacion del álbum",
+	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
+	a.ARTWORK_COUNT as "Carátula",
+	a.BPM as "Bpm",
+	a.BIT_RATE as "Ratio de bit",
+	a.COMMENTS as "Comentarios",
+	a.COMPILATION as "Compilación",
+	a.COMPOSER as "Compositor",
+	a.DATE_ADDED as "Fecha de adición",
+	a.DATE_MODIFIED as "Fecha de modificación",
+	a.DISC_COUNT as "Número de disco",
+	a.DISC_NUMBER as "Número de discos",
+	a.DISLIKED as "No me gusta",
+	a.EXPLICIT as "Explícito",
+	a.KIND as "Tipo de archivo",
+	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
+	a.MATCHED as "Matched",
+	a.NORMALIZATION "Normalización",
+	a.PERSISTENT_ID "Id",
+	a.PLAY_DATE as "Fecha de última reproducción",
+	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
+	a.PURCHASED as "Comprado",
+	a.RATING_COMPUTED as "Calificación computarizada",
+	a.RELEASE_DATE as "Fecha de lanzamiento",
+	a.SAMPLE_RATE as "Ratio de muestro",
+	a.SIZE as "Tamño",
+	a.SKIP_COUNT as "Cuenta de saltos",
+	a.SKIP_DATE as "Fecha del último salto",	
+	a.TRACK_COUNT as "Número canciones álbum",
+	a.TRACK_ID as "Id canción",
+	a.TRACK_NUMBER as "Número canción álbum",
+	a.TRACK_TYPE as "Tipo canción",
+	a.YEAR as "Año",
+	b.FILEPATH as "Ruta archivo",
+	b.DURATION_SECONDS as "Duración segundos",
+	b.BEATUNES_TEMPO_COLOR as "Tempo color",
+	b.BEATUNES_SPECTRUM as "Espctro",
+	b.BEATUNES_COLOR as "Color", 
+	b.BEATUNES_TEMPO_TIMBRE_COLOR as "Tempo Timbre Color",
+	b.MOOD_DANCEABILITY as "Danzabilidad",
+	b.TUNING as "Tuning",
+	b.HAS_LYRICS as "Tiene letra",
+	b.LYRICS_TEXT as "Letra",
+    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
+    b.DURATION_SECONDS / 3600 as "Duración horas",
+    IFF(a.RATING = 20, '1',
+        IFF(a.RATING = 40, '2', 
+            IFF(a.RATING = 60, '3', 
+                IFF(a.RATING = 80, '4', 
+                    IFF(a.RATING = 100, '5', '0'
+    ))))) as "Calificación",
+    IFF(b.DURATION_SECONDS <=30.00, '0',
+        IFF(b.DURATION_SECONDS > 30.00 AND b.DURATION_SECONDS <= 90.00, '1',
+            IFF(b.DURATION_SECONDS > 90.00 AND b.DURATION_SECONDS <= 150.00, '2',
+                IFF(b.DURATION_SECONDS > 150.00 AND b.DURATION_SECONDS <= 210.00, '3',
+                    IFF(b.DURATION_SECONDS > 210.00 AND b.DURATION_SECONDS <= 270.00, '4',
+                        IFF(b.DURATION_SECONDS > 270.00 AND b.DURATION_SECONDS <= 330.00, '5', 
+                            IFF(b.DURATION_SECONDS > 330.00 AND b.DURATION_SECONDS <= 390.00, '6', 
+                                IFF(b.DURATION_SECONDS > 390.00 AND b.DURATION_SECONDS <= 450.00, '7', 
+                                    IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
+    ))))))))) as "Escala de minutos",
+    IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
+    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido"
+FROM 
+    raw.biblioteca a 
+INNER JOIN 
+	raw.metadata b 
+ON 
+	a.artist = b.artist 
+AND 
+	a.album = b.album  
+AND 
+	upper(a.filename) = upper(b.filename)
+ORDER BY
+    "Reproducciones" DESC
+LIMIT 25;
+-- Creación de la vista de canciones desnormalizazdas
+CREATE OR REPLACE SECURE VIEW vista.canciones AS
+SELECT
+	a.ALBUM as "Álbum",
+	a.ARTIST as "Artista original",
+	a.GENRE as "Género",
+	a.NAME as "Canción",
+	a.TOTAL_TIME as "Duración minutos",
+	a.FILENAME as "Nombre archivo",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	a.ALBUM_RATING as "Calificacion del álbum",
+	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
+	a.ARTWORK_COUNT as "Carátula",
+	a.BPM as "Bpm",
+	a.BIT_RATE as "Ratio de bit",
+	a.COMMENTS as "Comentarios",
+	a.COMPILATION as "Compilación",
+	a.COMPOSER as "Compositor",
+	a.DATE_ADDED as "Fecha de adición",
+	a.DATE_MODIFIED as "Fecha de modificación",
+	a.DISC_COUNT as "Número de disco",
+	a.DISC_NUMBER as "Número de discos",
+	a.DISLIKED as "No me gusta",
+	a.EXPLICIT as "Explícito",
+	a.KIND as "Tipo de archivo",
+	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
+	a.MATCHED as "Matched",
+	a.NORMALIZATION "Normalización",
+	a.PERSISTENT_ID "Id",
+	a.PLAY_DATE as "Fecha de última reproducción",
+	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
+	a.PURCHASED as "Comprado",
+	a.RATING_COMPUTED as "Calificación computarizada",
+	a.RELEASE_DATE as "Fecha de lanzamiento",
+	a.SAMPLE_RATE as "Ratio de muestro",
+	a.SIZE as "Tamño",
+	a.SKIP_COUNT as "Cuenta de saltos",
+	a.SKIP_DATE as "Fecha del último salto",	
+	a.TRACK_COUNT as "Número canciones álbum",
+	a.TRACK_ID as "Id canción",
+	a.TRACK_NUMBER as "Número canción álbum",
+	a.TRACK_TYPE as "Tipo canción",
+	a.YEAR as "Año",
+	b.FILEPATH as "Ruta archivo",
+	b.DURATION_SECONDS as "Duración segundos",
+	b.BEATUNES_TEMPO_COLOR as "Tempo color",
+	b.BEATUNES_SPECTRUM as "Espctro",
+	b.BEATUNES_COLOR as "Color", 
+	b.BEATUNES_TEMPO_TIMBRE_COLOR as "Tempo Timbre Color",
+	b.MOOD_DANCEABILITY as "Danzabilidad",
+	b.TUNING as "Tuning",
+	b.HAS_LYRICS as "Tiene letra",
+	b.LYRICS_TEXT as "Letra",
+    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
+    b.DURATION_SECONDS / 3600 as "Duración horas",
+    IFF(a.RATING = 20, '1',
+        IFF(a.RATING = 40, '2', 
+            IFF(a.RATING = 60, '3', 
+                IFF(a.RATING = 80, '4', 
+                    IFF(a.RATING = 100, '5', '0'
+    ))))) as "Calificación",
+    IFF(b.DURATION_SECONDS <=30.00, '0',
+        IFF(b.DURATION_SECONDS > 30.00 AND b.DURATION_SECONDS <= 90.00, '1',
+            IFF(b.DURATION_SECONDS > 90.00 AND b.DURATION_SECONDS <= 150.00, '2',
+                IFF(b.DURATION_SECONDS > 150.00 AND b.DURATION_SECONDS <= 210.00, '3',
+                    IFF(b.DURATION_SECONDS > 210.00 AND b.DURATION_SECONDS <= 270.00, '4',
+                        IFF(b.DURATION_SECONDS > 270.00 AND b.DURATION_SECONDS <= 330.00, '5', 
+                            IFF(b.DURATION_SECONDS > 330.00 AND b.DURATION_SECONDS <= 390.00, '6', 
+                                IFF(b.DURATION_SECONDS > 390.00 AND b.DURATION_SECONDS <= 450.00, '7', 
+                                    IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
+    ))))))))) as "Escala de minutos",
+    IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
+    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido",
+	b.Artista AS "Artista"
+FROM 
+    raw.biblioteca a 
+INNER JOIN 
+	dw.canciones b 
+ON 
+	a.artist = b.artist 
+AND 
+	a.album = b.album  
+AND 
+	upper(a.filename) = upper(b.filename);
+
+-- Creación de la vista de playlist
+CREATE OR REPLACE SECURE VIEW vista.playlist AS
+SELECT
+    a.NAME AS "Canción",
+    a.ALBUM AS "Álbum",
+    a.ARTIST AS "Artista",
+    a.ALBUM_ARTIST AS "Artista álbum",
+    a.GENRE AS "Género",
+    a.TOTAL_TIME AS "Duración minutos",
+    a.FILENAME AS "Nombre archivo",
+    a.PLAYLIST AS "Playlist",
+    a.ALBUM_RATING AS "Calificación álbum",
+    a.ALBUM_RATING_COMPUTED AS "Calificación álbum computada",
+    a.ARTWORK_COUNT AS "Cantidad carátulas",
+    a.BPM AS "BPM",
+    a.BIT_RATE AS "Ratio bits",
+    a.COMMENTS AS "Comentario",
+    a.COMPILATION AS "Compilación",
+    a.COMPOSER AS "Compositor",
+    a.DATE_ADDED AS "Fecha agregado",
+    a.DATE_MODIFIED AS "Fecha modificado",
+    a.DISC_NUMBER AS "Número disco",
+    a.DISC_COUNT AS "Cantidad discos",
+    a.DISLIKED AS "No me gusta",
+    a.EXPLICIT AS "Explícito",
+    a.KIND AS "Tipo de archivo",
+	a.LOCATION AS "Ubicación",
+	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
+	a.MATCHED as "Matched",
+	a.NORMALIZATION as "Normalización",
+	a.PERSISTENT_ID as "Id",
+    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
+	a.PLAY_DATE as "Fecha de última reproducción",
+	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
+	a.PURCHASED as "Comprado",
+    IFF(a.RATING = 20, '1',
+        IFF(a.RATING = 40, '2', 
+            IFF(a.RATING = 60, '3', 
+                IFF(a.RATING = 80, '4', 
+                    IFF(a.RATING = 100, '5', '0'
+    ))))) as "Calificación",
+	a.RATING_COMPUTED as "Calificación computarizada",
+	a.RELEASE_DATE as "Fecha de lanzamiento",
+	a.SAMPLE_RATE as "Ratio de muestro",
+	a.SIZE as "Tamño",
+	a.SKIP_COUNT as "Cuenta de saltos",
+	a.SKIP_DATE as "Fecha del último salto",
+	a.TRACK_COUNT as "Número canciones álbum",
+	a.TRACK_ID as "Id canción",
+	a.TRACK_NUMBER as "Número canción álbum",
+	a.TRACK_TYPE as "Tipo canción",
+	a.YEAR as "Año",
+	b.FILEPATH as "Ruta archivo",
+	b.DURATION_SECONDS as "Duración segundos",
+	b.BEATUNES_TEMPO_COLOR as "Tempo color",
+	b.BEATUNES_SPECTRUM as "Espctro",
+	b.BEATUNES_COLOR as "Color", 
+	b.BEATUNES_TEMPO_TIMBRE_COLOR as "Tempo Timbre Color",
+	b.MOOD_DANCEABILITY as "Danzabilidad",
+	b.TUNING as "Tuning",
+	b.HAS_LYRICS as "Tiene letra",
+	b.LYRICS_TEXT as "Letra",
+    b.DURATION_SECONDS / 3600 as "Duración horas",
+    IFF(b.DURATION_SECONDS <=30.00, '0',
+        IFF(b.DURATION_SECONDS > 30.00 AND b.DURATION_SECONDS <= 90.00, '1',
+            IFF(b.DURATION_SECONDS > 90.00 AND b.DURATION_SECONDS <= 150.00, '2',
+                IFF(b.DURATION_SECONDS > 150.00 AND b.DURATION_SECONDS <= 210.00, '3',
+                    IFF(b.DURATION_SECONDS > 210.00 AND b.DURATION_SECONDS <= 270.00, '4',
+                        IFF(b.DURATION_SECONDS > 270.00 AND b.DURATION_SECONDS <= 330.00, '5', 
+                            IFF(b.DURATION_SECONDS > 330.00 AND b.DURATION_SECONDS <= 390.00, '6', 
+                                IFF(b.DURATION_SECONDS > 390.00 AND b.DURATION_SECONDS <= 450.00, '7', 
+                                    IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
+    ))))))))) as "Escala de minutos",
+    IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
+    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido"
+FROM 
+	MUSICA.RAW.PLAYLIST a
+INNER JOIN
+	MUSICA.RAW.METADATA b
+ON 
+	a.ARTIST = b.ARTIST 
+AND 
+	a.ALBUM = b.ALBUM  
+AND 
+	upper(a.FILENAME) = upper(b.FILENAME);
