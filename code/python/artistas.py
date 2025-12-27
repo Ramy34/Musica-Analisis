@@ -33,7 +33,8 @@ def main(ruta_metadata, ruta_artista):
         "ConfidentialMX",
         "GuruConnect",
         "5 Seconds of Summer",
-        "Luis R Conriquez"
+        "Luis R Conriquez",
+        "MYTH & ROID"
     ]
 
     # Crear marcador seguro que no se romperá con regex

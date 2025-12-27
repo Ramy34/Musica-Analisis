@@ -1,13 +1,14 @@
 -- Creación de las vistas
 CREATE OR REPLACE SECURE VIEW vista.biblioteca AS
 SELECT
-	a.ALBUM as "Álbum",
-	a.ARTIST as "Artista",
-	a.GENRE as "Género",
 	a.NAME as "Canción",
+	a.ARTIST as "Artista",
+	a.ALBUM as "Álbum",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
+	a.GENRE as "Género",
 	a.TOTAL_TIME as "Duración minutos",
 	a.FILENAME as "Nombre archivo",
-	a.ALBUM_ARTIST as "Artista del álbum",
 	a.ALBUM_RATING as "Calificacion del álbum",
 	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
 	a.ARTWORK_COUNT as "Carátula",
@@ -25,8 +26,8 @@ SELECT
 	a.KIND as "Tipo de archivo",
 	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
 	a.MATCHED as "Matched",
-	a.NORMALIZATION "Normalización",
-	a.PERSISTENT_ID "Id",
+	a.NORMALIZATION AS "Normalización",
+	a.PERSISTENT_ID AS "Id",
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
@@ -51,7 +52,6 @@ SELECT
 	b.TUNING as "Tuning",
 	b.HAS_LYRICS as "Tiene letra",
 	b.LYRICS_TEXT as "Letra",
-    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
     b.DURATION_SECONDS / 3600 as "Duración horas",
     IFF(a.RATING = 20, '1',
         IFF(a.RATING = 40, '2', 
@@ -85,13 +85,14 @@ AND
 -- Creamos la vista del resumen del top 25
 CREATE OR REPLACE SECURE VIEW vista.resumen_favoritas AS
 SELECT
-	a.ALBUM as "Álbum",
-	a.ARTIST as "Artista",
-	a.GENRE as "Género",
 	a.NAME as "Canción",
+	a.ARTIST as "Artista",
+	a.ALBUM as "Álbum",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	a.GENRE as "Género",
 	a.TOTAL_TIME as "Duración minutos",
 	a.FILENAME as "Nombre archivo",
-	a.ALBUM_ARTIST as "Artista del álbum",
+	IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
 	a.ALBUM_RATING as "Calificacion del álbum",
 	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
 	a.ARTWORK_COUNT as "Carátula",
@@ -109,8 +110,8 @@ SELECT
 	a.KIND as "Tipo de archivo",
 	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
 	a.MATCHED as "Matched",
-	a.NORMALIZATION "Normalización",
-	a.PERSISTENT_ID "Id",
+	a.NORMALIZATION AS "Normalización",
+	a.PERSISTENT_ID AS "Id",
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
@@ -135,7 +136,6 @@ SELECT
 	b.TUNING as "Tuning",
 	b.HAS_LYRICS as "Tiene letra",
 	b.LYRICS_TEXT as "Letra",
-    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
     b.DURATION_SECONDS / 3600 as "Duración horas",
     IFF(a.RATING = 20, '1',
         IFF(a.RATING = 40, '2', 
@@ -171,13 +171,15 @@ LIMIT 25;
 -- Creación de la vista de canciones desnormalizazdas
 CREATE OR REPLACE SECURE VIEW vista.canciones AS
 SELECT
+	a.NAME AS "Canción",
+	b.Artista AS "Artista",
 	a.ALBUM as "Álbum",
 	a.ARTIST as "Artista original",
+	a.ALBUM_ARTIST as "Artista del álbum",
+	IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
 	a.GENRE as "Género",
-	a.NAME as "Canción",
 	a.TOTAL_TIME as "Duración minutos",
 	a.FILENAME as "Nombre archivo",
-	a.ALBUM_ARTIST as "Artista del álbum",
 	a.ALBUM_RATING as "Calificacion del álbum",
 	a.ALBUM_RATING_COMPUTED as "Calificación del álbum computarizado",
 	a.ARTWORK_COUNT as "Carátula",
@@ -195,8 +197,8 @@ SELECT
 	a.KIND as "Tipo de archivo",
 	IFF(a.LOVED IS NULL, 'No', 'Sí') as "Me Encanta",
 	a.MATCHED as "Matched",
-	a.NORMALIZATION "Normalización",
-	a.PERSISTENT_ID "Id",
+	a.NORMALIZATION AS "Normalización",
+	a.PERSISTENT_ID AS "Id",
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
@@ -221,7 +223,6 @@ SELECT
 	b.TUNING as "Tuning",
 	b.HAS_LYRICS as "Tiene letra",
 	b.LYRICS_TEXT as "Letra",
-    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
     b.DURATION_SECONDS / 3600 as "Duración horas",
     IFF(a.RATING = 20, '1',
         IFF(a.RATING = 40, '2', 
@@ -240,8 +241,7 @@ SELECT
                                     IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
     ))))))))) as "Escala de minutos",
     IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
-    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido",
-	b.Artista AS "Artista"
+    IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido"
 FROM 
     raw.biblioteca a 
 INNER JOIN 
@@ -256,14 +256,15 @@ AND
 -- Creación de la vista de playlist
 CREATE OR REPLACE SECURE VIEW vista.playlist AS
 SELECT
-    a.NAME AS "Canción",
+    a.PLAYLIST AS "Playlist",
+	a.NAME AS "Canción",
+	a.ARTIST AS "Artista",
     a.ALBUM AS "Álbum",
-    a.ARTIST AS "Artista",
     a.ALBUM_ARTIST AS "Artista álbum",
+	IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
     a.GENRE AS "Género",
     a.TOTAL_TIME AS "Duración minutos",
     a.FILENAME AS "Nombre archivo",
-    a.PLAYLIST AS "Playlist",
     a.ALBUM_RATING AS "Calificación álbum",
     a.ALBUM_RATING_COMPUTED AS "Calificación álbum computada",
     a.ARTWORK_COUNT AS "Cantidad carátulas",
@@ -284,7 +285,6 @@ SELECT
 	a.MATCHED as "Matched",
 	a.NORMALIZATION as "Normalización",
 	a.PERSISTENT_ID as "Id",
-    IFF(a.PLAY_COUNT IS NULL, 0, a.PLAY_COUNT) as "Reproducciones",
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
@@ -338,3 +338,77 @@ AND
 	a.ALBUM = b.ALBUM  
 AND 
 	upper(a.FILENAME) = upper(b.FILENAME);
+-- Creación de la vista de artistas sin playlist
+CREATE OR REPLACE SECURE VIEW vista.ARTISTAS_SIN_PLAYLIST AS
+SELECT
+    "Canción",
+    "Artista",
+	"Álbum",
+	"Artista original",
+	"Género",
+	"Duración minutos",
+	"Nombre archivo",
+	"Artista del álbum",
+	"Calificacion del álbum",
+	"Calificación del álbum computarizado",
+	"Carátula",
+	"Bpm",
+	"Ratio de bit",
+	"Comentarios",
+	"Compilación",
+	"Compositor",
+	"Fecha de adición",
+	"Fecha de modificación",
+	"Número de disco",
+	"Número de discos",
+	"No me gusta",
+	"Explícito",
+	"Tipo de archivo",
+	"Me Encanta",
+	"Matched",
+	"Normalización",
+	"Id",
+	"Fecha de última reproducción",
+	"Fecha de última reproducción UTC",
+	"Comprado",
+	"Calificación computarizada",
+	"Fecha de lanzamiento",
+	"Ratio de muestro",
+	"Tamño",
+	"Cuenta de saltos",
+	"Fecha del último salto",	
+	"Número canciones álbum",
+	"Id canción",
+	"Número canción álbum",
+	"Tipo canción",
+	"Año",
+	"Ruta archivo",
+	"Duración segundos",
+	"Tempo color",
+	"Espctro",
+	"Color", 
+	"Tempo Timbre Color",
+	"Danzabilidad",
+	"Tuning",
+	"Tiene letra",
+	"Letra",
+    "Reproducciones",
+    "Duración horas",
+    "Calificación",
+    "Escala de minutos",
+    "Me gusta",
+    "Reproducido"
+FROM 
+    VISTA.CANCIONES 
+WHERE 
+    upper("Artista") NOT IN (
+        SELECT 
+            upper("Playlist") 
+        FROM 
+            VISTA.PLAYLIST 
+        WHERE 
+            "Playlist" NOT LIKE '%Concierto%' 
+        GROUP BY 
+            upper("Playlist") 
+        ORDER BY upper("Playlist")
+    )
