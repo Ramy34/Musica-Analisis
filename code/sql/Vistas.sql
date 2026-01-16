@@ -31,7 +31,6 @@ SELECT
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
-	a.RATING_COMPUTED as "Calificación computarizada",
 	a.RELEASE_DATE as "Fecha de lanzamiento",
 	a.SAMPLE_RATE as "Ratio de muestro",
 	a.SIZE as "Tamño",
@@ -115,7 +114,6 @@ SELECT
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
-	a.RATING_COMPUTED as "Calificación computarizada",
 	a.RELEASE_DATE as "Fecha de lanzamiento",
 	a.SAMPLE_RATE as "Ratio de muestro",
 	a.SIZE as "Tamño",
@@ -202,7 +200,6 @@ SELECT
 	a.PLAY_DATE as "Fecha de última reproducción",
 	a.PLAY_DATE_UTC as "Fecha de última reproducción UTC",
 	a.PURCHASED as "Comprado",
-	a.RATING_COMPUTED as "Calificación computarizada",
 	a.RELEASE_DATE as "Fecha de lanzamiento",
 	a.SAMPLE_RATE as "Ratio de muestro",
 	a.SIZE as "Tamño",
@@ -294,7 +291,6 @@ SELECT
                 IFF(a.RATING = 80, '4', 
                     IFF(a.RATING = 100, '5', '0'
     ))))) as "Calificación",
-	a.RATING_COMPUTED as "Calificación computarizada",
 	a.RELEASE_DATE as "Fecha de lanzamiento",
 	a.SAMPLE_RATE as "Ratio de muestro",
 	a.SIZE as "Tamño",
@@ -371,7 +367,6 @@ SELECT
 	"Fecha de última reproducción",
 	"Fecha de última reproducción UTC",
 	"Comprado",
-	"Calificación computarizada",
 	"Fecha de lanzamiento",
 	"Ratio de muestro",
 	"Tamño",
@@ -411,4 +406,25 @@ WHERE
         GROUP BY 
             upper("Playlist") 
         ORDER BY upper("Playlist")
-    )
+    );
+-- Creación de la vista de resumen por artista
+CREATE OR REPLACE VIEW VISTA.ARTISTA_RESUMEN AS
+SELECT 
+    "Artista", 
+    count("Canción") AS "Total de canciones",
+    SUM("Reproducciones") AS "Total de reproducciones",
+    AVG("Bpm") AS "Bpm promedio",
+    AVG("Ratio de bit") AS "Bit rate promedio",
+    AVG("Ratio de muestro") AS "Ratio de muestreo promedio",
+    SUM(iff("Me gusta" = 'Sí', 1, 0)) AS "Cantidad de favoritas",
+    MAX(iff("Playlist" IS NOT NULL, 'Sí', 'No')) AS "Tiene playlist"
+FROM 
+    VISTA.CANCIONES
+LEFT JOIN
+    (SELECT "Playlist" FROM VISTA.PLAYLIST WHERE "Playlist" NOT LIKE 'Concierto%' GROUP BY "Playlist")
+ON
+    UPPER("Artista") = UPPER("Playlist")
+GROUP BY 
+    "Artista" 
+ORDER BY 
+    "Total de canciones" DESC;

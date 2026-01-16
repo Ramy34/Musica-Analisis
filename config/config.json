@@ -7,7 +7,7 @@
   "paths_windows": {
     "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
     "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
-    "music_folder" : "F:/iTunes/iTunes Media/Music",
+    "music_folder" : "E:/iTunes/iTunes Media/Music",
     "csv_preraw": "D:/Códigos/Musica-Analisis/files/csv/Pre_RAW",
     "csv_raw": "D:/Códigos/Musica-Analisis/files/csv/RAW/playlist.csv",
     "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/RAW/Metadata.csv",
