@@ -5,11 +5,6 @@ from code.python import extraccion_metdatos, xml_to_csv, carga_snowflake, artist
 def main():
     config = Config()
 
-    if config.general["os"] == "windows":
-        config.paths = config.paths_windows
-    elif config.general["os"] == "macos":
-        config.paths = config.paths_macos
-
     if config.general["procesar_todo"]:
         extraccion_metdatos.main(config.paths["music_folder"], config.paths["csv_metadata_output"], config.general["threads"], config.general["escala"])
     xml_to_csv.main(config.paths["input_folder"], config.paths["output_folder"])

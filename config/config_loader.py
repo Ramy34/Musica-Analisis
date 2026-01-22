@@ -1,5 +1,6 @@
 import json
 import os
+import platform
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -8,6 +9,7 @@ class Config:
         self._config_path = Path(config_path)
         self._data = self._load_json()
         self._load_env()
+        self._resolve_paths_by_os()
 
     def _load_json(self):
         with open(self._config_path, "r", encoding="utf-8") as f:
@@ -20,6 +22,23 @@ class Config:
             "user": os.getenv("SNOWFLAKE_USER"),
             "password": os.getenv("SNOWFLAKE_PASSWORD")
         }
+
+    def _resolve_paths_by_os(self):
+        system = platform.system()
+
+        if system == "Windows":
+            os_key = "windows"
+        elif system == "Darwin":
+            os_key = "macos"
+        else:
+            raise RuntimeError(f"OS no soportado: {system}")
+
+        try:
+            self._data["paths"] = {
+                k: Path(v) for k, v in self._data["paths"][os_key].items()
+            }
+        except KeyError:
+            raise KeyError(f"No existen paths definidos para OS: {os_key}")
 
     def get(self, section: str, key: str, default=None):
         return self._data.get(section, {}).get(key, default)
