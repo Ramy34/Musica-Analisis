@@ -9,17 +9,13 @@
       "music_folder" : "E:/iTunes/iTunes Media/Music",
       "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/RAW/Metadata.csv",
       "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
-      "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
-      "csv_artistas_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Artistas.csv",
-      "csv_canciones_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Canciones.csv"
+      "output_folder": "D:/Códigos/Musica-Analisis/files/csv"
     },
     "macos": {
       "music_folder" : "E:/iTunes/iTunes Media/Music",
       "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/RAW/Metadata.csv",
       "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
-      "output_folder": "D:/Códigos/Musica-Analisis/files/csv",
-      "csv_artistas_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Artistas.csv",
-      "csv_canciones_output": "D:/Códigos/Musica-Analisis/files/csv/DW/Canciones.csv"
+      "output_folder": "D:/Códigos/Musica-Analisis/files/csv"
     }
   },
   "general": {
