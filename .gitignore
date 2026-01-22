@@ -1,2 +1,8 @@
-/Otros
-/Archivos/Playlist
+/files
+/code/python/prueba.py
+.env
+artistas.csv
+/code/__pycache__
+/code/python/__pycache__
+/config/__pycache__
+/code/snowflake
