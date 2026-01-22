@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:21:23Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12085</key>
+		<dict>
+			<key>Track ID</key><integer>12085</integer>
+			<key>Name</key><string>Blaze drops</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Bridges We've Dreamed - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11035873</integer>
+			<key>Total Time</key><integer>270025</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:08Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:23Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850836913</integer>
+			<key>Play Date UTC</key><date>2026-01-10T02:55:13Z</date>
+			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15865</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C04FECD74E45DFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/01%20Blaze%20drops.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12097</key>
+		<dict>
+			<key>Track ID</key><integer>12097</integer>
+			<key>Name</key><string>Innocent days</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Ghost of the freedom</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8427486</integer>
+			<key>Total Time</key><integer>208074</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:57Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:23Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851343012</integer>
+			<key>Play Date UTC</key><date>2026-01-15T23:30:12Z</date>
+			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17869</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D38FA70B259155E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/01%20Innocent%20days.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12131</key>
+		<dict>
+			<key>Track ID</key><integer>12131</integer>
+			<key>Name</key><string>時の行方</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Sing against the stream</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11431854</integer>
+			<key>Total Time</key><integer>287927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:02Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>313</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850832092</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:34:52Z</date>
+			<key>Release Date</key><date>2009-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12645</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9B016808D7F14952</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/01%20%E6%99%82%E3%81%AE%E8%A1%8C%E6%96%B9.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12151</key>
+		<dict>
+			<key>Track ID</key><integer>12151</integer>
+			<key>Name</key><string>Holy moments</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Bridges We've Dreamed - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9685995</integer>
+			<key>Total Time</key><integer>237029</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:09Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850837150</integer>
+			<key>Play Date UTC</key><date>2026-01-10T02:59:10Z</date>
+			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9928</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41B71BB0CFED5BC3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/02%20Holy%20moments.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12159</key>
+		<dict>
+			<key>Track ID</key><integer>12159</integer>
+			<key>Name</key><string>Libra</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Dot of the Galaxy</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9881040</integer>
+			<key>Total Time</key><integer>241534</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:07Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850834508</integer>
+			<key>Play Date UTC</key><date>2026-01-10T02:15:08Z</date>
+			<key>Release Date</key><date>2010-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17624</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F5AA775CC403C75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/02%20Libra.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12177</key>
+		<dict>
+			<key>Track ID</key><integer>12177</integer>
+			<key>Name</key><string>ずっと何処かに</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Sing against the stream</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9441129</integer>
+			<key>Total Time</key><integer>230179</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:03Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850832322</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:38:42Z</date>
+			<key>Release Date</key><date>2009-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11896</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A01FA6145950FCC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/02%20%E3%81%9A%E3%81%A3%E3%81%A8%E4%BD%95%E5%87%A6%E3%81%8B%E3%81%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12199</key>
+		<dict>
+			<key>Track ID</key><integer>12199</integer>
+			<key>Name</key><string>Not alone</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Sing against the stream</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9194742</integer>
+			<key>Total Time</key><integer>223585</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:04Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850832545</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:42:25Z</date>
+			<key>Release Date</key><date>2009-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9102</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BB73EA81905D7C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/03%20Not%20alone.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12223</key>
+		<dict>
+			<key>Track ID</key><integer>12223</integer>
+			<key>Name</key><string>遠くへ</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Blind Side</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9121774</integer>
+			<key>Total Time</key><integer>224328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:53Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850828867</integer>
+			<key>Play Date UTC</key><date>2026-01-10T00:41:07Z</date>
+			<key>Release Date</key><date>2007-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13915</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F39748955DEC222</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/03%20%E9%81%A0%E3%81%8F%E3%81%B8.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12237</key>
+		<dict>
+			<key>Track ID</key><integer>12237</integer>
+			<key>Name</key><string>Flag</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Ghost of the freedom</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9389775</integer>
+			<key>Total Time</key><integer>231224</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>161</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:58Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850831056</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:17:36Z</date>
+			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14625</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>187E686F47DB9AE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/04%20Flag.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12255</key>
+		<dict>
+			<key>Track ID</key><integer>12255</integer>
+			<key>Name</key><string>New dawn</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Bridges We've Dreamed - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10133666</integer>
+			<key>Total Time</key><integer>246480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:10Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850837903</integer>
+			<key>Play Date UTC</key><date>2026-01-10T03:11:43Z</date>
+			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8739</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF674768C14DA5CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/04%20New%20dawn.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12291</key>
+		<dict>
+			<key>Track ID</key><integer>12291</integer>
+			<key>Name</key><string>Lost Anthology</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Ghost of the freedom</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8002631</integer>
+			<key>Total Time</key><integer>194119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:59Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850831250</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:20:50Z</date>
+			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16714</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4456C0604E856A58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/05%20Lost%20Anthology.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12303</key>
+		<dict>
+			<key>Track ID</key><integer>12303</integer>
+			<key>Name</key><string>Siren</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Bridges We've Dreamed - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9363615</integer>
+			<key>Total Time</key><integer>230319</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:13Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850838133</integer>
+			<key>Play Date UTC</key><date>2026-01-10T03:15:33Z</date>
+			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10831</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDD63D5FEA961D79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/05%20Siren.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12305</key>
+		<dict>
+			<key>Track ID</key><integer>12305</integer>
+			<key>Name</key><string>The Limited World</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Blind Side</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10360042</integer>
+			<key>Total Time</key><integer>251936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>157</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:55Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850829299</integer>
+			<key>Play Date UTC</key><date>2026-01-10T00:48:19Z</date>
+			<key>Release Date</key><date>2007-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15056</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Limited World</string>
+			<key>Persistent ID</key><string>04DD618814CDF20F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/05%20The%20Limited%20World.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12393</key>
+		<dict>
+			<key>Track ID</key><integer>12393</integer>
+			<key>Name</key><string>夜空</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Ghost of the freedom</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8648590</integer>
+			<key>Total Time</key><integer>212184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:00Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850831620</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:27:00Z</date>
+			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17663</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6CF4C923A9D89BF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/07%20%E5%A4%9C%E7%A9%BA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12395</key>
+		<dict>
+			<key>Track ID</key><integer>12395</integer>
+			<key>Name</key><string>Across the sea</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Ghost of the freedom</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7733180</integer>
+			<key>Total Time</key><integer>189080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:01Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:26Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850831804</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:30:04Z</date>
+			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16346</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A6C0CD5283E8143</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/08%20Across%20the%20sea.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12435</key>
+		<dict>
+			<key>Track ID</key><integer>12435</integer>
+			<key>Name</key><string>Coda</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Dot of the Galaxy</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8656099</integer>
+			<key>Total Time</key><integer>210094</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:08Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:26Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850836204</integer>
+			<key>Play Date UTC</key><date>2026-01-10T02:43:24Z</date>
+			<key>Release Date</key><date>2010-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8A01EC36AD41EF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/09%20Coda.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12453</key>
+		<dict>
+			<key>Track ID</key><integer>12453</integer>
+			<key>Name</key><string>Time matters</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>Sing against the stream</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10541996</integer>
+			<key>Total Time</key><integer>257254</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-01-10T03:19:06Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:26Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850833661</integer>
+			<key>Play Date UTC</key><date>2026-01-10T02:01:01Z</date>
+			<key>Release Date</key><date>2009-03-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9405</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>548B7DAE868A9F40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/09%20Time%20matters.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34387</key>
+		<dict>
+			<key>Track ID</key><integer>34387</integer>
+			<key>Name</key><string>LAST TRAIN -新しい朝-</string>
+			<key>Artist</key><string>knotlamp</string>
+			<key>Album Artist</key><string>knotlamp</string>
+			<key>Composer</key><string>Keit</string>
+			<key>Album</key><string>LAST TRAIN -新しい朝- - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>58574750</integer>
+			<key>Total Time</key><integer>243180</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-10T03:18:56Z</date>
+			<key>Date Added</key><date>2026-01-07T15:40:00Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850830037</integer>
+			<key>Play Date UTC</key><date>2026-01-10T01:00:37Z</date>
+			<key>Release Date</key><date>2008-10-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16007</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77FA4D580B29C1C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-%20-%20Single/01%20LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Knotlamp</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101585</integer>
+			<key>Playlist Persistent ID</key><string>782F845BAD1641F9</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoZTTHN0AAEAAQAAAAYAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAASwBuAG8AdABsAGEAbQBwAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBv
+			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AA4AZQBzACAAbABpAHYAZQAAAAIDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQByAHMAdAAgAFQAYQBr
+			AGUAAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>12223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12255</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12303</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12453</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

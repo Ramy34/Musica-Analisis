@@ -1,0 +1,2856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:22:39Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7567</key>
+		<dict>
+			<key>Track ID</key><integer>7567</integer>
+			<key>Name</key><string>MALVAS</string>
+			<key>Artist</key><string>Leo Rizzi &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Leo Rizzi &#38; Paty Cantú</string>
+			<key>Album</key><string>MALVAS - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5962289</integer>
+			<key>Total Time</key><integer>183875</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>68</integer>
+			<key>Date Modified</key><date>2026-01-07T20:34:51Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845720142</integer>
+			<key>Play Date UTC</key><date>2025-11-11T21:35:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5955</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCCD2526EA2C50CF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Rizzi%20&#38;%20Paty%20Cant%C3%BA/MALVAS%20-%20Single/01%20MALVAS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8093</key>
+		<dict>
+			<key>Track ID</key><integer>8093</integer>
+			<key>Name</key><string>En El Alma</string>
+			<key>Artist</key><string>Motel &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Motel &#38; Paty Cantú</string>
+			<key>Album</key><string>En el Alma - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10420821</integer>
+			<key>Total Time</key><integer>226142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T21:47:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3845722467</integer>
+			<key>Play Date UTC</key><date>2025-11-11T22:14:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4024</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A0B5AE6B624D1A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Motel%20&#38;%20Paty%20Cant%C3%BA/En%20el%20Alma%20-%20Single/01%20En%20El%20Alma.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8979</key>
+		<dict>
+			<key>Track ID</key><integer>8979</integer>
+			<key>Name</key><string>Vete</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Mats Hedstrom, Ángela Dávalos &#38; Eric Palmqwist</string>
+			<key>Album</key><string>#333 (Edición Deluxe)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6757045</integer>
+			<key>Total Time</key><integer>209789</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>29</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>174</integer>
+			<key>Date Modified</key><date>2026-01-07T20:46:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3848991544</integer>
+			<key>Play Date UTC</key><date>2025-12-19T18:19:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-09-23T19:20:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9059</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB10BF243195B525</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/04%20Vete.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8981</key>
+		<dict>
+			<key>Track ID</key><integer>8981</integer>
+			<key>Name</key><string>Vuelve A Respirar</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú &#38; Ángela Dávalos</string>
+			<key>Album</key><string>#333 (Edición Deluxe)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7967468</integer>
+			<key>Total Time</key><integer>247614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>29</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T21:41:40Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3850591489</integer>
+			<key>Play Date UTC</key><date>2026-01-07T06:44:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6EFE26C70B27B10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/05%20Vuelve%20A%20Respirar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8989</key>
+		<dict>
+			<key>Track ID</key><integer>8989</integer>
+			<key>Name</key><string>Cuervo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú &#38; Ángela Dávalos</string>
+			<key>Album</key><string>#333 (Edición Deluxe)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7966621</integer>
+			<key>Total Time</key><integer>247588</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>29</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T17:11:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3826360986</integer>
+			<key>Play Date UTC</key><date>2025-04-01T20:03:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7801</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6DE186CF62B3EED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/09%20Cuervo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9019</key>
+		<dict>
+			<key>Track ID</key><integer>9019</integer>
+			<key>Name</key><string>Afortunadamente No Eres Tú</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Juan Carlos Moguel, Bruno Danza &#38; Paty Cantú</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6106309</integer>
+			<key>Total Time</key><integer>188891</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-07T20:48:04Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3826361933</integer>
+			<key>Play Date UTC</key><date>2025-04-01T20:18:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3983</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>270E3C34150113C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/01%20Afortunadamente%20No%20Eres%20T%C3%BA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9021</key>
+		<dict>
+			<key>Track ID</key><integer>9021</integer>
+			<key>Name</key><string>Goma de Mascar</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Angela Davalos &#38; Daniel Ramirez</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5804502</integer>
+			<key>Total Time</key><integer>179461</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2026-01-07T21:07:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3831278966</integer>
+			<key>Play Date UTC</key><date>2025-05-28T17:09:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2172</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C91AAE59D7DF15E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/02%20Goma%20de%20Mascar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9023</key>
+		<dict>
+			<key>Track ID</key><integer>9023</integer>
+			<key>Name</key><string>Clavo Que Saca Otro Clavo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Bruno Danza, Paty Cantú &#38; Jules Ramillano</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6316931</integer>
+			<key>Total Time</key><integer>195474</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2026-01-07T16:55:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3834405060</integer>
+			<key>Play Date UTC</key><date>2025-07-03T21:31:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17E547123EAD564E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/03%20Clavo%20Que%20Saca%20Otro%20Clavo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9025</key>
+		<dict>
+			<key>Track ID</key><integer>9025</integer>
+			<key>Name</key><string>Se Desintegra el Amor</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Angela Davalos &#38; Gustavo Guevara</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6970615</integer>
+			<key>Total Time</key><integer>215902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T19:11:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845984561</integer>
+			<key>Play Date UTC</key><date>2025-11-14T23:02:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1445</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B25842EEC1FBB8B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/04%20Se%20Desintegra%20el%20Amor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9027</key>
+		<dict>
+			<key>Track ID</key><integer>9027</integer>
+			<key>Name</key><string>Vuelve a Amarme</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Maria Bernal, Michkin Boyzo &#38; Paty Cantú</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6865283</integer>
+			<key>Total Time</key><integer>212610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3850405225</integer>
+			<key>Play Date UTC</key><date>2026-01-05T03:00:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2874</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>703F644C5BC5B62B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/05%20Vuelve%20a%20Amarme.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9045</key>
+		<dict>
+			<key>Track ID</key><integer>9045</integer>
+			<key>Name</key><string>Se Desintegra el Amor</string>
+			<key>Artist</key><string>Paty Cantú feat. Benny Ibarra</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Afortunadamente No Eres Tú (Edición Especial)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6870326</integer>
+			<key>Total Time</key><integer>212767</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T20:49:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851172995</integer>
+			<key>Play Date UTC</key><date>2026-01-14T00:16:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2453</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E5C0BB6A624C4A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/14%20Se%20Desintegra%20el%20Amor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9053</key>
+		<dict>
+			<key>Track ID</key><integer>9053</integer>
+			<key>Name</key><string>Bancarrota (Soundtrack Cindy La Regia- La Serie)</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Daniel Obregon Gaviria, Michael Rincón &#38; Paty Cantú</string>
+			<key>Album</key><string>Bancarrota (Soundtrack Cindy La Regia- La Serie) - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6464406</integer>
+			<key>Total Time</key><integer>145293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-07T19:59:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842121163</integer>
+			<key>Play Date UTC</key><date>2025-10-01T04:52:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5285</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>612453CC3A709653</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bancarrota%20(Soundtrack%20Cindy%20La%20Regia-%20L/01%20Bancarrota%20(Soundtrack%20Cindy%20La%20R.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9055</key>
+		<dict>
+			<key>Track ID</key><integer>9055</integer>
+			<key>Name</key><string>Corazón Bipolar</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Ximena Muñoz, Patricia Cantu &#38; Angeles Dávalos</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6334375</integer>
+			<key>Total Time</key><integer>195657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T19:02:07Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3843133279</integer>
+			<key>Play Date UTC</key><date>2025-10-12T22:01:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5912</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7C50DF60E4B4BF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/01%20Coraz%C3%B3n%20Bipolar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9057</key>
+		<dict>
+			<key>Track ID</key><integer>9057</integer>
+			<key>Name</key><string>Quiero X 2</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Aureo Baqueiro, Patricia Cantu &#38; Ángela Dávalos</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6978845</integer>
+			<key>Total Time</key><integer>215797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T17:54:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3846787122</integer>
+			<key>Play Date UTC</key><date>2025-11-24T05:58:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6241694A69A68A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/02%20Quiero%20X%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9061</key>
+		<dict>
+			<key>Track ID</key><integer>9061</integer>
+			<key>Name</key><string>Manual</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu &#38; Ángela Dávalos</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6112830</integer>
+			<key>Total Time</key><integer>188734</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2026-01-07T20:41:06Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3837186660</integer>
+			<key>Play Date UTC</key><date>2025-08-05T02:11:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4520</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61EF93C23CC0EBAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/04%20Manual.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9063</key>
+		<dict>
+			<key>Track ID</key><integer>9063</integer>
+			<key>Name</key><string>Hechos No Palabras!</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Billy Mann, Patricia Cantu &#38; David Shuller</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6275011</integer>
+			<key>Total Time</key><integer>193802</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2026-01-07T20:28:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851167654</integer>
+			<key>Play Date UTC</key><date>2026-01-13T22:47:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6933</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AABFC47F48652A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/05%20Hechos%20No%20Palabras!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9069</key>
+		<dict>
+			<key>Track ID</key><integer>9069</integer>
+			<key>Name</key><string>Suerte</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu &#38; Ángela Dávalos</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5954841</integer>
+			<key>Total Time</key><integer>183797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T17:17:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3835859900</integer>
+			<key>Play Date UTC</key><date>2025-07-20T17:38:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4966</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>94EC0BBF94DA1516</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/08%20Suerte.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9073</key>
+		<dict>
+			<key>Track ID</key><integer>9073</integer>
+			<key>Name</key><string>El Sexo Y El Amor</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>David Siegel, Shane Stoner, Patricia Cantu, Ángela Dávalos &#38; Marc Geffard</string>
+			<key>Album</key><string>Corazón Bipolar (Edición Especial)</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8144123</integer>
+			<key>Total Time</key><integer>252212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T18:46:41Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3845548433</integer>
+			<key>Play Date UTC</key><date>2025-11-09T21:53:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3867</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sexo Y El Amor</string>
+			<key>Persistent ID</key><string>82F4A0C7E05C6AAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/10%20El%20Sexo%20Y%20El%20Amor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9143</key>
+		<dict>
+			<key>Track ID</key><integer>9143</integer>
+			<key>Name</key><string>Funeral 2.0</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Angela Davalos, Emilia Vega, Paty Cantú &#38; Simón Buritica Jaramillo</string>
+			<key>Album</key><string>Funeral 2.0 - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7572796</integer>
+			<key>Total Time</key><integer>234631</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-05T19:35:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850465021</integer>
+			<key>Play Date UTC</key><date>2026-01-05T19:37:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4328</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0A7A5B3763F4B64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Funeral%202.0%20-%20Single/01%20Funeral%202.0.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9149</key>
+		<dict>
+			<key>Track ID</key><integer>9149</integer>
+			<key>Name</key><string>Hoy No</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>La Mexicana</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6354713</integer>
+			<key>Total Time</key><integer>195761</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T20:03:41Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3844003225</integer>
+			<key>Play Date UTC</key><date>2025-10-22T23:40:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7013</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana</string>
+			<key>Persistent ID</key><string>6EC71C07A988BE7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/04%20Hoy%20No.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9153</key>
+		<dict>
+			<key>Track ID</key><integer>9153</integer>
+			<key>Name</key><string>Ansiedad</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>La Mexicana</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8272312</integer>
+			<key>Total Time</key><integer>255686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T19:03:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3826354465</integer>
+			<key>Play Date UTC</key><date>2025-04-01T18:14:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7621</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana</string>
+			<key>Persistent ID</key><string>BE54C0E8C51ABAD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/07%20Ansiedad.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9157</key>
+		<dict>
+			<key>Track ID</key><integer>9157</integer>
+			<key>Name</key><string>La Otra</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>La Otra - Single</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7807804</integer>
+			<key>Total Time</key><integer>189126</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T18:35:01Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850407202</integer>
+			<key>Play Date UTC</key><date>2026-01-05T03:33:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3966</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Otra - Single</string>
+			<key>Sort Name</key><string>Otra</string>
+			<key>Persistent ID</key><string>989A18F859D1C957</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Otra%20-%20Single/01%20La%20Otra.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9159</key>
+		<dict>
+			<key>Track ID</key><integer>9159</integer>
+			<key>Name</key><string>Lo Que No Quieres Saber</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Angela Davalos, Daniel Sobrino, Ali Stone &#38; Paty Cantú</string>
+			<key>Album</key><string>Lo Que No Quieres Saber - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4975672</integer>
+			<key>Total Time</key><integer>153234</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T18:03:57Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847198233</integer>
+			<key>Play Date UTC</key><date>2025-11-29T00:10:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5673</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lo Que No Quieres Saber - Single</string>
+			<key>Sort Artist</key><string>Paty Cantú</string>
+			<key>Sort Name</key><string>Lo Que No Quieres Saber</string>
+			<key>Persistent ID</key><string>457D955CA08B1455</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Lo%20Que%20No%20Quieres%20Saber%20-%20Single/01%20Lo%20Que%20No%20Quieres%20Saber.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9163</key>
+		<dict>
+			<key>Track ID</key><integer>9163</integer>
+			<key>Name</key><string>No Fue Suficiente</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>wwW.MusikfresK.blogspot.com</string>
+			<key>Album</key><string>Me Quedo Sola</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6350811</integer>
+			<key>Total Time</key><integer>195422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-07T17:44:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3843650754</integer>
+			<key>Play Date UTC</key><date>2025-10-18T21:45:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3926</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A9127E7C3830ABA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/02%20No%20Fue%20Suficiente.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9165</key>
+		<dict>
+			<key>Track ID</key><integer>9165</integer>
+			<key>Name</key><string>Déjame Ir</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu &#38; Luis Fernando Ochoa</string>
+			<key>Album</key><string>Me Quedo Sola</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7568748</integer>
+			<key>Total Time</key><integer>233482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T21:53:02Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845735897</integer>
+			<key>Play Date UTC</key><date>2025-11-12T01:58:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F965406487CD33EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/03%20D%C3%A9jame%20Ir.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9171</key>
+		<dict>
+			<key>Track ID</key><integer>9171</integer>
+			<key>Name</key><string>Me Quedo Sola</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Gustavo Guevara/Patricia Cantú</string>
+			<key>Album</key><string>Me Quedo Sola</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6439414</integer>
+			<key>Total Time</key><integer>198191</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T18:32:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3826356338</integer>
+			<key>Play Date UTC</key><date>2025-04-01T18:45:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3846</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DD0BA45C7B8A64E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/06%20Me%20Quedo%20Sola.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9187</key>
+		<dict>
+			<key>Track ID</key><integer>9187</integer>
+			<key>Name</key><string>Tal Vez</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Gero Omaña, Victòria &#38; Esmeralda Cantoral</string>
+			<key>Album</key><string>Tal Vez - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5406000</integer>
+			<key>Total Time</key><integer>166922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T19:15:37Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845974663</integer>
+			<key>Play Date UTC</key><date>2025-11-14T20:17:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7940</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A30D006B59904F05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Tal%20Vez%20-%20Single/01%20Tal%20Vez.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9191</key>
+		<dict>
+			<key>Track ID</key><integer>9191</integer>
+			<key>Name</key><string>No lo Sé</string>
+			<key>Artist</key><string>Paty Cantú &#38; Arkano</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Fabian Mazur, Alexandra Grace Saad, Guillermo Rodriguez Godinez &#38; Joshua Carruthers</string>
+			<key>Album</key><string>La Mexicana</string>
+			<key>Genre</key><string>Pop Latino</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4585416</integer>
+			<key>Total Time</key><integer>140460</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-01-07T17:17:05Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842282019</integer>
+			<key>Play Date UTC</key><date>2025-10-03T01:33:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2938</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana</string>
+			<key>Sort Artist</key><string>Paty Cantú &#38; Arkano</string>
+			<key>Sort Name</key><string>No lo Sé</string>
+			<key>Persistent ID</key><string>32AB93FE9CBC74D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/08%20No%20lo%20S%C3%A9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9199</key>
+		<dict>
+			<key>Track ID</key><integer>9199</integer>
+			<key>Name</key><string>Mírame</string>
+			<key>Artist</key><string>Paty Cantú &#38; Josh Radnor</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>La Mexicana</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7708145</integer>
+			<key>Total Time</key><integer>238053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-07T20:55:01Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843650180</integer>
+			<key>Play Date UTC</key><date>2025-10-18T21:36:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2651</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana</string>
+			<key>Persistent ID</key><string>5DEB881B68F8124A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/09%20M%C3%ADrame.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9209</key>
+		<dict>
+			<key>Track ID</key><integer>9209</integer>
+			<key>Name</key><string>A Las 3</string>
+			<key>Artist</key><string>Paty Cantú &#38; Leon Leiden</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Leon Leiden</string>
+			<key>Composer</key><string>Angela Davalos, Leon Leiden, Patricia Cantu &#38; Saibu</string>
+			<key>Album</key><string>A Las 3 - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5294402</integer>
+			<key>Total Time</key><integer>162377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2026-01-07T17:51:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844247591</integer>
+			<key>Play Date UTC</key><date>2025-10-25T19:33:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5907</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8262A0EBD4EE5F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Leon%20Leiden/A%20Las%203%20-%20Single/01%20A%20Las%203.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9211</key>
+		<dict>
+			<key>Track ID</key><integer>9211</integer>
+			<key>Name</key><string>Si Yo Fuera Tú</string>
+			<key>Artist</key><string>Paty Cantú &#38; Maria Becerra</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Maria Becerra</string>
+			<key>Album</key><string>Si Yo Fuera Tú - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5529406</integer>
+			<key>Total Time</key><integer>172460</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T17:22:37Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3844363718</integer>
+			<key>Play Date UTC</key><date>2025-10-27T04:48:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5794</integer>
+			<key>Persistent ID</key><string>F4DBF1C2FD1C3094</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Maria%20Becerra/Si%20Yo%20Fuera%20T%C3%BA%20-%20Single/01%20Si%20Yo%20Fuera%20T%C3%BA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9217</key>
+		<dict>
+			<key>Track ID</key><integer>9217</integer>
+			<key>Name</key><string>Que Pasaría</string>
+			<key>Artist</key><string>Paty Cantú &#38; VADHIR</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; VADHIR</string>
+			<key>Album</key><string>Que Pasaría - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9374047</integer>
+			<key>Total Time</key><integer>198608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T19:18:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3829165282</integer>
+			<key>Play Date UTC</key><date>2025-05-04T06:01:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5314</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D34E062986AC7F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20VADHIR/Que%20Pasar%C3%ADa%20-%20Single/01%20Que%20Pasar%C3%ADa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9221</key>
+		<dict>
+			<key>Track ID</key><integer>9221</integer>
+			<key>Name</key><string>¿Te Ha Pasado?</string>
+			<key>Artist</key><string>Paty Cantú, Pitizion &#38; Camila Fernández</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Miriam Rodríguez &#38; Maria Del Pilar Pérez</string>
+			<key>Album</key><string>La Mexicana</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5310652</integer>
+			<key>Total Time</key><integer>163343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T18:07:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:58:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3831025277</integer>
+			<key>Play Date UTC</key><date>2025-05-25T18:41:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3123</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana</string>
+			<key>Sort Name</key><string>Te Ha Pasado?</string>
+			<key>Persistent ID</key><string>E5E025FBDA970A43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/05%20%C2%BFTe%20Ha%20Pasado_.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9839</key>
+		<dict>
+			<key>Track ID</key><integer>9839</integer>
+			<key>Name</key><string>Bailando</string>
+			<key>Artist</key><string>Safree &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Safree &#38; Paty Cantú</string>
+			<key>Composer</key><string>Rosana Martínez Navarro &#38; Paty Cantú</string>
+			<key>Album</key><string>Bailando - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5587894</integer>
+			<key>Total Time</key><integer>144117</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:59:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850469933</integer>
+			<key>Play Date UTC</key><date>2026-01-05T20:58:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1132</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD341EAF04241AD7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Safree%20&#38;%20Paty%20Cant%C3%BA/Bailando%20-%20Single/01%20Bailando.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12083</key>
+		<dict>
+			<key>Track ID</key><integer>12083</integer>
+			<key>Name</key><string>Al Infiel</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Angela Davalos &#38; Paty Cantú</string>
+			<key>Album</key><string>Al Infiel - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8443715</integer>
+			<key>Total Time</key><integer>209212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T22:15:17Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:23Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843650390</integer>
+			<key>Play Date UTC</key><date>2025-10-18T21:39:50Z</date>
+			<key>Release Date</key><date>2024-11-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4264</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56CB9C7BB1E1771B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Al%20Infiel%20-%20Single/01%20Al%20Infiel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12087</key>
+		<dict>
+			<key>Track ID</key><integer>12087</integer>
+			<key>Name</key><string>Chiquita</string>
+			<key>Artist</key><string>Kaia Lana &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Kaia Lana &#38; Paty Cantú</string>
+			<key>Album</key><string>Chiquita - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7680732</integer>
+			<key>Total Time</key><integer>184715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T22:18:33Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:23Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850455514</integer>
+			<key>Play Date UTC</key><date>2026-01-05T16:58:34Z</date>
+			<key>Release Date</key><date>2024-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3653</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>818F2D8B07814F75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kaia%20Lana%20&#38;%20Paty%20Cant%C3%BA/Chiquita%20-%20Single/01%20Chiquita.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13865</key>
+		<dict>
+			<key>Track ID</key><integer>13865</integer>
+			<key>Name</key><string>El Reloj del Corazón</string>
+			<key>Artist</key><string>Gera MX &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Gera MX &#38; Paty Cantú</string>
+			<key>Album</key><string>El Reloj del Corazón - Single</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8599518</integer>
+			<key>Total Time</key><integer>205404</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>86</integer>
+			<key>Date Modified</key><date>2026-01-07T19:33:00Z</date>
+			<key>Date Added</key><date>2025-01-17T18:19:41Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843120791</integer>
+			<key>Play Date UTC</key><date>2025-10-12T18:33:11Z</date>
+			<key>Release Date</key><date>2024-07-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4300</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Reloj del Corazón - Single</string>
+			<key>Sort Name</key><string>Reloj del Corazón</string>
+			<key>Persistent ID</key><string>B84EF9FE70DE09D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Gera%20MX%20&#38;%20Paty%20Cant%C3%BA/El%20Reloj%20del%20Coraz%C3%B3n%20-%20Single/01%20El%20Reloj%20del%20Coraz%C3%B3n.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15501</key>
+		<dict>
+			<key>Track ID</key><integer>15501</integer>
+			<key>Name</key><string>Al Mali (TQM, BB)</string>
+			<key>Artist</key><string>Paty Cantú &#38; El Malilla</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; El Malilla</string>
+			<key>Album</key><string>Al Mali (TQM, BB) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6567721</integer>
+			<key>Total Time</key><integer>155000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T20:09:26Z</date>
+			<key>Date Added</key><date>2025-02-07T01:05:29Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3850565365</integer>
+			<key>Play Date UTC</key><date>2026-01-06T23:29:25Z</date>
+			<key>Release Date</key><date>2025-02-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4566</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE033B28B5D0C634</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20El%20Malilla/Al%20Mali%20(TQM,%20BB)%20-%20Single/01%20Al%20Mali%20(TQM,%20BB).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>18539</key>
+		<dict>
+			<key>Track ID</key><integer>18539</integer>
+			<key>Name</key><string>Libre</string>
+			<key>Artist</key><string>Alvaro Soler feat. Paty Cantú</string>
+			<key>Album Artist</key><string>Alvaro Soler</string>
+			<key>Composer</key><string>Ali Zuckowski/Alvaro Tauchert Soler/Simon Triebel</string>
+			<key>Album</key><string>Eterno Agosto</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9741667</integer>
+			<key>Total Time</key><integer>231038</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T21:03:54Z</date>
+			<key>Date Added</key><date>2025-02-18T18:23:41Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3847111726</integer>
+			<key>Play Date UTC</key><date>2025-11-28T00:08:46Z</date>
+			<key>Release Date</key><date>2016-07-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5009</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5BA79B9571628281</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alvaro%20Soler/Eterno%20Agosto/03%20Libre.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24265</key>
+		<dict>
+			<key>Track ID</key><integer>24265</integer>
+			<key>Name</key><string>Valiente</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu, Angela Dávalos, Eric Palmqwist &#38; Mats Hedstrom</string>
+			<key>Album</key><string>Valiente (Deluxe) - EP</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10374332</integer>
+			<key>Total Time</key><integer>255535</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:32Z</date>
+			<key>Date Added</key><date>2025-03-05T00:29:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3826362802</integer>
+			<key>Play Date UTC</key><date>2025-04-01T20:33:22Z</date>
+			<key>Release Date</key><date>2015-09-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3301</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F27BEFDD9C4EB9BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Valiente%20(Deluxe)%20-%20EP/01%20Valiente.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24275</key>
+		<dict>
+			<key>Track ID</key><integer>24275</integer>
+			<key>Name</key><string>#Natural</string>
+			<key>Artist</key><string>Paty Cantú &#38; Juhn</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Juhn</string>
+			<key>Composer</key><string>Paty Cantú, Jorge Hernández Quiles &#38; Andres Saavedra</string>
+			<key>Album</key><string>#Natural - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9552474</integer>
+			<key>Total Time</key><integer>227068</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-07T18:50:43Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846403570</integer>
+			<key>Play Date UTC</key><date>2025-11-19T19:26:10Z</date>
+			<key>Release Date</key><date>2017-10-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6042</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70DDBD2210613546</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Juhn/%23Natural%20-%20Single/01%20%23Natural.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24279</key>
+		<dict>
+			<key>Track ID</key><integer>24279</integer>
+			<key>Name</key><string>A Mí Me Gusta</string>
+			<key>Artist</key><string>El Freaky, De La Ghetto &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>El Freaky, De La Ghetto &#38; Paty Cantú</string>
+			<key>Composer</key><string>MP3TECA.COM</string>
+			<key>Album</key><string>A Mí Me Gusta - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9403916</integer>
+			<key>Total Time</key><integer>218755</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-10-17T06:55:58Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>338</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3850320662</integer>
+			<key>Play Date UTC</key><date>2026-01-04T03:31:02Z</date>
+			<key>Release Date</key><date>2019-05-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4167</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mí Me Gusta - Single</string>
+			<key>Sort Album Artist</key><string>Freaky, De La Ghetto &#38; Paty Cantú</string>
+			<key>Sort Artist</key><string>Freaky, De La Ghetto &#38; Paty Cantú</string>
+			<key>Sort Name</key><string>Mí Me Gusta</string>
+			<key>Persistent ID</key><string>830C03667F7093AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Freaky,%20De%20La%20Ghetto%20&#38;%20Paty%20Cant%C3%BA/A%20M%C3%AD%20Me%20Gusta%20-%20Single/01%20A%20M%C3%AD%20Me%20Gusta.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24285</key>
+		<dict>
+			<key>Track ID</key><integer>24285</integer>
+			<key>Name</key><string>Amor, Amor, Amor</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Ángela Dávalos, Daniel Volpe, Eric Palmqwist &#38; Thomas Lipp</string>
+			<key>Album</key><string>Amor, Amor, Amor - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9292660</integer>
+			<key>Total Time</key><integer>226255</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>148</integer>
+			<key>Date Modified</key><date>2026-01-07T22:09:30Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3829944900</integer>
+			<key>Play Date UTC</key><date>2025-05-13T06:35:00Z</date>
+			<key>Release Date</key><date>2016-02-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3DDEEAF4BB23D18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Amor,%20Amor,%20Amor%20-%20Single/01%20Amor,%20Amor,%20Amor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24289</key>
+		<dict>
+			<key>Track ID</key><integer>24289</integer>
+			<key>Name</key><string>Bailo Sola</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu &#38; Cesar Ceja</string>
+			<key>Album</key><string>Bailo Sola - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6600081</integer>
+			<key>Total Time</key><integer>155132</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T17:25:48Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851357640</integer>
+			<key>Play Date UTC</key><date>2026-01-16T03:34:00Z</date>
+			<key>Release Date</key><date>2022-06-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7053</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE585297E37AEA00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bailo%20Sola%20-%20Single/01%20Bailo%20Sola.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24291</key>
+		<dict>
+			<key>Track ID</key><integer>24291</integer>
+			<key>Name</key><string>Conocerte</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú, Agustín Zubillaga &#38; Luis Jimenez</string>
+			<key>Album</key><string>Conocerte - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7332133</integer>
+			<key>Total Time</key><integer>174800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2025-10-17T06:54:36Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3828951460</integer>
+			<key>Play Date UTC</key><date>2025-05-01T18:37:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-21T00:19:01Z</date>
+			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3952</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10574053EC6478C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Conocerte%20-%20Single/01%20Conocerte.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24297</key>
+		<dict>
+			<key>Track ID</key><integer>24297</integer>
+			<key>Name</key><string>Cuando Vuelvas</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Agustín Zubillaga, Luis Jimenez &#38; Patricia Cantu</string>
+			<key>Album</key><string>Cuando Vuelvas - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8021067</integer>
+			<key>Total Time</key><integer>193190</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T20:10:08Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3826362995</integer>
+			<key>Play Date UTC</key><date>2025-04-01T20:36:35Z</date>
+			<key>Release Date</key><date>2020-02-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5791</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58E2084A6BE58781</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Cuando%20Vuelvas%20-%20Single/01%20Cuando%20Vuelvas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24299</key>
+		<dict>
+			<key>Track ID</key><integer>24299</integer>
+			<key>Name</key><string>Cuenta Pendiente</string>
+			<key>Artist</key><string>Paty Cantú feat. Alejandro Sanz</string>
+			<key>Album Artist</key><string>Paty Cantú feat. Alejandro Sanz</string>
+			<key>Composer</key><string>#Shark Dj® 2019 Y Hugo®.....La Unica Marca Que Revoluciona El Mercado De La Pirateria En Mexico!!</string>
+			<key>Album</key><string>Cuenta Pendiente - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8107917</integer>
+			<key>Total Time</key><integer>192656</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T21:23:53Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:50Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842292541</integer>
+			<key>Play Date UTC</key><date>2025-10-03T04:29:01Z</date>
+			<key>Release Date</key><date>2018-08-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FBDC92D0AEC96438</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20feat.%20Alejandro%20Sanz/Cuenta%20Pendiente%20-%20Single/01%20Cuenta%20Pendiente.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24305</key>
+		<dict>
+			<key>Track ID</key><integer>24305</integer>
+			<key>Name</key><string>Déjame Ir</string>
+			<key>Artist</key><string>Paty Cantú &#38; Pablo López</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Pablo López</string>
+			<key>Album</key><string>Déjame Ir - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8215875</integer>
+			<key>Total Time</key><integer>205102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T18:57:57Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:51Z</date>
+			<key>Bit Rate</key><integer>313</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850592498</integer>
+			<key>Play Date UTC</key><date>2026-01-07T07:01:38Z</date>
+			<key>Release Date</key><date>2018-07-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2950</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7B26E5CB5D84359</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Pablo%20L%C3%B3pez/D%C3%A9jame%20Ir%20-%20Single/01%20D%C3%A9jame%20Ir.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24309</key>
+		<dict>
+			<key>Track ID</key><integer>24309</integer>
+			<key>Name</key><string>En Mis Tacones</string>
+			<key>Artist</key><string>Fanny Lu, Paty Cantú &#38; Melanie Pfirrman</string>
+			<key>Album Artist</key><string>Fanny Lu, Paty Cantú &#38; Melanie Pfirrman</string>
+			<key>Composer</key><string>Alfonso Ordoñez, Carollina Colon Juarbe, Fanny Lucia Martinez &#38; Miguel Yadam González Cárdenas</string>
+			<key>Album</key><string>En Mis Tacones - Single</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7505695</integer>
+			<key>Total Time</key><integer>178468</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2025-11-29T05:23:33Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:51Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843663872</integer>
+			<key>Play Date UTC</key><date>2025-10-19T01:24:32Z</date>
+			<key>Release Date</key><date>2020-07-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4939</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81CFF8E87BF6CA4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Fanny%20Lu,%20Paty%20Cant%C3%BA%20&#38;%20Melanie%20Pfirrman/En%20Mis%20Tacones%20-%20Single/01%20En%20Mis%20Tacones.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24311</key>
+		<dict>
+			<key>Track ID</key><integer>24311</integer>
+			<key>Name</key><string>Feliz Breakup</string>
+			<key>Artist</key><string>Paty Cantú, Ximena Sariñana &#38; zzoilo</string>
+			<key>Album Artist</key><string>Paty Cantú, Ximena Sariñana &#38; zzoilo</string>
+			<key>Album</key><string>Feliz Breakup - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8695049</integer>
+			<key>Total Time</key><integer>207238</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-07T18:40:09Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:51Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844180302</integer>
+			<key>Play Date UTC</key><date>2025-10-25T00:51:42Z</date>
+			<key>Release Date</key><date>2023-04-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5690</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86127DD14B82AFCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Ximena%20Sari%C3%B1ana%20&#38;%20zzoilo/Feliz%20Breakup%20-%20Single/01%20Feliz%20Breakup.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24315</key>
+		<dict>
+			<key>Track ID</key><integer>24315</integer>
+			<key>Name</key><string>Guadalajara</string>
+			<key>Artist</key><string>Paty Cantú, Neto Peña &#38; Gera MX</string>
+			<key>Album Artist</key><string>Paty Cantú, Neto Peña &#38; Gera MX</string>
+			<key>Album</key><string>Guadalajara - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9783745</integer>
+			<key>Total Time</key><integer>230040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>114</integer>
+			<key>Date Modified</key><date>2026-01-07T22:12:56Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>335</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3850592724</integer>
+			<key>Play Date UTC</key><date>2026-01-07T07:05:24Z</date>
+			<key>Release Date</key><date>2022-07-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5778</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4678F2E7CD758DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Neto%20Pe%C3%B1a%20&#38;%20Gera%20MX/Guadalajara%20-%20Single/01%20Guadalajara.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24319</key>
+		<dict>
+			<key>Track ID</key><integer>24319</integer>
+			<key>Name</key><string>La Mentirosa</string>
+			<key>Artist</key><string>Luis Fonsi &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Luis Fonsi &#38; Paty Cantú</string>
+			<key>Composer</key><string>J. Eduardo Murguía &#38; Mauricio L. Arriaga</string>
+			<key>Album</key><string>La Mentirosa - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9195484</integer>
+			<key>Total Time</key><integer>223190</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T20:20:36Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3846402836</integer>
+			<key>Play Date UTC</key><date>2025-11-19T19:13:56Z</date>
+			<key>Release Date</key><date>2020-08-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3986</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mentirosa - Single</string>
+			<key>Sort Name</key><string>Mentirosa</string>
+			<key>Persistent ID</key><string>88B5F640F6313578</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Luis%20Fonsi%20&#38;%20Paty%20Cant%C3%BA/La%20Mentirosa%20-%20Single/01%20La%20Mentirosa.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24321</key>
+		<dict>
+			<key>Track ID</key><integer>24321</integer>
+			<key>Name</key><string>La Mexicana</string>
+			<key>Artist</key><string>Paty Cantú &#38; Hispana</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Hispana</string>
+			<key>Composer</key><string>PATY CANTU</string>
+			<key>Album</key><string>La Mexicana - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7656502</integer>
+			<key>Total Time</key><integer>179304</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T18:58:41Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>335</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3829165724</integer>
+			<key>Play Date UTC</key><date>2025-05-04T06:08:44Z</date>
+			<key>Release Date</key><date>2020-07-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4032</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mexicana - Single</string>
+			<key>Sort Name</key><string>Mexicana</string>
+			<key>Persistent ID</key><string>2812A9EFFCB6F16D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Hispana/La%20Mexicana%20-%20Single/01%20La%20Mexicana.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24323</key>
+		<dict>
+			<key>Track ID</key><integer>24323</integer>
+			<key>Name</key><string>Llévame Contigo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Llévame Contigo - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8527417</integer>
+			<key>Total Time</key><integer>211859</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-07T17:26:51Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>316</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844096238</integer>
+			<key>Play Date UTC</key><date>2025-10-24T01:30:38Z</date>
+			<key>Release Date</key><date>2020-04-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5843</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AD0867C392DCCB8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Ll%C3%A9vame%20Contigo%20-%20Single/01%20Ll%C3%A9vame%20Contigo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24325</key>
+		<dict>
+			<key>Track ID</key><integer>24325</integer>
+			<key>Name</key><string>Mariposas</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Paty Cantú &#38; Ángela Dávalos</string>
+			<key>Album</key><string>Mariposas - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7425814</integer>
+			<key>Total Time</key><integer>179653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T20:55:32Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844418714</integer>
+			<key>Play Date UTC</key><date>2025-10-27T20:05:14Z</date>
+			<key>Release Date</key><date>2018-05-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4316</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20FE16439D0CE497</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mariposas%20-%20Single/01%20Mariposas.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24327</key>
+		<dict>
+			<key>Track ID</key><integer>24327</integer>
+			<key>Name</key><string>Mi Película</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Giovanna Cantú Velasco, Paul Sefchovich, Luis Miguel de la Isla &#38; Alberto Hernández</string>
+			<key>Album</key><string>Mi Película - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5944185</integer>
+			<key>Total Time</key><integer>144010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>104</integer>
+			<key>Date Modified</key><date>2026-01-07T19:07:31Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846779936</integer>
+			<key>Play Date UTC</key><date>2025-11-24T03:58:56Z</date>
+			<key>Release Date</key><date>2022-10-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5304</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E488BD316841A971</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mi%20Pel%C3%ADcula%20-%20Single/01%20Mi%20Pel%C3%ADcula.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24329</key>
+		<dict>
+			<key>Track ID</key><integer>24329</integer>
+			<key>Name</key><string>Miento</string>
+			<key>Artist</key><string>Paty Cantú &#38; Jesse Baez</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Jesse Baez</string>
+			<key>Composer</key><string>Paty Cantú, Jesse Baez, Andres Saavedra, Jorge Hernández Quiles &#38; Oscar Botello</string>
+			<key>Album</key><string>Miento - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7825221</integer>
+			<key>Total Time</key><integer>185016</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T18:26:39Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3824120045</integer>
+			<key>Play Date UTC</key><date>2025-03-06T21:34:05Z</date>
+			<key>Release Date</key><date>2018-03-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3316</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB83CF873DC85FC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Jesse%20Baez/Miento%20-%20Single/01%20Miento.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24333</key>
+		<dict>
+			<key>Track ID</key><integer>24333</integer>
+			<key>Name</key><string>No Hacemos Nada</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Agustín Zubillaga, Luis Jimenez &#38; Patricia Giovanna Cantú Velasco</string>
+			<key>Album</key><string>No Hacemos Nada - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8510451</integer>
+			<key>Total Time</key><integer>207679</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2025-11-29T04:37:24Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3850335204</integer>
+			<key>Play Date UTC</key><date>2026-01-04T07:33:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-06T22:23:37Z</date>
+			<key>Release Date</key><date>2020-06-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2389</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B682F8BBDCEC897</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/No%20Hacemos%20Nada%20-%20Single/01%20No%20Hacemos%20Nada.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24335</key>
+		<dict>
+			<key>Track ID</key><integer>24335</integer>
+			<key>Name</key><string>Odiarte</string>
+			<key>Artist</key><string>Paty Cantú &#38; Lasso</string>
+			<key>Album Artist</key><string>Paty Cantú &#38; Lasso</string>
+			<key>Composer</key><string>Paty Cantú, Andrés Torres, Mauricio Rengifo, Pablo Arévalo &#38; Ana Paola Lynch</string>
+			<key>Album</key><string>Odiarte - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9844658</integer>
+			<key>Total Time</key><integer>237052</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T17:43:28Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843148861</integer>
+			<key>Play Date UTC</key><date>2025-10-13T02:21:01Z</date>
+			<key>Release Date</key><date>2021-01-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4938</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2EEE043ACB0BB85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Lasso/Odiarte%20-%20Single/01%20Odiarte.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24339</key>
+		<dict>
+			<key>Track ID</key><integer>24339</integer>
+			<key>Name</key><string>Rompo Contigo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Composer</key><string>Patricia Cantu &#38; Angela Dávalos</string>
+			<key>Album</key><string>Rompo Contigo - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9098344</integer>
+			<key>Total Time</key><integer>223376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T22:09:15Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3826363428</integer>
+			<key>Play Date UTC</key><date>2025-04-01T20:43:48Z</date>
+			<key>Release Date</key><date>2016-08-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73466F01CBF97B38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Rompo%20Contigo%20-%20Single/01%20Rompo%20Contigo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24341</key>
+		<dict>
+			<key>Track ID</key><integer>24341</integer>
+			<key>Name</key><string>Sueños Lastimados</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sueños Lastimados - Single</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10227091</integer>
+			<key>Total Time</key><integer>254839</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-07T19:08:38Z</date>
+			<key>Date Added</key><date>2025-03-05T02:02:52Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844607014</integer>
+			<key>Play Date UTC</key><date>2025-10-30T00:23:34Z</date>
+			<key>Release Date</key><date>2017-02-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3161</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E70657BF1A5DCEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sue%C3%B1os%20Lastimados%20-%20Single/01%20Sue%C3%B1os%20Lastimados.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24801</key>
+		<dict>
+			<key>Track ID</key><integer>24801</integer>
+			<key>Name</key><string>A la de Lu</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6820057</integer>
+			<key>Total Time</key><integer>164142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T19:46:38Z</date>
+			<key>Date Added</key><date>2025-03-28T03:58:37Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3847191197</integer>
+			<key>Play Date UTC</key><date>2025-11-28T22:13:17Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7400</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>la de Lu</string>
+			<key>Persistent ID</key><string>809D3F1A7D75DE5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/01%20A%20la%20de%20Lu.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24805</key>
+		<dict>
+			<key>Track ID</key><integer>24805</integer>
+			<key>Name</key><string>Al Voluntario</string>
+			<key>Artist</key><string>Paty Cantú &#38; José Madero</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6741084</integer>
+			<key>Total Time</key><integer>157849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>77</integer>
+			<key>Date Modified</key><date>2026-01-07T20:35:32Z</date>
+			<key>Date Added</key><date>2025-03-28T03:58:37Z</date>
+			<key>Bit Rate</key><integer>335</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3831023260</integer>
+			<key>Play Date UTC</key><date>2025-05-25T18:07:40Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6449</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB744BC22E7999BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/03%20Al%20Voluntario.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24809</key>
+		<dict>
+			<key>Track ID</key><integer>24809</integer>
+			<key>Name</key><string>Mudo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6251079</integer>
+			<key>Total Time</key><integer>149258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T17:35:47Z</date>
+			<key>Date Added</key><date>2025-03-28T04:06:24Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3850568004</integer>
+			<key>Play Date UTC</key><date>2026-01-07T00:13:24Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6298</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BA3838297A24C7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/05%20Mudo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24813</key>
+		<dict>
+			<key>Track ID</key><integer>24813</integer>
+			<key>Name</key><string>Contra El Mundo</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7612231</integer>
+			<key>Total Time</key><integer>189800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-07T20:56:34Z</date>
+			<key>Date Added</key><date>2025-03-28T04:06:24Z</date>
+			<key>Bit Rate</key><integer>315</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851316916</integer>
+			<key>Play Date UTC</key><date>2026-01-15T16:15:16Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3413</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2707A4232E7A745A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/07%20Contra%20El%20Mundo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24823</key>
+		<dict>
+			<key>Track ID</key><integer>24823</integer>
+			<key>Name</key><string>Manifiesto</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5876653</integer>
+			<key>Total Time</key><integer>138042</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T17:14:55Z</date>
+			<key>Date Added</key><date>2025-03-28T04:06:24Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842461186</integer>
+			<key>Play Date UTC</key><date>2025-10-05T03:19:46Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9710</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C634C8DDC4F48F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/12%20Manifiesto.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24825</key>
+		<dict>
+			<key>Track ID</key><integer>24825</integer>
+			<key>Name</key><string>Ojitos de Mil Colores (A Mi Mami)</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sagitario</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7290993</integer>
+			<key>Total Time</key><integer>176518</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T17:47:00Z</date>
+			<key>Date Added</key><date>2025-03-28T04:06:25Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845296478</integer>
+			<key>Play Date UTC</key><date>2025-11-06T23:54:38Z</date>
+			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5C8CAD12698DC45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/13%20Ojitos%20de%20Mil%20Colores%20(A%20Mi%20Mami).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26675</key>
+		<dict>
+			<key>Track ID</key><integer>26675</integer>
+			<key>Name</key><string>Sí, Pero No</string>
+			<key>Artist</key><string>Paty Cantú</string>
+			<key>Album Artist</key><string>Paty Cantú</string>
+			<key>Album</key><string>Sí, Pero No - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4510549</integer>
+			<key>Total Time</key><integer>137795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2025-11-29T04:52:08Z</date>
+			<key>Date Added</key><date>2025-05-16T16:38:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845979649</integer>
+			<key>Play Date UTC</key><date>2025-11-14T21:40:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9166</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F295927ED292862B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/S%C3%AD,%20Pero%20No%20-%20Single/01%20S%C3%AD,%20Pero%20No.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33111</key>
+		<dict>
+			<key>Track ID</key><integer>33111</integer>
+			<key>Name</key><string>No Te Atreves A Odiarme</string>
+			<key>Artist</key><string>Dimitri y las brujas &#38; Paty Cantú</string>
+			<key>Album Artist</key><string>Dimitri y las brujas</string>
+			<key>Album</key><string>ENTREPUERTAS</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5914081</integer>
+			<key>Total Time</key><integer>146309</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>190</integer>
+			<key>Date Modified</key><date>2026-01-07T16:52:00Z</date>
+			<key>Date Added</key><date>2025-10-31T17:32:10Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850593794</integer>
+			<key>Play Date UTC</key><date>2026-01-07T07:23:14Z</date>
+			<key>Release Date</key><date>2025-10-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4850</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A47DFB152A5E8D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dimitri%20y%20las%20brujas/ENTREPUERTAS/07%20No%20Te%20Atreves%20A%20Odiarme.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Paty Cantú</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101976</integer>
+			<key>Playlist Persistent ID</key><string>3C08FFAA7BB0CB0C</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAixTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABQAUABhAHQAeQAgAEMAYQBuAHQA+gAAABkAAAEAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAA
+			AAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBl
+			AHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAADgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24265</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24305</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24309</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8093</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24805</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24809</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33111</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

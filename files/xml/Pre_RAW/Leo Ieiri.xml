@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:21:40Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14433</key>
+		<dict>
+			<key>Track ID</key><integer>14433</integer>
+			<key>Name</key><string>Prime Numbers</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>Leo Ieiri, Kubota Shingo &#38; Kiyoshi Matsuo</string>
+			<key>Album</key><string>Duo</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9028121</integer>
+			<key>Total Time</key><integer>224467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:07Z</date>
+			<key>Date Added</key><date>2025-01-17T22:38:59Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851056458</integer>
+			<key>Play Date UTC</key><date>2026-01-12T15:54:18Z</date>
+			<key>Release Date</key><date>2019-04-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C40925F4A72E6EE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Duo/01%20Prime%20Numbers.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14443</key>
+		<dict>
+			<key>Track ID</key><integer>14443</integer>
+			<key>Name</key><string>Aishitenainara</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Duo</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10582741</integer>
+			<key>Total Time</key><integer>259251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:08Z</date>
+			<key>Date Added</key><date>2025-01-17T22:38:59Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851056718</integer>
+			<key>Play Date UTC</key><date>2026-01-12T15:58:38Z</date>
+			<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5385</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>089D7CB54B14630D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Duo/02%20Aishitenainara.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14445</key>
+		<dict>
+			<key>Track ID</key><integer>14445</integer>
+			<key>Name</key><string>Last Stage</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦・家入レオ &#38; Leo Ieiri</string>
+			<key>Album</key><string>LEO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8459197</integer>
+			<key>Total Time</key><integer>206588</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:45Z</date>
+			<key>Date Added</key><date>2025-01-17T22:38:59Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850888317</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:11:57Z</date>
+			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>14676</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3BD8E27326DABFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/LEO/02%20Last%20Stage.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14469</key>
+		<dict>
+			<key>Track ID</key><integer>14469</integer>
+			<key>Name</key><string>Lost in the Dream</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>20</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9079868</integer>
+			<key>Total Time</key><integer>222377</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:58Z</date>
+			<key>Date Added</key><date>2025-01-17T22:38:59Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851171626</integer>
+			<key>Play Date UTC</key><date>2026-01-13T23:53:46Z</date>
+			<key>Release Date</key><date>2015-02-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9926</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8592064350560DDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/20/04%20Lost%20in%20the%20Dream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14479</key>
+		<dict>
+			<key>Track ID</key><integer>14479</integer>
+			<key>Name</key><string>Bicolor</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Duo</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12069288</integer>
+			<key>Total Time</key><integer>292153</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:09Z</date>
+			<key>Date Added</key><date>2025-01-17T22:38:59Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851057214</integer>
+			<key>Play Date UTC</key><date>2026-01-12T16:06:54Z</date>
+			<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3984</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F32B67466072BCEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Duo/05%20Bicolor.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14493</key>
+		<dict>
+			<key>Track ID</key><integer>14493</integer>
+			<key>Name</key><string>Second Dream</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>LEO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7732123</integer>
+			<key>Total Time</key><integer>189869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:46Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850888960</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:22:40Z</date>
+			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9194</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE69A8CCD1275479</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/LEO/06%20Second%20Dream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14497</key>
+		<dict>
+			<key>Track ID</key><integer>14497</integer>
+			<key>Name</key><string>Whenever</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Duo</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10804857</integer>
+			<key>Total Time</key><integer>261062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:10Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851057475</integer>
+			<key>Play Date UTC</key><date>2026-01-12T16:11:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-12T16:13:14Z</date>
+			<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3577</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>626FA1D8D5551211</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Duo/06%20Whenever.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14505</key>
+		<dict>
+			<key>Track ID</key><integer>14505</integer>
+			<key>Name</key><string>Neon Nights</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Duo</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12074575</integer>
+			<key>Total Time</key><integer>299862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>173</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:11Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851871110</integer>
+			<key>Play Date UTC</key><date>2026-01-22T02:11:50Z</date>
+			<key>Release Date</key><date>2019-04-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4835</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74C990FEA1607924</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Duo/07%20Neon%20Nights.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14523</key>
+		<dict>
+			<key>Track ID</key><integer>14523</integer>
+			<key>Name</key><string>Fake Love</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>LEO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10429665</integer>
+			<key>Total Time</key><integer>249591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:47Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850889433</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:30:33Z</date>
+			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78B0ED23B6008C54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/LEO/09%20Fake%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14535</key>
+		<dict>
+			<key>Track ID</key><integer>14535</integer>
+			<key>Name</key><string>Love &#38; Hate</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>20</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7675381</integer>
+			<key>Total Time</key><integer>187687</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:59Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3851157869</integer>
+			<key>Play Date UTC</key><date>2026-01-13T20:04:29Z</date>
+			<key>Release Date</key><date>2015-02-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7708</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7568C474CCDC91D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/20/10%20Love%20&#38;%20Hate.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14549</key>
+		<dict>
+			<key>Track ID</key><integer>14549</integer>
+			<key>Name</key><string>Lady Mary</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦・家入レオ &#38; Leo Ieiri</string>
+			<key>Album</key><string>LEO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10377786</integer>
+			<key>Total Time</key><integer>252494</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>70</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:48Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850889932</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:38:52Z</date>
+			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7966</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A683B83636B68A2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/LEO/12%20Lady%20Mary.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14557</key>
+		<dict>
+			<key>Track ID</key><integer>14557</integer>
+			<key>Name</key><string>Linda</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>LEO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8701657</integer>
+			<key>Total Time</key><integer>210024</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:49Z</date>
+			<key>Date Added</key><date>2025-01-17T22:39:00Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850890142</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:42:22Z</date>
+			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12266</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26233981D77995D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/LEO/13%20Linda.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34017</key>
+		<dict>
+			<key>Track ID</key><integer>34017</integer>
+			<key>Name</key><string>Sabrina</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Sabrina - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52621252</integer>
+			<key>Total Time</key><integer>215457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:41Z</date>
+			<key>Date Added</key><date>2026-01-07T07:00:38Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851872171</integer>
+			<key>Play Date UTC</key><date>2026-01-22T02:29:31Z</date>
+			<key>Release Date</key><date>2012-02-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12556</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB2254D2D21D55A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Sabrina%20-%20Single/01%20Sabrina.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34027</key>
+		<dict>
+			<key>Track ID</key><integer>34027</integer>
+			<key>Name</key><string>Bless You</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦・家入レオ</string>
+			<key>Album</key><string>Bless You - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>54616264</integer>
+			<key>Total Time</key><integer>230365</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:43Z</date>
+			<key>Date Added</key><date>2026-01-07T07:01:47Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850887573</integer>
+			<key>Play Date UTC</key><date>2026-01-10T16:59:33Z</date>
+			<key>Release Date</key><date>2012-09-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13724</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EC3E1ED0841F91BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Bless%20You%20-%20Single/01%20Bless%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34029</key>
+		<dict>
+			<key>Track ID</key><integer>34029</integer>
+			<key>Name</key><string>Kokorono Katachi</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾 芳彦</string>
+			<key>Album</key><string>Bless You - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>61657627</integer>
+			<key>Total Time</key><integer>265884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:44Z</date>
+			<key>Date Added</key><date>2026-01-07T07:01:47Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850888110</integer>
+			<key>Play Date UTC</key><date>2026-01-10T17:08:30Z</date>
+			<key>Release Date</key><date>2012-09-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFEC2FB73F8C5623</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Bless%20You%20-%20Single/03%20Kokorono%20Katachi.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34031</key>
+		<dict>
+			<key>Track ID</key><integer>34031</integer>
+			<key>Name</key><string>Who's That</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦・家入レオ &#38; 家入レオ</string>
+			<key>Album</key><string>Taiyo No Megami - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>46694000</integer>
+			<key>Total Time</key><integer>198300</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:50Z</date>
+			<key>Date Added</key><date>2026-01-07T07:05:30Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851361895</integer>
+			<key>Play Date UTC</key><date>2026-01-16T04:44:55Z</date>
+			<key>Release Date</key><date>2013-11-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14466</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C13BBDD4B8EC3707</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Taiyo%20No%20Megami%20-%20Single/03%20Who's%20That.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34073</key>
+		<dict>
+			<key>Track ID</key><integer>34073</integer>
+			<key>Name</key><string>Papa &#38; Mama</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦・家入レオ</string>
+			<key>Album</key><string>A Boy</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>38660354</integer>
+			<key>Total Time</key><integer>162270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:51Z</date>
+			<key>Date Added</key><date>2026-01-07T07:08:43Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850900797</integer>
+			<key>Play Date UTC</key><date>2026-01-10T20:39:57Z</date>
+			<key>Release Date</key><date>2014-02-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9884</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA84F500088D7063</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/A%20Boy/13%20Papa%20&#38;%20Mama.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34077</key>
+		<dict>
+			<key>Track ID</key><integer>34077</integer>
+			<key>Name</key><string>Junjou</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>Yoshihiko Nishio, 佐藤希久生 &#38; Leo Ieiri</string>
+			<key>Album</key><string>Junjou - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>53756806</integer>
+			<key>Total Time</key><integer>225000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>146</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:52Z</date>
+			<key>Date Added</key><date>2026-01-07T07:09:16Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850901022</integer>
+			<key>Play Date UTC</key><date>2026-01-10T20:43:42Z</date>
+			<key>Release Date</key><date>2014-07-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9728</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14D8C7EAFBF62A2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Junjou%20-%20Single/01%20Junjou.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34081</key>
+		<dict>
+			<key>Track ID</key><integer>34081</integer>
+			<key>Name</key><string>Yuuki No Shirushi</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦, 佐藤希久生 &#38; 家入レオ</string>
+			<key>Album</key><string>Silly - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>49289464</integer>
+			<key>Total Time</key><integer>208870</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:55Z</date>
+			<key>Date Added</key><date>2026-01-07T07:09:52Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850901963</integer>
+			<key>Play Date UTC</key><date>2026-01-10T20:59:23Z</date>
+			<key>Release Date</key><date>2014-11-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10774</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>939EDA814E2EA388</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Silly%20-%20Single/03%20Yuuki%20No%20Shirushi.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34083</key>
+		<dict>
+			<key>Track ID</key><integer>34083</integer>
+			<key>Name</key><string>Silly</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦, 鈴木"Daichi"秀行 &#38; Leo Ieiri</string>
+			<key>Album</key><string>Silly - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>63459198</integer>
+			<key>Total Time</key><integer>271960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:54Z</date>
+			<key>Date Added</key><date>2026-01-07T07:09:52Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850901517</integer>
+			<key>Play Date UTC</key><date>2026-01-10T20:51:57Z</date>
+			<key>Release Date</key><date>2014-11-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10488</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AE9622BC945FFA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Silly%20-%20Single/01%20Silly.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34089</key>
+		<dict>
+			<key>Track ID</key><integer>34089</integer>
+			<key>Name</key><string>Miss You</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>西尾芳彦, 佐藤希久生 &#38; 家入レオ</string>
+			<key>Album</key><string>Miss You - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>60113487</integer>
+			<key>Total Time</key><integer>266800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:56Z</date>
+			<key>Date Added</key><date>2026-01-07T07:10:34Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850902230</integer>
+			<key>Play Date UTC</key><date>2026-01-10T21:03:50Z</date>
+			<key>Release Date</key><date>2015-02-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8640</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C746DAA5DBEEFF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Miss%20You%20-%20Single/01%20Miss%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34091</key>
+		<dict>
+			<key>Track ID</key><integer>34091</integer>
+			<key>Name</key><string>I Am Foolish</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Miss You - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>46354103</integer>
+			<key>Total Time</key><integer>206070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-13T04:02:57Z</date>
+			<key>Date Added</key><date>2026-01-07T07:10:34Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850902436</integer>
+			<key>Play Date UTC</key><date>2026-01-10T21:07:16Z</date>
+			<key>Release Date</key><date>2015-02-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8264</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6DDA7E8D8A541741</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Miss%20You%20-%20Single/02%20I%20Am%20Foolish.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34097</key>
+		<dict>
+			<key>Track ID</key><integer>34097</integer>
+			<key>Name</key><string>Kimiga Kureta Natsu</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>Nishio Yoshihiko &#38; Leo Ieiri</string>
+			<key>Album</key><string>Kimiga Kureta Natsu - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>56516553</integer>
+			<key>Total Time</key><integer>258410</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:00Z</date>
+			<key>Date Added</key><date>2026-01-07T07:16:27Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850904265</integer>
+			<key>Play Date UTC</key><date>2026-01-10T21:37:45Z</date>
+			<key>Release Date</key><date>2015-08-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5849</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6B12D54BCAB5E53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Kimiga%20Kureta%20Natsu%20-%20Single/01%20Kimiga%20Kureta%20Natsu.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34103</key>
+		<dict>
+			<key>Track ID</key><integer>34103</integer>
+			<key>Name</key><string>Shooter</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Kimiga Kureta Natsu - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>40744781</integer>
+			<key>Total Time</key><integer>175266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2026-01-13T04:05:49Z</date>
+			<key>Date Added</key><date>2026-01-07T07:16:28Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851448367</integer>
+			<key>Play Date UTC</key><date>2026-01-17T04:46:07Z</date>
+			<key>Release Date</key><date>2015-08-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8250</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51D4D241C5004A46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Kimiga%20Kureta%20Natsu%20-%20Single/02%20Shooter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34167</key>
+		<dict>
+			<key>Track ID</key><integer>34167</integer>
+			<key>Name</key><string>Relax</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Relax - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>50039990</integer>
+			<key>Total Time</key><integer>217000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:01Z</date>
+			<key>Date Added</key><date>2026-01-07T14:59:59Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851016059</integer>
+			<key>Play Date UTC</key><date>2026-01-12T04:40:59Z</date>
+			<key>Release Date</key><date>2017-11-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8178</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6FEA7E7FCED63136</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Relax%20-%20Single/01%20Relax.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34171</key>
+		<dict>
+			<key>Track ID</key><integer>34171</integer>
+			<key>Name</key><string>Harukaze</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>SoichiroK &#38; NOZOMU.S</string>
+			<key>Album</key><string>TIME</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>65741570</integer>
+			<key>Total Time</key><integer>275266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:02Z</date>
+			<key>Date Added</key><date>2026-01-07T14:59:59Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851016335</integer>
+			<key>Play Date UTC</key><date>2026-01-12T04:45:35Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8310</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B14912B0456EAD30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/TIME/02%20Harukaze.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34177</key>
+		<dict>
+			<key>Track ID</key><integer>34177</integer>
+			<key>Name</key><string>TOKYO</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>TIME</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>54005274</integer>
+			<key>Total Time</key><integer>229840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:03Z</date>
+			<key>Date Added</key><date>2026-01-07T14:59:59Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851016786</integer>
+			<key>Play Date UTC</key><date>2026-01-12T04:53:06Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13770</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93FC5683B468B925</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/TIME/05%20TOKYO.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34189</key>
+		<dict>
+			<key>Track ID</key><integer>34189</integer>
+			<key>Name</key><string>After Dark</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>TIME</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>57860264</integer>
+			<key>Total Time</key><integer>252890</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:04Z</date>
+			<key>Date Added</key><date>2026-01-07T15:00:39Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851017039</integer>
+			<key>Play Date UTC</key><date>2026-01-12T04:57:19Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10021</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8C791AA948C7E412</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/TIME/06%20After%20Dark.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34195</key>
+		<dict>
+			<key>Track ID</key><integer>34195</integer>
+			<key>Name</key><string>Moshi Kimiwo Yurusetara</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Composer</key><string>久保田真悟, 栗原暁 &#38; 杉山勝彦</string>
+			<key>Album</key><string>Moshi Kimiwo Yurusetara - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>46196442</integer>
+			<key>Total Time</key><integer>211813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:06Z</date>
+			<key>Date Added</key><date>2026-01-07T15:05:09Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851055215</integer>
+			<key>Play Date UTC</key><date>2026-01-12T15:33:35Z</date>
+			<key>Release Date</key><date>2018-08-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5161</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24F894981DF24B66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Moshi%20Kimiwo%20Yurusetara%20-%20Single/01%20Moshi%20Kimiwo%20Yurusetara.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34201</key>
+		<dict>
+			<key>Track ID</key><integer>34201</integer>
+			<key>Name</key><string>Fantasy</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>TIME</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>61078376</integer>
+			<key>Total Time</key><integer>252000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:05Z</date>
+			<key>Date Added</key><date>2026-01-07T15:05:09Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851017350</integer>
+			<key>Play Date UTC</key><date>2026-01-12T05:02:30Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13151</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9209FEFD61653AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/TIME/07%20Fantasy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34211</key>
+		<dict>
+			<key>Track ID</key><integer>34211</integer>
+			<key>Name</key><string>Inorino Melody</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>TIME</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>67523469</integer>
+			<key>Total Time</key><integer>301706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:05Z</date>
+			<key>Date Added</key><date>2026-01-07T15:05:10Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851054735</integer>
+			<key>Play Date UTC</key><date>2026-01-12T15:25:35Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8324</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>08D75F52EE0B0311</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/TIME/12%20Inorino%20Melody.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34219</key>
+		<dict>
+			<key>Track ID</key><integer>34219</integer>
+			<key>Name</key><string>AmeKazeSoraNiji</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>AmeKazeSoraNiji - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>40231090</integer>
+			<key>Total Time</key><integer>190738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:15Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:20Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851157430</integer>
+			<key>Play Date UTC</key><date>2026-01-13T19:57:10Z</date>
+			<key>Release Date</key><date>2025-01-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4879</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13BB49A19910716B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/AmeKazeSoraNiji%20-%20Single/01%20AmeKazeSoraNiji.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34233</key>
+		<dict>
+			<key>Track ID</key><integer>34233</integer>
+			<key>Name</key><string>Mirror</string>
+			<key>Artist</key><string>Leo Ieiri feat. Kosuke Saito</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Mirror - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>46093208</integer>
+			<key>Total Time</key><integer>206657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:18Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:21Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851099862</integer>
+			<key>Play Date UTC</key><date>2026-01-13T03:57:42Z</date>
+			<key>Release Date</key><date>2025-10-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5798</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4225BB7CCF55DC61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Mirror%20-%20EP/01%20Mirror.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34245</key>
+		<dict>
+			<key>Track ID</key><integer>34245</integer>
+			<key>Name</key><string>Usotsuki</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Usotsuki - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>45491788</integer>
+			<key>Total Time</key><integer>217240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:12Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:21Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851092242</integer>
+			<key>Play Date UTC</key><date>2026-01-13T01:50:42Z</date>
+			<key>Release Date</key><date>2023-01-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3018</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB5EB99CBEE1458E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Usotsuki%20-%20Single/01%20Usotsuki.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34261</key>
+		<dict>
+			<key>Track ID</key><integer>34261</integer>
+			<key>Name</key><string>Nayamitaidake</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Naked</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48794466</integer>
+			<key>Total Time</key><integer>222626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>121</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:12Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:22Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851361276</integer>
+			<key>Play Date UTC</key><date>2026-01-16T04:34:36Z</date>
+			<key>Release Date</key><date>2023-02-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4440</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D97D7F8337A0C60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Naked/02%20Nayamitaidake.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34281</key>
+		<dict>
+			<key>Track ID</key><integer>34281</integer>
+			<key>Name</key><string>I Don't Like You</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>Naked</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48544131</integer>
+			<key>Total Time</key><integer>212800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:13Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:23Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851093270</integer>
+			<key>Play Date UTC</key><date>2026-01-13T02:07:50Z</date>
+			<key>Release Date</key><date>2023-02-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6728</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3E70214D341D8AFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/Naked/04%20I%20Don't%20Like%20You.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34297</key>
+		<dict>
+			<key>Track ID</key><integer>34297</integer>
+			<key>Name</key><string>Ame</string>
+			<key>Artist</key><string>Leo Ieiri</string>
+			<key>Album Artist</key><string>Leo Ieiri</string>
+			<key>Album</key><string>My Name</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>54902323</integer>
+			<key>Total Time</key><integer>235290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-13T04:03:14Z</date>
+			<key>Date Added</key><date>2026-01-07T15:16:24Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851096540</integer>
+			<key>Play Date UTC</key><date>2026-01-13T03:02:20Z</date>
+			<key>Release Date</key><date>2024-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9090</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03E58DE2974E4D61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Ieiri/My%20Name/07%20Ame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Leo Ieiri</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101615</integer>
+			<key>Playlist Persistent ID</key><string>763F7B808E97E5D7</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkBTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIATABlAG8AIABJAGUAaQByAGkAAAAZAAABAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
+			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
+			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAAIDAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAg
+			AEYAaQByAHMAdAAgAFQAYQBrAGU=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>34017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14523</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34097</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34261</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34281</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34233</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

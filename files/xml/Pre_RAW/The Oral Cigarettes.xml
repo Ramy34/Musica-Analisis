@@ -1,0 +1,2044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:26:54Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10659</key>
+		<dict>
+			<key>Track ID</key><integer>10659</integer>
+			<key>Name</key><string>Get Back</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Amy - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7045822</integer>
+			<key>Total Time</key><integer>215902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T22:18:40Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841994247</integer>
+			<key>Play Date UTC</key><date>2025-09-29T17:37:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17676</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>5CE2FF4CD6370ABC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Amy%20-%20Single/02%20Get%20Back.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10663</key>
+		<dict>
+			<key>Track ID</key><integer>10663</integer>
+			<key>Name</key><string>Black Memory</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Black Memory - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8104015</integer>
+			<key>Total Time</key><integer>251454</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2026-01-07T17:43:33Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3819956509</integer>
+			<key>Play Date UTC</key><date>2025-01-17T17:01:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12225</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>B0E12D4FAC3C37EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Black%20Memory%20-%20Single/01%20Black%20Memory.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10667</key>
+		<dict>
+			<key>Track ID</key><integer>10667</integer>
+			<key>Name</key><string>Sesshoku</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Black Memory - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7822306</integer>
+			<key>Total Time</key><integer>242651</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-07T18:06:43Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850584092</integer>
+			<key>Play Date UTC</key><date>2026-01-07T04:41:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11112</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>DCB87E15A51908F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Black%20Memory%20-%20Single/03%20Sesshoku.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10669</key>
+		<dict>
+			<key>Track ID</key><integer>10669</integer>
+			<key>Name</key><string>Bug</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Takuya Yamanaka &#38; JOGO</string>
+			<key>Album</key><string>Bug - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7530090</integer>
+			<key>Total Time</key><integer>231549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2026-01-07T21:22:18Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3851343239</integer>
+			<key>Play Date UTC</key><date>2026-01-15T23:33:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7075</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>01595890A59A4389</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Bug%20-%20Single/01%20Bug.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10671</key>
+		<dict>
+			<key>Track ID</key><integer>10671</integer>
+			<key>Name</key><string>Enemy</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. Kamui</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Bullets Into the Pipe - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6321453</integer>
+			<key>Total Time</key><integer>193828</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>149</integer>
+			<key>Date Modified</key><date>2026-01-07T21:19:46Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846402151</integer>
+			<key>Play Date UTC</key><date>2025-11-19T19:02:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7888</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. Kamui</string>
+			<key>Persistent ID</key><string>15903F5EEFD50BDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Bullets%20Into%20the%20Pipe%20-%20EP/01%20Enemy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10673</key>
+		<dict>
+			<key>Track ID</key><integer>10673</integer>
+			<key>Name</key><string>Kantannakoto</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. SKY-HI</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Bullets Into the Pipe - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6944220</integer>
+			<key>Total Time</key><integer>213289</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-07T21:04:29Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850334996</integer>
+			<key>Play Date UTC</key><date>2026-01-04T07:29:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>24185</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. SKY-HI</string>
+			<key>Persistent ID</key><string>313866CDDEE13F95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Bullets%20Into%20the%20Pipe%20-%20EP/02%20Kantannakoto.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10675</key>
+		<dict>
+			<key>Track ID</key><integer>10675</integer>
+			<key>Name</key><string>Black Memory</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. Hiro</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Bullets Into the Pipe - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8054318</integer>
+			<key>Total Time</key><integer>247980</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>182</integer>
+			<key>Date Modified</key><date>2026-01-07T19:39:02Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3841995041</integer>
+			<key>Play Date UTC</key><date>2025-09-29T17:50:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8886</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. Hiro</string>
+			<key>Persistent ID</key><string>08626DDF25DA7D71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Bullets%20Into%20the%20Pipe%20-%20EP/03%20Black%20Memory.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10677</key>
+		<dict>
+			<key>Track ID</key><integer>10677</integer>
+			<key>Name</key><string>Catch Me</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. MAH</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Bullets Into the Pipe - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6644118</integer>
+			<key>Total Time</key><integer>203911</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T22:21:22Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842126531</integer>
+			<key>Play Date UTC</key><date>2025-10-01T06:22:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13255</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. MAH</string>
+			<key>Persistent ID</key><string>526B3BC39CBF178B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Bullets%20Into%20the%20Pipe%20-%20EP/04%20Catch%20Me.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10679</key>
+		<dict>
+			<key>Track ID</key><integer>10679</integer>
+			<key>Name</key><string>Don't you think</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. Lozareena</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES feat. Lozareena</string>
+			<key>Album</key><string>Don't you think - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8411319</integer>
+			<key>Total Time</key><integer>258951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:39:05Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835886799</integer>
+			<key>Play Date UTC</key><date>2025-07-21T01:06:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7738</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES feat. Lozareena</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. Lozareena</string>
+			<key>Persistent ID</key><string>B77E903F02287406</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES%20feat.%20Lozareena/Don't%20you%20think%20-%20Single/01%20Don't%20you%20think.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10681</key>
+		<dict>
+			<key>Track ID</key><integer>10681</integer>
+			<key>Name</key><string>Enchant</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Takuya Yamanaka &#38; Yuki Tsujimura</string>
+			<key>Album</key><string>Enchant - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5290011</integer>
+			<key>Total Time</key><integer>164257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T17:35:17Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3820349675</integer>
+			<key>Play Date UTC</key><date>2025-01-22T06:14:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11367</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Enchant - Single</string>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Sort Name</key><string>Enchant</string>
+			<key>Persistent ID</key><string>C5A278DB8CDDFD45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Enchant%20-%20Single/01%20Enchant.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10683</key>
+		<dict>
+			<key>Track ID</key><integer>10683</integer>
+			<key>Name</key><string>Kizukeyo Baby</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也/THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Fixion</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8253710</integer>
+			<key>Total Time</key><integer>253884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-07T19:58:14Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3831535323</integer>
+			<key>Play Date UTC</key><date>2025-05-31T16:22:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14417</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>9CB0BA75F51BF73B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Fixion/01%20Kizukeyo%20Baby.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10687</key>
+		<dict>
+			<key>Track ID</key><integer>10687</integer>
+			<key>Name</key><string>Mirror</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也/THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Fixion</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7016544</integer>
+			<key>Total Time</key><integer>215222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>101</integer>
+			<key>Date Modified</key><date>2026-01-07T20:04:01Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3826715800</integer>
+			<key>Play Date UTC</key><date>2025-04-05T22:36:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14904</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>8B89DAE7357923FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Fixion/03%20Mirror.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10689</key>
+		<dict>
+			<key>Track ID</key><integer>10689</integer>
+			<key>Name</key><string>Stay One</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也/THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Fixion</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6965555</integer>
+			<key>Total Time</key><integer>213629</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T19:39:01Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3841227181</integer>
+			<key>Play Date UTC</key><date>2025-09-20T20:33:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>18955</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>E96A410094250774</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Fixion/04%20Stay%20One.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10693</key>
+		<dict>
+			<key>Track ID</key><integer>10693</integer>
+			<key>Name</key><string>Manner Mode</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也/THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Fixion</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7468781</integer>
+			<key>Total Time</key><integer>229355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T21:52:11Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3825784959</integer>
+			<key>Play Date UTC</key><date>2025-03-26T04:02:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12686</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>938D6952C17F5E20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Fixion/06%20Manner%20Mode.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10699</key>
+		<dict>
+			<key>Track ID</key><integer>10699</integer>
+			<key>Name</key><string>A-E-U-I</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Fixion</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7734599</integer>
+			<key>Total Time</key><integer>237662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2025-11-29T03:46:36Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846908118</integer>
+			<key>Play Date UTC</key><date>2025-11-25T15:35:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16268</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>A8B24F2C3526B942</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Fixion/09%20A-E-U-I.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10707</key>
+		<dict>
+			<key>Track ID</key><integer>10707</integer>
+			<key>Name</key><string>Psychopath</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Takuya Yamanaka</string>
+			<key>Album</key><string>Kisses and Kills</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7819308</integer>
+			<key>Total Time</key><integer>241920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T21:26:28Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850408421</integer>
+			<key>Play Date UTC</key><date>2026-01-05T03:53:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12789</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>B8C87C40A32B1825</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kisses%20and%20Kills/03%20Psychopath.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10709</key>
+		<dict>
+			<key>Track ID</key><integer>10709</integer>
+			<key>Name</key><string>Ladies and Gentlemen</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Takuya Yamanaka</string>
+			<key>Album</key><string>Kisses and Kills</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5073185</integer>
+			<key>Total Time</key><integer>156212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2026-01-07T21:51:19Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3841996598</integer>
+			<key>Play Date UTC</key><date>2025-09-29T18:16:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>18804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Sort Name</key><string>Ladies and Gentlemen</string>
+			<key>Persistent ID</key><string>E884C61B2817F714</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kisses%20and%20Kills/04%20Ladies%20and%20Gentlemen.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10711</key>
+		<dict>
+			<key>Track ID</key><integer>10711</integer>
+			<key>Name</key><string>What You Want</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Takuya Yamanaka</string>
+			<key>Album</key><string>Kisses and Kills</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7801616</integer>
+			<key>Total Time</key><integer>241475</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T18:28:23Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851155635</integer>
+			<key>Play Date UTC</key><date>2026-01-13T19:27:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19245</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>B61C25D4E7234540</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kisses%20and%20Kills/05%20What%20You%20Want.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10717</key>
+		<dict>
+			<key>Track ID</key><integer>10717</integer>
+			<key>Name</key><string>Youshi Tanrei Na Uso</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Kisses and Kills</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7572581</integer>
+			<key>Total Time</key><integer>234318</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T17:40:38Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850336676</integer>
+			<key>Play Date UTC</key><date>2026-01-04T07:57:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19202</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>EDAD1736CEEB7864</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kisses%20and%20Kills/08%20Youshi%20Tanrei%20Na%20Uso.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10723</key>
+		<dict>
+			<key>Track ID</key><integer>10723</integer>
+			<key>Name</key><string>Machinegun</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Machinegun - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9552255</integer>
+			<key>Total Time</key><integer>221204</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-07T21:27:25Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851172788</integer>
+			<key>Play Date UTC</key><date>2026-01-14T00:13:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11075</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>5124C707829E19C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Machinegun%20-%20Single/01%20Machinegun.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10727</key>
+		<dict>
+			<key>Track ID</key><integer>10727</integer>
+			<key>Name</key><string>IZAYOI</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>MARBLES - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8994432</integer>
+			<key>Total Time</key><integer>277420</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>141</integer>
+			<key>Date Modified</key><date>2026-01-07T20:01:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835879092</integer>
+			<key>Play Date UTC</key><date>2025-07-20T22:58:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15283</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>7373C42E63DD801C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/MARBLES%20-%20EP/02%20IZAYOI.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10735</key>
+		<dict>
+			<key>Track ID</key><integer>10735</integer>
+			<key>Name</key><string>Red Criminal</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Red Criminal - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8561375</integer>
+			<key>Total Time</key><integer>265012</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T18:15:43Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849073584</integer>
+			<key>Play Date UTC</key><date>2025-12-20T17:06:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14294</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>3CF092F25FBDA471</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Red%20Criminal%20-%20Single/01%20Red%20Criminal.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10737</key>
+		<dict>
+			<key>Track ID</key><integer>10737</integer>
+			<key>Name</key><string>Shine Holder</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Shine Holder - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7466449</integer>
+			<key>Total Time</key><integer>229773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2025-11-29T06:19:40Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851870816</integer>
+			<key>Play Date UTC</key><date>2026-01-22T02:06:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-23T19:13:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11058</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>6EA32A6B1BB7372D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Shine%20Holder%20-%20Single/01%20Shine%20Holder.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10769</key>
+		<dict>
+			<key>Track ID</key><integer>10769</integer>
+			<key>Name</key><string>嫌い</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>The BKW Show!!</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7359031</integer>
+			<key>Total Time</key><integer>227213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-07T20:48:52Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3839666432</integer>
+			<key>Play Date UTC</key><date>2025-09-02T19:00:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13184</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BKW Show!!</string>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>4AA23B503FDFE1BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/The%20BKW%20Show!!/01%20%E5%AB%8C%E3%81%84.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10771</key>
+		<dict>
+			<key>Track ID</key><integer>10771</integer>
+			<key>Name</key><string>モンスターエフェクト</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>The BKW Show!!</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5713959</integer>
+			<key>Total Time</key><integer>175804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T18:29:14Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851360244</integer>
+			<key>Play Date UTC</key><date>2026-01-16T04:17:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14613</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BKW Show!!</string>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>57820E628C100BAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/The%20BKW%20Show!!/02%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10775</key>
+		<dict>
+			<key>Track ID</key><integer>10775</integer>
+			<key>Name</key><string>STARGET</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>The BKW Show!!</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6676085</integer>
+			<key>Total Time</key><integer>205871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-01-07T20:48:28Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850564566</integer>
+			<key>Play Date UTC</key><date>2026-01-06T23:16:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10605</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BKW Show!!</string>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>CB3715997341A160</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/The%20BKW%20Show!!/04%20STARGET.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10785</key>
+		<dict>
+			<key>Track ID</key><integer>10785</integer>
+			<key>Name</key><string>大魔王参上</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>The BKW Show!!</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6717051</integer>
+			<key>Total Time</key><integer>207151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-01-07T20:29:40Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3837854244</integer>
+			<key>Play Date UTC</key><date>2025-08-12T19:37:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BKW Show!!</string>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>6B5FF0AC55CF4074</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/The%20BKW%20Show!!/09%20%E5%A4%A7%E9%AD%94%E7%8E%8B%E5%8F%82%E4%B8%8A.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10827</key>
+		<dict>
+			<key>Track ID</key><integer>10827</integer>
+			<key>Name</key><string>Warwarwar</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>Unofficial</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7681586</integer>
+			<key>Total Time</key><integer>237897</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-07T19:51:11Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851169629</integer>
+			<key>Play Date UTC</key><date>2026-01-13T23:20:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>7C02194FF2F1457C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Unofficial/05%20Warwarwar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10833</key>
+		<dict>
+			<key>Track ID</key><integer>10833</integer>
+			<key>Name</key><string>Shala La</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Unofficial</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6390091</integer>
+			<key>Total Time</key><integer>197537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T18:54:19Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3839325855</integer>
+			<key>Play Date UTC</key><date>2025-08-29T20:24:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>A785C55185078599</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Unofficial/08%20Shala%20La.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10839</key>
+		<dict>
+			<key>Track ID</key><integer>10839</integer>
+			<key>Name</key><string>Wagamama De Gomakasanaide</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Wagamama De Gomakasanaide - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8350709</integer>
+			<key>Total Time</key><integer>257384</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-07T21:18:33Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850332905</integer>
+			<key>Play Date UTC</key><date>2026-01-04T06:55:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8974</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>1EB29EDA6F68A21E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Wagamama%20De%20Gomakasanaide%20-%20EP/01%20Wagamama%20De%20Gomakasanaide.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10849</key>
+		<dict>
+			<key>Track ID</key><integer>10849</integer>
+			<key>Name</key><string>mist…</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也/山中拓也</string>
+			<key>Album</key><string>オレンジの抜け殻、私が生きたアイの証 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7771881</integer>
+			<key>Total Time</key><integer>239542</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-07T16:55:08Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846787846</integer>
+			<key>Play Date UTC</key><date>2025-11-24T06:10:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-18T02:33:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10595</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>05D5352D742B668C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E6%8A%9C%E3%81%91%E6%AE%BB%E3%80%81%E7%A7%81%E3%81%8C%E7%94%9F%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%81%AE%E8%A8%BC%20-%20EP/01%20mist%E2%80%A6.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10853</key>
+		<dict>
+			<key>Track ID</key><integer>10853</integer>
+			<key>Name</key><string>瓢箪山の駅員さん</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也/山中拓也</string>
+			<key>Album</key><string>オレンジの抜け殻、私が生きたアイの証 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7465941</integer>
+			<key>Total Time</key><integer>229982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T19:43:34Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3837184521</integer>
+			<key>Play Date UTC</key><date>2025-08-05T01:35:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7388</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>534AEF98131FC8F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E6%8A%9C%E3%81%91%E6%AE%BB%E3%80%81%E7%A7%81%E3%81%8C%E7%94%9F%E3%81%8D%E3%81%9F%E3%82%A2%E3%82%A4%E3%81%AE%E8%A8%BC%20-%20EP/03%20%E7%93%A2%E7%AE%AA%E5%B1%B1%E3%81%AE%E9%A7%85%E5%93%A1%E3%81%95%E3%82%93.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10861</key>
+		<dict>
+			<key>Track ID</key><integer>10861</integer>
+			<key>Name</key><string>起死回生STORY</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>起死回生STORY - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7459127</integer>
+			<key>Total Time</key><integer>229511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-07T17:55:04Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3833799924</integer>
+			<key>Play Date UTC</key><date>2025-06-26T21:25:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19393</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>B38EC134F95D8E10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9FSTORY%20-%20EP/01%20%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9FSTORY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14641</key>
+		<dict>
+			<key>Track ID</key><integer>14641</integer>
+			<key>Name</key><string>DUNK</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES feat. Masato</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES feat. Masato</string>
+			<key>Album</key><string>DUNK</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10434468</integer>
+			<key>Total Time</key><integer>254630</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:53Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:31Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3819992183</integer>
+			<key>Play Date UTC</key><date>2025-01-18T02:56:23Z</date>
+			<key>Release Date</key><date>2024-08-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9926</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES feat. Masato</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES feat. Masato</string>
+			<key>Persistent ID</key><string>7DDDBE3FF0BCA42A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES%20feat.%20Masato/DUNK/01%20DUNK.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14643</key>
+		<dict>
+			<key>Track ID</key><integer>14643</integer>
+			<key>Name</key><string>Kantannakoto</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Kantannakoto - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8715131</integer>
+			<key>Total Time</key><integer>214065</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-07T22:08:04Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843647800</integer>
+			<key>Play Date UTC</key><date>2025-10-18T20:56:40Z</date>
+			<key>Release Date</key><date>2015-07-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>C2DE1F7863296310</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kantannakoto%20-%20Single/01%20Kantannakoto.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14645</key>
+		<dict>
+			<key>Track ID</key><integer>14645</integer>
+			<key>Name</key><string>Kyouran Hey Kids!!</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>Yamanaka Takuya</string>
+			<key>Album</key><string>Kyouran Hey Kids!! - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10310604</integer>
+			<key>Total Time</key><integer>250032</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-07T22:06:15Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:31Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3839331904</integer>
+			<key>Play Date UTC</key><date>2025-08-29T22:05:04Z</date>
+			<key>Release Date</key><date>2015-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19332</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>BF31368B041240CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Kyouran%20Hey%20Kids!!%20-%20EP/01%20Kyouran%20Hey%20Kids!!.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14647</key>
+		<dict>
+			<key>Track ID</key><integer>14647</integer>
+			<key>Name</key><string>UNDER and OVER</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>UNDER and OVER - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9792225</integer>
+			<key>Total Time</key><integer>234312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2026-01-07T20:24:43Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:31Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3845651368</integer>
+			<key>Play Date UTC</key><date>2025-11-11T02:29:28Z</date>
+			<key>Release Date</key><date>2024-10-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11159</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>B45C594958A837FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/UNDER%20and%20OVER%20-%20Single/01%20UNDER%20and%20OVER.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14651</key>
+		<dict>
+			<key>Track ID</key><integer>14651</integer>
+			<key>Name</key><string>Dip-Bap</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Dip-Bap - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11170124</integer>
+			<key>Total Time</key><integer>269676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-07T20:55:52Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:32Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847200964</integer>
+			<key>Play Date UTC</key><date>2025-11-29T00:56:04Z</date>
+			<key>Release Date</key><date>2016-08-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>F0A5A554FC788938</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Dip-Bap%20-%20Single/01%20Dip-Bap.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14653</key>
+		<dict>
+			<key>Track ID</key><integer>14653</integer>
+			<key>Name</key><string>Catch Me</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Dip-Bap - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8436243</integer>
+			<key>Total Time</key><integer>207238</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T21:41:48Z</date>
+			<key>Date Added</key><date>2025-01-18T02:33:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3840617971</integer>
+			<key>Play Date UTC</key><date>2025-09-13T19:19:31Z</date>
+			<key>Release Date</key><date>2016-08-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11793</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>BCA5EEB9CCA14BC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Dip-Bap%20-%20Single/02%20Catch%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14661</key>
+		<dict>
+			<key>Track ID</key><integer>14661</integer>
+			<key>Name</key><string>Miss Tail</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>5150 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8379683</integer>
+			<key>Total Time</key><integer>199970</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2026-01-07T17:05:10Z</date>
+			<key>Date Added</key><date>2025-01-18T02:41:02Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850581078</integer>
+			<key>Play Date UTC</key><date>2026-01-07T03:51:18Z</date>
+			<key>Release Date</key><date>2016-11-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11341</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>5DFB1E1B250E5353</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/5150%20-%20Single/03%20Miss%20Tail.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14663</key>
+		<dict>
+			<key>Track ID</key><integer>14663</integer>
+			<key>Name</key><string>5150</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>5150 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9706151</integer>
+			<key>Total Time</key><integer>238840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2025-11-29T04:38:37Z</date>
+			<key>Date Added</key><date>2025-01-18T02:41:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845713174</integer>
+			<key>Play Date UTC</key><date>2025-11-11T19:39:34Z</date>
+			<key>Release Date</key><date>2016-11-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9877</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>E09306B11ACCA271</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/5150%20-%20Single/01%205150.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14665</key>
+		<dict>
+			<key>Track ID</key><integer>14665</integer>
+			<key>Name</key><string>Dream In Drive</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中拓也</string>
+			<key>Album</key><string>Dream In Drive - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8577953</integer>
+			<key>Total Time</key><integer>209537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>144</integer>
+			<key>Date Modified</key><date>2026-01-07T18:59:57Z</date>
+			<key>Date Added</key><date>2025-01-18T02:41:03Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846050552</integer>
+			<key>Play Date UTC</key><date>2025-11-15T17:22:32Z</date>
+			<key>Release Date</key><date>2020-03-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>46C2B6407884CF0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Dream%20In%20Drive%20-%20Single/01%20Dream%20In%20Drive.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14667</key>
+		<dict>
+			<key>Track ID</key><integer>14667</integer>
+			<key>Name</key><string>Access×Koutai</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>5150 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8607262</integer>
+			<key>Total Time</key><integer>209722</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T19:46:20Z</date>
+			<key>Date Added</key><date>2025-01-18T02:41:03Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846912983</integer>
+			<key>Play Date UTC</key><date>2025-11-25T16:56:23Z</date>
+			<key>Release Date</key><date>2016-11-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>93E1F9FE2EC93E65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/5150%20-%20Single/02%20Access%C3%97Koutai.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14673</key>
+		<dict>
+			<key>Track ID</key><integer>14673</integer>
+			<key>Name</key><string>One's Again</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Composer</key><string>山中 拓也</string>
+			<key>Album</key><string>Tonariau - ONE'S AGAIN - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11474617</integer>
+			<key>Total Time</key><integer>281449</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T19:12:27Z</date>
+			<key>Date Added</key><date>2025-01-18T02:44:31Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850577544</integer>
+			<key>Play Date UTC</key><date>2026-01-07T02:52:24Z</date>
+			<key>Release Date</key><date>2017-06-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10117</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>A2708831E9DE11A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/Tonariau%20-%20ONE'S%20AGAIN%20-%20Single/02%20One's%20Again.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15377</key>
+		<dict>
+			<key>Track ID</key><integer>15377</integer>
+			<key>Name</key><string>Bitch!!</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>AlterGeist0000</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8624635</integer>
+			<key>Total Time</key><integer>208678</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>178</integer>
+			<key>Date Modified</key><date>2026-01-07T19:18:26Z</date>
+			<key>Date Added</key><date>2025-01-22T19:38:59Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3846051830</integer>
+			<key>Play Date UTC</key><date>2025-11-15T17:43:50Z</date>
+			<key>Release Date</key><date>2025-01-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>15733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>82170C6E16B2EFBA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/AlterGeist0000/01%20Bitch!!.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15423</key>
+		<dict>
+			<key>Track ID</key><integer>15423</integer>
+			<key>Name</key><string>OD</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>AlterGeist0000</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8131967</integer>
+			<key>Total Time</key><integer>197927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T21:22:44Z</date>
+			<key>Date Added</key><date>2025-01-22T19:39:00Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3850414575</integer>
+			<key>Play Date UTC</key><date>2026-01-05T05:36:15Z</date>
+			<key>Release Date</key><date>2025-01-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4471</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>ORAL CIGARETTES</string>
+			<key>Sort Artist</key><string>ORAL CIGARETTES</string>
+			<key>Persistent ID</key><string>6D43FC319099D420</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/AlterGeist0000/06%20OD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33743</key>
+		<dict>
+			<key>Track ID</key><integer>33743</integer>
+			<key>Name</key><string>ERASE</string>
+			<key>Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album Artist</key><string>THE ORAL CIGARETTES</string>
+			<key>Album</key><string>ERASE - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>43166040</integer>
+			<key>Total Time</key><integer>182415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2026-01-07T20:43:48Z</date>
+			<key>Date Added</key><date>2026-01-06T19:13:03Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851341483</integer>
+			<key>Play Date UTC</key><date>2026-01-15T23:04:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8843</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E646BFAB7814C023</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/THE%20ORAL%20CIGARETTES/ERASE%20-%20Single/01%20ERASE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>The Oral Cigarettes</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102270</integer>
+			<key>Playlist Persistent ID</key><string>FE21D08A073FB721</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfZTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAACYAVABIAEUAIABPAFIAQQBMACAAQwBJAEcAQQBSAEUAVABUAEUAUwAA
+			ABkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABE
+			AAAAAAAAAGQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAADgBlAHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBv
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14645</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10775</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33743</integer>
+				</dict>
+			</array>
+			<key>Loved</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>

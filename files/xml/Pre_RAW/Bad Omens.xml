@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:19:10Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5345</key>
+		<dict>
+			<key>Track ID</key><integer>5345</integer>
+			<key>Name</key><string>EVEN</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian</string>
+			<key>Album</key><string>CONCRETE JUNGLE [THE OST]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5785729</integer>
+			<key>Total Time</key><integer>178364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T21:04:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846062169</integer>
+			<key>Play Date UTC</key><date>2025-11-15T20:36:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1274</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B2A3CF6C316BC04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/CONCRETE%20JUNGLE%20%5BTHE%20OST%5D/06%20EVEN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5369</key>
+		<dict>
+			<key>Track ID</key><integer>5369</integer>
+			<key>Name</key><string>Kingdom Of Cards</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8437013</integer>
+			<key>Total Time</key><integer>261720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T20:10:38Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3844361509</integer>
+			<key>Play Date UTC</key><date>2025-10-27T04:11:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6342</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28B7659B2E455299</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/01%20Kingdom%20Of%20Cards.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5373</key>
+		<dict>
+			<key>Track ID</key><integer>5373</integer>
+			<key>Name</key><string>Careful What You Wish For</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8795631</integer>
+			<key>Total Time</key><integer>272927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T19:42:01Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847270511</integer>
+			<key>Play Date UTC</key><date>2025-11-29T20:15:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11066</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2BD7F424487B3F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/03%20Careful%20What%20You%20Wish%20For.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5383</key>
+		<dict>
+			<key>Track ID</key><integer>5383</integer>
+			<key>Name</key><string>Said &#38; Done</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6621393</integer>
+			<key>Total Time</key><integer>204982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-07T18:55:28Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846768060</integer>
+			<key>Play Date UTC</key><date>2025-11-24T00:41:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11081</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>97154F59B70CD0EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/08%20Said%20&#38;%20Done.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5385</key>
+		<dict>
+			<key>Track ID</key><integer>5385</integer>
+			<key>Name</key><string>Burning Out</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8559623</integer>
+			<key>Total Time</key><integer>265508</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>168</integer>
+			<key>Date Modified</key><date>2026-01-07T20:35:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849075695</integer>
+			<key>Play Date UTC</key><date>2025-12-20T17:41:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>239CE9E42BE57D11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/09%20Burning%20Out.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5389</key>
+		<dict>
+			<key>Track ID</key><integer>5389</integer>
+			<key>Name</key><string>Never Know</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6908949</integer>
+			<key>Total Time</key><integer>213968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>152</integer>
+			<key>Date Modified</key><date>2026-01-07T20:09:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845731716</integer>
+			<key>Play Date UTC</key><date>2025-11-12T00:48:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10136</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0802CD29CA8B899E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/11%20Never%20Know.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5393</key>
+		<dict>
+			<key>Track ID</key><integer>5393</integer>
+			<key>Name</key><string>Come Undone</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Finding God Before God Finds Me (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8430321</integer>
+			<key>Total Time</key><integer>261511</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-01-07T20:14:28Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845717687</integer>
+			<key>Play Date UTC</key><date>2025-11-11T20:54:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6922</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A676A5CBD7B9FDB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Finding%20God%20Before%20God%20Finds%20Me%20(Deluxe)/13%20Come%20Undone.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5409</key>
+		<dict>
+			<key>Track ID</key><integer>5409</integer>
+			<key>Name</key><string>CONCRETE JUNGLE</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7160715</integer>
+			<key>Total Time</key><integer>220630</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T21:39:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842209236</integer>
+			<key>Play Date UTC</key><date>2025-10-02T05:20:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5660</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Sort Artist</key><string>Bad Omens</string>
+			<key>Sort Name</key><string>CONCRETE JUNGLE</string>
+			<key>Persistent ID</key><string>9D8A82096D817FA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/01%20CONCRETE%20JUNGLE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5411</key>
+		<dict>
+			<key>Track ID</key><integer>5411</integer>
+			<key>Name</key><string>Nowhere To Go</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8001391</integer>
+			<key>Total Time</key><integer>246883</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-01-07T21:51:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850566318</integer>
+			<key>Play Date UTC</key><date>2026-01-06T23:45:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9795</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>D30BD5B1565D73FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/02%20Nowhere%20To%20Go.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5413</key>
+		<dict>
+			<key>Track ID</key><integer>5413</integer>
+			<key>Name</key><string>Take Me First</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Erik Ron, Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6494387</integer>
+			<key>Total Time</key><integer>199810</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850472580</integer>
+			<key>Play Date UTC</key><date>2026-01-05T21:43:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-03T01:11:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8289</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>BFB9544AD795A73F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/03%20Take%20Me%20First.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5415</key>
+		<dict>
+			<key>Track ID</key><integer>5415</integer>
+			<key>Name</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian &#38; Joakim Karlsson</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7832706</integer>
+			<key>Total Time</key><integer>241632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T19:13:58Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846785115</integer>
+			<key>Play Date UTC</key><date>2025-11-24T05:25:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6166</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Sort Name</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>C889197D77BCE237</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/04%20THE%20DEATH%20OF%20PEACE%20OF%20MIND.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5417</key>
+		<dict>
+			<key>Track ID</key><integer>5417</integer>
+			<key>Name</key><string>What It Cost</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>3424154</integer>
+			<key>Total Time</key><integer>103862</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>155</integer>
+			<key>Date Modified</key><date>2026-01-07T18:43:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851329745</integer>
+			<key>Play Date UTC</key><date>2026-01-15T19:49:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3769</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Sort Artist</key><string>Bad Omens</string>
+			<key>Sort Name</key><string>What It Cost</string>
+			<key>Persistent ID</key><string>8F20AE574C31F557</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/05%20What%20It%20Cost.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5419</key>
+		<dict>
+			<key>Track ID</key><integer>5419</integer>
+			<key>Name</key><string>Like A Villain</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian &#38; Joakim Karlsson</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6846310</integer>
+			<key>Total Time</key><integer>210808</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T21:42:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846779791</integer>
+			<key>Play Date UTC</key><date>2025-11-24T03:56:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7661</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>74A46E8D5B0DC932</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/06%20Like%20A%20Villain.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5421</key>
+		<dict>
+			<key>Track ID</key><integer>5421</integer>
+			<key>Name</key><string>bad decisions</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8469662</integer>
+			<key>Total Time</key><integer>261485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>45</integer>
+			<key>Date Modified</key><date>2026-01-07T19:19:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842281883</integer>
+			<key>Play Date UTC</key><date>2025-10-03T01:31:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3142</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>0F115B4B6B5B33A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/07%20bad%20decisions.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5423</key>
+		<dict>
+			<key>Track ID</key><integer>5423</integer>
+			<key>Name</key><string>Just Pretend</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6654047</integer>
+			<key>Total Time</key><integer>204800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T21:34:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3846908509</integer>
+			<key>Play Date UTC</key><date>2025-11-25T15:41:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7408</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>21E3C033C6C18C69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/08%20Just%20Pretend.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5425</key>
+		<dict>
+			<key>Track ID</key><integer>5425</integer>
+			<key>Name</key><string>The Grey</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian &#38; Joakim Karlsson</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7986497</integer>
+			<key>Total Time</key><integer>246439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-07T21:54:29Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844690749</integer>
+			<key>Play Date UTC</key><date>2025-10-30T23:39:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8984</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Sort Name</key><string>Grey</string>
+			<key>Persistent ID</key><string>F7CEA3E389748747</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/09%20The%20Grey.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5427</key>
+		<dict>
+			<key>Track ID</key><integer>5427</integer>
+			<key>Name</key><string>Who are you </string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Michael Taylor, Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7059468</integer>
+			<key>Total Time</key><integer>217469</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T17:59:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850335618</integer>
+			<key>Play Date UTC</key><date>2026-01-04T07:40:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3081</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>EF6D48EF5F6E85CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/10%20Who%20are%20you.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5429</key>
+		<dict>
+			<key>Track ID</key><integer>5429</integer>
+			<key>Name</key><string>Somebody else.</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7679721</integer>
+			<key>Total Time</key><integer>236852</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T21:51:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3846411538</integer>
+			<key>Play Date UTC</key><date>2025-11-19T21:38:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3807</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>1F2F33FF92346AF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/11%20Somebody%20else..mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5431</key>
+		<dict>
+			<key>Track ID</key><integer>5431</integer>
+			<key>Name</key><string>IDWT$</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6598870</integer>
+			<key>Total Time</key><integer>203075</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T21:21:07Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3840727133</integer>
+			<key>Play Date UTC</key><date>2025-09-15T01:38:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-03T00:45:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7950</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>76E310A727EF4154</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/12%20IDWT$.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5437</key>
+		<dict>
+			<key>Track ID</key><integer>5437</integer>
+			<key>Name</key><string>Miracle</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Joakim Karlsson &#38; Noah Sebastian</string>
+			<key>Album</key><string>THE DEATH OF PEACE OF MIND</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7304565</integer>
+			<key>Total Time</key><integer>225123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T17:48:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850483272</integer>
+			<key>Play Date UTC</key><date>2026-01-06T00:41:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH OF PEACE OF MIND</string>
+			<key>Persistent ID</key><string>74C635345F49BFD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/THE%20DEATH%20OF%20PEACE%20OF%20MIND/15%20Miracle.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5443</key>
+		<dict>
+			<key>Track ID</key><integer>5443</integer>
+			<key>Name</key><string>ANYTHING   HUMAN</string>
+			<key>Artist</key><string>Bad Omens &#38; ERRA</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson, Michael Taylor, Jesse Cash &#38; Dan Braunstein</string>
+			<key>Album</key><string>CONCRETE JUNGLE [THE OST]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7604707</integer>
+			<key>Total Time</key><integer>235206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>173</integer>
+			<key>Date Modified</key><date>2026-01-07T18:29:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837252082</integer>
+			<key>Play Date UTC</key><date>2025-08-05T20:21:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10889</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10EF7BB0EA1978F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/CONCRETE%20JUNGLE%20%5BTHE%20OST%5D/08%20ANYTHING%20%20%20HUMAN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5445</key>
+		<dict>
+			<key>Track ID</key><integer>5445</integer>
+			<key>Name</key><string>NERVOUS SYSTEM</string>
+			<key>Artist</key><string>Bad Omens &#38; iRis.EXE</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian</string>
+			<key>Album</key><string>CONCRETE JUNGLE [THE OST]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6501297</integer>
+			<key>Total Time</key><integer>200724</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T22:10:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3820174951</integer>
+			<key>Play Date UTC</key><date>2025-01-20T05:42:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5503</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43F8C4144800CC67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/CONCRETE%20JUNGLE%20%5BTHE%20OST%5D/10%20NERVOUS%20SYSTEM.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5447</key>
+		<dict>
+			<key>Track ID</key><integer>5447</integer>
+			<key>Name</key><string>V.A.N</string>
+			<key>Artist</key><string>Bad Omens &#38; Poppy</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson &#38; Michael Taylor</string>
+			<key>Album</key><string>CONCRETE JUNGLE [THE OST]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8853559</integer>
+			<key>Total Time</key><integer>274233</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T17:39:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850563012</integer>
+			<key>Play Date UTC</key><date>2026-01-06T22:50:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6827</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D124AFFCFC84894</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/CONCRETE%20JUNGLE%20%5BTHE%20OST%5D/02%20V.A.N.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5461</key>
+		<dict>
+			<key>Track ID</key><integer>5461</integer>
+			<key>Name</key><string>THE DRAIN</string>
+			<key>Artist</key><string>Bad Omens, HEALTH &#38; Swarm</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson, Michael Taylor, John Famiglietti, Jake Duszik, Brandon Caroll &#38; Ajay Battacharyya</string>
+			<key>Album</key><string>CONCRETE JUNGLE [THE OST]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7304621</integer>
+			<key>Total Time</key><integer>225828</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T17:26:29Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3835860126</integer>
+			<key>Play Date UTC</key><date>2025-07-20T17:42:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6546</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>DRAIN</string>
+			<key>Persistent ID</key><string>CF57883B8BA3BFB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/CONCRETE%20JUNGLE%20%5BTHE%20OST%5D/03%20THE%20DRAIN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12107</key>
+		<dict>
+			<key>Track ID</key><integer>12107</integer>
+			<key>Name</key><string>Novocaine</string>
+			<key>Artist</key><string>Too Close To Touch &#38; Bad Omens</string>
+			<key>Album Artist</key><string>Too Close To Touch</string>
+			<key>Composer</key><string>Kenneth Downey, Mason Marble, Charles Kallaghan &#38; Noah Sebastian</string>
+			<key>Album</key><string>For Keeps</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12093682</integer>
+			<key>Total Time</key><integer>295845</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-01-07T19:30:05Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835607122</integer>
+			<key>Play Date UTC</key><date>2025-07-17T19:25:22Z</date>
+			<key>Release Date</key><date>2024-03-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72E60DDEB69BE558</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Too%20Close%20To%20Touch/For%20Keeps/01%20Novocaine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14783</key>
+		<dict>
+			<key>Track ID</key><integer>14783</integer>
+			<key>Name</key><string>Glass Houses</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Bad Omens</string>
+			<key>Album</key><string>Glass Houses - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9683571</integer>
+			<key>Total Time</key><integer>240953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-07T18:17:05Z</date>
+			<key>Date Added</key><date>2025-01-18T05:08:21Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850574018</integer>
+			<key>Play Date UTC</key><date>2026-01-07T01:53:38Z</date>
+			<key>Release Date</key><date>2016-01-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12409</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2C5E0D49DCABB12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Glass%20Houses%20-%20Single/01%20Glass%20Houses.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14785</key>
+		<dict>
+			<key>Track ID</key><integer>14785</integer>
+			<key>Name</key><string>Limits</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Erik Ron &#38; Noah Sebastian</string>
+			<key>Album</key><string>Limits - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8432786</integer>
+			<key>Total Time</key><integer>207911</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2026-01-07T17:01:04Z</date>
+			<key>Date Added</key><date>2025-01-18T05:08:21Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850329163</integer>
+			<key>Play Date UTC</key><date>2026-01-04T05:52:43Z</date>
+			<key>Release Date</key><date>2020-01-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9255</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>60CF1717F4007B71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Limits%20-%20Single/01%20Limits.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28307</key>
+		<dict>
+			<key>Track ID</key><integer>28307</integer>
+			<key>Name</key><string>Specter</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson &#38; Michael Taylor</string>
+			<key>Album</key><string>Specter - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8814467</integer>
+			<key>Total Time</key><integer>274520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T19:24:05Z</date>
+			<key>Date Added</key><date>2025-08-12T22:13:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3851158153</integer>
+			<key>Play Date UTC</key><date>2026-01-13T20:09:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6038</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCCC741A52F4A3FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Specter%20-%20Single/01%20Specter.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28939</key>
+		<dict>
+			<key>Track ID</key><integer>28939</integer>
+			<key>Name</key><string>Impose</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson &#38; Michael Taylor</string>
+			<key>Album</key><string>Impose - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8456355</integer>
+			<key>Total Time</key><integer>263340</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-01-07T20:53:13Z</date>
+			<key>Date Added</key><date>2025-09-13T06:55:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850414370</integer>
+			<key>Play Date UTC</key><date>2026-01-05T05:32:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4828</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57BAAC217748238F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Impose%20-%20Single/01%20Impose.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33035</key>
+		<dict>
+			<key>Track ID</key><integer>33035</integer>
+			<key>Name</key><string>Dying To Love</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson &#38; Michael Taylor</string>
+			<key>Album</key><string>Dying To Love - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10422393</integer>
+			<key>Total Time</key><integer>257022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-01-07T20:13:55Z</date>
+			<key>Date Added</key><date>2025-10-23T05:33:41Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846487647</integer>
+			<key>Play Date UTC</key><date>2025-11-20T18:47:27Z</date>
+			<key>Release Date</key><date>2025-10-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B9B03BF8E30A8C3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Dying%20To%20Love%20-%20Single/01%20Dying%20To%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33205</key>
+		<dict>
+			<key>Track ID</key><integer>33205</integer>
+			<key>Name</key><string>Left For Good</string>
+			<key>Artist</key><string>Bad Omens</string>
+			<key>Album Artist</key><string>Bad Omens</string>
+			<key>Composer</key><string>Noah Sebastian, Joakim Karlsson &#38; Michael Taylor</string>
+			<key>Album</key><string>Left For Good - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9623923</integer>
+			<key>Total Time</key><integer>233802</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T17:20:07Z</date>
+			<key>Date Added</key><date>2025-11-20T19:41:19Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846491122</integer>
+			<key>Play Date UTC</key><date>2025-11-20T19:45:22Z</date>
+			<key>Release Date</key><date>2025-11-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4EE619BB8FECCC1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Bad%20Omens/Left%20For%20Good%20-%20Single/01%20Left%20For%20Good.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Bad Omens</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101059</integer>
+			<key>Playlist Persistent ID</key><string>B02049CDDB059DA2</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAipTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQgBhAGQAIABPAG0AZQBuAHMAAAAZAAABAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
+			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
+			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeA==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5427</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5431</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28307</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28939</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33205</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:19:48Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5923</key>
+		<dict>
+			<key>Track ID</key><integer>5923</integer>
+			<key>Name</key><string>Abon</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>Daoko &#38; Dj6gatsu</string>
+			<key>Album</key><string>Abon - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5124827</integer>
+			<key>Total Time</key><integer>155742</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>77</integer>
+			<key>Date Modified</key><date>2026-01-07T21:42:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851317920</integer>
+			<key>Play Date UTC</key><date>2026-01-15T16:32:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4183</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F224E4105C8D1F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Abon%20-%20Single/01%20Abon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5925</key>
+		<dict>
+			<key>Track ID</key><integer>5925</integer>
+			<key>Name</key><string>Allure of the Dark</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Allure of the Dark - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8038701</integer>
+			<key>Total Time</key><integer>248973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>158</integer>
+			<key>Date Modified</key><date>2026-01-07T18:09:47Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847090298</integer>
+			<key>Play Date UTC</key><date>2025-11-27T18:11:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5213</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D49D4BE00996F29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Allure%20of%20the%20Dark%20-%20Single/01%20Allure%20of%20the%20Dark.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5949</key>
+		<dict>
+			<key>Track ID</key><integer>5949</integer>
+			<key>Name</key><string>Suisei</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>tofubeats, DAOKO &#38; Onomatope Daiji</string>
+			<key>Album</key><string>DAOKO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8829257</integer>
+			<key>Total Time</key><integer>273606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T21:30:58Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3833805455</integer>
+			<key>Play Date UTC</key><date>2025-06-26T22:57:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5334</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3B81E6625F59A71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/DAOKO/01%20Suisei.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5951</key>
+		<dict>
+			<key>Track ID</key><integer>5951</integer>
+			<key>Name</key><string>Kakete Ageru</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>DAOKO &#38; 小島英也</string>
+			<key>Album</key><string>DAOKO</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7852910</integer>
+			<key>Total Time</key><integer>243095</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2026-01-07T18:08:29Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3819979475</integer>
+			<key>Play Date UTC</key><date>2025-01-17T23:24:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4319</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2C07C0AD2363F6D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/DAOKO/02%20Kakete%20Ageru.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5973</key>
+		<dict>
+			<key>Track ID</key><integer>5973</integer>
+			<key>Name</key><string>Hajimemashiteno Kimochiwo</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>YOH KAMIYAMA &#38; Daoko</string>
+			<key>Album</key><string>Hajimemashiteno Kimochiwo - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7379298</integer>
+			<key>Total Time</key><integer>227317</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T18:36:07Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845297754</integer>
+			<key>Play Date UTC</key><date>2025-11-07T00:15:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5078</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1183B93095DEB4F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/Hajimemashiteno%20Kimochiwo%20-%20Single/01%20Hajimemashiteno%20Kimochiwo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5981</key>
+		<dict>
+			<key>Track ID</key><integer>5981</integer>
+			<key>Name</key><string>最近</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>daoko &#38; COASARU</string>
+			<key>Album</key><string>HYPER GIRL -向こう側の女の子-</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6590625</integer>
+			<key>Total Time</key><integer>202762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-12-26T22:02:15Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3839257163</integer>
+			<key>Play Date UTC</key><date>2025-08-29T01:19:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2677</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7EC7FB911F7E942D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/HYPER%20GIRL%20-%E5%90%91%E3%81%93%E3%81%86%E5%81%B4%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90-/04%20%E6%9C%80%E8%BF%91.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6003</key>
+		<dict>
+			<key>Track ID</key><integer>6003</integer>
+			<key>Name</key><string>Daisuki</string>
+			<key>Artist</key><string>DAOKO with TeddyLoid</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Moshimo Bokura Ga Game No Shyuyakude - Daisuki with TeddyLoid - Bang!</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6433734</integer>
+			<key>Total Time</key><integer>198791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-01-07T19:31:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843576827</integer>
+			<key>Play Date UTC</key><date>2025-10-18T01:13:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-05T23:49:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8878</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E20B772ECAFBBF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Moshimo%20Bokura%20Ga%20Game%20No%20Shyuyakude%20-%20D/02%20Daisuki.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6005</key>
+		<dict>
+			<key>Track ID</key><integer>6005</integer>
+			<key>Name</key><string>Bang!</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>DAOKO &#38; 小島英也(ORESAMA)</string>
+			<key>Album</key><string>Moshimo Bokura Ga Game No Shyuyakude - Daisuki with TeddyLoid - Bang!</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7084062</integer>
+			<key>Total Time</key><integer>219115</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T17:17:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3849074005</integer>
+			<key>Play Date UTC</key><date>2025-12-20T17:13:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6220</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B720AEE8C930C8CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Moshimo%20Bokura%20Ga%20Game%20No%20Shyuyakude%20-%20D/03%20Bang!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6017</key>
+		<dict>
+			<key>Track ID</key><integer>6017</integer>
+			<key>Name</key><string>ShibuyaK</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>DAOKO &#38; 小島英也(ORESAMA)</string>
+			<key>Album</key><string>ShibuyaK -SamishiiKamisama - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8413179</integer>
+			<key>Total Time</key><integer>260022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2025-11-29T06:29:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3837188195</integer>
+			<key>Play Date UTC</key><date>2025-08-05T02:36:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5836</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B70E7C65932478C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/ShibuyaK%20-SamishiiKamisama%20-%20Single/01%20ShibuyaK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6019</key>
+		<dict>
+			<key>Track ID</key><integer>6019</integer>
+			<key>Name</key><string>Samishii Kamisama</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>DAOKO &#38; 小島英也(ORESAMA)</string>
+			<key>Album</key><string>ShibuyaK -SamishiiKamisama - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8651000</integer>
+			<key>Total Time</key><integer>267102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T22:19:00Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845206312</integer>
+			<key>Play Date UTC</key><date>2025-11-05T22:51:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6773</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F335E0BFA1B3EC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/ShibuyaK%20-SamishiiKamisama%20-%20Single/02%20Samishii%20Kamisama.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6021</key>
+		<dict>
+			<key>Track ID</key><integer>6021</integer>
+			<key>Name</key><string>Yumemitetano Atashi</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>DAOKO &#38; 小島英也(ORESAMA)</string>
+			<key>Album</key><string>ShibuyaK -SamishiiKamisama - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8653099</integer>
+			<key>Total Time</key><integer>267520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T17:15:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3834310330</integer>
+			<key>Play Date UTC</key><date>2025-07-02T19:12:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4457</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E217EC28F79998C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/ShibuyaK%20-SamishiiKamisama%20-%20Single/03%20Yumemitetano%20Atashi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6029</key>
+		<dict>
+			<key>Track ID</key><integer>6029</integer>
+			<key>Name</key><string>Tanemoshikakemoarumahou</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Shitekiryoko</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7926041</integer>
+			<key>Total Time</key><integer>245995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2026-01-07T19:12:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3825318063</integer>
+			<key>Play Date UTC</key><date>2025-03-20T18:21:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6499</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FBE7699E6BA4D775</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/Shitekiryoko/05%20Tanemoshikakemoarumahou.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6041</key>
+		<dict>
+			<key>Track ID</key><integer>6041</integer>
+			<key>Name</key><string>Tenshi Ga Itayo</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Slash-&#38;-Burn</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6329079</integer>
+			<key>Total Time</key><integer>195892</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-01-07T17:53:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844081091</integer>
+			<key>Play Date UTC</key><date>2025-10-23T21:18:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3494</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FBBFFDA86062817B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/Slash-&#38;-Burn/01%20Tenshi%20Ga%20Itayo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6043</key>
+		<dict>
+			<key>Track ID</key><integer>6043</integer>
+			<key>Name</key><string>Fts</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Slash-&#38;-Burn</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7803627</integer>
+			<key>Total Time</key><integer>241972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2026-01-07T19:24:56Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846061991</integer>
+			<key>Play Date UTC</key><date>2025-11-15T20:33:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1759</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C496995FB51209E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Slash-&#38;-Burn/02%20Fts.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6045</key>
+		<dict>
+			<key>Track ID</key><integer>6045</integer>
+			<key>Name</key><string>Slump</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Slash-&#38;-Burn</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6791332</integer>
+			<key>Total Time</key><integer>210337</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T16:53:44Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3845709317</integer>
+			<key>Play Date UTC</key><date>2025-11-11T18:35:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6CFD1B10E3BC794</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Slash-&#38;-Burn/03%20Slump.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6049</key>
+		<dict>
+			<key>Track ID</key><integer>6049</integer>
+			<key>Name</key><string>Gameover</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Slash-&#38;-Burn</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5768171</integer>
+			<key>Total Time</key><integer>178364</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-07T19:23:37Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842461830</integer>
+			<key>Play Date UTC</key><date>2025-10-05T03:30:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6458</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7A7E128EF775555</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Slash-&#38;-Burn/05%20Gameover.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6063</key>
+		<dict>
+			<key>Track ID</key><integer>6063</integer>
+			<key>Name</key><string>Akame No Buildings</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Slash-&#38;-Burn</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8076989</integer>
+			<key>Total Time</key><integer>250514</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3837855391</integer>
+			<key>Play Date UTC</key><date>2025-08-12T19:56:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3220</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95BE6964A40A4A36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Slash-&#38;-Burn/12%20Akame%20No%20Buildings.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6095</key>
+		<dict>
+			<key>Track ID</key><integer>6095</integer>
+			<key>Name</key><string>Ututu</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>Pigeondust</string>
+			<key>Album</key><string>UTUTU</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4350035</integer>
+			<key>Total Time</key><integer>132963</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T17:07:33Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3827335432</integer>
+			<key>Play Date UTC</key><date>2025-04-13T01:43:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4444</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Ututu</string>
+			<key>Persistent ID</key><string>F9A797B59D641513</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/UTUTU/01%20Ututu.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6117</key>
+		<dict>
+			<key>Track ID</key><integer>6117</integer>
+			<key>Name</key><string>Affordance</string>
+			<key>Artist</key><string>DAOKO &#38; GuruConnect</string>
+			<key>Album Artist</key><string>DAOKO &#38; GuruConnect</string>
+			<key>Album</key><string>Affordance - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4629818</integer>
+			<key>Total Time</key><integer>141113</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T20:01:03Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3843646975</integer>
+			<key>Play Date UTC</key><date>2025-10-18T20:42:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E4CA3DC2DD7F45F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko%20&#38;%20GuruConnect/Affordance%20-%20Single/01%20Affordance.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6119</key>
+		<dict>
+			<key>Track ID</key><integer>6119</integer>
+			<key>Name</key><string>Groggy Ghost</string>
+			<key>Artist</key><string>DAOKO &#38; TAAR</string>
+			<key>Album Artist</key><string>DAOKO &#38; TAAR</string>
+			<key>Album</key><string>Groggy Ghost - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6307838</integer>
+			<key>Total Time</key><integer>193671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T18:37:33Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849032424</integer>
+			<key>Play Date UTC</key><date>2025-12-20T05:40:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3082</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F04C0FDED49A7E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko%20&#38;%20TAAR/Groggy%20Ghost%20-%20Single/01%20Groggy%20Ghost.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6121</key>
+		<dict>
+			<key>Track ID</key><integer>6121</integer>
+			<key>Name</key><string>Escape</string>
+			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album</key><string>Escape - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7309553</integer>
+			<key>Total Time</key><integer>223764</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>117</integer>
+			<key>Date Modified</key><date>2026-01-07T17:52:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843149902</integer>
+			<key>Play Date UTC</key><date>2025-10-13T02:38:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D4E1EA120349F9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko%20&#38;%20Yohji%20Igarashi/Escape%20-%20Single/01%20Escape.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6123</key>
+		<dict>
+			<key>Track ID</key><integer>6123</integer>
+			<key>Name</key><string>Mad</string>
+			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album</key><string>Mad - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6866962</integer>
+			<key>Total Time</key><integer>209632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T20:39:19Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851166897</integer>
+			<key>Play Date UTC</key><date>2026-01-13T22:34:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4810</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD6CBCD429D23A88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO%20&#38;%20Yohji%20Igarashi/Mad%20-%20EP/01%20Mad.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6125</key>
+		<dict>
+			<key>Track ID</key><integer>6125</integer>
+			<key>Name</key><string>Spoopy</string>
+			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album</key><string>Mad - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5778599</integer>
+			<key>Total Time</key><integer>175621</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T19:47:02Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850401816</integer>
+			<key>Play Date UTC</key><date>2026-01-05T02:03:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5340</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D02760A78A1463FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko%20&#38;%20Yohji%20Igarashi/Mad%20-%20EP/02%20Spoopy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6129</key>
+		<dict>
+			<key>Track ID</key><integer>6129</integer>
+			<key>Name</key><string>Cha Cha</string>
+			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
+			<key>Composer</key><string>DAOKO &#38; YOHJI IGARASHI</string>
+			<key>Album</key><string>Mad - EP</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5768569</integer>
+			<key>Total Time</key><integer>175307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2026-01-07T18:09:00Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3844178171</integer>
+			<key>Play Date UTC</key><date>2025-10-25T00:16:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10667</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mad - EP</string>
+			<key>Sort Name</key><string>Cha Cha</string>
+			<key>Persistent ID</key><string>2FFC2920FFCE716F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko%20&#38;%20Yohji%20Igarashi/Mad%20-%20EP/04%20Cha%20Cha.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6131</key>
+		<dict>
+			<key>Track ID</key><integer>6131</integer>
+			<key>Name</key><string>Senkyaku Banrai</string>
+			<key>Artist</key><string>DAOKO × MIYAVI</string>
+			<key>Album Artist</key><string>DAOKO × MIYAVI</string>
+			<key>Composer</key><string>Daoko, MIYAVI, Lenard Skolnik &#38; Taku Inoue</string>
+			<key>Album</key><string>Senkyaku Banrai - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8646706</integer>
+			<key>Total Time</key><integer>268173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-07T19:56:48Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3842457574</integer>
+			<key>Play Date UTC</key><date>2025-10-05T02:19:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7682</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>812D442F9E5C7784</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO%20%C3%97%20MIYAVI/Senkyaku%20Banrai%20-%20Single/01%20Senkyaku%20Banrai.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6139</key>
+		<dict>
+			<key>Track ID</key><integer>6139</integer>
+			<key>Name</key><string>Step Up Love</string>
+			<key>Artist</key><string>DAOKO×岡村靖幸</string>
+			<key>Album Artist</key><string>DAOKO×岡村靖幸</string>
+			<key>Composer</key><string>岡村靖幸</string>
+			<key>Album</key><string>Step Up Love - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8198889</integer>
+			<key>Total Time</key><integer>253648</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T18:44:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850327978</integer>
+			<key>Play Date UTC</key><date>2026-01-04T05:32:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B937E7196DF21FC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO%C3%97%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8/Step%20Up%20Love%20-%20Single/01%20Step%20Up%20Love.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6145</key>
+		<dict>
+			<key>Track ID</key><integer>6145</integer>
+			<key>Name</key><string>Uchiagehanabi</string>
+			<key>Artist</key><string>DAOKO×米津玄師</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>Kenshi Yonezu</string>
+			<key>Album</key><string>Uchiagehanabi - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10402522</integer>
+			<key>Total Time</key><integer>289462</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T19:48:00Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835035332</integer>
+			<key>Play Date UTC</key><date>2025-07-11T04:35:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5313</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CD70CE23CC22449</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/DAOKO/Uchiagehanabi%20-%20Single/01%20Uchiagehanabi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6147</key>
+		<dict>
+			<key>Track ID</key><integer>6147</integer>
+			<key>Name</key><string>Troy</string>
+			<key>Artist</key><string>Dios feat. DAOKO</string>
+			<key>Album Artist</key><string>Dios feat. DAOKO</string>
+			<key>Album</key><string>Troy - Single</string>
+			<key>Genre</key><string>Pop indie</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6499791</integer>
+			<key>Total Time</key><integer>198582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-07T18:01:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841308155</integer>
+			<key>Play Date UTC</key><date>2025-09-21T19:02:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4039</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>46F6648B689317AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dios%20feat.%20DAOKO/Troy%20-%20Single/01%20Troy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7913</key>
+		<dict>
+			<key>Track ID</key><integer>7913</integer>
+			<key>Name</key><string>IRONY</string>
+			<key>Artist</key><string>m-flo + daoko</string>
+			<key>Album Artist</key><string>m-flo</string>
+			<key>Composer</key><string>m-flo + daoko</string>
+			<key>Album</key><string>FUTURE IS WOW</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9348481</integer>
+			<key>Total Time</key><integer>291395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T21:00:42Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847100734</integer>
+			<key>Play Date UTC</key><date>2025-11-27T21:05:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-09-06T00:25:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5362</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ACB383C826BEB756</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/m-flo/FUTURE%20IS%20WOW/11%20IRONY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14777</key>
+		<dict>
+			<key>Track ID</key><integer>14777</integer>
+			<key>Name</key><string>Otogino Machi</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Composer</key><string>Daoko &#38; Nariaki</string>
+			<key>Album</key><string>Otogino Machi - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8613170</integer>
+			<key>Total Time</key><integer>203198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2026-01-07T20:09:21Z</date>
+			<key>Date Added</key><date>2025-01-18T04:48:08Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3835606405</integer>
+			<key>Play Date UTC</key><date>2025-07-17T19:13:25Z</date>
+			<key>Release Date</key><date>2020-01-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3844</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9ADE6E85479E88EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Otogino%20Machi%20-%20Single/01%20Otogino%20Machi.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>23099</key>
+		<dict>
+			<key>Track ID</key><integer>23099</integer>
+			<key>Name</key><string>金星</string>
+			<key>Artist</key><string>女王蜂 feat. DAOKO</string>
+			<key>Album Artist</key><string>女王蜂</string>
+			<key>Composer</key><string>薔薇園アヴ</string>
+			<key>Album</key><string>Q</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8599506</integer>
+			<key>Total Time</key><integer>234373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-07T19:39:32Z</date>
+			<key>Date Added</key><date>2025-02-23T22:38:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3848296070</integer>
+			<key>Play Date UTC</key><date>2025-12-11T17:07:50Z</date>
+			<key>Release Date</key><date>2017-04-05T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7188</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AAAC1FC1744B29AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E5%A5%B3%E7%8E%8B%E8%9C%82/Q/02%20%E9%87%91%E6%98%9F.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28989</key>
+		<dict>
+			<key>Track ID</key><integer>28989</integer>
+			<key>Name</key><string>Boku dake no Photon</string>
+			<key>Artist</key><string>DAOKO</string>
+			<key>Album Artist</key><string>DAOKO</string>
+			<key>Album</key><string>Boku dake no Photon - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7373741</integer>
+			<key>Total Time</key><integer>172083</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T22:10:09Z</date>
+			<key>Date Added</key><date>2025-10-01T04:09:30Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846769898</integer>
+			<key>Play Date UTC</key><date>2025-11-24T01:11:38Z</date>
+			<key>Release Date</key><date>2025-09-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E615B2AC3EAB2A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Daoko/Boku%20dake%20no%20Photon%20-%20Single/01%20Boku%20dake%20no%20Photon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Daoko</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101182</integer>
+			<key>Playlist Persistent ID</key><string>FC32CBBD63348315</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiJTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAoARABBAE8ASwBPAAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAEAAAAA
+			AAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAGUAcwAgAGwAaQB2
+			AGUAAAAEAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHg=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5981</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5925</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28989</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

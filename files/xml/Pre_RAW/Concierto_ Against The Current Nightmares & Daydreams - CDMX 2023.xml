@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:28:08Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4527</key>
+		<dict>
+			<key>Track ID</key><integer>4527</integer>
+			<key>Name</key><string>'good guy'</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Cassandra Ströberg, Chrissy Costanza, Dan Gow &#38; Will Ferri</string>
+			<key>Album</key><string>'good guy' - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7036804</integer>
+			<key>Total Time</key><integer>208195</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>156</integer>
+			<key>Date Modified</key><date>2026-01-07T19:30:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3850556966</integer>
+			<key>Play Date UTC</key><date>2026-01-06T21:09:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11210</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9093C84040942D2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/'good%20guy'%20-%20Single/01%20'good%20guy'.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4533</key>
+		<dict>
+			<key>Track ID</key><integer>4533</integer>
+			<key>Name</key><string>blindfolded</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Kristoffer Eriksson, Cassandra Ströberg, Dan Gow, Will Ferri &#38; Salvatore Sam Guiana</string>
+			<key>Album</key><string>blindfolded - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6484077</integer>
+			<key>Total Time</key><integer>199366</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-07T19:10:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843135042</integer>
+			<key>Play Date UTC</key><date>2025-10-12T22:30:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14326</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F24CFC7F5C967491</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/blindfolded%20-%20Single/01%20blindfolded.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4535</key>
+		<dict>
+			<key>Track ID</key><integer>4535</integer>
+			<key>Name</key><string>that won't save us</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Will Ferri, Dan Gow &#38; Matt Squire</string>
+			<key>Album</key><string>fever</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6556003</integer>
+			<key>Total Time</key><integer>201038</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T22:16:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845702407</integer>
+			<key>Play Date UTC</key><date>2025-11-11T16:40:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7592</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>967CDCD199FF2446</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/01%20that%20won't%20save%20us.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4537</key>
+		<dict>
+			<key>Track ID</key><integer>4537</integer>
+			<key>Name</key><string>weapon</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Dan Gow, Matt Squire &#38; Will Ferri</string>
+			<key>Album</key><string>fever</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6437291</integer>
+			<key>Total Time</key><integer>197328</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:46:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846495437</integer>
+			<key>Play Date UTC</key><date>2025-11-20T20:57:17Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8528</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FF4CC6536961D37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/02%20weapon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4539</key>
+		<dict>
+			<key>Track ID</key><integer>4539</integer>
+			<key>Name</key><string>jump</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Christina Costanza</string>
+			<key>Album</key><string>fever</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5256136</integer>
+			<key>Total Time</key><integer>160417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T20:12:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842204560</integer>
+			<key>Play Date UTC</key><date>2025-10-02T04:02:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E2B17CE2B821D44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/04%20jump.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4545</key>
+		<dict>
+			<key>Track ID</key><integer>4545</integer>
+			<key>Name</key><string>lullaby</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Christina Costanza, Jordan Fish &#38; Oli Sykes</string>
+			<key>Album</key><string>fever</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7109368</integer>
+			<key>Total Time</key><integer>218331</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3845706103</integer>
+			<key>Play Date UTC</key><date>2025-11-11T17:41:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5728</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCBD9CC5C989569E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/07%20lullaby.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4559</key>
+		<dict>
+			<key>Track ID</key><integer>4559</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Daniel Gow, Chrissy Costanza &#38; Will Ferri</string>
+			<key>Album</key><string>Gravity - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7118354</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T17:00:44Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3843573555</integer>
+			<key>Play Date UTC</key><date>2025-10-18T00:19:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6696</integer>
+			<key>Persistent ID</key><string>4326044C24EFF692</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/01%20Gravity.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4563</key>
+		<dict>
+			<key>Track ID</key><integer>4563</integer>
+			<key>Name</key><string>Paralyzed</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Daniel Gow, Chrissy Costanza &#38; Will Ferri</string>
+			<key>Album</key><string>Gravity - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6317085</integer>
+			<key>Total Time</key><integer>196127</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T21:09:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851448931</integer>
+			<key>Play Date UTC</key><date>2026-01-17T04:55:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10355</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A7737DEA6B18D794</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/04%20Paralyzed.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4569</key>
+		<dict>
+			<key>Track ID</key><integer>4569</integer>
+			<key>Name</key><string>Running with the Wild Things</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Audra Mae</string>
+			<key>Album</key><string>In Our Bones</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7197644</integer>
+			<key>Total Time</key><integer>222876</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T18:25:48Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3823261431</integer>
+			<key>Play Date UTC</key><date>2025-02-24T23:03:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13140</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC76FA08D4059720</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/01%20Running%20with%20the%20Wild%20Things.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4573</key>
+		<dict>
+			<key>Track ID</key><integer>4573</integer>
+			<key>Name</key><string>Chasing Ghosts</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza/Will Ferri/Dan Gow/Nick Long/Tom Schleiter</string>
+			<key>Album</key><string>In Our Bones</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6773820</integer>
+			<key>Total Time</key><integer>209632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>104</integer>
+			<key>Date Modified</key><date>2026-01-07T20:18:08Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850474598</integer>
+			<key>Play Date UTC</key><date>2026-01-05T22:16:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7816</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0C92CED8D1F967C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/03%20Chasing%20Ghosts.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4585</key>
+		<dict>
+			<key>Track ID</key><integer>4585</integer>
+			<key>Name</key><string>Wasteland</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Andrew Goldstein, Nolan Sipe</string>
+			<key>Album</key><string>In Our Bones</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6645919</integer>
+			<key>Total Time</key><integer>205635</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>99</integer>
+			<key>Date Modified</key><date>2026-01-07T21:33:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3834830351</integer>
+			<key>Play Date UTC</key><date>2025-07-08T19:39:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10059</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD2EAB1CC652397B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/09%20Wasteland.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4609</key>
+		<dict>
+			<key>Track ID</key><integer>4609</integer>
+			<key>Name</key><string>Another You (Another Way)</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Dan Gow, Will Ferri &#38; Chrissy Costanza</string>
+			<key>Album</key><string>Infinity - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6621259</integer>
+			<key>Total Time</key><integer>203624</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-07T21:03:33Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849186864</integer>
+			<key>Play Date UTC</key><date>2025-12-22T00:34:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13666</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>501FFF842A07DE56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Infinity%20-%20EP/04%20Another%20You%20(Another%20Way).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4613</key>
+		<dict>
+			<key>Track ID</key><integer>4613</integer>
+			<key>Name</key><string>Strangers Again</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Andrew Goldstein, Christina Costanza, Daniel Gow, Nick Long &#38; William Ferri</string>
+			<key>Album</key><string>Past Lives</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7285795</integer>
+			<key>Total Time</key><integer>222902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T19:08:55Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3840220993</integer>
+			<key>Play Date UTC</key><date>2025-09-09T05:03:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>819AE41489A9CF45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/01%20Strangers%20Again.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4621</key>
+		<dict>
+			<key>Track ID</key><integer>4621</integer>
+			<key>Name</key><string>Voices</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Andrew Goldstein, Christina Costanza, Daniel Gow, Jesse Saint John Geller, Sarah Hudson &#38; William Ferri</string>
+			<key>Album</key><string>Past Lives</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6702315</integer>
+			<key>Total Time</key><integer>204669</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T20:58:37Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850556586</integer>
+			<key>Play Date UTC</key><date>2026-01-06T21:03:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6868</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00F3DC12F13A6040</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/05%20Voices.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4635</key>
+		<dict>
+			<key>Track ID</key><integer>4635</integer>
+			<key>Name</key><string>silent stranger</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Jon Lundin, Dan Gow &#38; Will Ferri</string>
+			<key>Album</key><string>silent stranger - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6949763</integer>
+			<key>Total Time</key><integer>209972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2026-01-07T18:41:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850557365</integer>
+			<key>Play Date UTC</key><date>2026-01-06T21:16:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11228</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6210F8F281F9650C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/silent%20stranger%20-%20Single/01%20silent%20stranger.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4643</key>
+		<dict>
+			<key>Track ID</key><integer>4643</integer>
+			<key>Name</key><string>Wildfire</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Alex Seaver &#38; Chrissy Costanza</string>
+			<key>Album</key><string>Wildfire - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5403717</integer>
+			<key>Total Time</key><integer>166896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>121</integer>
+			<key>Date Modified</key><date>2026-01-07T21:56:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843572484</integer>
+			<key>Play Date UTC</key><date>2025-10-18T00:01:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6575</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wildfire - Single</string>
+			<key>Sort Artist</key><string>Against The Current</string>
+			<key>Sort Name</key><string>Wildfire</string>
+			<key>Persistent ID</key><string>4584A3AB5783E950</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Wildfire%20-%20Single/01%20Wildfire.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4647</key>
+		<dict>
+			<key>Track ID</key><integer>4647</integer>
+			<key>Name</key><string>again&#38;again</string>
+			<key>Artist</key><string>Against The Current &#38; guardin</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Dan Gow, Jon Lundin, Justin Courtney Pierre, Nicholas Kerr-Carpenter, Sam DeRosa &#38; Will Ferri</string>
+			<key>Album</key><string>fever</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6404096</integer>
+			<key>Total Time</key><integer>196284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>168</integer>
+			<key>Date Modified</key><date>2026-01-07T20:31:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3832784295</integer>
+			<key>Play Date UTC</key><date>2025-06-15T03:18:15Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5748</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>fever</string>
+			<key>Sort Artist</key><string>Against The Current &#38; guardin</string>
+			<key>Sort Name</key><string>again&#38;again</string>
+			<key>Persistent ID</key><string>A156D00CB95744D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/03%20again&#38;again.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7565</key>
+		<dict>
+			<key>Track ID</key><integer>7565</integer>
+			<key>Name</key><string>Legends Never Die</string>
+			<key>Artist</key><string>League of Legends &#38; Against The Current</string>
+			<key>Album Artist</key><string>League of Legends &#38; Against The Current</string>
+			<key>Composer</key><string>Sebastien Najand, Justin Tranter &#38; Alex Seaver</string>
+			<key>Album</key><string>Legends Never Die - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7588222</integer>
+			<key>Total Time</key><integer>235128</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T20:50:55Z</date>
+			<key>Date Added</key><date>2024-09-26T20:53:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850557939</integer>
+			<key>Play Date UTC</key><date>2026-01-06T21:25:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6A4F0A6A51B113E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/League%20of%20Legends%20&#38;%20Against%20The%20Current/Legends%20Never%20Die%20-%20Single/01%20Legends%20Never%20Die.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14599</key>
+		<dict>
+			<key>Track ID</key><integer>14599</integer>
+			<key>Name</key><string>Almost Forgot</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Andrew Goldstein, Brittany M. Amaradio, Christina Costanza, Daniel Gow, Stephanie Jones &#38; William Ferri</string>
+			<key>Album</key><string>Almost Forgot - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8798463</integer>
+			<key>Total Time</key><integer>208236</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>104</integer>
+			<key>Date Modified</key><date>2026-01-07T20:41:00Z</date>
+			<key>Date Added</key><date>2025-01-18T01:05:33Z</date>
+			<key>Bit Rate</key><integer>334</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846495434</integer>
+			<key>Play Date UTC</key><date>2025-11-20T20:57:14Z</date>
+			<key>Release Date</key><date>2018-05-11T12:00:00Z</date>
+			<key>Normalization</key><integer>4136</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6457D723F51E7C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Almost%20Forgot%20-%20Single/01%20Almost%20Forgot.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Concierto: Against The Current Nightmares &#38; Daydreams - CDMX 2023</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102975</integer>
+			<key>Playlist Persistent ID</key><string>3323B65C09822D56</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4643</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4647</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4635</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14599</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4537</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

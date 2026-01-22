@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:27:09Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11069</key>
+		<dict>
+			<key>Track ID</key><integer>11069</integer>
+			<key>Name</key><string>Fake &#38; True</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>TWICE</string>
+			<key>Album</key><string>&#38;TWICE (Repackage)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7118816</integer>
+			<key>Total Time</key><integer>219742</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:27Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851444942</integer>
+			<key>Play Date UTC</key><date>2026-01-17T03:49:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6883</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A4011FE40DCF20E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/02%20Fake%20&#38;%20True.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11075</key>
+		<dict>
+			<key>Track ID</key><integer>11075</integer>
+			<key>Name</key><string>Changing!</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Maxx Song, Red Anne &#38; Secret Weapon</string>
+			<key>Album</key><string>&#38;TWICE (Repackage)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7197390</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:28Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850754338</integer>
+			<key>Play Date UTC</key><date>2026-01-09T03:58:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-09T04:02:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9572</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FD35F2DF3A9438C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/05%20Changing!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11079</key>
+		<dict>
+			<key>Track ID</key><integer>11079</integer>
+			<key>Name</key><string>What You Waiting For</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Mayu Wakisaka &#38; Woo Min Lee collapsedone</string>
+			<key>Album</key><string>&#38;TWICE (Repackage)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6542041</integer>
+			<key>Total Time</key><integer>201717</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:29Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850754654</integer>
+			<key>Play Date UTC</key><date>2026-01-09T04:04:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8369</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>31DB6E859DFD3B2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/07%20What%20You%20Waiting%20For.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11131</key>
+		<dict>
+			<key>Track ID</key><integer>11131</integer>
+			<key>Name</key><string>Talk that Talk</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Woo Min Lee “collapsedone”, MRCH &#38; danke (lalala studio)</string>
+			<key>Album</key><string>BETWEEN 1&#38;2</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5768730</integer>
+			<key>Total Time</key><integer>177580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:56:45Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850813762</integer>
+			<key>Play Date UTC</key><date>2026-01-09T20:29:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13010</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99CCF11C3BD89702</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/01%20Talk%20that%20Talk.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11133</key>
+		<dict>
+			<key>Track ID</key><integer>11133</integer>
+			<key>Name</key><string>Queen of Hearts</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Greg Bonnick, Hayden Chapman, Paulina Cerrilla &#38; Kyler Niko</string>
+			<key>Album</key><string>BETWEEN 1&#38;2</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6073005</integer>
+			<key>Total Time</key><integer>187088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-01-09T20:56:46Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850813949</integer>
+			<key>Play Date UTC</key><date>2026-01-09T20:32:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10436</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>907390E37983E31F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/02%20Queen%20of%20Hearts.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11137</key>
+		<dict>
+			<key>Track ID</key><integer>11137</integer>
+			<key>Name</key><string>Trouble</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>JIHYO, earattack, chAN's, Justin Reinstein, JJean &#38; Darm</string>
+			<key>Album</key><string>BETWEEN 1&#38;2</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6982476</integer>
+			<key>Total Time</key><integer>215510</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-09T20:56:47Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850814341</integer>
+			<key>Play Date UTC</key><date>2026-01-09T20:39:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11488</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91C57C7DD5515741</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/04%20Trouble.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11149</key>
+		<dict>
+			<key>Track ID</key><integer>11149</integer>
+			<key>Name</key><string>TICK TOCK</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Mayu Wakisaka &#38; Trippy</string>
+			<key>Album</key><string>Celebrate</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5976081</integer>
+			<key>Total Time</key><integer>183457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-09T20:13:37Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851872969</integer>
+			<key>Play Date UTC</key><date>2026-01-22T02:42:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8736</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7D0EA35379E81F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Celebrate/03%20TICK%20TOCK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11163</key>
+		<dict>
+			<key>Track ID</key><integer>11163</integer>
+			<key>Name</key><string>I CAN'T STOP ME</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Joy Fontana, Michel "Lindgren" Schulz, A. Wright, J.Y. Park “The Asiansoul” &#38; Sim Eun Jee</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6652264</integer>
+			<key>Total Time</key><integer>205609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:38Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850796590</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:43:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7953</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8EE7AB297DFD9DB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/01%20I%20CAN'T%20STOP%20ME.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11165</key>
+		<dict>
+			<key>Track ID</key><integer>11165</integer>
+			<key>Name</key><string>HELL IN HEAVEN</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Sim Eun Jee, Hae Sol Lee &#38; Linnea Södahl</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5814673</integer>
+			<key>Total Time</key><integer>179435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:39Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850796769</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:46:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6958</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F7E1B64DBBDDBA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/02%20HELL%20IN%20HEAVEN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11167</key>
+		<dict>
+			<key>Track ID</key><integer>11167</integer>
+			<key>Name</key><string>UP NO MORE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>이우민 “collapsedone”, Julia Ross, Krysta Youngs &#38; JIHYO</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6932292</integer>
+			<key>Total Time</key><integer>214360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:40Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850796986</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:49:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9373</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A1DEC16E8525BD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/03%20UP%20NO%20MORE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11171</key>
+		<dict>
+			<key>Track ID</key><integer>11171</integer>
+			<key>Name</key><string>BRING IT BACK</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>earattack, 공도, Laurell Barker, Katya Edwards &#38; da hyun</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6736690</integer>
+			<key>Total Time</key><integer>208248</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:41Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850797372</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:56:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8124</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>03114F0E604F0E6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/05%20BRING%20IT%20BACK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11173</key>
+		<dict>
+			<key>Track ID</key><integer>11173</integer>
+			<key>Name</key><string>BELIEVER</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Kenzie, Greg Bonnick, Hayden Chapman, Alice Penrose &#38; LDN NOISE</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6378912</integer>
+			<key>Total Time</key><integer>197067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:42Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850797568</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:59:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9108</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4A57CEEB28A6D30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/06%20BELIEVER.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11175</key>
+		<dict>
+			<key>Track ID</key><integer>11175</integer>
+			<key>Name</key><string>QUEEN</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>JINBYJIN, Cazzi Opeia, Ellen Berg &#38; Dahyun</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6271075</integer>
+			<key>Total Time</key><integer>193697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:44Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850797761</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:02:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9887</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9EB4D1212437B5C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/07%20QUEEN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11177</key>
+		<dict>
+			<key>Track ID</key><integer>11177</integer>
+			<key>Name</key><string>GO HARD</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Grace Tither, Carl Ryden, Ki Fitzgerald, Paul Harris &#38; F R I D A Y . (GALACTIKA *)</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5885719</integer>
+			<key>Total Time</key><integer>181655</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:44Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851873543</integer>
+			<key>Play Date UTC</key><date>2026-01-22T02:52:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7102</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58A2C8F5A116D3CC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/08%20GO%20HARD.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11181</key>
+		<dict>
+			<key>Track ID</key><integer>11181</integer>
+			<key>Name</key><string>HANDLE IT</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Adrian X, Elizabeth Loughrey, Ryan Ashley, Uzoechi Emenike, Armadillo &#38; Chaeyoung</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5550519</integer>
+			<key>Total Time</key><integer>171180</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:45Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850798324</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:12:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4407</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>52DF1EA366707E98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/10%20HANDLE%20IT.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11185</key>
+		<dict>
+			<key>Track ID</key><integer>11185</integer>
+			<key>Name</key><string>SAY SOMETHING</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>정호현 (e.one)/Iggy</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7992240</integer>
+			<key>Total Time</key><integer>247484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:47Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850798771</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:19:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7631</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2DBEF0E85D86D4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/12%20SAY%20SOMETHING.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11187</key>
+		<dict>
+			<key>Track ID</key><integer>11187</integer>
+			<key>Name</key><string>BEHIND THE MASK</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Sam Klempner, Jacob Attwooll, Josh Record, Dua Lipa &#38; HEIZE</string>
+			<key>Album</key><string>Eyes wide open</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7069388</integer>
+			<key>Total Time</key><integer>218644</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:48Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850798989</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:23:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7070</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEE9F76678A2DE02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/13%20BEHIND%20THE%20MASK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11189</key>
+		<dict>
+			<key>Track ID</key><integer>11189</integer>
+			<key>Name</key><string>Feel Special</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Haylet Aitken, Ollipop, Min Lee collapsedone &#38; J.Y. Park</string>
+			<key>Album</key><string>Feel Special</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6754725</integer>
+			<key>Total Time</key><integer>206994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:30Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3850755704</integer>
+			<key>Play Date UTC</key><date>2026-01-09T04:21:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13243</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>067A9E055C538C56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/01%20Feel%20Special.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11193</key>
+		<dict>
+			<key>Track ID</key><integer>11193</integer>
+			<key>Name</key><string>Get Loud</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Ryan Jhun, Miro Markus &#38; Anna Timgren</string>
+			<key>Album</key><string>Feel Special</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6117751</integer>
+			<key>Total Time</key><integer>187088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:31Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850756497</integer>
+			<key>Play Date UTC</key><date>2026-01-09T04:34:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9201</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>272665A9F5DC45BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/03%20Get%20Loud.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11197</key>
+		<dict>
+			<key>Track ID</key><integer>11197</integer>
+			<key>Name</key><string>Love Foolish</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Louise Frick Sveen, Shim Eun Ji &#38; VERSACHOI</string>
+			<key>Album</key><string>Feel Special</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6254010</integer>
+			<key>Total Time</key><integer>191346</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:32Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850756882</integer>
+			<key>Play Date UTC</key><date>2026-01-09T04:41:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10513</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>889DEE36E3495B14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/05%20Love%20Foolish.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11207</key>
+		<dict>
+			<key>Track ID</key><integer>11207</integer>
+			<key>Name</key><string>ICON</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Fontana, Michel "Lindgren" Schulz &#38; GG Ramirez</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5721242</integer>
+			<key>Total Time</key><integer>176274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:55Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850809444</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:17:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6841</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B93253FB2AFDA629</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/03%20ICON.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11209</key>
+		<dict>
+			<key>Track ID</key><integer>11209</integer>
+			<key>Name</key><string>CRUEL</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Mich Hansen, Jeppe London Bilsby, Lauritz Emil Christiansen, Brooke Tomlinson, Alma Gudmundsdottir</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6849733</integer>
+			<key>Total Time</key><integer>211539</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:56Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850809656</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:20:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6374</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2401570C50C7B4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/04%20CRUEL.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11213</key>
+		<dict>
+			<key>Track ID</key><integer>11213</integer>
+			<key>Name</key><string>F.I.L.A (Fall In Love Again)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Anne Judith Stokke Wik, Sonny J Mason, Karen Poole, Ronny Svendsen &#38; 나연</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6204427</integer>
+			<key>Total Time</key><integer>191373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:57Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850810035</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:27:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7744</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FB27D2121314B611</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/06%20F.I.L.A%20(Fall%20In%20Love%20Again).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11215</key>
+		<dict>
+			<key>Track ID</key><integer>11215</integer>
+			<key>Name</key><string>LAST WALTZ</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>심은지, 이해솔 &#38; EJAE</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5542361</integer>
+			<key>Total Time</key><integer>170684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>71</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:58Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850810206</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:30:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6983</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A2E37475D426750D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/07%20LAST%20WALTZ.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11219</key>
+		<dict>
+			<key>Track ID</key><integer>11219</integer>
+			<key>Name</key><string>REWIND</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>정호현(e.one)</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5864186</integer>
+			<key>Total Time</key><integer>180741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:58Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850810574</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:36:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6548</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E419773AD72D82D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/09%20REWIND.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11227</key>
+		<dict>
+			<key>Track ID</key><integer>11227</integer>
+			<key>Name</key><string>1, 3, 2</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Lauren Dyson; Alexander Pavelich; Jenson Vaughan; Marcus van Wattum</string>
+			<key>Album</key><string>Formula of Love- O+T= 3</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6435120</integer>
+			<key>Total Time</key><integer>198582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:59Z</date>
+			<key>Date Added</key><date>2024-09-26T21:02:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850811379</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:49:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7994</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5CB1D85F1F77AAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/13%201,%203,%202.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11293</key>
+		<dict>
+			<key>Track ID</key><integer>11293</integer>
+			<key>Name</key><string>FIREWORK</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Billie Jean, JINHYUNG KIM, SLY BERRY &#38; Soojeong Kim</string>
+			<key>Album</key><string>MORE &#38; MORE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6336021</integer>
+			<key>Total Time</key><integer>193567</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:33Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850757932</integer>
+			<key>Play Date UTC</key><date>2026-01-09T04:58:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11203</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56E032247AAD4CEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/03%20FIREWORK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11295</key>
+		<dict>
+			<key>Track ID</key><integer>11295</integer>
+			<key>Name</key><string>MAKE ME GO</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Ryan Ashley, Lewis Jankel, BB Diamond &#38; Na yeon</string>
+			<key>Album</key><string>MORE &#38; MORE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6120356</integer>
+			<key>Total Time</key><integer>186827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:34Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850758119</integer>
+			<key>Play Date UTC</key><date>2026-01-09T05:01:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6165</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CCF07C076F579E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/04%20MAKE%20ME%20GO.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11297</key>
+		<dict>
+			<key>Track ID</key><integer>11297</integer>
+			<key>Name</key><string>SHADOW</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Greg Bonnick, Hayden Chapman, Chloe Latimer, Hannah Wilson, Cho &#38; Yun Kyoung</string>
+			<key>Album</key><string>MORE &#38; MORE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5550255</integer>
+			<key>Total Time</key><integer>169012</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>111</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:36Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850795796</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:29:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5465</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41079FB7BF618B0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/05%20SHADOW.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11299</key>
+		<dict>
+			<key>Track ID</key><integer>11299</integer>
+			<key>Name</key><string>DON'T CALL ME AGAIN</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Mack, Emanuel Abrahamsson, Imani Williams, Iman Contha Hulthén &#38; Park Yisu</string>
+			<key>Album</key><string>MORE &#38; MORE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5693211</integer>
+			<key>Total Time</key><integer>173479</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:37Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850795970</integer>
+			<key>Play Date UTC</key><date>2026-01-09T15:32:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7948</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4BCF506F2C67AB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/06%20DON'T%20CALL%20ME%20AGAIN.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11315</key>
+		<dict>
+			<key>Track ID</key><integer>11315</integer>
+			<key>Name</key><string>Perfect World</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Album</key><string>Perfect World</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5967977</integer>
+			<key>Total Time</key><integer>182804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:53Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850804031</integer>
+			<key>Play Date UTC</key><date>2026-01-09T17:47:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11634</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4C6489E7B97BD459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Perfect%20World/01%20Perfect%20World.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11335</key>
+		<dict>
+			<key>Track ID</key><integer>11335</integer>
+			<key>Name</key><string>SET ME FREE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Fontana, Lindgren, Marty Maro, 별들의전쟁 * (GALACTIKA *) &#38; Jvde (GALACTIKA *)</string>
+			<key>Album</key><string>READY TO BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5918087</integer>
+			<key>Total Time</key><integer>181812</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2026-01-09T20:56:49Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850815263</integer>
+			<key>Play Date UTC</key><date>2026-01-09T20:54:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9248</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D2B6DB12C37A1F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/01%20SET%20ME%20FREE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11345</key>
+		<dict>
+			<key>Track ID</key><integer>11345</integer>
+			<key>Name</key><string>CRAZY STUPID LOVE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Young Chance, Shorelle, Greg Bonnick, Hayden Chapman, Lenno Linjama, SLA &#38; da hyun</string>
+			<key>Album</key><string>READY TO BE</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5531899</integer>
+			<key>Total Time</key><integer>169743</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-09T21:18:14Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850815939</integer>
+			<key>Play Date UTC</key><date>2026-01-09T21:05:39Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13578</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0C98C2D16AA4442B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/06%20CRAZY%20STUPID%20LOVE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11369</key>
+		<dict>
+			<key>Track ID</key><integer>11369</integer>
+			<key>Name</key><string>The Feels</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Woo Min Lee “collapsedone”, Justin Reinstein, Anna Timgren &#38; Boy Matthews</string>
+			<key>Album</key><string>The Feels</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6462696</integer>
+			<key>Total Time</key><integer>198164</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:54Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850805808</integer>
+			<key>Play Date UTC</key><date>2026-01-09T18:16:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feels</string>
+			<key>Sort Name</key><string>Feels</string>
+			<key>Persistent ID</key><string>031C8ED5A7BF3FAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/The%20Feels/02%20The%20Feels.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11421</key>
+		<dict>
+			<key>Track ID</key><integer>11421</integer>
+			<key>Name</key><string>LIKEY</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Black Eyed Pilseung &#38; Jeon Gun</string>
+			<key>Album</key><string>Twicetagram</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6770087</integer>
+			<key>Total Time</key><integer>207934</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:19Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850712926</integer>
+			<key>Play Date UTC</key><date>2026-01-08T16:28:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13008</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D92140DAD386BBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/01%20LIKEY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11435</key>
+		<dict>
+			<key>Track ID</key><integer>11435</integer>
+			<key>Name</key><string>LOOK AT ME</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Frants &#38; Hyerim Woo</string>
+			<key>Album</key><string>Twicetagram</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6301142</integer>
+			<key>Total Time</key><integer>193280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:20Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850714387</integer>
+			<key>Play Date UTC</key><date>2026-01-08T16:53:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8460</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2400F70BE4CC1815</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/08%20LOOK%20AT%20ME.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11447</key>
+		<dict>
+			<key>Track ID</key><integer>11447</integer>
+			<key>Name</key><string>YES or YES</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Andy Love, David Amber &#38; Eun-Ji Shim</string>
+			<key>Album</key><string>YES or YES</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7692417</integer>
+			<key>Total Time</key><integer>237818</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:23Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851317602</integer>
+			<key>Play Date UTC</key><date>2026-01-15T16:26:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10449</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F8D7242419FB9DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/01%20YES%20or%20YES.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11455</key>
+		<dict>
+			<key>Track ID</key><integer>11455</integer>
+			<key>Name</key><string>SUNSET</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>FAST LANE, Lisa Desmond-Linder, Secret Weapon, Maria Marcus &#38; JIYHO</string>
+			<key>Album</key><string>YES or YES</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7207581</integer>
+			<key>Total Time</key><integer>222667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:24Z</date>
+			<key>Date Added</key><date>2024-09-26T21:03:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850745127</integer>
+			<key>Play Date UTC</key><date>2026-01-09T01:25:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11372</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>407B6E67B453CD32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/05%20SUNSET.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13469</key>
+		<dict>
+			<key>Track ID</key><integer>13469</integer>
+			<key>Name</key><string>CRY FOR ME</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Ryan Tedder, Melanie Joy Fontana, Michel "Lindgren" Schulz, A. Wright, HEIZE &#38; J.Y. Park “The Asiansoul”</string>
+			<key>Album</key><string>CRY FOR ME - Single</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8595852</integer>
+			<key>Total Time</key><integer>204219</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:51Z</date>
+			<key>Date Added</key><date>2025-01-17T16:03:00Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850799627</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:33:47Z</date>
+			<key>Release Date</key><date>2020-12-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4211</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11912ACCF2CCCD10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/CRY%20FOR%20ME%20-%20Single/01%20CRY%20FOR%20ME.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13471</key>
+		<dict>
+			<key>Track ID</key><integer>13471</integer>
+			<key>Name</key><string>FANCY</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Eyed Pilseung Black &#38; Jeon Goon</string>
+			<key>Album</key><string>FANCY YOU - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8921763</integer>
+			<key>Total Time</key><integer>213948</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:25Z</date>
+			<key>Date Added</key><date>2025-01-17T16:03:00Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850745756</integer>
+			<key>Play Date UTC</key><date>2026-01-09T01:35:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-08-12T19:37:39Z</date>
+			<key>Release Date</key><date>2019-04-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E31D74B422489AC8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/FANCY%20YOU%20-%20EP/01%20FANCY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13475</key>
+		<dict>
+			<key>Track ID</key><integer>13475</integer>
+			<key>Name</key><string>Hare Hare</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Henri Vuortenvirta, JJean &#38; Justin Reinstein</string>
+			<key>Album</key><string>Hare Hare - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8497229</integer>
+			<key>Total Time</key><integer>203616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-09T21:18:15Z</date>
+			<key>Date Added</key><date>2025-01-17T16:03:00Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850816142</integer>
+			<key>Play Date UTC</key><date>2026-01-09T21:09:02Z</date>
+			<key>Release Date</key><date>2023-05-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>348B8FEE015E38E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/01%20Hare%20Hare.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13483</key>
+		<dict>
+			<key>Track ID</key><integer>13483</integer>
+			<key>Name</key><string>Catch a Wave</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>JJean, Justin Reinstein &#38; Kuzzi</string>
+			<key>Album</key><string>Hare Hare - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8920912</integer>
+			<key>Total Time</key><integer>213856</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-09T21:18:16Z</date>
+			<key>Date Added</key><date>2025-01-17T16:03:01Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851437817</integer>
+			<key>Play Date UTC</key><date>2026-01-17T01:50:17Z</date>
+			<key>Release Date</key><date>2023-05-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8653</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>48C644A3C683DF76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/02%20Catch%20a%20Wave.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15705</key>
+		<dict>
+			<key>Track ID</key><integer>15705</integer>
+			<key>Name</key><string>What is Love </string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>J.y. Park</string>
+			<key>Album</key><string>What is Love  - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8711472</integer>
+			<key>Total Time</key><integer>208283</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:21Z</date>
+			<key>Date Added</key><date>2025-02-07T06:53:47Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850737972</integer>
+			<key>Play Date UTC</key><date>2026-01-08T23:26:12Z</date>
+			<key>Release Date</key><date>2018-04-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12371</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E2C269FDB8BBB663</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/What%20is%20Love%20%20-%20EP/01%20What%20is%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15729</key>
+		<dict>
+			<key>Track ID</key><integer>15729</integer>
+			<key>Name</key><string>TT</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>TWICE</string>
+			<key>Album</key><string>Twicecoaster- Lane 1</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8993693</integer>
+			<key>Total Time</key><integer>213043</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:15Z</date>
+			<key>Date Added</key><date>2025-02-07T07:06:13Z</date>
+			<key>Bit Rate</key><integer>332</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850708903</integer>
+			<key>Play Date UTC</key><date>2026-01-08T15:21:43Z</date>
+			<key>Release Date</key><date>2016-10-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6932</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>305A1981DFECBDB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicecoaster-%20Lane%201/01%20TT.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15733</key>
+		<dict>
+			<key>Track ID</key><integer>15733</integer>
+			<key>Name</key><string>Scandal</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Kristoffer Tømmerbakke &#38; Erik Smaaland &#38; Alida Garpestad Peck</string>
+			<key>Album</key><string>Taste of Love - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6861469</integer>
+			<key>Total Time</key><integer>163000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>119</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:52Z</date>
+			<key>Date Added</key><date>2025-02-07T07:06:13Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850803371</integer>
+			<key>Play Date UTC</key><date>2026-01-09T17:36:11Z</date>
+			<key>Release Date</key><date>2021-06-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5098</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>04C07EF6E5040926</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Taste%20of%20Love%20-%20EP/03%20Scandal.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27999</key>
+		<dict>
+			<key>Track ID</key><integer>27999</integer>
+			<key>Name</key><string>TALK (NAYEON, JIHYO)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Taet Chesterton &#38; earattack</string>
+			<key>Album</key><string>THIS IS FOR</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5425881</integer>
+			<key>Total Time</key><integer>168150</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-09T23:17:39Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851319268</integer>
+			<key>Play Date UTC</key><date>2026-01-15T16:54:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5359</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C440407240F2E6D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/12%20TALK%20(NAYEON,%20JIHYO).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28015</key>
+		<dict>
+			<key>Track ID</key><integer>28015</integer>
+			<key>Name</key><string>MARS</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Kamille, Perrie Edwards, RØMANS, Will Bloomfield &#38; Jinli (Ful8loom)</string>
+			<key>Album</key><string>THIS IS FOR</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4565188</integer>
+			<key>Total Time</key><integer>141165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Date Modified</key><date>2026-01-09T22:55:43Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850822645</integer>
+			<key>Play Date UTC</key><date>2026-01-09T22:57:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78EEA2A8951B4346</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/04%20MARS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28027</key>
+		<dict>
+			<key>Track ID</key><integer>28027</integer>
+			<key>Name</key><string>OPTIONS</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Cq, Iain James, Taet Chesterton &#38; Earattack</string>
+			<key>Album</key><string>THIS IS FOR</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6020088</integer>
+			<key>Total Time</key><integer>186566</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-09T22:55:26Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850822504</integer>
+			<key>Play Date UTC</key><date>2026-01-09T22:55:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5637</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1378F871EDE42F45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/03%20OPTIONS.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28079</key>
+		<dict>
+			<key>Track ID</key><integer>28079</integer>
+			<key>Name</key><string>TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) [from the Netflix film 'KPop Demon Hunters']</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Lindgren</string>
+			<key>Album</key><string>THIS IS FOR (DELUXE)</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5872418</integer>
+			<key>Total Time</key><integer>180401</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-09T23:31:31Z</date>
+			<key>Date Added</key><date>2025-07-19T16:37:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850824487</integer>
+			<key>Play Date UTC</key><date>2026-01-09T23:28:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7123</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BEC9316A5C05D752</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR%20(DELUXE)/16%20TAKEDOWN%20(JEONGYEON,%20JIHYO,%20CHAEY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28479</key>
+		<dict>
+			<key>Track ID</key><integer>28479</integer>
+			<key>Name</key><string>ENEMY</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Album</key><string>ENEMY</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5318360</integer>
+			<key>Total Time</key><integer>162063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-09T23:32:11Z</date>
+			<key>Date Added</key><date>2025-08-26T19:28:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850824827</integer>
+			<key>Play Date UTC</key><date>2026-01-09T23:33:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14477</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A6CB131C298371F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/02%20ENEMY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28481</key>
+		<dict>
+			<key>Track ID</key><integer>28481</integer>
+			<key>Name</key><string>FINE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Arineh Karimi/Moonshine/Nermin Harambasic</string>
+			<key>Album</key><string>ENEMY</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5908762</integer>
+			<key>Total Time</key><integer>180480</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2026-01-09T23:40:58Z</date>
+			<key>Date Added</key><date>2025-08-26T19:28:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850825007</integer>
+			<key>Play Date UTC</key><date>2026-01-09T23:36:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11335</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA38A30EE6849048</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/03%20FINE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29597</key>
+		<dict>
+			<key>Track ID</key><integer>29597</integer>
+			<key>Name</key><string>ONE SPARK</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Kyler Niko, earattack, Paulina “PAU” Cerrilla, Lee Woo Hyun, Sim Eunjee &#38; Melanie Fontana</string>
+			<key>Album</key><string>With YOU-th - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7532771</integer>
+			<key>Total Time</key><integer>183623</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-09T21:18:58Z</date>
+			<key>Date Added</key><date>2025-10-03T01:47:33Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850816893</integer>
+			<key>Play Date UTC</key><date>2026-01-09T21:21:33Z</date>
+			<key>Release Date</key><date>2024-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5739</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9DC08293DBAF6F5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/02%20ONE%20SPARK.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29603</key>
+		<dict>
+			<key>Track ID</key><integer>29603</integer>
+			<key>Name</key><string>BLOOM</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Melanie Fontana, earattack, Lindgren, GG Ramirez, Lee Woo Hyun &#38; JEONGYEON</string>
+			<key>Album</key><string>With YOU-th - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8528122</integer>
+			<key>Total Time</key><integer>203383</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-09T21:30:22Z</date>
+			<key>Date Added</key><date>2025-10-03T01:47:33Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850817437</integer>
+			<key>Play Date UTC</key><date>2026-01-09T21:30:37Z</date>
+			<key>Release Date</key><date>2024-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4FCC94D70F081D05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/05%20BLOOM.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33059</key>
+		<dict>
+			<key>Track ID</key><integer>33059</integer>
+			<key>Name</key><string>STONE COLD (MINA)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Christian Fast, Maria Marcus &#38; Lee Hae Sol</string>
+			<key>Album</key><string>TEN- The Story Goes On</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6839513</integer>
+			<key>Total Time</key><integer>165070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-10T00:18:17Z</date>
+			<key>Date Added</key><date>2025-10-23T06:02:04Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850827448</integer>
+			<key>Play Date UTC</key><date>2026-01-10T00:17:28Z</date>
+			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6920</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ED1B011355A9A946</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/07%20STONE%20COLD%20(MINA).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33065</key>
+		<dict>
+			<key>Track ID</key><integer>33065</integer>
+			<key>Name</key><string>MOVE LIKE THAT (MOMO)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Shift K3Y</string>
+			<key>Album</key><string>TEN- The Story Goes On</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6943884</integer>
+			<key>Total Time</key><integer>167067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-10T00:18:13Z</date>
+			<key>Date Added</key><date>2025-10-23T06:02:05Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851174092</integer>
+			<key>Play Date UTC</key><date>2026-01-14T00:34:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-23T18:06:17Z</date>
+			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4308</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D12E28BBE57C0F69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/04%20MOVE%20LIKE%20THAT%20(MOMO).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33067</key>
+		<dict>
+			<key>Track ID</key><integer>33067</integer>
+			<key>Name</key><string>DECAFFEINATED (SANA)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>friday. (GCA *), CHANG (GCA *), woobin (GCA *), Ayushy &#38; Jvde (GCA *)</string>
+			<key>Album</key><string>TEN- The Story Goes On</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7483037</integer>
+			<key>Total Time</key><integer>180071</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-10T00:18:14Z</date>
+			<key>Date Added</key><date>2025-10-23T06:02:05Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851358754</integer>
+			<key>Play Date UTC</key><date>2026-01-16T03:52:34Z</date>
+			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7132</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>353E6308BA366547</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/05%20DECAFFEINATED%20(SANA).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33069</key>
+		<dict>
+			<key>Track ID</key><integer>33069</integer>
+			<key>Name</key><string>ATM (JIHYO)</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>EJAE</string>
+			<key>Album</key><string>TEN- The Story Goes On</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8997298</integer>
+			<key>Total Time</key><integer>216062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>70</integer>
+			<key>Date Modified</key><date>2026-01-10T00:18:15Z</date>
+			<key>Date Added</key><date>2025-10-23T06:02:05Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850827283</integer>
+			<key>Play Date UTC</key><date>2026-01-10T00:14:43Z</date>
+			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3763</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAD1374F1348380D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/06%20ATM%20(JIHYO).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33769</key>
+		<dict>
+			<key>Track ID</key><integer>33769</integer>
+			<key>Name</key><string>Signal</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>J.Y. Park &#38; KAIROS</string>
+			<key>Album</key><string>Signal - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>45026572</integer>
+			<key>Total Time</key><integer>196690</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>104</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:17Z</date>
+			<key>Date Added</key><date>2026-01-07T05:09:46Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850711282</integer>
+			<key>Play Date UTC</key><date>2026-01-08T16:01:22Z</date>
+			<key>Release Date</key><date>2017-05-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9767</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>360F2E58EB35FDAF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Signal%20-%20EP/01%20Signal.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33793</key>
+		<dict>
+			<key>Track ID</key><integer>33793</integer>
+			<key>Name</key><string>LUV ME</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Albin Nordqvist</string>
+			<key>Album</key><string>One More Time - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>51585691</integer>
+			<key>Total Time</key><integer>209226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:18Z</date>
+			<key>Date Added</key><date>2026-01-07T05:21:49Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850712669</integer>
+			<key>Play Date UTC</key><date>2026-01-08T16:24:29Z</date>
+			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5DA3BE1BC222CD40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/One%20More%20Time%20-%20EP/02%20LUV%20ME.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33815</key>
+		<dict>
+			<key>Track ID</key><integer>33815</integer>
+			<key>Name</key><string>STAY BY MY SIDE</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Atsushi Shimada</string>
+			<key>Album</key><string>STAY BY MY SIDE - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>58500217</integer>
+			<key>Total Time</key><integer>237490</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:22Z</date>
+			<key>Date Added</key><date>2026-01-07T05:45:26Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850744085</integer>
+			<key>Play Date UTC</key><date>2026-01-09T01:08:05Z</date>
+			<key>Release Date</key><date>2018-10-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8223</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB04482B1A91CE97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/STAY%20BY%20MY%20SIDE%20-%20Single/01%20STAY%20BY%20MY%20SIDE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33829</key>
+		<dict>
+			<key>Track ID</key><integer>33829</integer>
+			<key>Name</key><string>Breakthrough</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Jan Baars, Rajan Muse &#38; Ronnie Icon</string>
+			<key>Album</key><string>Breakthrough - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52807523</integer>
+			<key>Total Time</key><integer>217650</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:26Z</date>
+			<key>Date Added</key><date>2026-01-07T05:57:17Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850747089</integer>
+			<key>Play Date UTC</key><date>2026-01-09T01:58:09Z</date>
+			<key>Release Date</key><date>2019-06-12T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9381</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D5C492CBB2593D8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Breakthrough%20-%20EP/01%20Breakthrough.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33865</key>
+		<dict>
+			<key>Track ID</key><integer>33865</integer>
+			<key>Name</key><string>BETTER</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Eunsol &#38; Lauren Kaori</string>
+			<key>Album</key><string>BETTER - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52376285</integer>
+			<key>Total Time</key><integer>223666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:49Z</date>
+			<key>Date Added</key><date>2026-01-07T06:19:18Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850799214</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:26:54Z</date>
+			<key>Release Date</key><date>2020-11-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5093</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B7AB4609D7381A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/01%20BETTER.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33869</key>
+		<dict>
+			<key>Track ID</key><integer>33869</integer>
+			<key>Name</key><string>Scorpion</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Julia Ross, Krysta Youngs &#38; Woo Min Lee collapsedone</string>
+			<key>Album</key><string>BETTER - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48693698</integer>
+			<key>Total Time</key><integer>208066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-13T04:07:18Z</date>
+			<key>Date Added</key><date>2026-01-07T06:19:18Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851444250</integer>
+			<key>Play Date UTC</key><date>2026-01-17T03:37:30Z</date>
+			<key>Release Date</key><date>2020-11-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7619</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>15691D6D53AB994F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/02%20Scorpion.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33877</key>
+		<dict>
+			<key>Track ID</key><integer>33877</integer>
+			<key>Name</key><string>Kura Kura</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>UTA</string>
+			<key>Album</key><string>Kura Kura - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>54784814</integer>
+			<key>Total Time</key><integer>227750</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-09T20:12:51Z</date>
+			<key>Date Added</key><date>2026-01-07T06:24:41Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850799856</integer>
+			<key>Play Date UTC</key><date>2026-01-09T16:37:36Z</date>
+			<key>Release Date</key><date>2021-04-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7889</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>05866BC6ACEC2568</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Kura%20Kura%20-%20EP/01%20Kura%20Kura.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33889</key>
+		<dict>
+			<key>Track ID</key><integer>33889</integer>
+			<key>Name</key><string>Doughnut</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Alexis Kesselman, Fingazz, Francis &#38; Woo S. Rhee "RAINSTONE"</string>
+			<key>Album</key><string>Doughnut - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>59325874</integer>
+			<key>Total Time</key><integer>263680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-09T20:13:02Z</date>
+			<key>Date Added</key><date>2026-01-07T06:34:18Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850811833</integer>
+			<key>Play Date UTC</key><date>2026-01-09T19:57:13Z</date>
+			<key>Release Date</key><date>2021-12-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4210</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>44F700C7D06EE15B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Doughnut%20-%20EP/01%20Doughnut.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33953</key>
+		<dict>
+			<key>Track ID</key><integer>33953</integer>
+			<key>Name</key><string>I GOT YOU</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Jonah Marais, Daniel Seavey, David Wilson, Jake Torrey &#38; Lexxi Saal</string>
+			<key>Album</key><string>I GOT YOU - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>41125727</integer>
+			<key>Total Time</key><integer>173240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-01-09T21:18:18Z</date>
+			<key>Date Added</key><date>2026-01-07T06:44:49Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850816709</integer>
+			<key>Play Date UTC</key><date>2026-01-09T21:18:29Z</date>
+			<key>Release Date</key><date>2024-02-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>015957910997F47E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/I%20GOT%20YOU%20-%20Single/01%20I%20GOT%20YOU.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33961</key>
+		<dict>
+			<key>Track ID</key><integer>33961</integer>
+			<key>Name</key><string>Ocean Deep</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Alawn</string>
+			<key>Album</key><string>DIVE</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>52746228</integer>
+			<key>Total Time</key><integer>220110</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-09T22:48:54Z</date>
+			<key>Date Added</key><date>2026-01-07T06:49:48Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850819672</integer>
+			<key>Play Date UTC</key><date>2026-01-09T22:07:52Z</date>
+			<key>Release Date</key><date>2024-07-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8172</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A1B6AC073FB05E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/DIVE/03%20Ocean%20Deep.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33967</key>
+		<dict>
+			<key>Track ID</key><integer>33967</integer>
+			<key>Name</key><string>LOVE WARNING</string>
+			<key>Artist</key><string>TWICE</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>JJean</string>
+			<key>Album</key><string>DIVE</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48397074</integer>
+			<key>Total Time</key><integer>206200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-09T22:48:56Z</date>
+			<key>Date Added</key><date>2026-01-07T06:49:48Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3850819878</integer>
+			<key>Play Date UTC</key><date>2026-01-09T22:11:18Z</date>
+			<key>Release Date</key><date>2024-07-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7759</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25CD870238A825D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/DIVE/04%20LOVE%20WARNING.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Twice</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102370</integer>
+			<key>Playlist Persistent ID</key><string>A05BB3D2DA7A371F</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjhTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAoAVABXAEkAQwBFAAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAEAAAAA
+			AAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAGUAcwAgAGwAaQB2
+			AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAACAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBtACAAVABoAGUAIABGAGkAcgBz
+			AHQAIABUAGEAawBl
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11299</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33877</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13475</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13483</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29597</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33967</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33059</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

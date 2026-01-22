@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:20:02Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6315</key>
+		<dict>
+			<key>Track ID</key><integer>6315</integer>
+			<key>Name</key><string>Apocalipsis Zombi</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6872933</integer>
+			<key>Total Time</key><integer>213211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T21:12:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849943731</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:48:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7077</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>947C7DA52013ACB8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/01%20Apocalipsis%20Zombi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6317</key>
+		<dict>
+			<key>Track ID</key><integer>6317</integer>
+			<key>Name</key><string>Invisible</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6979923</integer>
+			<key>Total Time</key><integer>216555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T20:33:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3849943947</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:52:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4917</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>58124FE40F6D03E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/02%20Invisible.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6319</key>
+		<dict>
+			<key>Track ID</key><integer>6319</integer>
+			<key>Name</key><string>El Innombrable</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6955686</integer>
+			<key>Total Time</key><integer>215797</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T17:26:12Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3851340655</integer>
+			<key>Play Date UTC</key><date>2026-01-15T22:50:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7213</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Name</key><string>Innombrable</string>
+			<key>Persistent ID</key><string>0F7F46A42736F85E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/03%20El%20Innombrable.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6321</key>
+		<dict>
+			<key>Track ID</key><integer>6321</integer>
+			<key>Name</key><string>Calma Vladimir</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6564476</integer>
+			<key>Total Time</key><integer>203572</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>99</integer>
+			<key>Date Modified</key><date>2026-01-07T19:47:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3849944366</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:59:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4258</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>3C397148AC5A404D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/04%20Calma%20Vladimir.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6323</key>
+		<dict>
+			<key>Track ID</key><integer>6323</integer>
+			<key>Name</key><string>Gaucho Power</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6462492</integer>
+			<key>Total Time</key><integer>200385</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T20:47:05Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3849944566</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:02:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5417</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>CF3B79178CEBB341</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/05%20Gaucho%20Power.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6325</key>
+		<dict>
+			<key>Track ID</key><integer>6325</integer>
+			<key>Name</key><string>Mirada de Nylon</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6831135</integer>
+			<key>Total Time</key><integer>211905</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-07T18:10:41Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849944778</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:06:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5404</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>1F5AA85863694E1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/06%20Mirada%20de%20Nylon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6327</key>
+		<dict>
+			<key>Track ID</key><integer>6327</integer>
+			<key>Name</key><string>Hola Karma</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7399555</integer>
+			<key>Total Time</key><integer>229668</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-05T02:30:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849945008</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:10:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4079</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>E5F8A3939DAB5DE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/07%20Hola%20Karma.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6333</key>
+		<dict>
+			<key>Track ID</key><integer>6333</integer>
+			<key>Name</key><string>El Rey y el As</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Apocalipsis Zombi</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7835909</integer>
+			<key>Total Time</key><integer>243304</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T17:59:10Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849945671</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:21:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4961</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Name</key><string>Rey y el As</string>
+			<key>Persistent ID</key><string>8EA48F91FFD9B207</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Apocalipsis%20Zombi/10%20El%20Rey%20y%20el%20As.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6335</key>
+		<dict>
+			<key>Track ID</key><integer>6335</integer>
+			<key>Name</key><string>Mario Neta</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7571544</integer>
+			<key>Total Time</key><integer>234919</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2026-01-07T20:40:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3849945906</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:25:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5405</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>B0E3842EA4F93783</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/01%20Mario%20Neta.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6337</key>
+		<dict>
+			<key>Track ID</key><integer>6337</integer>
+			<key>Name</key><string>Punta Cana</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6202309</integer>
+			<key>Total Time</key><integer>192130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-07T21:49:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849946098</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:28:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6060</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>320875C2482CC05F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/02%20Punta%20Cana.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6339</key>
+		<dict>
+			<key>Track ID</key><integer>6339</integer>
+			<key>Name</key><string>Anónimo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7100928</integer>
+			<key>Total Time</key><integer>220212</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T19:13:32Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3849946318</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:31:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6394</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>FF43A4100C3AC306</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/03%20An%C3%B3nimo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6341</key>
+		<dict>
+			<key>Track ID</key><integer>6341</integer>
+			<key>Name</key><string>Hombre Con Alas</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7292352</integer>
+			<key>Total Time</key><integer>226194</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T18:38:44Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849946545</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:35:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5383</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>DDF18683151DD8FB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/04%20Hombre%20Con%20Alas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6345</key>
+		<dict>
+			<key>Track ID</key><integer>6345</integer>
+			<key>Name</key><string>Que Empiece el Juego</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7632576</integer>
+			<key>Total Time</key><integer>236826</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T20:12:20Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849946977</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:42:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4228</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>CB4BA9235AD29A39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/06%20Que%20Empiece%20el%20Juego.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6347</key>
+		<dict>
+			<key>Track ID</key><integer>6347</integer>
+			<key>Name</key><string>Llegó Papá</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6458113</integer>
+			<key>Total Time</key><integer>200124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T19:52:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849947177</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:46:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8800</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>E54A1E05E4F29C22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/07%20Lleg%C3%B3%20Pap%C3%A1.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6349</key>
+		<dict>
+			<key>Track ID</key><integer>6349</integer>
+			<key>Name</key><string>Contrapunto para Humano y Computadora</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10971382</integer>
+			<key>Total Time</key><integer>341028</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>114</integer>
+			<key>Date Modified</key><date>2026-01-07T19:23:57Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849947518</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:51:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3346</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>6CB6F29AF6C267AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/08%20Contrapunto%20para%20Humano%20y%20Computa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6351</key>
+		<dict>
+			<key>Track ID</key><integer>6351</integer>
+			<key>Name</key><string>Fallaste Nostradamus</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Jueves</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5798571</integer>
+			<key>Total Time</key><integer>179513</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T19:50:32Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849947698</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:54:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4379</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>906AA4B3BC062054</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Jueves/09%20Fallaste%20Nostradamus.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6353</key>
+		<dict>
+			<key>Track ID</key><integer>6353</integer>
+			<key>Name</key><string>Flan</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7638305</integer>
+			<key>Total Time</key><integer>237008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T21:34:50Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3849947935</integer>
+			<key>Play Date UTC</key><date>2025-12-30T19:58:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>5C072523C582B837</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/01%20Flan.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6355</key>
+		<dict>
+			<key>Track ID</key><integer>6355</integer>
+			<key>Name</key><string>Rorschach</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7644997</integer>
+			<key>Total Time</key><integer>237217</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T20:30:49Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3849948172</integer>
+			<key>Play Date UTC</key><date>2025-12-30T20:02:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>BA5EBA55C438D57E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/02%20Rorschach.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6357</key>
+		<dict>
+			<key>Track ID</key><integer>6357</integer>
+			<key>Name</key><string>Frankenstein Posmo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8185846</integer>
+			<key>Total Time</key><integer>254119</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-01-07T17:09:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849948426</integer>
+			<key>Play Date UTC</key><date>2025-12-30T20:07:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5276</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>48054EEBBE4976FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/03%20Frankenstein%20Posmo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6359</key>
+		<dict>
+			<key>Track ID</key><integer>6359</integer>
+			<key>Name</key><string>Maldito Show</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7982298</integer>
+			<key>Total Time</key><integer>247745</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-01-07T20:02:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849948674</integer>
+			<key>Play Date UTC</key><date>2025-12-30T20:11:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>9E1DB0599DBCBF3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/04%20Maldito%20Show.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6361</key>
+		<dict>
+			<key>Track ID</key><integer>6361</integer>
+			<key>Name</key><string>Chivo Expiatorio</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9277624</integer>
+			<key>Total Time</key><integer>288130</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T17:17:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849949061</integer>
+			<key>Play Date UTC</key><date>2025-12-30T20:17:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7668</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>7A695EFC03DFB86D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/05%20Chivo%20Expiatorio.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6363</key>
+		<dict>
+			<key>Track ID</key><integer>6363</integer>
+			<key>Name</key><string>Fiesta en lo del Dr. Hermes</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8246041</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-01-07T22:17:07Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849978626</integer>
+			<key>Play Date UTC</key><date>2025-12-31T04:30:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>DA8EB2192F23BA1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/06%20Fiesta%20en%20lo%20del%20Dr.%20Hermes.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6367</key>
+		<dict>
+			<key>Track ID</key><integer>6367</integer>
+			<key>Name</key><string>La Ciudad Sin Alma</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Lámina Once</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7458597</integer>
+			<key>Total Time</key><integer>231392</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-01-07T18:10:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:49:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851865014</integer>
+			<key>Play Date UTC</key><date>2026-01-22T00:30:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4564</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Name</key><string>Ciudad Sin Alma</string>
+			<key>Persistent ID</key><string>64607AA38932B612</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/L%C3%A1mina%20Once/08%20La%20Ciudad%20Sin%20Alma.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6371</key>
+		<dict>
+			<key>Track ID</key><integer>6371</integer>
+			<key>Name</key><string>Cuando Sea Grande</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Porfiado</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8097227</integer>
+			<key>Total Time</key><integer>250122</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T21:18:03Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3849729001</integer>
+			<key>Play Date UTC</key><date>2025-12-28T07:10:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9781</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>A1865536F726CB1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Porfiado/02%20Cuando%20Sea%20Grande.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6375</key>
+		<dict>
+			<key>Track ID</key><integer>6375</integer>
+			<key>Name</key><string>Buen Día Benito</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>LY-Non</string>
+			<key>Album</key><string>Porfiado</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7466125</integer>
+			<key>Total Time</key><integer>230400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-01-07T21:32:03Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851344339</integer>
+			<key>Play Date UTC</key><date>2026-01-15T23:52:19Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11617</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>B64A37B57C4D5840</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Porfiado/04%20Buen%20D%C3%ADa%20Benito.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6379</key>
+		<dict>
+			<key>Track ID</key><integer>6379</integer>
+			<key>Name</key><string>Lo Malo de Ser Bueno</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Porfiado</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7845619</integer>
+			<key>Total Time</key><integer>242259</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-07T19:30:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3849939208</integer>
+			<key>Play Date UTC</key><date>2025-12-30T17:33:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9536</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>358A462B5B065AB6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Porfiado/06%20Lo%20Malo%20de%20Ser%20Bueno.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6381</key>
+		<dict>
+			<key>Track ID</key><integer>6381</integer>
+			<key>Name</key><string>Enamorado Tuyo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Santiago Tavella</string>
+			<key>Album</key><string>Porfiado</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8407350</integer>
+			<key>Total Time</key><integer>259813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T18:14:29Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3849939468</integer>
+			<key>Play Date UTC</key><date>2025-12-30T17:37:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6118</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>766BAE6B11DE1ADC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Porfiado/07%20Enamorado%20Tuyo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6385</key>
+		<dict>
+			<key>Track ID</key><integer>6385</integer>
+			<key>Name</key><string>Vída Ingrata</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Cuarteto de Nos</string>
+			<key>Album</key><string>Porfiado</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7701848</integer>
+			<key>Total Time</key><integer>237766</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2026-01-07T18:30:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849939950</integer>
+			<key>Play Date UTC</key><date>2025-12-30T17:45:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8511</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>D296C570EE585F97</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Porfiado/09%20V%C3%ADda%20Ingrata.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15907</key>
+		<dict>
+			<key>Track ID</key><integer>15907</integer>
+			<key>Name</key><string>Cómo Pasa el Tiempo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Habla Tu Espejo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10946931</integer>
+			<key>Total Time</key><integer>260922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T18:17:34Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849941006</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:03:26Z</date>
+			<key>Release Date</key><date>2014-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4962</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>F01A5D9557DCD299</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Habla%20Tu%20Espejo/01%20C%C3%B3mo%20Pasa%20el%20Tiempo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15921</key>
+		<dict>
+			<key>Track ID</key><integer>15921</integer>
+			<key>Name</key><string>Hoy Estoy Raro</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Raro</string>
+			<key>Genre</key><string>Alternativa para adultos</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11727262</integer>
+			<key>Total Time</key><integer>280636</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T21:45:11Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849716713</integer>
+			<key>Play Date UTC</key><date>2025-12-28T03:45:13Z</date>
+			<key>Release Date</key><date>2006-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4312</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>90F02E9A8DB32782</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Raro/02%20Hoy%20Estoy%20Raro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15923</key>
+		<dict>
+			<key>Track ID</key><integer>15923</integer>
+			<key>Name</key><string>Miguel Gritar</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10174965</integer>
+			<key>Total Time</key><integer>248175</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-07T18:40:40Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849719437</integer>
+			<key>Play Date UTC</key><date>2025-12-28T04:30:37Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8883</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>6FB2943E9EAEC55E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/02%20Miguel%20Gritar.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15927</key>
+		<dict>
+			<key>Track ID</key><integer>15927</integer>
+			<key>Name</key><string>Así Soy Yo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Raro</string>
+			<key>Genre</key><string>Alternativa para adultos</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9315822</integer>
+			<key>Total Time</key><integer>225558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-01-07T20:54:54Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849716938</integer>
+			<key>Play Date UTC</key><date>2025-12-28T03:48:58Z</date>
+			<key>Release Date</key><date>2006-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5625</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Composer</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>8AF274AC5D0DAD5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Raro/03%20As%C3%AD%20Soy%20Yo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15929</key>
+		<dict>
+			<key>Track ID</key><integer>15929</integer>
+			<key>Name</key><string>El Hijo de Hernández</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9932254</integer>
+			<key>Total Time</key><integer>239305</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>113</integer>
+			<key>Date Modified</key><date>2026-01-07T18:09:41Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849719676</integer>
+			<key>Play Date UTC</key><date>2025-12-28T04:34:36Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10122</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Name</key><string>Hijo de Hernández</string>
+			<key>Persistent ID</key><string>9562BA0784090C17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/03%20El%20Hijo%20de%20Hern%C3%A1ndez.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15931</key>
+		<dict>
+			<key>Track ID</key><integer>15931</integer>
+			<key>Name</key><string>No Llora</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Rock en Español - 100 Hits 2016 - TodoenMP3</string>
+			<key>Album</key><string>Habla Tu Espejo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10903469</integer>
+			<key>Total Time</key><integer>259901</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2026-01-07T18:29:57Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849941543</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:12:23Z</date>
+			<key>Release Date</key><date>2014-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>05D6EB2BC4B92FEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Habla%20Tu%20Espejo/03%20No%20Llora.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15941</key>
+		<dict>
+			<key>Track ID</key><integer>15941</integer>
+			<key>Name</key><string>Yendo a la Casa de Damián</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Raro</string>
+			<key>Genre</key><string>Alternativa para adultos</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10488380</integer>
+			<key>Total Time</key><integer>254165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-07T22:11:00Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851169906</integer>
+			<key>Play Date UTC</key><date>2026-01-13T23:25:06Z</date>
+			<key>Release Date</key><date>2006-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5248</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Composer</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>574FA120726CD4A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Raro/04%20Yendo%20a%20la%20Casa%20de%20Dami%C3%A1n.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15943</key>
+		<dict>
+			<key>Track ID</key><integer>15943</integer>
+			<key>Name</key><string>Nada Me da Satisfacción</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Juan Campodónico/Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9678022</integer>
+			<key>Total Time</key><integer>235172</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T21:27:11Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849726651</integer>
+			<key>Play Date UTC</key><date>2025-12-28T06:30:51Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9077</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>C099AD1769E4801A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/05%20Nada%20Me%20da%20Satisfacci%C3%B3n.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15947</key>
+		<dict>
+			<key>Track ID</key><integer>15947</integer>
+			<key>Name</key><string>Roberto</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Habla Tu Espejo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10360175</integer>
+			<key>Total Time</key><integer>249080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2026-01-07T20:08:52Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3849942044</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:20:44Z</date>
+			<key>Release Date</key><date>2014-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5239</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>3B843CC1CB77CD79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Habla%20Tu%20Espejo/05%20Roberto.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15955</key>
+		<dict>
+			<key>Track ID</key><integer>15955</integer>
+			<key>Name</key><string>Mi Lista Negra</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>El Cuarteto De Nos</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12202851</integer>
+			<key>Total Time</key><integer>297517</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-07T20:26:39Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3849726973</integer>
+			<key>Play Date UTC</key><date>2025-12-28T06:36:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-03T02:40:07Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4982</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Composer</key><string>Cuarteto De Nos</string>
+			<key>Persistent ID</key><string>A6C2081B2A4430A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/06%20Mi%20Lista%20Negra.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15957</key>
+		<dict>
+			<key>Track ID</key><integer>15957</integer>
+			<key>Name</key><string>Ya No Sé Que Hacer Conmigo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Raro</string>
+			<key>Genre</key><string>Alternativa para adultos</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10117205</integer>
+			<key>Total Time</key><integer>241557</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T21:48:23Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849717613</integer>
+			<key>Play Date UTC</key><date>2025-12-28T04:00:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-12-28T04:00:26Z</date>
+			<key>Release Date</key><date>2006-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>4ECD68DF2176BE9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Raro/06%20Ya%20No%20S%C3%A9%20Que%20Hacer%20Conmigo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15971</key>
+		<dict>
+			<key>Track ID</key><integer>15971</integer>
+			<key>Name</key><string>Mírenme</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Juan Campodónico/Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8782614</integer>
+			<key>Total Time</key><integer>210140</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T18:22:57Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849727393</integer>
+			<key>Play Date UTC</key><date>2025-12-28T06:43:13Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7003</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>C1B12512C4DDD661</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/08%20M%C3%ADrenme.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15975</key>
+		<dict>
+			<key>Track ID</key><integer>15975</integer>
+			<key>Name</key><string>Caminamos</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Habla Tu Espejo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8875217</integer>
+			<key>Total Time</key><integer>211557</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-07T20:41:06Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849943296</integer>
+			<key>Play Date UTC</key><date>2025-12-30T18:41:36Z</date>
+			<key>Release Date</key><date>2014-10-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4168</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>12B810575C56EE88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Habla%20Tu%20Espejo/09%20Caminamos.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15977</key>
+		<dict>
+			<key>Track ID</key><integer>15977</integer>
+			<key>Name</key><string>El Karaoke de Mi Noviecita</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Santiago Tavella</string>
+			<key>Album</key><string>Raro</string>
+			<key>Genre</key><string>Alternativa para adultos</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11095118</integer>
+			<key>Total Time</key><integer>262989</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T18:45:56Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>334</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849718288</integer>
+			<key>Play Date UTC</key><date>2025-12-28T04:11:28Z</date>
+			<key>Release Date</key><date>2006-04-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3527</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Name</key><string>Karaoke de Mi Noviecita</string>
+			<key>Persistent ID</key><string>C83EE1EFB7883439</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Raro/09%20El%20Karaoke%20de%20Mi%20Noviecita.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15993</key>
+		<dict>
+			<key>Track ID</key><integer>15993</integer>
+			<key>Name</key><string>Me Amo</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8992512</integer>
+			<key>Total Time</key><integer>220218</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T17:50:51Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850456261</integer>
+			<key>Play Date UTC</key><date>2026-01-05T17:11:01Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9111</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>AA49B6EAFEDF5A13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/11%20Me%20Amo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15999</key>
+		<dict>
+			<key>Track ID</key><integer>15999</integer>
+			<key>Name</key><string>Breve Descripción de Mi Persona</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Juan Campodónico/Roberto Musso</string>
+			<key>Album</key><string>Bipolar</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9261842</integer>
+			<key>Total Time</key><integer>222284</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>101</integer>
+			<key>Date Modified</key><date>2026-01-07T20:11:58Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:40Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3849728544</integer>
+			<key>Play Date UTC</key><date>2025-12-28T07:02:24Z</date>
+			<key>Release Date</key><date>2010-05-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4305</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>5DB585EB65FBE81F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Bipolar/12%20Breve%20Descripci%C3%B3n%20de%20Mi%20Persona.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26819</key>
+		<dict>
+			<key>Track ID</key><integer>26819</integer>
+			<key>Name</key><string>Puertas</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Puertas</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7391012</integer>
+			<key>Total Time</key><integer>228388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:00Z</date>
+			<key>Date Added</key><date>2025-05-23T03:40:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849979311</integer>
+			<key>Play Date UTC</key><date>2025-12-31T04:41:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4841</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>8AA7714955AE09E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Puertas/01%20Puertas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26825</key>
+		<dict>
+			<key>Track ID</key><integer>26825</integer>
+			<key>Name</key><string>En el cuarto de Nico</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Puertas</string>
+			<key>Genre</key><string>Música latina</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8353857</integer>
+			<key>Total Time</key><integer>258795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-01-07T22:05:40Z</date>
+			<key>Date Added</key><date>2025-05-23T03:40:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850539146</integer>
+			<key>Play Date UTC</key><date>2026-01-06T16:12:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4105</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>5F4C90232C056C44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Puertas/04%20En%20el%20cuarto%20de%20Nico.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33383</key>
+		<dict>
+			<key>Track ID</key><integer>33383</integer>
+			<key>Name</key><string>Acapulco Nos Emborracha</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Alberto Wolf y el Cuarteto de Nos</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6729139</integer>
+			<key>Total Time</key><integer>165950</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T18:12:09Z</date>
+			<key>Date Added</key><date>2025-12-09T01:48:35Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849627778</integer>
+			<key>Play Date UTC</key><date>2025-12-27T03:02:58Z</date>
+			<key>Release Date</key><date>1984-10-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5786</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>85AD39FD3E237560</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Compilations/Alberto%20Wolf%20y%20el%20Cuarteto%20de%20Nos/07%20Acapulco%20Nos%20Emborracha.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33393</key>
+		<dict>
+			<key>Track ID</key><integer>33393</integer>
+			<key>Name</key><string>Totalmente Normal</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Alberto Wolf y el Cuarteto de Nos</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11564054</integer>
+			<key>Total Time</key><integer>297708</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T18:51:17Z</date>
+			<key>Date Added</key><date>2025-12-09T01:48:35Z</date>
+			<key>Bit Rate</key><integer>308</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849628273</integer>
+			<key>Play Date UTC</key><date>2025-12-27T03:11:13Z</date>
+			<key>Release Date</key><date>1984-10-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1936</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>E78D6574E3204CEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Compilations/Alberto%20Wolf%20y%20el%20Cuarteto%20de%20Nos/09%20Totalmente%20Normal.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33511</key>
+		<dict>
+			<key>Track ID</key><integer>33511</integer>
+			<key>Name</key><string>Siempre Que Escucho al Cuarteto</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Canciones del Corazón</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>55730177</integer>
+			<key>Total Time</key><integer>259847</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T16:55:05Z</date>
+			<key>Date Added</key><date>2025-12-27T03:03:19Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851153847</integer>
+			<key>Play Date UTC</key><date>2026-01-13T18:57:27Z</date>
+			<key>Release Date</key><date>1991-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1932</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>68400EF0B7EEF5BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Canciones%20del%20Coraz%C3%B3n/02%20Siempre%20Que%20Escucho%20al%20Cuarteto.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33547</key>
+		<dict>
+			<key>Track ID</key><integer>33547</integer>
+			<key>Name</key><string>Mabel</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album</key><string>Canciones del Corazón</string>
+			<key>Genre</key><string>Pop en español</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>53136309</integer>
+			<key>Total Time</key><integer>268147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-01-07T19:46:17Z</date>
+			<key>Date Added</key><date>2025-12-27T03:03:19Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850477624</integer>
+			<key>Play Date UTC</key><date>2026-01-05T23:07:04Z</date>
+			<key>Release Date</key><date>1991-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1068</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>F78F589432B83107</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Canciones%20del%20Coraz%C3%B3n/10%20Mabel.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33583</key>
+		<dict>
+			<key>Track ID</key><integer>33583</integer>
+			<key>Name</key><string>Disculpe</string>
+			<key>Artist</key><string>El Cuarteto de Nos</string>
+			<key>Album Artist</key><string>El Cuarteto de Nos</string>
+			<key>Composer</key><string>Santiago Tavella</string>
+			<key>Album</key><string>Barranca Abajo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>37481121</integer>
+			<key>Total Time</key><integer>183785</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-07T19:51:49Z</date>
+			<key>Date Added</key><date>2025-12-27T03:08:50Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849687368</integer>
+			<key>Play Date UTC</key><date>2025-12-27T19:36:08Z</date>
+			<key>Release Date</key><date>1995-06-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>585</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Cuarteto de Nos</string>
+			<key>Sort Artist</key><string>Cuarteto de Nos</string>
+			<key>Persistent ID</key><string>3E2D63EFBB228B82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Cuarteto%20de%20Nos/Barranca%20Abajo/07%20Disculpe.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>El Cuarteto de Nos</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101257</integer>
+			<key>Playlist Persistent ID</key><string>7F9709202716BF37</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfRTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAACQARQBsACAAQwB1AGEAcgB0AGUAdABvACAAZABlACAATgBvAHMAAAAZ
+			AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAA
+			AAAAAABkAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAA4AZQBzACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbw==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>33383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33547</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15921</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15941</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15977</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15923</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15929</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15943</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15931</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15947</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15975</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26825</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
