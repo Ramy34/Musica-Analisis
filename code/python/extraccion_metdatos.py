@@ -27,7 +27,6 @@ def log_progress(current, total, last_logged=[0]):
         print(f"[INFO] {percent}% completado ({current}/{total})")
         last_logged[0] = percent
 
-
 # === Letras ===
 def extraer_letra_mp3(tags):
     """
