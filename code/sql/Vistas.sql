@@ -1,5 +1,5 @@
 -- Creación de las vistas
-CREATE OR REPLACE SECURE VIEW vista.biblioteca AS
+CREATE OR REPLACE SECURE VIEW VISTA.biblioteca AS
 	SELECT
 		a.NAME as "Canción",
 		a.ARTIST as "Artista",
@@ -69,11 +69,12 @@ CREATE OR REPLACE SECURE VIEW vista.biblioteca AS
 										IFF(b.DURATION_SECONDS > 450.00 AND b.DURATION_SECONDS <= 510.00, '8', '9 o más'
 		))))))))) as "Escala de minutos",
 		IFF("Calificación" < '5', 'No', 'Sí') as "Me gusta",
-		IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido"
+		IFF("Reproducciones" > 0, 'Sí', 'No') as "Reproducido",
+		IFF("Comentarios" LIKE '%Se encuentra en spotify%', 'Sí', 'No') as "En Spotify"
 	FROM 
-		raw.biblioteca a 
+		RAW.biblioteca a 
 	INNER JOIN 
-		raw.metadata b 
+		RAW.metadata b 
 	ON 
 		a.artist = b.artist 
 	AND 
@@ -82,16 +83,106 @@ CREATE OR REPLACE SECURE VIEW vista.biblioteca AS
 		upper(a.filename) = upper(b.filename);
 
 -- Creamos la vista del resumen del top 25
-CREATE OR REPLACE SECURE VIEW vista.resumen_favoritas AS
+CREATE OR REPLACE SECURE VIEW VISTA.resumen_favoritas AS
 	SELECT
-		*
+		"Canción",
+		"Artista",
+		"Álbum",
+		"Artista del álbum",
+		"Reproducciones",
+		"Género",
+		"Duración minutos",
+		"Nombre archivo",
+		"Calificacion del álbum",
+		"Calificación del álbum computarizado",
+		"Carátula",
+		"Bpm",
+		"Ratio de bit",
+		"Comentarios",
+		"Compilación",
+		"Compositor",
+		"Fecha de adición",
+		"Fecha de modificación",
+		"Número de disco",
+		"Número de discos",
+		"No me gusta",
+		"Explícito",
+		"Tipo de archivo",
+		"Me Encanta",
+		"Matched",
+		"Normalización",
+		"Id",
+		"Fecha de última reproducción",
+		"Fecha de última reproducción UTC",
+		"Comprado",
+		"Fecha de lanzamiento",
+		"Ratio de muestro",
+		"Tamño",
+		"Cuenta de saltos",
+		"Fecha del último salto",	
+		"Número canciones álbum",
+		"Id canción",
+		"Número canción álbum",
+		"Tipo canción",
+		"Año",
+		"Ruta archivo",
+		"Duración segundos",
+		"Tempo color",
+		"Espctro",
+		"Color", 
+		"Tempo Timbre Color",
+		"Danzabilidad",
+		"Tuning",
+		"Tiene letra",
+		"Letra",
+		"Duración horas",
+		"Calificación",
+		"Escala de minutos",
+		"Me gusta",
+		"Reproducido",
+		"En Spotify"
 	FROM 
 		VISTA.BIBLIOTECA a 
 	ORDER BY
 		"Reproducciones" DESC
 	LIMIT 25;
+
+-- Creamos la vista de artistas desnormalizados
+CREATE OR REPLACE VIEW VISTA.ARTISTAS AS
+	WITH base AS (
+		SELECT
+			m.artist AS artista_original,
+			CASE
+				-- Si es excepción, no se divide
+				WHEN e.artista IS NOT NULL THEN ARRAY_CONSTRUCT(m.artist)
+				-- Si no es excepción, se divide
+				ELSE SPLIT(
+					REGEXP_REPLACE(
+						m.artist,
+						'feat\\.?|&|\\bcon\\b|\\bwith\\b|/|、',
+						','
+					),
+					','
+				)
+			END AS artistas_array
+
+		FROM RAW.METADATA m
+		LEFT JOIN ADM.CAT_ARTISTA_EXCEPCIONES e
+			ON UPPER(m.artist) = UPPER(e.artista)
+	)
+	SELECT DISTINCT
+		artista_original AS "Artista original",
+		TRIM(f.value::string) AS "Artista"
+	FROM 
+		base,
+	LATERAL FLATTEN(input => artistas_array) f
+	WHERE 
+			TRIM(f.value::string) IS NOT NULL
+		AND 
+			TRIM(f.value::string) <> '';
+
 -- Creación de la vista de canciones desnormalizazdas
-CREATE OR REPLACE SECURE VIEW vista.canciones AS
+CREATE OR REPLACE SECURE VIEW VISTA.canciones AS
 	SELECT
 		"Canción",
 		b."Artista" AS "Artista",
@@ -148,7 +239,8 @@ CREATE OR REPLACE SECURE VIEW vista.canciones AS
 		"Calificación",
 		"Escala de minutos",
 		"Me gusta",
-		"Reproducido"
+		"Reproducido",
+		"En Spotify"
 	FROM 
 		VISTA.BIBLIOTECA a
 	INNER JOIN 
@@ -157,7 +249,7 @@ CREATE OR REPLACE SECURE VIEW vista.canciones AS
 		a."Artista" = b."Artista original";
 
 -- Creación de la vista de playlist
-CREATE OR REPLACE SECURE VIEW vista.playlist AS
+CREATE OR REPLACE SECURE VIEW VISTA.PLAYLIST AS
 	SELECT
 		a.PLAYLIST AS "Playlist",
 		a.NAME AS "Canción",
@@ -241,7 +333,7 @@ CREATE OR REPLACE SECURE VIEW vista.playlist AS
 	AND 
 		upper(a.FILENAME) = upper(b.FILENAME);
 -- Creación de la vista de artistas sin playlist
-CREATE OR REPLACE SECURE VIEW vista.ARTISTAS_SIN_PLAYLIST AS
+CREATE OR REPLACE SECURE VIEW VISTA.ARTISTAS_SIN_PLAYLIST AS
 	SELECT
 		"Canción",
 		"Artista",
@@ -298,7 +390,8 @@ CREATE OR REPLACE SECURE VIEW vista.ARTISTAS_SIN_PLAYLIST AS
 		"Calificación",
 		"Escala de minutos",
 		"Me gusta",
-		"Reproducido"
+		"Reproducido",
+		"En Spotify"
 	FROM 
 		VISTA.CANCIONES 
 	WHERE 
