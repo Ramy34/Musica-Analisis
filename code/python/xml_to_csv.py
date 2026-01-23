@@ -137,7 +137,7 @@ def process_raw(input_folder, output_folder):
 def process_pre_raw(input_folder, output_folder):
     all_rows = []
     fieldnames = None
-    output_csv = os.path.join(output_folder, "Playlists.csv")
+    output_csv = os.path.join(output_folder, "Playlist.csv")
 
     for root, _, files in os.walk(input_folder):
         for filename in files:
