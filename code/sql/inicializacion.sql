@@ -1,42 +1,47 @@
--- Creación de la base de datos
-CREATE DATABASE MUSICA;
-USE MUSICA;
---Creación de los esquemas
-CREATE SCHEMA RAW;
-CREATE SCHEMA ADM;
-CREATE SCHEMA VISTA;
--- Creación de la tabla de control de las playlist
- CREATE OR REPLACE TABLE MUSICA.ADM.CONTROL_PLAYLIST (
-	ID NUMBER(38,0) autoincrement start 1 increment 1 noorder,
-	NAME VARCHAR(16777216),
-	SCHEMA_NAME VARCHAR(16777216),
-	RECORDS NUMBER(38,0),
-	INSERTAR BOOLEAN,
-    FECHA_CREACION_CSV TIMESTAMP,
-	CREATE_DATE DATE DEFAULT CURRENT_DATE(),
-	LAST_UPDATE_DATE DATE DEFAULT CURRENT_DATE()
+-- Creacion de la base de datos
+CREATE DATABASE musica;
+
+-- Conectate a la base de datos "musica" antes de ejecutar el resto del script.
+-- En psql puedes usar: \connect musica
+
+-- Creacion de los esquemas
+CREATE SCHEMA IF NOT EXISTS raw;
+CREATE SCHEMA IF NOT EXISTS adm;
+CREATE SCHEMA IF NOT EXISTS vista;
+
+-- Creacion de la tabla de control de las playlist
+CREATE TABLE IF NOT EXISTS adm.control_playlist (
+    id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    name TEXT,
+    schema_name TEXT,
+    records BIGINT,
+    insertar BOOLEAN,
+    fecha_creacion_csv TIMESTAMP,
+    create_date DATE DEFAULT CURRENT_DATE,
+    last_update_date DATE DEFAULT CURRENT_DATE
 );
 
-CREATE OR REPLACE TABLE ADM.CAT_ARTISTA_EXCEPCIONES (
-    ARTISTA STRING NOT NULL,
-    ACTIVO BOOLEAN DEFAULT TRUE,
-    FECHA_ALTA TIMESTAMP DEFAULT CURRENT_TIMESTAMP(),
-    COMENTARIOS STRING
+CREATE TABLE IF NOT EXISTS adm.cat_artista_excepciones (
+    artista TEXT NOT NULL,
+    activo BOOLEAN DEFAULT TRUE,
+    fecha_alta TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    comentarios TEXT
 );
-INSERT INTO ADM.CAT_ARTISTA_EXCEPCIONES (ARTISTA, COMENTARIOS)
+
+INSERT INTO adm.cat_artista_excepciones (artista, comentarios)
 VALUES
 ('Emerson, Lake & Palmer', 'Nombre de banda con coma'),
-('serpentwithfeet', 'Nombre artístico completo'),
+('serpentwithfeet', 'Nombre artistico completo'),
 ('MAN WITH A MISSION', 'Banda japonesa, nombre fijo'),
 ('Kellin from Sleeping With Sirens', 'Artista con "from"'),
-('KENN with The NaB''s', 'Colaboración fija'),
-('Satoshi (CV- Rica Matsumoto) with my friends', 'Crédito oficial'),
+('KENN with The NaB''s', 'Colaboracion fija'),
+('Satoshi (CV- Rica Matsumoto) with my friends', 'Credito oficial'),
 ('3年E組うた担(渚&茅野&業&磯貝&前原)', 'Grupo anime'),
 ('3年E組ヌル担(渚&業&寺坂&中村)', 'Grupo anime'),
-('Jesse & Joy', 'Dúo'),
+('Jesse & Joy', 'Duo'),
 ('Fear, and Loathing in Las Vegas', 'Banda con coma'),
-('ConfidentialMX', 'Nombre único'),
-('GuruConnect', 'Nombre único'),
+('ConfidentialMX', 'Nombre unico'),
+('GuruConnect', 'Nombre unico'),
 ('5 Seconds of Summer', 'Nombre de banda'),
-('Luis R Conriquez', 'Nombre artístico completo'),
+('Luis R Conriquez', 'Nombre artistico completo'),
 ('MYTH & ROID', 'Banda japonesa');
