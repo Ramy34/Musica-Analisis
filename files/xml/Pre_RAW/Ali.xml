@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-03-10T05:49:50Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11864</key>
+		<dict>
+			<key>Track ID</key><integer>11864</integer>
+			<key>Name</key><string>BEYOND </string>
+			<key>Artist</key><string>ALI feat. MaRI</string>
+			<key>Album Artist</key><string>ALI feat. MaRI</string>
+			<key>Album</key><string>BEYOND</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9276131</integer>
+			<key>Total Time</key><integer>228597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T17:47:33Z</date>
+			<key>Date Added</key><date>2024-12-16T23:57:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852794201</integer>
+			<key>Play Date UTC</key><date>2026-02-01T18:36:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13180</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0930037385047144</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat.%20MaRI/BEYOND/01%20BEYOND.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11866</key>
+		<dict>
+			<key>Track ID</key><integer>11866</integer>
+			<key>Name</key><string>Professionalism</string>
+			<key>Artist</key><string>ALI feat. Hannya</string>
+			<key>Album Artist</key><string>ALI feat. Hannya</string>
+			<key>Composer</key><string>Leo</string>
+			<key>Album</key><string>Professionalism</string>
+			<key>Genre</key><string>Alternative &#38; Indie</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11746792</integer>
+			<key>Total Time</key><integer>292937</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-07T17:47:03Z</date>
+			<key>Date Added</key><date>2024-12-17T01:16:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3853837644</integer>
+			<key>Play Date UTC</key><date>2026-02-13T20:27:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15140</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6335DD23AC6883D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat.%20Hannya/Professionalism/01%20Professionalism.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12732</key>
+		<dict>
+			<key>Track ID</key><integer>12732</integer>
+			<key>Name</key><string>FEELIN' GOOD</string>
+			<key>Artist</key><string>ALI feat. 梅田サイファー</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>LOVE, MUSIC AND DANCE</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11732940</integer>
+			<key>Total Time</key><integer>289344</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T21:45:26Z</date>
+			<key>Date Added</key><date>2025-01-16T04:53:31Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3854453195</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:26:35Z</date>
+			<key>Release Date</key><date>2021-01-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>14287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>051BB6D6BD603720</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/LOVE,%20MUSIC%20AND%20DANCE/01%20FEELIN'%20GOOD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12738</key>
+		<dict>
+			<key>Track ID</key><integer>12738</integer>
+			<key>Name</key><string>FIGHT DUB CLUB</string>
+			<key>Artist</key><string>ALI feat. J‐REXXX &#38; RUEED</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>LOVE, MUSIC AND DANCE</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9780172</integer>
+			<key>Total Time</key><integer>241186</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>139</integer>
+			<key>Date Modified</key><date>2026-01-07T19:35:39Z</date>
+			<key>Date Added</key><date>2025-01-16T04:53:31Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3855384112</integer>
+			<key>Play Date UTC</key><date>2026-03-03T18:01:52Z</date>
+			<key>Release Date</key><date>2021-01-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12079</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D6B2F80AE91C451</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/LOVE,%20MUSIC%20AND%20DANCE/02%20FIGHT%20DUB%20CLUB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12776</key>
+		<dict>
+			<key>Track ID</key><integer>12776</integer>
+			<key>Name</key><string>CASANOVA POSSE</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>CASANOVA POSSE - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9835667</integer>
+			<key>Total Time</key><integer>240721</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>97</integer>
+			<key>Date Modified</key><date>2026-01-07T18:48:46Z</date>
+			<key>Date Added</key><date>2025-01-16T05:36:04Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3844093421</integer>
+			<key>Play Date UTC</key><date>2025-10-24T00:43:41Z</date>
+			<key>Release Date</key><date>2025-01-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13242</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8AA34F3952ADF91B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/CASANOVA%20POSSE%20-%20EP/01%20CASANOVA%20POSSE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12780</key>
+		<dict>
+			<key>Track ID</key><integer>12780</integer>
+			<key>Name</key><string>NEON</string>
+			<key>Artist</key><string>ALI feat. The Crane</string>
+			<key>Album Artist</key><string>ALI feat. The Crane</string>
+			<key>Album</key><string>NEON - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12719935</integer>
+			<key>Total Time</key><integer>310195</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-07T18:27:00Z</date>
+			<key>Date Added</key><date>2025-01-16T05:36:04Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3853616589</integer>
+			<key>Play Date UTC</key><date>2026-02-11T07:03:09Z</date>
+			<key>Release Date</key><date>2024-12-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10679</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5DA759F0A074105</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat.%20The%20Crane/NEON%20-%20Single/01%20NEON.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12792</key>
+		<dict>
+			<key>Track ID</key><integer>12792</integer>
+			<key>Name</key><string>LOST IN PARADISE (Jujutsu Kaisen Ending Theme Song)</string>
+			<key>Artist</key><string>ALI feat. AKLO</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>LOST IN PARADISE - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13463805</integer>
+			<key>Total Time</key><integer>329027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T18:10:32Z</date>
+			<key>Date Added</key><date>2025-01-16T05:36:04Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3845457485</integer>
+			<key>Play Date UTC</key><date>2025-11-08T20:38:05Z</date>
+			<key>Release Date</key><date>2020-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6847</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25A8EEF67DF8F2D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/LOST%20IN%20PARADISE%20-%20EP/01%20LOST%20IN%20PARADISE%20(Jujutsu%20Kaisen.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12794</key>
+		<dict>
+			<key>Track ID</key><integer>12794</integer>
+			<key>Name</key><string>Wild Side</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>ALI</string>
+			<key>Album</key><string>Wild Side - EP</string>
+			<key>Genre</key><string>Hip-Hop-Rap</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6596109</integer>
+			<key>Total Time</key><integer>158000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-07T22:11:05Z</date>
+			<key>Date Added</key><date>2025-01-16T05:36:04Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852044279</integer>
+			<key>Play Date UTC</key><date>2026-01-24T02:17:59Z</date>
+			<key>Release Date</key><date>2019-11-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7788</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7266BB3079781945</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/Wild%20Side%20-%20EP/01%20Wild%20Side.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12800</key>
+		<dict>
+			<key>Track ID</key><integer>12800</integer>
+			<key>Name</key><string>DESPERADO</string>
+			<key>Artist</key><string>ALI feat. J-REXXX</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>LOST IN PARADISE - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13529725</integer>
+			<key>Total Time</key><integer>339986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>46</integer>
+			<key>Date Modified</key><date>2026-01-07T19:37:04Z</date>
+			<key>Date Added</key><date>2025-01-16T05:36:04Z</date>
+			<key>Bit Rate</key><integer>316</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3854453695</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:34:55Z</date>
+			<key>Release Date</key><date>2020-11-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7622</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4230F4BA5A41D9DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/LOST%20IN%20PARADISE%20-%20EP/03%20DESPERADO.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14846</key>
+		<dict>
+			<key>Track ID</key><integer>14846</integer>
+			<key>Name</key><string>BETTER DAYS</string>
+			<key>Artist</key><string>ALI feat. Dos Monos</string>
+			<key>Album Artist</key><string>ALI feat. Dos Monos</string>
+			<key>Album</key><string>BETTER DAYS - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12348007</integer>
+			<key>Total Time</key><integer>303136</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>108</integer>
+			<key>Date Modified</key><date>2026-01-07T18:41:33Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3851167194</integer>
+			<key>Play Date UTC</key><date>2026-01-13T22:39:54Z</date>
+			<key>Release Date</key><date>2020-10-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4482</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCEBB9D9B63EA56F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat.%20Dos%20Monos/BETTER%20DAYS%20-%20Single/01%20BETTER%20DAYS.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14856</key>
+		<dict>
+			<key>Track ID</key><integer>14856</integer>
+			<key>Name</key><string>NEVER SAY GOODBYE</string>
+			<key>Artist</key><string>ALI feat. Mummy-D</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>Leo Stillman &#38; 宮田レフティリョウ</string>
+			<key>Album</key><string>NEVER SAY GOODBYE - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11926331</integer>
+			<key>Total Time</key><integer>290458</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T18:44:02Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851943404</integer>
+			<key>Play Date UTC</key><date>2026-01-22T22:16:44Z</date>
+			<key>Release Date</key><date>2022-10-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9913</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61AD40C96463E5E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/NEVER%20SAY%20GOODBYE%20-%20EP/01%20NEVER%20SAY%20GOODBYE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14872</key>
+		<dict>
+			<key>Track ID</key><integer>14872</integer>
+			<key>Name</key><string>Temptations</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>ALI</string>
+			<key>Album</key><string>Temptations - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6879766</integer>
+			<key>Total Time</key><integer>169000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2026-01-07T20:48:42Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3854453359</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:29:19Z</date>
+			<key>Release Date</key><date>2019-08-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9847</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDB9C305674CCFED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/Temptations%20-%20Single/01%20Temptations.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14874</key>
+		<dict>
+			<key>Track ID</key><integer>14874</integer>
+			<key>Name</key><string>Tokyo Pharaoh</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>ALI</string>
+			<key>Album</key><string>Tokyo Pharaoh - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8696623</integer>
+			<key>Total Time</key><integer>213461</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>121</integer>
+			<key>Date Modified</key><date>2026-01-07T20:03:58Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844083889</integer>
+			<key>Play Date UTC</key><date>2025-10-23T22:04:49Z</date>
+			<key>Release Date</key><date>2019-09-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3964</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68033DF27C9F9815</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/Tokyo%20Pharaoh%20-%20Single/01%20Tokyo%20Pharaoh.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14878</key>
+		<dict>
+			<key>Track ID</key><integer>14878</integer>
+			<key>Name</key><string>Vim</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>ALI</string>
+			<key>Album</key><string>Vim - Single</string>
+			<key>Genre</key><string>R&#38;B-Soul</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12854853</integer>
+			<key>Total Time</key><integer>314352</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-07T20:22:16Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3855929946</integer>
+			<key>Play Date UTC</key><date>2026-03-10T01:39:06Z</date>
+			<key>Release Date</key><date>2019-03-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7971</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95BE64812E5E5F77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/Vim%20-%20Single/01%20Vim.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14894</key>
+		<dict>
+			<key>Track ID</key><integer>14894</integer>
+			<key>Name</key><string>Whole Lotta Love</string>
+			<key>Artist</key><string>ALI feat. 木村昴</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Album</key><string>INGLOURIOUS EASTERN COWBOY - EP</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10170421</integer>
+			<key>Total Time</key><integer>246898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-01-07T21:46:18Z</date>
+			<key>Date Added</key><date>2025-01-19T21:59:55Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852057901</integer>
+			<key>Play Date UTC</key><date>2026-01-24T06:05:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-23T23:08:42Z</date>
+			<key>Release Date</key><date>2022-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10567</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7729F1A9C75FDB77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/INGLOURIOUS%20EASTERN%20COWBOY%20-%20EP/02%20Whole%20Lotta%20Love.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19412</key>
+		<dict>
+			<key>Track ID</key><integer>19412</integer>
+			<key>Name</key><string>LOVE IS KILLING ME</string>
+			<key>Artist</key><string>ALI feat. eill</string>
+			<key>Album Artist</key><string>ALI feat. eill</string>
+			<key>Album</key><string>LOVE IS KILLING ME - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8561000</integer>
+			<key>Total Time</key><integer>209490</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T20:32:54Z</date>
+			<key>Date Added</key><date>2025-02-22T21:02:47Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3854453900</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:38:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-24T01:57:31Z</date>
+			<key>Release Date</key><date>2025-02-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6830</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32500A1852A93E12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat.%20eill/LOVE%20IS%20KILLING%20ME%20-%20Single/01%20LOVE%20IS%20KILLING%20ME.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27860</key>
+		<dict>
+			<key>Track ID</key><integer>27860</integer>
+			<key>Name</key><string>FLASHBACK SYNDROME</string>
+			<key>Artist</key><string>ALI</string>
+			<key>Album Artist</key><string>ALI</string>
+			<key>Composer</key><string>LEO &#38; MOMONADY</string>
+			<key>Album</key><string>FLASHBACK SYNDROME - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7039988</integer>
+			<key>Total Time</key><integer>217991</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T21:03:41Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851436748</integer>
+			<key>Play Date UTC</key><date>2026-01-17T01:32:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>19279</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4EF0461BB0BB8972</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI/FLASHBACK%20SYNDROME%20-%20Single/01%20FLASHBACK%20SYNDROME.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33300</key>
+		<dict>
+			<key>Track ID</key><integer>33300</integer>
+			<key>Name</key><string>CHOOSE LIFE</string>
+			<key>Artist</key><string>ALI feat Ashley</string>
+			<key>Album Artist</key><string>ALI feat Ashley</string>
+			<key>Album</key><string>CHOOSE LIFE - Single</string>
+			<key>Genre</key><string>R&#38;B-Soul</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48227990</integer>
+			<key>Total Time</key><integer>207539</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T19:40:28Z</date>
+			<key>Date Added</key><date>2025-12-27T00:02:42Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849617647</integer>
+			<key>Play Date UTC</key><date>2025-12-27T00:14:07Z</date>
+			<key>Release Date</key><date>2025-12-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10374</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC8A2D5DE4C56930</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/ALI%20feat%20Ashley/CHOOSE%20LIFE%20-%20Single/01%20CHOOSE%20LIFE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>208487</key>
+		<dict>
+			<key>Track ID</key><integer>208487</integer>
+			<key>Name</key><string>SURVIVE</string>
+			<key>Artist</key><string>香取慎吾 feat LEO from ALI</string>
+			<key>Album Artist</key><string>香取慎吾</string>
+			<key>Album</key><string>Circus Funk</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>68889309</integer>
+			<key>Total Time</key><integer>283399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-03-10T05:44:59Z</date>
+			<key>Date Added</key><date>2026-03-09T21:56:44Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3855926220</integer>
+			<key>Play Date UTC</key><date>2026-03-10T00:37:00Z</date>
+			<key>Release Date</key><date>2024-11-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFF854E918A25EE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E9%A6%99%E5%8F%96%E6%85%8E%E5%90%BE/Circus%20Funk/02%20SURVIVE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Ali</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>113356</integer>
+			<key>Playlist Persistent ID</key><string>F9421CD0B0C77C23</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIRTTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAASBTTHN0AAEAAQAAAAIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIAZgBlAGEAdAAg
+			AEwARQBPACAAZgByAG8AbQAgAEEATABJAAAABAEAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAQQBsAGkAAAAZAAABAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
+			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBz
+			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAg
+			AEYAaQByAHMAdAAgAFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgBFAHMAIABpAG4AcwB0
+			AHIAdQBtAGUAbgB0AGEAbAAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAgAHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAEUAcwAgAFQAVgAg
+			AFYAZQBy
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14874</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11866</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12780</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>208487</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

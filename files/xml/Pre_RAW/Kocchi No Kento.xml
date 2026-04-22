@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-02-03T22:35:06Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11850</key>
+		<dict>
+			<key>Track ID</key><integer>11850</integer>
+			<key>Name</key><string>Hai Yorokonde</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Composer</key><string>GRP &#38; Kocchi No Kento</string>
+			<key>Album</key><string>Hai Yorokonde - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>6223658</integer>
+			<key>Total Time</key><integer>161632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2026-01-07T17:52:38Z</date>
+			<key>Date Added</key><date>2025-01-14T19:35:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852118595</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:56:35Z</date>
+			<key>Release Date</key><date>2024-05-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3179</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hai Yorokonde - Single</string>
+			<key>Sort Artist</key><string>Kocchi No Kento</string>
+			<key>Sort Name</key><string>Hai Yorokonde</string>
+			<key>Persistent ID</key><string>3D726D067545DB7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/Hai%20Yorokonde%20-%20Single/01%20Hai%20Yorokonde.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12794</key>
+		<dict>
+			<key>Track ID</key><integer>12794</integer>
+			<key>Name</key><string>Mouiiyo</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Album</key><string>Mouiiyo - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8259659</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T21:40:19Z</date>
+			<key>Date Added</key><date>2025-01-16T05:57:12Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850454745</integer>
+			<key>Play Date UTC</key><date>2026-01-05T16:45:45Z</date>
+			<key>Release Date</key><date>2024-10-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4235</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AE9A33D86FBEFFF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/Mouiiyo%20-%20Single/01%20Mouiiyo.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15496</key>
+		<dict>
+			<key>Track ID</key><integer>15496</integer>
+			<key>Name</key><string>Dongurigame</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Album</key><string>Dongurigame - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7368422</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T19:02:40Z</date>
+			<key>Date Added</key><date>2025-02-02T19:04:14Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850495248</integer>
+			<key>Play Date UTC</key><date>2026-01-06T04:00:48Z</date>
+			<key>Release Date</key><date>2023-06-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBC1F367D0E3FBB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/Dongurigame%20-%20Single/01%20Dongurigame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15920</key>
+		<dict>
+			<key>Track ID</key><integer>15920</integer>
+			<key>Name</key><string>Shinuna!</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Album</key><string>Shinuna! - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8572707</integer>
+			<key>Total Time</key><integer>208097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-01-07T21:14:48Z</date>
+			<key>Date Added</key><date>2025-02-08T16:17:39Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3845710433</integer>
+			<key>Play Date UTC</key><date>2025-11-11T18:53:53Z</date>
+			<key>Release Date</key><date>2022-12-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA68EDAED9B9E75E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/Shinuna!%20-%20Single/01%20Shinuna!.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24888</key>
+		<dict>
+			<key>Track ID</key><integer>24888</integer>
+			<key>Name</key><string>けっかおーらい - Kekka Orai</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Album</key><string>けっかおーらい - Kekka Orai - My Hero Academia- Vigilantes Opening Theme Song - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7151377</integer>
+			<key>Total Time</key><integer>172617</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>155</integer>
+			<key>Date Modified</key><date>2026-01-07T17:49:04Z</date>
+			<key>Date Added</key><date>2025-04-09T03:07:41Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3839326395</integer>
+			<key>Play Date UTC</key><date>2025-08-29T20:33:15Z</date>
+			<key>Release Date</key><date>2025-04-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5906</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EFA3CADFC5E4B12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/%E3%81%91%E3%81%A3%E3%81%8B%E3%81%8A%E3%83%BC%E3%82%89%E3%81%84%20-%20Kekka%20Orai%20-%20My%20Hero%20Academia-/01%20%E3%81%91%E3%81%A3%E3%81%8B%E3%81%8A%E3%83%BC%E3%82%89%E3%81%84%20-%20Kekka%20Orai.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33470</key>
+		<dict>
+			<key>Track ID</key><integer>33470</integer>
+			<key>Name</key><string>ピクルス</string>
+			<key>Artist</key><string>Kocchi No Kento</string>
+			<key>Album Artist</key><string>Kocchi No Kento</string>
+			<key>Album</key><string>ピクルス - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>36592924</integer>
+			<key>Total Time</key><integer>165256</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>158</integer>
+			<key>Date Modified</key><date>2026-01-07T18:47:45Z</date>
+			<key>Date Added</key><date>2025-12-22T17:34:58Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3849267074</integer>
+			<key>Play Date UTC</key><date>2025-12-22T22:51:14Z</date>
+			<key>Release Date</key><date>2025-12-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D7A11B3DA6B39A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kocchi%20No%20Kento/%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9%20-%20Single/01%20%E3%83%94%E3%82%AF%E3%83%AB%E3%82%B9.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Kocchi No Kento</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101534</integer>
+			<key>Playlist Persistent ID</key><string>927F44277714D748</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4JTTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAB4ASwBvAGMAYwBoAGkAIABOAG8AIABLAGUAbgB0AG8AAAAOAwAAAgAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIABh
+			AGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAADgBFAHMAIABsAGkAdgBlAAAAAgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYARgByAG8AbQAgAFQAaABlACAARgBp
+			AHIAcwB0ACAAVABhAGsAZQAAABkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAG0AAAAA
+			AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAwAAAgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBF
+			AHMAIABUAFYAIABWAGUAcgAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAgAHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBz
+			AHQAcgB1AG0AZQBuAHQAYQBs
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15920</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24888</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33470</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

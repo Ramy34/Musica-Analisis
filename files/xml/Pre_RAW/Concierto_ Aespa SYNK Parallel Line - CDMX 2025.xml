@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-22T05:27:53Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14285</key>
+		<dict>
+			<key>Track ID</key><integer>14285</integer>
+			<key>Name</key><string>Hold On Tight</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Aaron Hibell, Boy Matthews, Dave Labrel, Georgia Ku, MarV Music, Niles Edwin Roberts &#38; Philip Von Boch Scully</string>
+			<key>Album</key><string>Tetris (Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7304238</integer>
+			<key>Total Time</key><integer>149000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2025-11-29T04:01:30Z</date>
+			<key>Date Added</key><date>2025-01-17T19:04:24Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851869129</integer>
+			<key>Play Date UTC</key><date>2026-01-22T01:38:49Z</date>
+			<key>Release Date</key><date>2023-03-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4480</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AFD93940FDC3E33B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Tetris%20(Motion%20Picture%20Soundtrack)/05%20Hold%20On%20Tight.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15505</key>
+		<dict>
+			<key>Track ID</key><integer>15505</integer>
+			<key>Name</key><string>Drama</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Charlotte Wilson, EJAE, No Identity &#38; Waker</string>
+			<key>Album</key><string>Drama - The 4th Mini Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8880695</integer>
+			<key>Total Time</key><integer>215040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>66</integer>
+			<key>Date Modified</key><date>2026-01-07T17:10:35Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845207264</integer>
+			<key>Play Date UTC</key><date>2025-11-05T23:07:44Z</date>
+			<key>Release Date</key><date>2023-11-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0C73B9D2D9175B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Drama%20-%20The%204th%20Mini%20Album/01%20Drama.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15509</key>
+		<dict>
+			<key>Track ID</key><integer>15509</integer>
+			<key>Name</key><string>Supernova</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Kenzie, Paris Alexa &#38; Dwayne "Dem Jointz" Abernathy Jr.</string>
+			<key>Album</key><string>Armageddon - The 1st Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7463527</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T18:21:57Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3827229385</integer>
+			<key>Play Date UTC</key><date>2025-04-11T20:16:25Z</date>
+			<key>Release Date</key><date>2024-05-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6765</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CBB12B0054D2568</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Armageddon%20-%20The%201st%20Album/01%20Supernova.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15511</key>
+		<dict>
+			<key>Track ID</key><integer>15511</integer>
+			<key>Name</key><string>UP (KARINA Solo)</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Slow Rabbit, Morgan Connie Smith, Taneisha Jackson, Sofia Quinn, PXPILLON, Emma-Lee Andersson, BB Elliot, Stella Jones</string>
+			<key>Album</key><string>SYNK - PARALLEL LINE - Special Digital Single - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7083879</integer>
+			<key>Total Time</key><integer>166000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>99</integer>
+			<key>Date Modified</key><date>2026-01-07T20:56:01Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>335</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821800213</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:10:13Z</date>
+			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4309</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>572ED13A500BA1C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/SYNK%20-%20PARALLEL%20LINE%20-%20Special%20Digital%20S/01%20UP%20(KARINA%20Solo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15513</key>
+		<dict>
+			<key>Track ID</key><integer>15513</integer>
+			<key>Name</key><string>Whiplash</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Marcus "MarcLo" Lomax, Neil Ormandy, Rosina "Soaky Siren" Russell, Lewis Jankel &#38; Leslie</string>
+			<key>Album</key><string>Whiplash - The 5th Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7745936</integer>
+			<key>Total Time</key><integer>183275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T17:49:07Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3839677960</integer>
+			<key>Play Date UTC</key><date>2025-09-02T22:12:40Z</date>
+			<key>Release Date</key><date>2024-10-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6499</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21F4D5901C6DA7F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Whiplash%20-%20The%205th%20Mini%20Album%20-%20EP/01%20Whiplash.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15515</key>
+		<dict>
+			<key>Track ID</key><integer>15515</integer>
+			<key>Name</key><string>Armageddon</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>No Identity, Bang Hye Hyun, EJAE, SUMIN &#38; Waker</string>
+			<key>Album</key><string>Armageddon - The 1st Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8161884</integer>
+			<key>Total Time</key><integer>196534</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T17:06:07Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843153337</integer>
+			<key>Play Date UTC</key><date>2025-10-13T03:35:37Z</date>
+			<key>Release Date</key><date>2024-05-27T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10309</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C4215CB69FE09A24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Armageddon%20-%20The%201st%20Album/02%20Armageddon.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15517</key>
+		<dict>
+			<key>Track ID</key><integer>15517</integer>
+			<key>Name</key><string>Dopamine (GISELLE Solo)</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Shintaro Yasuda &#38; GISELLE &#38; Pau Cerrilla &#38; Paige Garabito</string>
+			<key>Album</key><string>SYNK - PARALLEL LINE - Special Digital Single - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7987098</integer>
+			<key>Total Time</key><integer>194142</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>71</integer>
+			<key>Date Modified</key><date>2026-01-07T20:37:40Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821800047</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:07:27Z</date>
+			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3BB069755C49BD42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/SYNK%20-%20PARALLEL%20LINE%20-%20Special%20Digital%20S/02%20Dopamine%20(GISELLE%20Solo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15525</key>
+		<dict>
+			<key>Track ID</key><integer>15525</integer>
+			<key>Name</key><string>Bored! (NINGNING Solo)</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Hilda Stenmalm/Bård Bonsaksen/Dom Rivinius/TMM</string>
+			<key>Album</key><string>SYNK - PARALLEL LINE - Special Digital Single - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7119387</integer>
+			<key>Total Time</key><integer>171000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T22:10:17Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3829944396</integer>
+			<key>Play Date UTC</key><date>2025-05-13T06:26:36Z</date>
+			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6321</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B25DB6F7CEFAE55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/SYNK%20-%20PARALLEL%20LINE%20-%20Special%20Digital%20S/03%20Bored!%20(NINGNING%20Solo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15529</key>
+		<dict>
+			<key>Track ID</key><integer>15529</integer>
+			<key>Name</key><string>Flights, Not Feelings</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>HONEY NOISE, Brown Panda, Frankie Day, Chanti &#38; LEE HYEYUM</string>
+			<key>Album</key><string>Whiplash - The 5th Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7438610</integer>
+			<key>Total Time</key><integer>181719</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T19:31:56Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:26Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821799650</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:00:50Z</date>
+			<key>Release Date</key><date>2024-10-21T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5583</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B978D082F330513D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Whiplash%20-%20The%205th%20Mini%20Album%20-%20EP/03%20Flights,%20Not%20Feelings.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15533</key>
+		<dict>
+			<key>Track ID</key><integer>15533</integer>
+			<key>Name</key><string>Set The Tone</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Cho Yun Kyoung, Ludwig Lindell, Daniel Caesar &#38; Ylva Dimberg</string>
+			<key>Album</key><string>Armageddon - The 1st Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8504105</integer>
+			<key>Total Time</key><integer>202594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>99</integer>
+			<key>Date Modified</key><date>2026-01-07T20:34:11Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821801990</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:39:50Z</date>
+			<key>Release Date</key><date>2024-05-27T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6075</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51A3F125E6626081</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Armageddon%20-%20The%201st%20Album/03%20Set%20The%20Tone.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15539</key>
+		<dict>
+			<key>Track ID</key><integer>15539</integer>
+			<key>Name</key><string>Mine</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Mike Daley, Mitchell Owens, Lee Eunhwa, Nicole “Kole” Cohen &#38; Adrian Mckinnon</string>
+			<key>Album</key><string>Armageddon - The 1st Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8055345</integer>
+			<key>Total Time</key><integer>193306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T18:28:05Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843142069</integer>
+			<key>Play Date UTC</key><date>2025-10-13T00:27:49Z</date>
+			<key>Release Date</key><date>2024-05-27T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4404</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>713C9E0E5FE571D3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Armageddon%20-%20The%201st%20Album/04%20Mine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15541</key>
+		<dict>
+			<key>Track ID</key><integer>15541</integer>
+			<key>Name</key><string>Pink Hoodie</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Didrik Thott</string>
+			<key>Album</key><string>Whiplash - The 5th Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6139757</integer>
+			<key>Total Time</key><integer>146000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T21:48:32Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821800928</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:22:08Z</date>
+			<key>Release Date</key><date>2024-10-21T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5317</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>66E355FE2865640D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Whiplash%20-%20The%205th%20Mini%20Album%20-%20EP/04%20Pink%20Hoodie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15543</key>
+		<dict>
+			<key>Track ID</key><integer>15543</integer>
+			<key>Name</key><string>Spark (WINTER Solo)</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>WINTER/R.Tee/VACK/NOYEAH</string>
+			<key>Album</key><string>SYNK - PARALLEL LINE - Special Digital Single - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8246327</integer>
+			<key>Total Time</key><integer>201270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T20:21:21Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851864344</integer>
+			<key>Play Date UTC</key><date>2026-01-22T00:19:04Z</date>
+			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7115</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6640B6838113C95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/SYNK%20-%20PARALLEL%20LINE%20-%20Special%20Digital%20S/04%20Spark%20(WINTER%20Solo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15555</key>
+		<dict>
+			<key>Track ID</key><integer>15555</integer>
+			<key>Name</key><string>Just Another Girl</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Fabian Torsson, Moa “Cazzi Opeia” Carlebecker, Ellen Berg, Nermin Harambasic &#38; 이스란 (Seu Ran Lee)</string>
+			<key>Album</key><string>Whiplash - The 5th Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7587607</integer>
+			<key>Total Time</key><integer>184320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T21:32:44Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821802707</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:51:47Z</date>
+			<key>Release Date</key><date>2024-10-21T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6093</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>263B23C292516EF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Whiplash%20-%20The%205th%20Mini%20Album%20-%20EP/06%20Just%20Another%20Girl.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15557</key>
+		<dict>
+			<key>Track ID</key><integer>15557</integer>
+			<key>Name</key><string>Life's Too Short (English Version)</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Becky Hill, Sam Klempner &#38; Uzoechi Emenike</string>
+			<key>Album</key><string>Girls - The 2nd Mini Album (Apple Music Edition)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7356724</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T22:19:45Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821802885</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:54:45Z</date>
+			<key>Release Date</key><date>2022-06-13T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7882</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17A0D2B24DB4132D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Girls%20-%20The%202nd%20Mini%20Album%20(Apple%20Music/06%20Life's%20Too%20Short%20(English%20Version.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15561</key>
+		<dict>
+			<key>Track ID</key><integer>15561</integer>
+			<key>Name</key><string>Better Things</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Leroy Clampitt &#38; Rachel Keen</string>
+			<key>Album</key><string>Drama - The 4th Mini Album</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8608982</integer>
+			<key>Total Time</key><integer>203267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-07T18:43:20Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>335</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821799853</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:04:13Z</date>
+			<key>Release Date</key><date>2023-08-18T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3664</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7A98E92DA1275585</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Drama%20-%20The%204th%20Mini%20Album/07%20Better%20Things.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15563</key>
+		<dict>
+			<key>Track ID</key><integer>15563</integer>
+			<key>Name</key><string>Black Mamba</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>YOO YOUNG JIN, Omega, Ella Isaacson, Gabriela Geneva, Jordan Reyes, Shaun Lopez &#38; Scott Chesak</string>
+			<key>Album</key><string>Girls - The 2nd Mini Album (Apple Music Edition)</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7289032</integer>
+			<key>Total Time</key><integer>174000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:42:23Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3848997396</integer>
+			<key>Play Date UTC</key><date>2025-12-19T19:56:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-07T17:42:35Z</date>
+			<key>Release Date</key><date>2020-11-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9955</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8F5A4CAEC4233C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Girls%20-%20The%202nd%20Mini%20Album%20(Apple%20Music/07%20Black%20Mamba.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15573</key>
+		<dict>
+			<key>Track ID</key><integer>15573</integer>
+			<key>Name</key><string>Live My Life</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Edvard Erfjord, Leslie, Sophia Brenan &#38; Nick Hahn</string>
+			<key>Album</key><string>Armageddon - The 1st Album</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6591522</integer>
+			<key>Total Time</key><integer>159000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2026-01-07T19:45:32Z</date>
+			<key>Date Added</key><date>2025-02-07T04:32:27Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821801236</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:27:16Z</date>
+			<key>Release Date</key><date>2024-05-27T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D8AEA43429D442C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Armageddon%20-%20The%201st%20Album/09%20Live%20My%20Life.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15575</key>
+		<dict>
+			<key>Track ID</key><integer>15575</integer>
+			<key>Name</key><string>Next Level</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Mario Marchetti, Adam McInnis, YOO YOUNG JIN &#38; Sophie Curtis</string>
+			<key>Album</key><string>Next Level - Single</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9447676</integer>
+			<key>Total Time</key><integer>221634</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>109</integer>
+			<key>Date Modified</key><date>2026-01-07T17:10:35Z</date>
+			<key>Date Added</key><date>2025-02-07T04:45:37Z</date>
+			<key>Bit Rate</key><integer>334</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821802211</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:43:31Z</date>
+			<key>Release Date</key><date>2021-05-17T12:00:00Z</date>
+			<key>Normalization</key><integer>9286</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98CDE73488EA9FB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Next%20Level%20-%20Single/01%20Next%20Level.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15581</key>
+		<dict>
+			<key>Track ID</key><integer>15581</integer>
+			<key>Name</key><string>Spicy</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Emily Yeonseo Kim</string>
+			<key>Album</key><string>MY WORLD - The 3rd Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8284382</integer>
+			<key>Total Time</key><integer>197091</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-01-07T19:17:49Z</date>
+			<key>Date Added</key><date>2025-02-07T04:45:37Z</date>
+			<key>Bit Rate</key><integer>331</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821800782</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:19:42Z</date>
+			<key>Release Date</key><date>2023-05-08T12:00:00Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11955</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>152A7B099C9D309F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album%20-%20EP/02%20Spicy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15583</key>
+		<dict>
+			<key>Track ID</key><integer>15583</integer>
+			<key>Name</key><string>Salty &#38; Sweet</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Anne Judith Wik, JINBYJIN &#38; Moa “Cazzi Opeia” Carlebecker</string>
+			<key>Album</key><string>MY WORLD - The 3rd Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8340886</integer>
+			<key>Total Time</key><integer>201828</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2026-01-07T17:07:37Z</date>
+			<key>Date Added</key><date>2025-02-07T04:45:37Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3841224886</integer>
+			<key>Play Date UTC</key><date>2025-09-20T19:54:46Z</date>
+			<key>Release Date</key><date>2023-05-02T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4651</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E8DC1545B150C44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/MY%20WORLD%20-%20The%203rd%20Mini%20Album%20-%20EP/03%20Salty%20&#38;%20Sweet.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15591</key>
+		<dict>
+			<key>Track ID</key><integer>15591</integer>
+			<key>Name</key><string>Die Trying</string>
+			<key>Artist</key><string>aespa &#38; TOKiMONSTA</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>TOKiMONSTA, Marlowe &#38; Zach Sorgen</string>
+			<key>Album</key><string>Die Trying - Single</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7170250</integer>
+			<key>Total Time</key><integer>175000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-01-07T17:11:44Z</date>
+			<key>Date Added</key><date>2025-02-07T04:50:03Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821799468</integer>
+			<key>Play Date UTC</key><date>2025-02-08T00:57:48Z</date>
+			<key>Release Date</key><date>2024-04-05T12:00:00Z</date>
+			<key>Normalization</key><integer>2935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6C42CB92B742F0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Die%20Trying%20-%20Single/01%20Die%20Trying.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15593</key>
+		<dict>
+			<key>Track ID</key><integer>15593</integer>
+			<key>Name</key><string>We Go</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album</key><string>Pokémon 2023 (Original TV Series Soundtrack, Korea) - EP</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7791005</integer>
+			<key>Total Time</key><integer>188592</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>157</integer>
+			<key>Date Modified</key><date>2026-01-07T21:40:32Z</date>
+			<key>Date Added</key><date>2025-02-07T04:57:12Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821801425</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:30:25Z</date>
+			<key>Release Date</key><date>2023-08-23T12:00:00Z</date>
+			<key>Normalization</key><integer>13597</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DCB86B0B9276581</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Compilations/Pok%C3%A9mon%202023%20(Original%20TV%20Series%20Soundtr/01%20We%20Go.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15601</key>
+		<dict>
+			<key>Track ID</key><integer>15601</integer>
+			<key>Name</key><string>Done</string>
+			<key>Artist</key><string>nævis</string>
+			<key>Album Artist</key><string>nævis</string>
+			<key>Composer</key><string>Alma Goodman, Jens Duvsjö &#38; Klara Elias</string>
+			<key>Album</key><string>Done - Single</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7680387</integer>
+			<key>Total Time</key><integer>179000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T20:15:11Z</date>
+			<key>Date Added</key><date>2025-02-07T04:59:28Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3821801604</integer>
+			<key>Play Date UTC</key><date>2025-02-08T01:33:24Z</date>
+			<key>Release Date</key><date>2024-09-10T12:00:00Z</date>
+			<key>Normalization</key><integer>4759</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B38EB50E96987009</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/n%C3%A6vis/Done%20-%20Single/01%20Done.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15603</key>
+		<dict>
+			<key>Track ID</key><integer>15603</integer>
+			<key>Name</key><string>aenergy</string>
+			<key>Artist</key><string>aespa</string>
+			<key>Album Artist</key><string>aespa</string>
+			<key>Composer</key><string>Kill Dave, Pat Morrissey, Jess Corazza &#38; YOO YOUNG JIN</string>
+			<key>Album</key><string>Savage - The 1st Mini Album - EP</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6238645</integer>
+			<key>Total Time</key><integer>147000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-07T16:59:31Z</date>
+			<key>Date Added</key><date>2025-02-07T05:09:38Z</date>
+			<key>Bit Rate</key><integer>330</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850470075</integer>
+			<key>Play Date UTC</key><date>2026-01-05T21:01:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-07T19:01:13Z</date>
+			<key>Release Date</key><date>2021-10-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15884</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A81CB74F40AAB59D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/aespa/Savage%20-%20The%201st%20Mini%20Album%20-%20EP/01%20aenergy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Concierto: Aespa SYNK Parallel Line - CDMX 2025</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102947</integer>
+			<key>Playlist Persistent ID</key><string>2FD881B82EA51C64</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15509</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15511</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15543</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15593</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15601</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15533</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15555</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15557</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

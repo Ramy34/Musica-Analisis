@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-02-03T22:33:23Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7396</key>
+		<dict>
+			<key>Track ID</key><integer>7396</integer>
+			<key>Name</key><string>Compartamos Tumbas</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Compartamos Tumbas - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6772124</integer>
+			<key>Total Time</key><integer>209815</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2026-01-07T21:56:11Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851154581</integer>
+			<key>Play Date UTC</key><date>2026-01-13T19:09:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4265</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD43A182B803C11E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Compartamos%20Tumbas%20-%20Single/01%20Compartamos%20Tumbas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7410</key>
+		<dict>
+			<key>Track ID</key><integer>7410</integer>
+			<key>Name</key><string>Las Pequeñas Cosas</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; María Barracuda</string>
+			<key>Album</key><string>Jotdog</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7554030</integer>
+			<key>Total Time</key><integer>232437</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T18:09:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852438730</integer>
+			<key>Play Date UTC</key><date>2026-01-28T15:52:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4522</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Pequeñas Cosas</string>
+			<key>Persistent ID</key><string>5ACB02B0289EA737</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Jotdog/04%20Las%20Peque%C3%B1as%20Cosas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7416</key>
+		<dict>
+			<key>Track ID</key><integer>7416</integer>
+			<key>Name</key><string>Pobrecito</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Mar￭a Barracuda</string>
+			<key>Album</key><string>Jotdog</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7431120</integer>
+			<key>Total Time</key><integer>228597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T22:12:34Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3844505211</integer>
+			<key>Play Date UTC</key><date>2025-10-28T20:06:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7636</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F969DA91A9C6B774</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Jotdog/07%20Pobrecito.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7422</key>
+		<dict>
+			<key>Track ID</key><integer>7422</integer>
+			<key>Name</key><string>Baila Sin Parar</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; María Barracuda</string>
+			<key>Album</key><string>Jotdog</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7426948</integer>
+			<key>Total Time</key><integer>228466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T22:07:18Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851940140</integer>
+			<key>Play Date UTC</key><date>2026-01-22T21:22:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0D609CAFCF1BE9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Jotdog/10%20Baila%20Sin%20Parar.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7426</key>
+		<dict>
+			<key>Track ID</key><integer>7426</integer>
+			<key>Name</key><string>Nada Me Importa (Owned Version)</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Nada Me Importa (Owned Version) - Single</string>
+			<key>Genre</key><string>Pop/Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7269699</integer>
+			<key>Total Time</key><integer>225854</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-07T20:13:31Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844604987</integer>
+			<key>Play Date UTC</key><date>2025-10-29T23:49:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3204</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B36871A06935AAC9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Nada%20Me%20Importa%20(Owned%20Version)%20-%20Single/01%20Nada%20Me%20Importa%20(Owned%20Version).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7432</key>
+		<dict>
+			<key>Track ID</key><integer>7432</integer>
+			<key>Name</key><string>Turista del Amor</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Maria Barracuda</string>
+			<key>Album</key><string>Turista del Amor</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7825702</integer>
+			<key>Total Time</key><integer>241136</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>116</integer>
+			<key>Date Modified</key><date>2026-01-07T20:44:58Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852613227</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:20:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7821</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F7C1889AD274B487</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Turista%20del%20Amor/01%20Turista%20del%20Amor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7436</key>
+		<dict>
+			<key>Track ID</key><integer>7436</integer>
+			<key>Name</key><string>Corazón de Metal</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Maria Barracuda</string>
+			<key>Album</key><string>Turista del Amor</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7392715</integer>
+			<key>Total Time</key><integer>227604</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>155</integer>
+			<key>Date Modified</key><date>2025-10-30T00:15:45Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3847186450</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:54:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5112</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4ADD55216F3F8A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Turista%20del%20Amor/03%20Coraz%C3%B3n%20de%20Metal.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7438</key>
+		<dict>
+			<key>Track ID</key><integer>7438</integer>
+			<key>Name</key><string>Nada Me Importa</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Maria Barracuda</string>
+			<key>Album</key><string>Turista del Amor</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7377649</integer>
+			<key>Total Time</key><integer>227134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-01-07T21:04:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844508399</integer>
+			<key>Play Date UTC</key><date>2025-10-28T20:59:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-28T04:29:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C97E7E585898477C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Turista%20del%20Amor/04%20Nada%20Me%20Importa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7444</key>
+		<dict>
+			<key>Track ID</key><integer>7444</integer>
+			<key>Name</key><string>Lluvia de Estrellas</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Maria Barracuda</string>
+			<key>Album</key><string>Turista del Amor</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6681333</integer>
+			<key>Total Time</key><integer>205374</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T22:16:17Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3850585584</integer>
+			<key>Play Date UTC</key><date>2026-01-07T05:06:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4916</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0FF470DAD14B98B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Turista%20del%20Amor/07%20Lluvia%20de%20Estrellas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7452</key>
+		<dict>
+			<key>Track ID</key><integer>7452</integer>
+			<key>Name</key><string>Dame Tu Cariño</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Composer</key><string>Jorge "Chiquis" Amaro &#38; Maria Barracuda</string>
+			<key>Album</key><string>Turista del Amor</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7390205</integer>
+			<key>Total Time</key><integer>227526</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>176</integer>
+			<key>Date Modified</key><date>2026-01-07T18:05:14Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851880873</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:54:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6126</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB77852266C89BA3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Turista%20del%20Amor/11%20Dame%20Tu%20Cari%C3%B1o.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7460</key>
+		<dict>
+			<key>Track ID</key><integer>7460</integer>
+			<key>Name</key><string>Universos Paralelos</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Universos Paralelos</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7170499</integer>
+			<key>Total Time</key><integer>220813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-01-07T20:23:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844510717</integer>
+			<key>Play Date UTC</key><date>2025-10-28T21:38:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2839</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F095A9FC6A67029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Universos%20Paralelos/04%20Universos%20Paralelos.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7484</key>
+		<dict>
+			<key>Track ID</key><integer>7484</integer>
+			<key>Name</key><string>Ya Se Murió (Owned Version)</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Ya Se Murió (Owned Version) - Single</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7826760</integer>
+			<key>Total Time</key><integer>243408</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T21:22:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846403348</integer>
+			<key>Play Date UTC</key><date>2025-11-19T19:22:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E13618C9DD5B8E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Ya%20Se%20Muri%C3%B3%20(Owned%20Version)%20-%20Single/01%20Ya%20Se%20Muri%C3%B3%20(Owned%20Version).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7488</key>
+		<dict>
+			<key>Track ID</key><integer>7488</integer>
+			<key>Name</key><string>Somos Invencibles</string>
+			<key>Artist</key><string>JotDog &#38; Dr. Shenka</string>
+			<key>Album Artist</key><string>JotDog &#38; Dr. Shenka</string>
+			<key>Album</key><string>Somos Invencibles - Single</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5585579</integer>
+			<key>Total Time</key><integer>173296</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2026-01-07T21:52:57Z</date>
+			<key>Date Added</key><date>2024-09-26T20:52:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850474196</integer>
+			<key>Play Date UTC</key><date>2026-01-05T22:09:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5906</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B2A799F02076D6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog%20&#38;%20Dr.%20Shenka/Somos%20Invencibles%20-%20Single/01%20Somos%20Invencibles.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25854</key>
+		<dict>
+			<key>Track ID</key><integer>25854</integer>
+			<key>Name</key><string>Es Lo Qué Hay</string>
+			<key>Artist</key><string>JotDog feat. Sabo Romo</string>
+			<key>Album Artist</key><string>JotDog feat. Sabo Romo</string>
+			<key>Album</key><string>Es Lo Qué Hay - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8279573</integer>
+			<key>Total Time</key><integer>255425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T17:04:53Z</date>
+			<key>Date Added</key><date>2025-04-30T23:21:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850469107</integer>
+			<key>Play Date UTC</key><date>2026-01-05T20:45:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5433</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>495B365E52AE097F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog%20feat.%20Sabo%20Romo/Es%20Lo%20Qu%C3%A9%20Hay%20-%20Single/01%20Es%20Lo%20Qu%C3%A9%20Hay.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26848</key>
+		<dict>
+			<key>Track ID</key><integer>26848</integer>
+			<key>Name</key><string>Catástrofes Perfumadas</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Catástrofes Perfumadas - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7991242</integer>
+			<key>Total Time</key><integer>246465</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>171</integer>
+			<key>Date Modified</key><date>2026-01-07T17:20:09Z</date>
+			<key>Date Added</key><date>2025-05-29T23:28:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3847277348</integer>
+			<key>Play Date UTC</key><date>2025-11-29T22:09:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-01-31T17:33:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6588</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74E51C7A494AEF41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Cat%C3%A1strofes%20Perfumadas%20-%20Single/01%20Cat%C3%A1strofes%20Perfumadas.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27050</key>
+		<dict>
+			<key>Track ID</key><integer>27050</integer>
+			<key>Name</key><string>Lo Que Digo Yo (Owned Version)</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Lo Que Digo Yo (Owned Version) - Single</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5377630</integer>
+			<key>Total Time</key><integer>167000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T17:54:45Z</date>
+			<key>Date Added</key><date>2025-06-26T07:51:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850495607</integer>
+			<key>Play Date UTC</key><date>2026-01-06T04:06:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3352</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7310BD1AEBB843C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Lo%20Que%20Digo%20Yo%20(Owned%20Version)%20-%20Single/01%20Lo%20Que%20Digo%20Yo%20(Owned%20Version).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33102</key>
+		<dict>
+			<key>Track ID</key><integer>33102</integer>
+			<key>Name</key><string>Sobrenatural</string>
+			<key>Artist</key><string>JotDog</string>
+			<key>Album Artist</key><string>JotDog</string>
+			<key>Album</key><string>Sobrenatural - Single</string>
+			<key>Genre</key><string>Alternativa y rock en español</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10357115</integer>
+			<key>Total Time</key><integer>252726</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>111</integer>
+			<key>Date Modified</key><date>2026-01-07T19:05:49Z</date>
+			<key>Date Added</key><date>2025-10-28T04:27:08Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851316720</integer>
+			<key>Play Date UTC</key><date>2026-01-15T16:12:00Z</date>
+			<key>Release Date</key><date>2024-10-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BF92B8F61EEAE86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/JotDog/Sobrenatural%20-%20Single/01%20Sobrenatural.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Jotdog</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101493</integer>
+			<key>Playlist Persistent ID</key><string>4C54B9D35EF56B73</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAshTTHN0AAEAAQAAAAcAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAwASgBvAHQARABvAGcAAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAA
+			AAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBzACAAbABp
+			AHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeAAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAg
+			AHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1AG0AZQBuAHQAYQBs
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26848</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27050</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

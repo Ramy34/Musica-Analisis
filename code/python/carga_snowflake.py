@@ -1,6 +1,8 @@
 import os
+from pathlib import Path
 import snowflake.connector
 import pandas as pd
+from datetime import datetime
 from snowflake.connector.pandas_tools import write_pandas
 
 # === LIMPIAR NOMBRES DE COLUMNAS ===
@@ -31,6 +33,12 @@ def clean_name(name):
     )
     return name.upper()
 
+def normaliza_fecha(fecha):
+    if isinstance(fecha, str):
+        fecha = datetime.strptime(fecha, "%Y-%m-%d %H:%M:%S")
+    return fecha.replace(microsecond=0)
+
+
 def infer_snowflake_type(dtype):
     if pd.api.types.is_integer_dtype(dtype):
         return "NUMBER"
@@ -43,14 +51,17 @@ def infer_snowflake_type(dtype):
 
 def lista_archivos_csv(ruta_carpeta):
     datos = []
-    for carpeta, subcarpetas, archivos_en_carpeta in os.walk(ruta_carpeta):
+    for carpeta, _, archivos_en_carpeta in os.walk(ruta_carpeta):
         for archivo in archivos_en_carpeta:
-            ruta_completa = os.path.join(carpeta, archivo)
+            ruta_completa = Path(carpeta) / archivo
             subcarpeta_relativa = os.path.relpath(carpeta, ruta_carpeta)
+            fecha_modificacion = datetime.fromtimestamp(ruta_completa.stat().st_mtime)
+            fecha_sf = fecha_modificacion.strftime("%Y-%m-%d %H:%M:%S")
             datos.append({
                 'archivo': archivo,
                 'ruta_completa': ruta_completa,
-                'subcarpeta': subcarpeta_relativa.replace("\\", "_").upper()
+                'subcarpeta': subcarpeta_relativa.replace("\\", "_").upper(),
+                "fecha_modificacion": normaliza_fecha(fecha_sf)
             })
     return datos
 
@@ -58,28 +69,30 @@ def obtener_insertar(conn):
     cur = conn.cursor()
     cur.execute(f"USE SCHEMA ADM;")
     # Traer todos los registros
-    cur.execute("SELECT NAME, SCHEMA_NAME, INSERTAR FROM CONTROL_PLAYLIST")
+    cur.execute("SELECT NAME, SCHEMA_NAME, INSERTAR, FECHA_CREACION_CSV FROM CONTROL_PLAYLIST")
     rows = cur.fetchall()
     # Convertir a lista de diccionarios
-    playlist_data = [{"NAME": r[0], "SCHEMA_NAME": r[1], "INSERTAR": r[2]} for r in rows]
+    playlist_data = [{"NAME": r[0], "SCHEMA_NAME": r[1], "INSERTAR": r[2], "FECHA_CREACION_CSV": r[3]} for r in rows]
     cur.close()
-    #conn.close()
     return playlist_data
 
-def buscar_insertar(playlist_data, nombre, esquema):
+def buscar_insertar(playlist_data, nombre, esquema, fecha_modificacion):
     for registro in playlist_data:
         if registro["NAME"] == nombre and registro["SCHEMA_NAME"] == esquema:
-            return registro["INSERTAR"]
+            if normaliza_fecha(registro["FECHA_CREACION_CSV"]) != fecha_modificacion:
+                return registro["INSERTAR"]
+            else:
+                return False
     return None
 
-def actualizar_control_playlist(insertar, d, conn, nombre, esquema, registros):
+def actualizar_control_playlist(flag_insertar, d, conn, nombre, esquema, registros):
     cursor_tmp = conn.cursor()
     cursor_tmp.execute(f"USE SCHEMA ADM;")
-    if buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper()) == True:
-        sql = f"UPDATE CONTROL_PLAYLIST SET RECORDS = {registros}, LAST_UPDATE_DATE = CURRENT_DATE WHERE NAME = '{nombre}' AND SCHEMA_NAME = '{esquema}';"
+    if flag_insertar == True:
+        sql = f"UPDATE CONTROL_PLAYLIST SET RECORDS = {registros}, FECHA_CREACION_CSV = '{d['fecha_modificacion']}', LAST_UPDATE_DATE = CURRENT_DATE WHERE NAME = '{nombre}' AND SCHEMA_NAME = '{esquema}';"
         cursor_tmp.execute(sql)        
     else:
-        sql = f"INSERT INTO CONTROL_PLAYLIST (NAME, SCHEMA_NAME, RECORDS, INSERTAR) VALUES ('{nombre}', '{esquema}', {registros}, True)"
+        sql = f"INSERT INTO CONTROL_PLAYLIST (NAME, SCHEMA_NAME, RECORDS, INSERTAR, FECHA_CREACION_CSV) VALUES ('{nombre}', '{esquema}', {registros}, True, '{d['fecha_modificacion']}');"
         cursor_tmp.execute(sql)
     conn.commit()
     print(f"[OK] Carga completada: {registros} filas insertadas en {esquema}.{nombre}")
@@ -99,8 +112,10 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
 
     for d in lista_archivos_csv(CSV_PATH):
         if d['archivo'].lower().endswith(".csv"):
+            
+            flag_insertar = buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper(), d['fecha_modificacion'])
 
-            if buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper()) == False:
+            if flag_insertar == False:
                 print(f"[INFO] Omitido: {d['archivo']} en {d['subcarpeta']}")
             else:
                 TABLE = clean_name(d['archivo'].replace(".csv", ""))
@@ -118,7 +133,6 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
                     cursor = conn.cursor()
                     cursor.execute(f"USE SCHEMA {SCHEMA};")
                     cols = ", ".join([f"{col} {infer_snowflake_type(df[col].dtype)}" for col in df.columns])
-                    #create_table_sql = f"CREATE TABLE IF NOT EXISTS {TABLE} ({cols});"
                     create_table_sql = f"CREATE OR REPLACE TABLE {TABLE} ({cols});"
                     cursor.execute(create_table_sql)
 
@@ -129,7 +143,7 @@ def main(ACCOUNT, USER, PASSWORD, WAREHOUSE, DATABASE, CSV_PATH):
                     auto_create_table=False,
                     overwrite=True
                     )
-                    actualizar_control_playlist(insertar, d, conn, TABLE, SCHEMA, nrows)
+                    actualizar_control_playlist(flag_insertar, d, conn, TABLE, SCHEMA, nrows)
                 except Exception as e:
                     print(f"[Error]: {e}")
                 finally:

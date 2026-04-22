@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-01-23T05:11:36Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10117</key>
+		<dict>
+			<key>Track ID</key><integer>10117</integer>
+			<key>Name</key><string>Image</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>MAMI</string>
+			<key>Album</key><string>HELLO WORLD</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8645588</integer>
+			<key>Total Time</key><integer>266422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T17:39:32Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500472</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:21:12Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6830</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50E8DF45046B95C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/01%20Image.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10127</key>
+		<dict>
+			<key>Track ID</key><integer>10127</integer>
+			<key>Name</key><string>夜明けの流星群</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Hidenori Tanaka</string>
+			<key>Album</key><string>HELLO WORLD</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9125417</integer>
+			<key>Total Time</key><integer>281417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2026-01-07T17:12:54Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500474</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:21:14Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8654</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8390F4800C7AA27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/06%20%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E6%B5%81%E6%98%9F%E7%BE%A4.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10169</key>
+		<dict>
+			<key>Track ID</key><integer>10169</integer>
+			<key>Name</key><string>最終兵器、君</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>MAMI</string>
+			<key>Album</key><string>Kiss from the darkness</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7518126</integer>
+			<key>Total Time</key><integer>233482</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-01-07T21:39:24Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3830785477</integer>
+			<key>Play Date UTC</key><date>2025-05-23T00:04:37Z</date>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13107</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D4B230E4B3A23C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/04%20%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%E3%80%81%E5%90%9B.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10181</key>
+		<dict>
+			<key>Track ID</key><integer>10181</integer>
+			<key>Name</key><string>A.M.D.K.J.</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>MAMI</string>
+			<key>Album</key><string>Kiss from the darkness</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7085952</integer>
+			<key>Total Time</key><integer>219977</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T18:15:47Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851361490</integer>
+			<key>Play Date UTC</key><date>2026-01-16T04:38:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14703</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>35D5CE44C17CB66A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/10%20A.M.D.K.J..mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10189</key>
+		<dict>
+			<key>Track ID</key><integer>10189</integer>
+			<key>Name</key><string>LOVE SURVIVE</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Hidenori Tanaka</string>
+			<key>Album</key><string>LOVE SURVIVE - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7250803</integer>
+			<key>Total Time</key><integer>222720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-07T16:51:55Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844169267</integer>
+			<key>Play Date UTC</key><date>2025-10-24T21:47:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12035</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70E49F6C6095E647</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LOVE%20SURVIVE%20-%20EP/01%20LOVE%20SURVIVE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10221</key>
+		<dict>
+			<key>Track ID</key><integer>10221</integer>
+			<key>Name</key><string>eternal</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>mami &#38; Rina</string>
+			<key>Album</key><string>MIRROR</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>51124012</integer>
+			<key>Total Time</key><integer>222000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T20:02:24Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:40Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500483</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:21:23Z</date>
+			<key>Normalization</key><integer>11398</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6108520F42143BC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/MIRROR/02%20eternal.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10391</key>
+		<dict>
+			<key>Track ID</key><integer>10391</integer>
+			<key>Name</key><string>SCANDAL BABY</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>田鹿ゆういち</string>
+			<key>Album</key><string>SCANDAL SHOW</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>10073558</integer>
+			<key>Total Time</key><integer>311693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T16:58:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500515</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:21:55Z</date>
+			<key>Normalization</key><integer>16032</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDB5FB2A2EEDAEFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/SCANDAL%20SHOW/15%20SCANDAL%20BABY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10429</key>
+		<dict>
+			<key>Track ID</key><integer>10429</integer>
+			<key>Name</key><string>Take Me Out</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Mami</string>
+			<key>Album</key><string>Take Me Out - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7294943</integer>
+			<key>Total Time</key><integer>225018</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-01-07T19:21:57Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842201481</integer>
+			<key>Play Date UTC</key><date>2025-10-02T03:11:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>22346</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D77EB42DB7AEA6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Take%20Me%20Out%20-%20Single/01%20Take%20Me%20Out.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10435</key>
+		<dict>
+			<key>Track ID</key><integer>10435</integer>
+			<key>Name</key><string>EVERYBODY SAY YEAH</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Tomohiro Okubo</string>
+			<key>Album</key><string>TEMPTATION BOX</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7250718</integer>
+			<key>Total Time</key><integer>224000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2025-11-29T07:26:06Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845289166</integer>
+			<key>Play Date UTC</key><date>2025-11-06T21:52:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13560</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93B22F3D25AFCC2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/TEMPTATION%20BOX/01%20EVERYBODY%20SAY%20YEAH.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14679</key>
+		<dict>
+			<key>Track ID</key><integer>14679</integer>
+			<key>Name</key><string>Terra Boy</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Album</key><string>Terra Boy - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8590097</integer>
+			<key>Total Time</key><integer>207726</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T21:02:09Z</date>
+			<key>Date Added</key><date>2025-01-18T03:11:49Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3843647389</integer>
+			<key>Play Date UTC</key><date>2025-10-18T20:49:49Z</date>
+			<key>Release Date</key><date>2025-01-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6873</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83E92EB170DFFC37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Terra%20Boy%20-%20Single/01%20Terra%20Boy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14681</key>
+		<dict>
+			<key>Track ID</key><integer>14681</integer>
+			<key>Name</key><string>ハイライトの中で僕らずっと</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>ＭＡＭＩ</string>
+			<key>Album</key><string>ハイライトの中で僕らずっと - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8296149</integer>
+			<key>Total Time</key><integer>204869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-07T18:33:31Z</date>
+			<key>Date Added</key><date>2025-01-18T03:11:49Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3842458441</integer>
+			<key>Play Date UTC</key><date>2025-10-05T02:34:01Z</date>
+			<key>Release Date</key><date>2023-08-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7636</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C36C15BD14A1814</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8%20-%20Single/01%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14695</key>
+		<dict>
+			<key>Track ID</key><integer>14695</integer>
+			<key>Name</key><string>少女S</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>田鹿ゆういち</string>
+			<key>Album</key><string>少女S[初回盤A] - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7911844</integer>
+			<key>Total Time</key><integer>194421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-01-07T21:55:20Z</date>
+			<key>Date Added</key><date>2025-01-18T03:11:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3841340519</integer>
+			<key>Play Date UTC</key><date>2025-09-22T04:01:59Z</date>
+			<key>Release Date</key><date>2009-06-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9971</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86AD9A62F22EAA76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%B0%91%E5%A5%B3S%5B%E5%88%9D%E5%9B%9E%E7%9B%A4A%5D%20-%20EP/01%20%E5%B0%91%E5%A5%B3S.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14711</key>
+		<dict>
+			<key>Track ID</key><integer>14711</integer>
+			<key>Name</key><string>瞬間センチメンタル</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Yuichi Tajika</string>
+			<key>Album</key><string>瞬間センチメンタル - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9224301</integer>
+			<key>Total Time</key><integer>226905</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>84</integer>
+			<key>Date Modified</key><date>2025-11-29T03:58:02Z</date>
+			<key>Date Added</key><date>2025-01-18T03:16:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851949212</integer>
+			<key>Play Date UTC</key><date>2026-01-22T23:53:32Z</date>
+			<key>Release Date</key><date>2010-02-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9046</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0B7D0ACEF6B2D8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%20-%20EP/01%20%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14723</key>
+		<dict>
+			<key>Track ID</key><integer>14723</integer>
+			<key>Name</key><string>太陽と君が描くSTORY</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Hidenori Tanaka</string>
+			<key>Album</key><string>太陽と君が描くSTORY - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9648317</integer>
+			<key>Total Time</key><integer>240396</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>152</integer>
+			<key>Date Modified</key><date>2026-01-07T20:44:28Z</date>
+			<key>Date Added</key><date>2025-01-18T03:20:02Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500534</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:22:14Z</date>
+			<key>Release Date</key><date>2010-06-02T12:00:00Z</date>
+			<key>Normalization</key><integer>15295</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>992543A5F37A5E75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%AA%E9%99%BD%E3%81%A8%E5%90%9B%E3%81%8C%E6%8F%8F%E3%81%8FSTORY%20-%20EP/01%20%E5%A4%AA%E9%99%BD%E3%81%A8%E5%90%9B%E3%81%8C%E6%8F%8F%E3%81%8FSTORY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14739</key>
+		<dict>
+			<key>Track ID</key><integer>14739</integer>
+			<key>Name</key><string>HARUKAZE</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>Noriyasu Isshiki</string>
+			<key>Album</key><string>HARUKAZE[初回盤B] - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11160870</integer>
+			<key>Total Time</key><integer>278988</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T21:23:55Z</date>
+			<key>Date Added</key><date>2025-01-18T03:50:39Z</date>
+			<key>Bit Rate</key><integer>316</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3840282986</integer>
+			<key>Play Date UTC</key><date>2025-09-09T22:16:26Z</date>
+			<key>Release Date</key><date>2012-02-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D3BED75D0C1A8F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HARUKAZE%5B%E5%88%9D%E5%9B%9E%E7%9B%A4B%5D%20-%20Single/01%20HARUKAZE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17489</key>
+		<dict>
+			<key>Track ID</key><integer>17489</integer>
+			<key>Name</key><string>どうかしてるって</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Album</key><string>どうかしてるって - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9120367</integer>
+			<key>Total Time</key><integer>220055</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T21:11:45Z</date>
+			<key>Date Added</key><date>2025-02-14T05:03:02Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3837354289</integer>
+			<key>Play Date UTC</key><date>2025-08-07T00:44:49Z</date>
+			<key>Release Date</key><date>2025-02-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6990</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2EC35D3D381D480</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%20-%20Single/01%20%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24167</key>
+		<dict>
+			<key>Track ID</key><integer>24167</integer>
+			<key>Name</key><string>Soundly</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Album</key><string>Soundly - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10501205</integer>
+			<key>Total Time</key><integer>256395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-07T20:34:19Z</date>
+			<key>Date Added</key><date>2025-03-03T02:00:08Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3823858593</integer>
+			<key>Play Date UTC</key><date>2025-03-03T20:56:33Z</date>
+			<key>Release Date</key><date>2025-03-01T12:00:00Z</date>
+			<key>Normalization</key><integer>4778</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A0851E34F28C4BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Soundly%20-%20Single/01%20Soundly.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24377</key>
+		<dict>
+			<key>Track ID</key><integer>24377</integer>
+			<key>Name</key><string>Oh, Pretty Woman</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Album</key><string>Love, Spark, Joy! - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7338680</integer>
+			<key>Total Time</key><integer>179537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-01-07T17:34:52Z</date>
+			<key>Date Added</key><date>2025-03-07T05:24:44Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3824217764</integer>
+			<key>Play Date UTC</key><date>2025-03-08T00:42:44Z</date>
+			<key>Release Date</key><date>2025-03-05T12:00:00Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8569</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2753CD5791313933</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Love,%20Spark,%20Joy!%20-%20EP/04%20Oh,%20Pretty%20Woman.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Concierto: Scandal Tour 2025 Love, Spark, Joy</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>195596</integer>
+			<key>Playlist Persistent ID</key><string>4F8714A4471C320E</string>
+			<key>Parent Persistent ID</key><string>847FE801D263ACE3</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14711</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

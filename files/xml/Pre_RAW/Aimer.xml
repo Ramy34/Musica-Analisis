@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-03-10T05:46:42Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4680</key>
+		<dict>
+			<key>Track ID</key><integer>4680</integer>
+			<key>Name</key><string>ポラリス</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>aimerrythm/òà«å</string>
+			<key>Album</key><string>After Dark</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11729939</integer>
+			<key>Total Time</key><integer>365217</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-01-07T20:42:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852391792</integer>
+			<key>Play Date UTC</key><date>2026-01-28T02:49:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5683</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6770075157687DB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/After%20Dark/02%20%E3%83%9D%E3%83%A9%E3%83%AA%E3%82%B9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4682</key>
+		<dict>
+			<key>Track ID</key><integer>4682</integer>
+			<key>Name</key><string>words</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>阿部真央</string>
+			<key>Album</key><string>After Dark</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11390550</integer>
+			<key>Total Time</key><integer>354612</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>70</integer>
+			<key>Date Modified</key><date>2026-01-07T18:55:09Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3850403464</integer>
+			<key>Play Date UTC</key><date>2026-01-05T02:31:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3882</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A5F9020EE5B0E71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/After%20Dark/03%20words.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4686</key>
+		<dict>
+			<key>Track ID</key><integer>4686</integer>
+			<key>Name</key><string>After Rain</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Kenji Tamai, KOMODA</string>
+			<key>Album</key><string>After Dark</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9415280</integer>
+			<key>Total Time</key><integer>292884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T21:53:05Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3845978603</integer>
+			<key>Play Date UTC</key><date>2025-11-14T21:23:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-03T23:22:56Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9307</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D531778DE6F2607B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/After%20Dark/05%20After%20Rain.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4702</key>
+		<dict>
+			<key>Track ID</key><integer>4702</integer>
+			<key>Name</key><string>リフレインが叫んでる</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>Bitter &#38; Sweet</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8430300</integer>
+			<key>Total Time</key><integer>261302</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T21:45:26Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852390412</integer>
+			<key>Play Date UTC</key><date>2026-01-28T02:26:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3996</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>834B54552982C1D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Bitter%20&#38;%20Sweet/01%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3%E3%81%8C%E5%8F%AB%E3%82%93%E3%81%A7%E3%82%8B.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4706</key>
+		<dict>
+			<key>Track ID</key><integer>4706</integer>
+			<key>Name</key><string>強く儚い者たち</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>Bitter &#38; Sweet</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9196831</integer>
+			<key>Total Time</key><integer>285257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T19:37:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855638922</integer>
+			<key>Play Date UTC</key><date>2026-03-06T16:48:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D457770C853D392A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Bitter%20&#38;%20Sweet/07%20%E5%BC%B7%E3%81%8F%E5%84%9A%E3%81%84%E8%80%85%E3%81%9F%E3%81%A1.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4718</key>
+		<dict>
+			<key>Track ID</key><integer>4718</integer>
+			<key>Name</key><string>twoface</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>内澤崇仁</string>
+			<key>Album</key><string>daydream</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6006632</integer>
+			<key>Total Time</key><integer>185208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T22:01:29Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3841338244</integer>
+			<key>Play Date UTC</key><date>2025-09-22T03:24:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>20614</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>355574AB7B05C64D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/daydream/03%20twoface.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4730</key>
+		<dict>
+			<key>Track ID</key><integer>4730</integer>
+			<key>Name</key><string>声色</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>TK</string>
+			<key>Album</key><string>daydream</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9602753</integer>
+			<key>Total Time</key><integer>297586</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-01-07T19:47:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852044800</integer>
+			<key>Play Date UTC</key><date>2026-01-24T02:26:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7806</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>026B9F7E7F299300</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/daydream/09%20%E5%A3%B0%E8%89%B2.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4732</key>
+		<dict>
+			<key>Track ID</key><integer>4732</integer>
+			<key>Name</key><string>closer</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>taka</string>
+			<key>Album</key><string>daydream</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6889362</integer>
+			<key>Total Time</key><integer>212793</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:09:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3843558611</integer>
+			<key>Play Date UTC</key><date>2025-10-17T20:10:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11684</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EFE0F1449B731CE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/daydream/10%20closer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4734</key>
+		<dict>
+			<key>Track ID</key><integer>4734</integer>
+			<key>Name</key><string>Falling Alone</string>
+			<key>Artist</key><string>Aimer feat Taka</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>daydream</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8190058</integer>
+			<key>Total Time</key><integer>253440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T19:25:36Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3843570145</integer>
+			<key>Play Date UTC</key><date>2025-10-17T23:22:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3308FA89891409E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/daydream/11%20Falling%20Alone.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4740</key>
+		<dict>
+			<key>Track ID</key><integer>4740</integer>
+			<key>Name</key><string>Deep down</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Kazuma Nagasawa</string>
+			<key>Album</key><string>Deep down</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7333626</integer>
+			<key>Total Time</key><integer>227265</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>51</integer>
+			<key>Date Modified</key><date>2026-01-07T19:42:45Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853617287</integer>
+			<key>Play Date UTC</key><date>2026-02-11T07:14:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4887</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92B9C58E94C8FFD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Deep%20down/01%20Deep%20down.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4754</key>
+		<dict>
+			<key>Track ID</key><integer>4754</integer>
+			<key>Name</key><string>escalate</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Yoshida Haruo</string>
+			<key>Album</key><string>escalate(Special Edition) - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8000620</integer>
+			<key>Total Time</key><integer>246282</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-01-07T18:52:46Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3854290444</integer>
+			<key>Play Date UTC</key><date>2026-02-19T02:14:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7284</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54560764DF7F22E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/escalate(Special%20Edition)%20-%20EP/01%20escalate.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4768</key>
+		<dict>
+			<key>Track ID</key><integer>4768</integer>
+			<key>Name</key><string>Resonantia</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Rui Momota</string>
+			<key>Album</key><string>Open α Door</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7419044</integer>
+			<key>Total Time</key><integer>229616</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-01-07T20:23:50Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850575515</integer>
+			<key>Play Date UTC</key><date>2026-01-07T02:18:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7022</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>72EBBB09F8CA3947</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Open%20%CE%B1%20Door/03%20Resonantia.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4798</key>
+		<dict>
+			<key>Track ID</key><integer>4798</integer>
+			<key>Name</key><string>Stand By You</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>TK</string>
+			<key>Album</key><string>Penny Rain</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8249569</integer>
+			<key>Total Time</key><integer>254772</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T21:21:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852393897</integer>
+			<key>Play Date UTC</key><date>2026-01-28T03:24:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13746</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82AAF3CC13147467</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Penny%20Rain/06%20Stand%20By%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4802</key>
+		<dict>
+			<key>Track ID</key><integer>4802</integer>
+			<key>Name</key><string>i-mage  in-AR </string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>澤野弘之</string>
+			<key>Album</key><string>Penny Rain</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11287570</integer>
+			<key>Total Time</key><integer>349648</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2026-01-07T19:12:43Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853661908</integer>
+			<key>Play Date UTC</key><date>2026-02-11T19:38:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9818</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>763B83B8DF8D7C09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Penny%20Rain/08%20i-mage%20%20in-AR.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4806</key>
+		<dict>
+			<key>Track ID</key><integer>4806</integer>
+			<key>Name</key><string>April Showers</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>AlbatoLuce</string>
+			<key>Album</key><string>Penny Rain</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11107576</integer>
+			<key>Total Time</key><integer>344084</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>77</integer>
+			<key>Date Modified</key><date>2026-01-07T21:13:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852115265</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:01:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4837</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F4FD8B9F51D1317</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Penny%20Rain/10%20April%20Showers.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4838</key>
+		<dict>
+			<key>Track ID</key><integer>4838</integer>
+			<key>Name</key><string>We Two</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Sun Dance</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8002965</integer>
+			<key>Total Time</key><integer>247980</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2026-01-07T22:00:47Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3855379821</integer>
+			<key>Play Date UTC</key><date>2026-03-03T16:50:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>14345</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0E3E41E1C31773B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Sun%20Dance/03%20We%20Two.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4840</key>
+		<dict>
+			<key>Track ID</key><integer>4840</integer>
+			<key>Name</key><string>3min</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Sun Dance</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5954127</integer>
+			<key>Total Time</key><integer>183954</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>107</integer>
+			<key>Date Modified</key><date>2026-01-07T17:10:28Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845984741</integer>
+			<key>Play Date UTC</key><date>2025-11-14T23:05:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10273</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FD77E4024C89ED71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Sun%20Dance/04%203min.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4848</key>
+		<dict>
+			<key>Track ID</key><integer>4848</integer>
+			<key>Name</key><string>Monochrome Syndrome</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Sun Dance</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9440757</integer>
+			<key>Total Time</key><integer>292911</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T21:41:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3855123449</integer>
+			<key>Play Date UTC</key><date>2026-02-28T17:37:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9596</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE019F44686F215B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Sun%20Dance/08%20Monochrome%20Syndrome.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4858</key>
+		<dict>
+			<key>Track ID</key><integer>4858</integer>
+			<key>Name</key><string>cold rain</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Takayuki Mitsuhashi</string>
+			<key>Album</key><string>Walpurgis</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7451951</integer>
+			<key>Total Time</key><integer>230321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>86</integer>
+			<key>Date Modified</key><date>2026-01-07T21:55:40Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851878678</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:17:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6121</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8A7C7F5382BF74B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Walpurgis/03%20cold%20rain.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4866</key>
+		<dict>
+			<key>Track ID</key><integer>4866</integer>
+			<key>Name</key><string>wonderland</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Yuki Kajiura</string>
+			<key>Album</key><string>Walpurgis</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9806734</integer>
+			<key>Total Time</key><integer>303908</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T18:10:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852376790</integer>
+			<key>Play Date UTC</key><date>2026-01-27T22:39:50Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7899</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4348E53522DB42F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Walpurgis/07%20wonderland.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4876</key>
+		<dict>
+			<key>Track ID</key><integer>4876</integer>
+			<key>Name</key><string>季路</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Masahiro Tobiuchi</string>
+			<key>Album</key><string>Walpurgis</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11369063</integer>
+			<key>Total Time</key><integer>352731</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-01-07T17:01:16Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845720714</integer>
+			<key>Play Date UTC</key><date>2025-11-11T21:45:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>77C89C745EBD478C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Walpurgis/12%20%E5%AD%A3%E8%B7%AF.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4884</key>
+		<dict>
+			<key>Track ID</key><integer>4884</integer>
+			<key>Name</key><string>Overdrive</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Akitsugu Fukushima</string>
+			<key>Album</key><string>白色蜉蝣 - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5881248</integer>
+			<key>Total Time</key><integer>182857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T18:44:45Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851357051</integer>
+			<key>Play Date UTC</key><date>2026-01-16T03:24:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9348</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B79D324B86FD2B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E7%99%BD%E8%89%B2%E8%9C%89%E8%9D%A3%20-%20EP/02%20Overdrive.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10038</key>
+		<dict>
+			<key>Track ID</key><integer>10038</integer>
+			<key>Name</key><string>bL∞dy f8</string>
+			<key>Artist</key><string>SawanoHiroyuki[nZk] feat. Aimer</string>
+			<key>Album Artist</key><string>SawanoHiroyuki[nZk] feat. Aimer</string>
+			<key>Album</key><string>UnChild</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9439472</integer>
+			<key>Total Time</key><integer>288548</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T20:34:55Z</date>
+			<key>Date Added</key><date>2024-09-26T21:00:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3852555937</integer>
+			<key>Play Date UTC</key><date>2026-01-30T00:25:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3944</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>69F0096DAC8B733E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/SawanoHiroyuki%5BnZk%5D%20feat.%20Aimer/UnChild/08%20bL%E2%88%9Edy%20f8.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15986</key>
+		<dict>
+			<key>Track ID</key><integer>15986</integer>
+			<key>Name</key><string>Black Bird</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Black Bird - Tiny Dancers - 思い出は奇麗で - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9239866</integer>
+			<key>Total Time</key><integer>229761</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-01-07T22:20:26Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:11Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846913212</integer>
+			<key>Play Date UTC</key><date>2025-11-25T17:00:12Z</date>
+			<key>Release Date</key><date>2018-09-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11057</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57AE76990AF26B89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Black%20Bird%20-%20Tiny%20Dancers%20-%20%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AF%E5%A5%87%E9%BA%97%E3%81%A7%20-%20EP/01%20Black%20Bird.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15996</key>
+		<dict>
+			<key>Track ID</key><integer>15996</integer>
+			<key>Name</key><string>Brave Shine</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Hisashi Koyama</string>
+			<key>Album</key><string>Brave Shine - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9462094</integer>
+			<key>Total Time</key><integer>234034</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>86</integer>
+			<key>Date Modified</key><date>2026-01-07T19:19:47Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:11Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847087823</integer>
+			<key>Play Date UTC</key><date>2025-11-27T17:30:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-27T05:56:03Z</date>
+			<key>Release Date</key><date>2015-06-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DAB3FC2F946C8AEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Brave%20Shine%20-%20EP/01%20Brave%20Shine.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15998</key>
+		<dict>
+			<key>Track ID</key><integer>15998</integer>
+			<key>Name</key><string>broKen NIGHT</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Asami Takeo</string>
+			<key>Album</key><string>broKen NIGHT - holLow wORlD - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12189684</integer>
+			<key>Total Time</key><integer>296356</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-01-07T18:01:22Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:11Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847097188</integer>
+			<key>Play Date UTC</key><date>2025-11-27T20:06:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-18T23:36:50Z</date>
+			<key>Release Date</key><date>2014-12-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5643</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2574A434AA8E09C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/broKen%20NIGHT%20-%20holLow%20wORlD%20-%20EP/01%20broKen%20NIGHT.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16040</key>
+		<dict>
+			<key>Track ID</key><integer>16040</integer>
+			<key>Name</key><string>I beg you</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>梶浦由記</string>
+			<key>Album</key><string>I beg you - 花びらたちのマーチ - Sailing - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10731802</integer>
+			<key>Total Time</key><integer>270396</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T20:52:46Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:11Z</date>
+			<key>Bit Rate</key><integer>314</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847088334</integer>
+			<key>Play Date UTC</key><date>2025-11-27T17:38:54Z</date>
+			<key>Release Date</key><date>2019-01-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7387</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4B4887DEF7CE1663</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/I%20beg%20you%20-%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81%20-%20Sailing%20-%20EP/01%20I%20beg%20you.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16046</key>
+		<dict>
+			<key>Track ID</key><integer>16046</integer>
+			<key>Name</key><string>insane dream</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>taka</string>
+			<key>Album</key><string>insane dream - us - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10154299</integer>
+			<key>Total Time</key><integer>254467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T18:38:08Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:11Z</date>
+			<key>Bit Rate</key><integer>315</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3844434550</integer>
+			<key>Play Date UTC</key><date>2025-10-28T00:29:10Z</date>
+			<key>Release Date</key><date>2016-07-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D80479D96E350C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/insane%20dream%20-%20us%20-%20Single/01%20insane%20dream.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16092</key>
+		<dict>
+			<key>Track ID</key><integer>16092</integer>
+			<key>Name</key><string>ninelie</string>
+			<key>Artist</key><string>Aimer with chelly</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Hiroyuki Sawano</string>
+			<key>Album</key><string>ninelie EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10600243</integer>
+			<key>Total Time</key><integer>260319</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>86</integer>
+			<key>Date Modified</key><date>2026-01-07T17:04:46Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:12Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851946652</integer>
+			<key>Play Date UTC</key><date>2026-01-22T23:10:52Z</date>
+			<key>Release Date</key><date>2016-05-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>875A4F9B091A7A23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/ninelie%20EP/01%20ninelie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16108</key>
+		<dict>
+			<key>Track ID</key><integer>16108</integer>
+			<key>Name</key><string>RE-I AM</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Aimer</string>
+			<key>Album</key><string>RE-I AM EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>14074490</integer>
+			<key>Total Time</key><integer>347695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-07T17:23:00Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852379846</integer>
+			<key>Play Date UTC</key><date>2026-01-27T23:30:46Z</date>
+			<key>Release Date</key><date>2013-03-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8088</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AACABF217FB18589</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/RE-I%20AM%20EP/01%20RE-I%20AM.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16110</key>
+		<dict>
+			<key>Track ID</key><integer>16110</integer>
+			<key>Name</key><string>Ref-rain</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Ref-rain - 眩いばかり - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11880078</integer>
+			<key>Total Time</key><integer>290203</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T22:07:56Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:13Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851447682</integer>
+			<key>Play Date UTC</key><date>2026-01-17T04:34:42Z</date>
+			<key>Release Date</key><date>2018-02-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8246</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5591D084C0B7A726</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Ref-rain%20-%20%E7%9C%A9%E3%81%84%E3%81%B0%E3%81%8B%E3%82%8A%20-%20EP/01%20Ref-rain.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16134</key>
+		<dict>
+			<key>Track ID</key><integer>16134</integer>
+			<key>Name</key><string>SPARK-AGAIN</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Masahiro Tobinai</string>
+			<key>Album</key><string>SPARK-AGAIN - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9767746</integer>
+			<key>Total Time</key><integer>244227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:46:18Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855138787</integer>
+			<key>Play Date UTC</key><date>2026-02-28T21:53:07Z</date>
+			<key>Release Date</key><date>2020-09-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10722</integer>
+			<key>Persistent ID</key><string>0E397D11FC4F9DDB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/SPARK-AGAIN%20-%20EP/01%20SPARK-AGAIN.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16142</key>
+		<dict>
+			<key>Track ID</key><integer>16142</integer>
+			<key>Name</key><string>STAND-ALONE</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Masahiro Tobiuchi</string>
+			<key>Album</key><string>STAND-ALONE - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11644775</integer>
+			<key>Total Time</key><integer>287695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T18:33:37Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851964395</integer>
+			<key>Play Date UTC</key><date>2026-01-23T04:06:35Z</date>
+			<key>Release Date</key><date>2019-05-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8735</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>30341CC7AEC085DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/STAND-ALONE%20-%20Single/01%20STAND-ALONE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16144</key>
+		<dict>
+			<key>Track ID</key><integer>16144</integer>
+			<key>Name</key><string>StarRingChild</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>澤野弘之</string>
+			<key>Album</key><string>StarRingChild EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13372436</integer>
+			<key>Total Time</key><integer>330582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T19:42:07Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852385416</integer>
+			<key>Play Date UTC</key><date>2026-01-28T01:03:36Z</date>
+			<key>Release Date</key><date>2014-05-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6341</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C08BFB7383A57D80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/StarRingChild%20EP/01%20StarRingChild.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16154</key>
+		<dict>
+			<key>Track ID</key><integer>16154</integer>
+			<key>Name</key><string>Torches</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Torches - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11764396</integer>
+			<key>Total Time</key><integer>294406</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T19:54:16Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>316</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851953299</integer>
+			<key>Play Date UTC</key><date>2026-01-23T01:01:39Z</date>
+			<key>Release Date</key><date>2019-08-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4115</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E64C5E6EA51898B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Torches%20-%20EP/01%20Torches.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16180</key>
+		<dict>
+			<key>Track ID</key><integer>16180</integer>
+			<key>Name</key><string>あなたに出会わなければ〜夏雪冬花〜</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Fucked</string>
+			<key>Album</key><string>あなたに出会わなければ〜夏雪冬花〜 - 星屑ビーナス - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>14634301</integer>
+			<key>Total Time</key><integer>363044</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T21:55:22Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852718984</integer>
+			<key>Play Date UTC</key><date>2026-01-31T21:43:04Z</date>
+			<key>Release Date</key><date>2012-07-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6942</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>427DC87709D1DD2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C%20-%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9%20-%20Single/01%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16212</key>
+		<dict>
+			<key>Track ID</key><integer>16212</integer>
+			<key>Name</key><string>六等星の夜</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>六等星の夜 - 悲しみはオーロラに - TWINKLE TWINKLE LITTLE STAR - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13579363</integer>
+			<key>Total Time</key><integer>337734</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-07T17:13:30Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841213246</integer>
+			<key>Play Date UTC</key><date>2025-09-20T16:40:46Z</date>
+			<key>Release Date</key><date>2011-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5814</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5A54B57DAED823CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C%20-%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%81%AB%20-%20TWINKLE%20TWINKLE%20LITT/01%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16224</key>
+		<dict>
+			<key>Track ID</key><integer>16224</integer>
+			<key>Name</key><string>春はゆく</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Yuki Kajiura</string>
+			<key>Album</key><string>春はゆく - marie - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12125520</integer>
+			<key>Total Time</key><integer>304947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T21:28:16Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>313</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852109914</integer>
+			<key>Play Date UTC</key><date>2026-01-24T20:31:54Z</date>
+			<key>Release Date</key><date>2020-03-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BE4C0688E89465C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F%20-%20marie%20-%20EP/01%20%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16228</key>
+		<dict>
+			<key>Track ID</key><integer>16228</integer>
+			<key>Name</key><string>残響散歌</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Masahiro Tobinai</string>
+			<key>Album</key><string>残響散歌 - 朝が来る - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7611765</integer>
+			<key>Total Time</key><integer>184947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>171</integer>
+			<key>Date Modified</key><date>2026-01-07T18:45:11Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:14Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852059716</integer>
+			<key>Play Date UTC</key><date>2026-01-24T06:35:16Z</date>
+			<key>Release Date</key><date>2021-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5814</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>58D608313C7EB2F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20-%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%20-%20EP/01%20%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16238</key>
+		<dict>
+			<key>Track ID</key><integer>16238</integer>
+			<key>Name</key><string>茜さす</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>釣俊輔</string>
+			<key>Album</key><string>茜さす-everlasting snow - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13429569</integer>
+			<key>Total Time</key><integer>330304</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-01-07T21:11:11Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3850415340</integer>
+			<key>Play Date UTC</key><date>2026-01-05T05:49:00Z</date>
+			<key>Release Date</key><date>2016-11-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7665</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28FE4D5552F6730C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E8%8C%9C%E3%81%95%E3%81%99-everlasting%20snow%20-%20EP/01%20%E8%8C%9C%E3%81%95%E3%81%99.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16262</key>
+		<dict>
+			<key>Track ID</key><integer>16262</integer>
+			<key>Name</key><string>Blind to you</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Masahiro Tobinai</string>
+			<key>Album</key><string>Torches - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11334466</integer>
+			<key>Total Time</key><integer>281611</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-01-07T20:36:49Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845444419</integer>
+			<key>Play Date UTC</key><date>2025-11-08T17:00:19Z</date>
+			<key>Release Date</key><date>2019-08-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2471</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8F141B77C2A82CA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Torches%20-%20EP/02%20Blind%20to%20you.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16288</key>
+		<dict>
+			<key>Track ID</key><integer>16288</integer>
+			<key>Name</key><string>holLow wORlD</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>岡本剛; 玉井健二;; aimerrhythm</string>
+			<key>Album</key><string>broKen NIGHT - holLow wORlD - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11260286</integer>
+			<key>Total Time</key><integer>276689</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2026-01-07T17:42:39Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853839512</integer>
+			<key>Play Date UTC</key><date>2026-02-13T20:58:32Z</date>
+			<key>Release Date</key><date>2014-12-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7653</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24080E8A46CCF10B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/broKen%20NIGHT%20-%20holLow%20wORlD%20-%20EP/02%20holLow%20wORlD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16302</key>
+		<dict>
+			<key>Track ID</key><integer>16302</integer>
+			<key>Name</key><string>marie</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Hiroaki Yokoyama</string>
+			<key>Album</key><string>春はゆく - marie - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12224832</integer>
+			<key>Total Time</key><integer>307316</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T17:36:15Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>313</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849075242</integer>
+			<key>Play Date UTC</key><date>2025-12-20T17:34:02Z</date>
+			<key>Release Date</key><date>2020-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6412</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>161366DFE381A168</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F%20-%20marie%20-%20EP/02%20marie.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16318</key>
+		<dict>
+			<key>Track ID</key><integer>16318</integer>
+			<key>Name</key><string>Through My Blood  AM </string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>澤野弘之</string>
+			<key>Album</key><string>ninelie EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10064974</integer>
+			<key>Total Time</key><integer>244251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T17:10:24Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845723893</integer>
+			<key>Play Date UTC</key><date>2025-11-11T22:38:13Z</date>
+			<key>Release Date</key><date>2016-05-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7583</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCE80D300F1E13AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/ninelie%20EP/02%20Through%20My%20Blood%20%20AM.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16328</key>
+		<dict>
+			<key>Track ID</key><integer>16328</integer>
+			<key>Name</key><string>us</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>TK</string>
+			<key>Album</key><string>insane dream - us - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11134703</integer>
+			<key>Total Time</key><integer>276387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-07T18:20:07Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3854284280</integer>
+			<key>Play Date UTC</key><date>2026-02-19T00:31:20Z</date>
+			<key>Release Date</key><date>2016-07-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10346</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4220388A84E8175C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/insane%20dream%20-%20us%20-%20Single/02%20us.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16334</key>
+		<dict>
+			<key>Track ID</key><integer>16334</integer>
+			<key>Name</key><string>Wren</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Kengo Minamida</string>
+			<key>Album</key><string>Sign - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7455001</integer>
+			<key>Total Time</key><integer>187594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T18:20:40Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:15Z</date>
+			<key>Bit Rate</key><integer>314</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852040637</integer>
+			<key>Play Date UTC</key><date>2026-01-24T01:17:17Z</date>
+			<key>Release Date</key><date>2024-08-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6982</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4E434E6C5E9F3BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Sign%20-%20EP/02%20Wren.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16352</key>
+		<dict>
+			<key>Track ID</key><integer>16352</integer>
+			<key>Name</key><string>冬のダイヤモンド</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>雪の降る街-冬のダイヤモンド - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>14565719</integer>
+			<key>Total Time</key><integer>360559</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2026-01-07T17:26:15Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852361239</integer>
+			<key>Play Date UTC</key><date>2026-01-27T18:20:39Z</date>
+			<key>Release Date</key><date>2012-02-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7398</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FC9D438BDAF16BD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E9%9B%AA%E3%81%AE%E9%99%8D%E3%82%8B%E8%A1%97-%E5%86%AC%E3%81%AE%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%20-%20Single/02%20%E5%86%AC%E3%81%AE%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16364</key>
+		<dict>
+			<key>Track ID</key><integer>16364</integer>
+			<key>Name</key><string>悲しみはオーロラに</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>六等星の夜 - 悲しみはオーロラに - TWINKLE TWINKLE LITTLE STAR - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10708178</integer>
+			<key>Total Time</key><integer>265009</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T20:07:56Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851166072</integer>
+			<key>Play Date UTC</key><date>2026-01-13T22:21:12Z</date>
+			<key>Release Date</key><date>2011-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4917</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82526D973220324C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C%20-%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%81%AB%20-%20TWINKLE%20TWINKLE%20LITT/02%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%AF%E3%82%AA%E3%83%BC%E3%83%AD%E3%83%A9%E3%81%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16366</key>
+		<dict>
+			<key>Track ID</key><integer>16366</integer>
+			<key>Name</key><string>星の消えた夜に</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Aimer</string>
+			<key>Album</key><string>RE-I AM EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>14596700</integer>
+			<key>Total Time</key><integer>356008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>103</integer>
+			<key>Date Modified</key><date>2026-01-07T18:54:41Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851356246</integer>
+			<key>Play Date UTC</key><date>2026-01-16T03:10:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-13T05:08:30Z</date>
+			<key>Release Date</key><date>2013-03-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2587</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B3A1282BBAF52BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/RE-I%20AM%20EP/02%20%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16368</key>
+		<dict>
+			<key>Track ID</key><integer>16368</integer>
+			<key>Name</key><string>星屑ビーナス</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>あなたに出会わなければ〜夏雪冬花〜 - 星屑ビーナス - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10383090</integer>
+			<key>Total Time</key><integer>252772</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T17:25:49Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3854438029</integer>
+			<key>Play Date UTC</key><date>2026-02-20T19:13:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-10-17T07:22:23Z</date>
+			<key>Release Date</key><date>2012-08-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4971</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8DF421EBA4B128E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB%E5%87%BA%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%80%9C%E5%A4%8F%E9%9B%AA%E5%86%AC%E8%8A%B1%E3%80%9C%20-%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9%20-%20Single/02%20%E6%98%9F%E5%B1%91%E3%83%93%E3%83%BC%E3%83%8A%E3%82%B9.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16370</key>
+		<dict>
+			<key>Track ID</key><integer>16370</integer>
+			<key>Name</key><string>朝が来る</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Yuki Kajiura</string>
+			<key>Album</key><string>残響散歌 - 朝が来る - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11948480</integer>
+			<key>Total Time</key><integer>294986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Date Modified</key><date>2026-01-07T19:37:24Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855132792</integer>
+			<key>Play Date UTC</key><date>2026-02-28T20:13:12Z</date>
+			<key>Release Date</key><date>2022-01-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5900</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4ED490CC770F2B68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C%20-%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B%20-%20EP/02%20%E6%9C%9D%E3%81%8C%E6%9D%A5%E3%82%8B.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16374</key>
+		<dict>
+			<key>Track ID</key><integer>16374</integer>
+			<key>Name</key><string>白昼夢</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>誰か、海を。 EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12021588</integer>
+			<key>Total Time</key><integer>296217</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-01-07T21:17:31Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853654379</integer>
+			<key>Play Date UTC</key><date>2026-02-11T17:32:59Z</date>
+			<key>Release Date</key><date>2014-09-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2941</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EFB98534C937E8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%20EP/02%20%E7%99%BD%E6%98%BC%E5%A4%A2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16376</key>
+		<dict>
+			<key>Track ID</key><integer>16376</integer>
+			<key>Name</key><string>眠りの森</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>Midnight Sun</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11116457</integer>
+			<key>Total Time</key><integer>273415</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-01-07T21:48:19Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852378220</integer>
+			<key>Play Date UTC</key><date>2026-01-27T23:03:40Z</date>
+			<key>Release Date</key><date>2013-08-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5195</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>070986780A865C89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Midnight%20Sun/02%20%E7%9C%A0%E3%82%8A%E3%81%AE%E6%A3%AE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16382</key>
+		<dict>
+			<key>Track ID</key><integer>16382</integer>
+			<key>Name</key><string>花の唄</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>梶浦由記</string>
+			<key>Album</key><string>ONE - 花の唄 - 六等星の夜 Magic Blue ver. - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>15007568</integer>
+			<key>Total Time</key><integer>373493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T19:27:16Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3845298454</integer>
+			<key>Play Date UTC</key><date>2025-11-07T00:27:34Z</date>
+			<key>Release Date</key><date>2017-10-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7252</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>846FE4DD058981C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/ONE%20-%20%E8%8A%B1%E3%81%AE%E5%94%84%20-%20%E5%85%AD%E7%AD%89%E6%98%9F%E3%81%AE%E5%A4%9C%20Magic%20Blue%20ver.%20-%20EP/02%20%E8%8A%B1%E3%81%AE%E5%94%84.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16386</key>
+		<dict>
+			<key>Track ID</key><integer>16386</integer>
+			<key>Name</key><string>花びらたちのマーチ</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>I beg you - 花びらたちのマーチ - Sailing - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7928501</integer>
+			<key>Total Time</key><integer>194955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T19:36:49Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850335399</integer>
+			<key>Play Date UTC</key><date>2026-01-04T07:36:39Z</date>
+			<key>Release Date</key><date>2019-01-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3586</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>238A14337561CA08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/I%20beg%20you%20-%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81%20-%20Sailing%20-%20EP/02%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16402</key>
+		<dict>
+			<key>Track ID</key><integer>16402</integer>
+			<key>Name</key><string>Ash flame</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Kazumasa Nagasawa</string>
+			<key>Album</key><string>SPARK-AGAIN - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9264544</integer>
+			<key>Total Time</key><integer>228368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T18:30:37Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852117696</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:41:36Z</date>
+			<key>Release Date</key><date>2020-09-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7798</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CBBD11AA4F460D01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/SPARK-AGAIN%20-%20EP/03%20Ash%20flame.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16410</key>
+		<dict>
+			<key>Track ID</key><integer>16410</integer>
+			<key>Name</key><string>Daisy</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Rui Momota</string>
+			<key>Album</key><string>Torches - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10620390</integer>
+			<key>Total Time</key><integer>262478</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T21:40:36Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3848306178</integer>
+			<key>Play Date UTC</key><date>2025-12-11T19:56:18Z</date>
+			<key>Release Date</key><date>2019-08-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3761</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E5C7CD74ACFF81D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Torches%20-%20EP/03%20Daisy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16418</key>
+		<dict>
+			<key>Track ID</key><integer>16418</integer>
+			<key>Name</key><string>for ロンリー</string>
+			<key>Artist</key><string>Aimer with 阿部真央</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>阿部真央</string>
+			<key>Album</key><string>誰か、海を。 EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11786734</integer>
+			<key>Total Time</key><integer>292641</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-01-07T20:39:22Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851962942</integer>
+			<key>Play Date UTC</key><date>2026-01-23T03:42:22Z</date>
+			<key>Release Date</key><date>2014-09-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6156</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFEF369683AC1DA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E8%AA%B0%E3%81%8B%E3%80%81%E6%B5%B7%E3%82%92%E3%80%82%20EP/03%20for%20%E3%83%AD%E3%83%B3%E3%83%AA%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16450</key>
+		<dict>
+			<key>Track ID</key><integer>16450</integer>
+			<key>Name</key><string>Run Riot</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Kazuma Nagasawa</string>
+			<key>Album</key><string>春はゆく - marie - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10416592</integer>
+			<key>Total Time</key><integer>256255</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>172</integer>
+			<key>Date Modified</key><date>2026-01-07T20:46:01Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3847088779</integer>
+			<key>Play Date UTC</key><date>2025-11-27T17:46:19Z</date>
+			<key>Release Date</key><date>2020-03-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D1C2DA5EA207A22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%98%A5%E3%81%AF%E3%82%86%E3%81%8F%20-%20marie%20-%20EP/03%20Run%20Riot.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16452</key>
+		<dict>
+			<key>Track ID</key><integer>16452</integer>
+			<key>Name</key><string>Sailing</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>I beg you - 花びらたちのマーチ - Sailing - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13347816</integer>
+			<key>Total Time</key><integer>338013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2025-11-29T06:43:18Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>312</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853660482</integer>
+			<key>Play Date UTC</key><date>2026-02-11T19:14:42Z</date>
+			<key>Release Date</key><date>2019-01-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6153</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26611CD516DAA54C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/I%20beg%20you%20-%20%E8%8A%B1%E3%81%B3%E3%82%89%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%9E%E3%83%BC%E3%83%81%20-%20Sailing%20-%20EP/03%20Sailing.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16454</key>
+		<dict>
+			<key>Track ID</key><integer>16454</integer>
+			<key>Name</key><string>tone</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>春尾ヨシダ</string>
+			<key>Album</key><string>insane dream - us - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11722733</integer>
+			<key>Total Time</key><integer>287927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>72</integer>
+			<key>Date Modified</key><date>2026-01-07T20:01:52Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:16Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855929012</integer>
+			<key>Play Date UTC</key><date>2026-03-10T01:23:32Z</date>
+			<key>Release Date</key><date>2016-07-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7353</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7CDEFF45E5C7D3A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/insane%20dream%20-%20us%20-%20Single/03%20tone.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16482</key>
+		<dict>
+			<key>Track ID</key><integer>16482</integer>
+			<key>Name</key><string>今日から思い出</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>Aimer</string>
+			<key>Album</key><string>RE-I AM EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12311930</integer>
+			<key>Total Time</key><integer>306387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T18:08:33Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:17Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852057184</integer>
+			<key>Play Date UTC</key><date>2026-01-24T05:53:04Z</date>
+			<key>Release Date</key><date>2013-03-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38F3FC7C09723C85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/RE-I%20AM%20EP/03%20%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E6%80%9D%E3%81%84%E5%87%BA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16644</key>
+		<dict>
+			<key>Track ID</key><integer>16644</integer>
+			<key>Name</key><string>Noir! Noir!</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>DAIKI, Tamai Kenji</string>
+			<key>Album</key><string>DAWN</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9907306</integer>
+			<key>Total Time</key><integer>243159</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-01-07T19:31:54Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:18Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3847091851</integer>
+			<key>Play Date UTC</key><date>2025-11-27T18:37:31Z</date>
+			<key>Release Date</key><date>2015-07-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5586</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFCFDC387D65B6CE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/DAWN/05%20Noir!%20Noir!.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16704</key>
+		<dict>
+			<key>Track ID</key><integer>16704</integer>
+			<key>Name</key><string>AM03-00</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>give me wallets</string>
+			<key>Album</key><string>Midnight Sun</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>14798543</integer>
+			<key>Total Time</key><integer>358725</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>91</integer>
+			<key>Date Modified</key><date>2026-01-07T22:07:52Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:18Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852297776</integer>
+			<key>Play Date UTC</key><date>2026-01-27T00:42:56Z</date>
+			<key>Release Date</key><date>2014-06-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A39FDAE5278E91C9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/Midnight%20Sun/06%20AM03-00.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16768</key>
+		<dict>
+			<key>Track ID</key><integer>16768</integer>
+			<key>Name</key><string>AM04-00</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>give me wallets</string>
+			<key>Album</key><string>DAWN</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11062799</integer>
+			<key>Total Time</key><integer>272695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>96</integer>
+			<key>Date Modified</key><date>2026-01-07T20:52:36Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:19Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852613494</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:24:54Z</date>
+			<key>Release Date</key><date>2015-07-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4558</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1ABADDF18FDFE6C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/DAWN/07%20AM04-00.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>16890</key>
+		<dict>
+			<key>Track ID</key><integer>16890</integer>
+			<key>Name</key><string>LAST STARDUST</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Composer</key><string>飛内将大</string>
+			<key>Album</key><string>DAWN</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12737089</integer>
+			<key>Total Time</key><integer>318717</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-01-07T19:49:47Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:20Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3844180094</integer>
+			<key>Play Date UTC</key><date>2025-10-25T00:48:14Z</date>
+			<key>Release Date</key><date>2015-07-29T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8301</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0700A46F03D00647</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/DAWN/09%20LAST%20STARDUST.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17046</key>
+		<dict>
+			<key>Track ID</key><integer>17046</integer>
+			<key>Name</key><string>s-AVE</string>
+			<key>Artist</key><string>SawanoHiroyuki[nZk] feat. Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>BEST SELECTION 'noir'</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11119348</integer>
+			<key>Total Time</key><integer>276410</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-01-07T20:34:22Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:21Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845297177</integer>
+			<key>Play Date UTC</key><date>2025-11-07T00:06:17Z</date>
+			<key>Release Date</key><date>2015-09-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7716</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>261296065700A1FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/BEST%20SELECTION%20'noir'/12%20s-AVE.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17074</key>
+		<dict>
+			<key>Track ID</key><integer>17074</integer>
+			<key>Name</key><string>March of Time</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>BEST SELECTION 'blanc'</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11895554</integer>
+			<key>Total Time</key><integer>296658</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-01-07T20:10:20Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:22Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3843130106</integer>
+			<key>Play Date UTC</key><date>2025-10-12T21:08:26Z</date>
+			<key>Release Date</key><date>2017-05-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6717</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B99746C7451347B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/BEST%20SELECTION%20'blanc'/13%20March%20of%20Time.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17126</key>
+		<dict>
+			<key>Track ID</key><integer>17126</integer>
+			<key>Name</key><string>zero</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>BEST SELECTION 'noir'</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7629325</integer>
+			<key>Total Time</key><integer>188801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-01-07T19:24:30Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:22Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3843645900</integer>
+			<key>Play Date UTC</key><date>2025-10-18T20:25:00Z</date>
+			<key>Release Date</key><date>2017-05-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11586</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02BD3343216BE0B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/BEST%20SELECTION%20'noir'/14%20zero.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>17162</key>
+		<dict>
+			<key>Track ID</key><integer>17162</integer>
+			<key>Name</key><string>ONE AND LAST</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>星の消えた夜に</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11724792</integer>
+			<key>Total Time</key><integer>287509</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T18:10:57Z</date>
+			<key>Date Added</key><date>2025-02-10T01:51:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851445899</integer>
+			<key>Play Date UTC</key><date>2026-01-17T04:04:59Z</date>
+			<key>Release Date</key><date>2021-12-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7431</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27E64CFFAF16FCD2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E6%98%9F%E3%81%AE%E6%B6%88%E3%81%88%E3%81%9F%E5%A4%9C%E3%81%AB/16%20ONE%20AND%20LAST.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19398</key>
+		<dict>
+			<key>Track ID</key><integer>19398</integer>
+			<key>Name</key><string>やさしい舞踏会</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>SCOPE - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11677105</integer>
+			<key>Total Time</key><integer>294661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-01-07T19:22:29Z</date>
+			<key>Date Added</key><date>2025-02-22T20:12:32Z</date>
+			<key>Bit Rate</key><integer>314</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3846771521</integer>
+			<key>Play Date UTC</key><date>2025-11-24T01:38:41Z</date>
+			<key>Release Date</key><date>2025-02-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4115</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F6887395D3CBFF35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/SCOPE%20-%20Single/02%20%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E8%88%9E%E8%B8%8F%E4%BC%9A.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19646</key>
+		<dict>
+			<key>Track ID</key><integer>19646</integer>
+			<key>Name</key><string>Memento mori</string>
+			<key>Artist</key><string>Androp with Aimer</string>
+			<key>Album Artist</key><string>Androp</string>
+			<key>Composer</key><string>内澤崇仁</string>
+			<key>Album</key><string>Cocoon</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC comprado</string>
+			<key>Size</key><integer>19304949</integer>
+			<key>Total Time</key><integer>526696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>70</integer>
+			<key>Date Modified</key><date>2026-01-07T20:41:41Z</date>
+			<key>Date Added</key><date>2025-02-23T16:26:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3841859595</integer>
+			<key>Play Date UTC</key><date>2025-09-28T04:13:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-07T19:59:42Z</date>
+			<key>Release Date</key><date>2018-03-07T08:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11606</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E519D55EAEE0E131</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Androp/Cocoon/12%20Memento%20mori.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>20602</key>
+		<dict>
+			<key>Track ID</key><integer>20602</integer>
+			<key>Name</key><string>ベッド</string>
+			<key>Artist</key><string>Galileo Galilei Feat. Aimer</string>
+			<key>Album Artist</key><string>Galileo Galilei</string>
+			<key>Composer</key><string>尾崎雄貴</string>
+			<key>Album</key><string>Sea and The Darkness</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9191363</integer>
+			<key>Total Time</key><integer>226951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>149</integer>
+			<key>Date Modified</key><date>2026-01-07T17:18:24Z</date>
+			<key>Date Added</key><date>2025-02-23T20:06:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855139482</integer>
+			<key>Play Date UTC</key><date>2026-02-28T22:04:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8997</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>478546592914E718</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Galileo%20Galilei/Sea%20and%20The%20Darkness/05%20%E3%83%99%E3%83%83%E3%83%89.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27898</key>
+		<dict>
+			<key>Track ID</key><integer>27898</integer>
+			<key>Name</key><string>太陽が昇らない世界 - A World Where the Sun Never Rises</string>
+			<key>Artist</key><string>Aimer</string>
+			<key>Album Artist</key><string>Aimer</string>
+			<key>Album</key><string>太陽が昇らない世界 - A World Where the Sun Never Rises - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5538758</integer>
+			<key>Total Time</key><integer>170422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T17:04:20Z</date>
+			<key>Date Added</key><date>2025-07-19T16:37:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853845478</integer>
+			<key>Play Date UTC</key><date>2026-02-13T22:37:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCF20C263548DA55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aimer/%E5%A4%AA%E9%99%BD%E3%81%8C%E6%98%87%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%20-%20A%20World%20Where%20the%20Sun%20Never/01%20%E5%A4%AA%E9%99%BD%E3%81%8C%E6%98%87%E3%82%89%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%20-%20A%20World%20Where%20the%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Aimer</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>113227</integer>
+			<key>Playlist Persistent ID</key><string>C584B126F5FCC4FD</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA25TTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAoAQQBpAG0AZQByAAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAEAAAAA
+			AAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAEUAcwAgAGwAaQB2
+			AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAACAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBtACAAVABoAGUAIABGAGkAcgBz
+			AHQAIABUAGEAawBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBl
+			AG4AdABhAGwAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAFgBFAHMAIAByAGUAcABlAHQAaQBkAGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBFAHMAIABUAFYAIABWAGUAcg==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16368</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16482</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16238</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16224</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4680</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16376</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16890</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4730</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4848</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4838</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4866</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4876</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17162</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4734</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19646</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27898</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

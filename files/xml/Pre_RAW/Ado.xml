@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-03-10T05:46:25Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4526</key>
+		<dict>
+			<key>Track ID</key><integer>4526</integer>
+			<key>Name</key><string>ドライフラワー</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9329863</integer>
+			<key>Total Time</key><integer>288914</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-02-20T21:16:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855931763</integer>
+			<key>Play Date UTC</key><date>2026-03-10T02:09:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6239</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>231AD0DF37853FD8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/01%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4528</key>
+		<dict>
+			<key>Track ID</key><integer>4528</integer>
+			<key>Name</key><string>飾りじゃないのよ涙は</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8171291</integer>
+			<key>Total Time</key><integer>252708</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-02-21T06:26:13Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3851931426</integer>
+			<key>Play Date UTC</key><date>2026-01-22T18:57:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9618</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1BE817E3E054AF4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/02%20%E9%A3%BE%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%82%88%E6%B6%99%E3%81%AF.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4530</key>
+		<dict>
+			<key>Track ID</key><integer>4530</integer>
+			<key>Name</key><string>愛して 愛して 愛して</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Kikuo</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8356864</integer>
+			<key>Total Time</key><integer>258507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-02-20T21:16:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3842283880</integer>
+			<key>Play Date UTC</key><date>2025-10-03T02:04:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11299</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1677AC31F75FA944</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/03%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4534</key>
+		<dict>
+			<key>Track ID</key><integer>4534</integer>
+			<key>Name</key><string>可愛くてごめん</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7101306</integer>
+			<key>Total Time</key><integer>219271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-02-20T21:17:53Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853323301</integer>
+			<key>Play Date UTC</key><date>2026-02-07T21:35:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11204</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C8A1F414C330436</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/05%20%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4540</key>
+		<dict>
+			<key>Track ID</key><integer>4540</integer>
+			<key>Name</key><string>unravel</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Tōru Kitajima</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7716534</integer>
+			<key>Total Time</key><integer>238497</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-02-20T21:16:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3845707321</integer>
+			<key>Play Date UTC</key><date>2025-11-11T18:02:01Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12369</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA66767F6218BD15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/08%20unravel.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4542</key>
+		<dict>
+			<key>Track ID</key><integer>4542</integer>
+			<key>Name</key><string>ブリキノダンス</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Hinatadenkou</string>
+			<key>Album</key><string>Adoの歌ってみたアルバム</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6452634</integer>
+			<key>Total Time</key><integer>199000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>172</integer>
+			<key>Date Modified</key><date>2026-02-20T21:16:27Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853232431</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:20:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>15169</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>51E0F1BFE8B4DBFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/09%20%E3%83%96%E3%83%AA%E3%82%AD%E3%83%8E%E3%83%80%E3%83%B3%E3%82%B9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4546</key>
+		<dict>
+			<key>Track ID</key><integer>4546</integer>
+			<key>Name</key><string>MIRROR</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>CHINOZO</string>
+			<key>Album</key><string>MIRROR - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5816637</integer>
+			<key>Total Time</key><integer>178102</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T20:36:44Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3851874200</integer>
+			<key>Play Date UTC</key><date>2026-01-22T03:03:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3972EB07B7D1409E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/MIRROR%20-%20Single/01%20MIRROR.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4548</key>
+		<dict>
+			<key>Track ID</key><integer>4548</integer>
+			<key>Name</key><string>Value</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>ポリスピカデリー</string>
+			<key>Album</key><string>Value - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5967774</integer>
+			<key>Total Time</key><integer>185129</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2025-10-17T06:58:07Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852354104</integer>
+			<key>Play Date UTC</key><date>2026-01-27T16:21:44Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7385</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4512D3B966F86D9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Value%20-%20Single/01%20Value.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11868</key>
+		<dict>
+			<key>Track ID</key><integer>11868</integer>
+			<key>Name</key><string>Take Me to the Beach</string>
+			<key>Artist</key><string>Imagine Dragons feat. Ado</string>
+			<key>Album Artist</key><string>Imagine Dragons feat. Ado</string>
+			<key>Composer</key><string>Ben McKee</string>
+			<key>Album</key><string>Take Me to the Beach - Single</string>
+			<key>Genre</key><string>Alternativa</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6821923</integer>
+			<key>Total Time</key><integer>167000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T17:49:36Z</date>
+			<key>Date Added</key><date>2024-12-17T03:33:55Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3853232951</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:29:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-03-29T00:00:34Z</date>
+			<key>Release Date</key><date>2024-12-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6388</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>542CE6EDB3D82A59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Imagine%20Dragons%20feat.%20Ado/Take%20Me%20to%20the%20Beach%20-%20Single/01%20Take%20Me%20to%20the%20Beach.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11928</key>
+		<dict>
+			<key>Track ID</key><integer>11928</integer>
+			<key>Name</key><string>Episode X</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>Episode X</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8534720</integer>
+			<key>Total Time</key><integer>203023</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-01-07T19:57:54Z</date>
+			<key>Date Added</key><date>2025-01-15T21:39:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851952455</integer>
+			<key>Play Date UTC</key><date>2026-01-23T00:47:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>18617</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A483D3609EFB06F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Episode%20X/01%20Episode%20X.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11938</key>
+		<dict>
+			<key>Track ID</key><integer>11938</integer>
+			<key>Name</key><string>ウタカタララバイ</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Ado</string>
+			<key>Album</key><string>ウタの歌 ONE PIECE FILM RED</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9094832</integer>
+			<key>Total Time</key><integer>173426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-01-07T22:00:18Z</date>
+			<key>Date Added</key><date>2025-01-15T22:34:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853232598</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:23:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13325</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8357CC4DAE134B36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/04%20%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11940</key>
+		<dict>
+			<key>Track ID</key><integer>11940</integer>
+			<key>Name</key><string>Tot Musica</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Ado</string>
+			<key>Album</key><string>ウタの歌 ONE PIECE FILM RED</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9969416</integer>
+			<key>Total Time</key><integer>195291</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-01-07T22:11:19Z</date>
+			<key>Date Added</key><date>2025-01-15T22:34:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3850564757</integer>
+			<key>Play Date UTC</key><date>2026-01-06T23:19:17Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9569</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C42BEA355483EFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/05%20Tot%20Musica.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11966</key>
+		<dict>
+			<key>Track ID</key><integer>11966</integer>
+			<key>Name</key><string>心という名の不可解</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Ado</string>
+			<key>Album</key><string>狂言</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>11485877</integer>
+			<key>Total Time</key><integer>269949</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>76</integer>
+			<key>Date Modified</key><date>2026-01-07T19:42:04Z</date>
+			<key>Date Added</key><date>2025-01-15T23:20:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3850475769</integer>
+			<key>Play Date UTC</key><date>2026-01-05T22:36:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9885</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>268C0DC875392CDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E7%8B%82%E8%A8%80/10%20%E5%BF%83%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%A7%A3.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11976</key>
+		<dict>
+			<key>Track ID</key><integer>11976</integer>
+			<key>Name</key><string>ルル</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Ado</string>
+			<key>Album</key><string>ルル</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8086939</integer>
+			<key>Total Time</key><integer>197929</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T17:41:44Z</date>
+			<key>Date Added</key><date>2025-01-15T23:20:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853232790</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:26:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>18321</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98A7D3E8A3A1C685</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AB%E3%83%AB/01%20%E3%83%AB%E3%83%AB.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11978</key>
+		<dict>
+			<key>Track ID</key><integer>11978</integer>
+			<key>Name</key><string>唱</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Giga &#38; TeddyLoid</string>
+			<key>Album</key><string>唱</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7806068</integer>
+			<key>Total Time</key><integer>189831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-07T20:51:03Z</date>
+			<key>Date Added</key><date>2025-01-15T23:20:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855739758</integer>
+			<key>Play Date UTC</key><date>2026-03-07T20:49:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>22203</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A35CF35D9E9E35B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%94%B1/01%20%E5%94%B1.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12004</key>
+		<dict>
+			<key>Track ID</key><integer>12004</integer>
+			<key>Name</key><string>踊</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>TeddyLoid/Giga</string>
+			<key>Album</key><string>踊</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8505125</integer>
+			<key>Total Time</key><integer>208326</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-01-07T17:53:23Z</date>
+			<key>Date Added</key><date>2025-01-15T23:30:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853497043</integer>
+			<key>Play Date UTC</key><date>2026-02-09T21:50:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-02-17T23:43:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>19595</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC221A2E464EA1FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E8%B8%8A/01%20%E8%B8%8A.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15360</key>
+		<dict>
+			<key>Track ID</key><integer>15360</integer>
+			<key>Name</key><string>エルフ</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>みゆはん</string>
+			<key>Album</key><string>エルフ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10621215</integer>
+			<key>Total Time</key><integer>260435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-02-20T21:32:04Z</date>
+			<key>Date Added</key><date>2025-01-25T15:28:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3849352103</integer>
+			<key>Play Date UTC</key><date>2025-12-23T22:28:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-13T18:53:09Z</date>
+			<key>Release Date</key><date>2025-01-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7891</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D78BC250584D00A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%AB%E3%83%95%20-%20Single/01%20%E3%82%A8%E3%83%AB%E3%83%95.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15396</key>
+		<dict>
+			<key>Track ID</key><integer>15396</integer>
+			<key>Name</key><string>初夏</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Ado</string>
+			<key>Album</key><string>初夏 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9252272</integer>
+			<key>Total Time</key><integer>228531</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-02-20T21:28:17Z</date>
+			<key>Date Added</key><date>2025-01-25T15:36:41Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3845455562</integer>
+			<key>Play Date UTC</key><date>2025-11-08T20:06:02Z</date>
+			<key>Release Date</key><date>2024-10-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15620</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9C73EB370A03D9C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%88%9D%E5%A4%8F%20-%20Single/01%20%E5%88%9D%E5%A4%8F.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>25682</key>
+		<dict>
+			<key>Track ID</key><integer>25682</integer>
+			<key>Name</key><string>十戒（1984）</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Masayoshi Takanaka</string>
+			<key>Album</key><string>十戒（1984） - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6975689</integer>
+			<key>Total Time</key><integer>214439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>75</integer>
+			<key>Date Modified</key><date>2026-02-20T21:37:20Z</date>
+			<key>Date Added</key><date>2025-05-01T17:18:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3852719443</integer>
+			<key>Play Date UTC</key><date>2026-01-31T21:50:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-02-21T18:38:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7759</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9FC9A1E9B2DC389D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89%20-%20Single/01%20%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26522</key>
+		<dict>
+			<key>Track ID</key><integer>26522</integer>
+			<key>Name</key><string>会いたくて</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>mewhan</string>
+			<key>Album</key><string>会いたくて - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9557502</integer>
+			<key>Total Time</key><integer>294661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-02-17T03:59:19Z</date>
+			<key>Date Added</key><date>2025-05-19T19:37:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853322405</integer>
+			<key>Play Date UTC</key><date>2026-02-07T21:20:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14760</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>592315F9353F21F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%20-%20Single/01%20%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26528</key>
+		<dict>
+			<key>Track ID</key><integer>26528</integer>
+			<key>Name</key><string>レディメイド</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Three</string>
+			<key>Album</key><string>レディメイド - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7913989</integer>
+			<key>Total Time</key><integer>244506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-02-20T20:43:27Z</date>
+			<key>Date Added</key><date>2025-05-19T19:37:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3853620443</integer>
+			<key>Play Date UTC</key><date>2026-02-11T08:07:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12870</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2254D861FEE4A652</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89%20-%20Single/01%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26532</key>
+		<dict>
+			<key>Track ID</key><integer>26532</integer>
+			<key>Name</key><string>うっせぇわ</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>syudou</string>
+			<key>Album</key><string>うっせぇわ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6629992</integer>
+			<key>Total Time</key><integer>205061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-02-20T20:41:50Z</date>
+			<key>Date Added</key><date>2025-05-19T19:37:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853233342</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:35:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15693</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A49777E64A94DF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F%20-%20Single/01%20%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26542</key>
+		<dict>
+			<key>Track ID</key><integer>26542</integer>
+			<key>Name</key><string>阿修羅ちゃん</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Neru</string>
+			<key>Album</key><string>阿修羅ちゃん - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6386655</integer>
+			<key>Total Time</key><integer>196414</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>156</integer>
+			<key>Date Modified</key><date>2026-02-20T20:47:45Z</date>
+			<key>Date Added</key><date>2025-05-19T19:43:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853307367</integer>
+			<key>Play Date UTC</key><date>2026-02-07T17:09:27Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9730</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E04674937FF086D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93%20-%20Single/01%20%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26544</key>
+		<dict>
+			<key>Track ID</key><integer>26544</integer>
+			<key>Name</key><string>千本桜</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Kurousa</string>
+			<key>Album</key><string>千本桜 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7878629</integer>
+			<key>Total Time</key><integer>241684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>77</integer>
+			<key>Date Modified</key><date>2026-02-20T20:49:37Z</date>
+			<key>Date Added</key><date>2025-05-19T19:52:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3842295214</integer>
+			<key>Play Date UTC</key><date>2025-10-03T05:13:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-14T02:56:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7219</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50AFC8D7131319C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%83%E6%9C%AC%E6%A1%9C%20-%20Single/01%20%E5%8D%83%E6%9C%AC%E6%A1%9C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26546</key>
+		<dict>
+			<key>Track ID</key><integer>26546</integer>
+			<key>Name</key><string>逆光 (UTA from ONE PIECE FILM RED)</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>VAUNDY</string>
+			<key>Album</key><string>逆光 (UTA from ONE PIECE FILM RED) - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7746393</integer>
+			<key>Total Time</key><integer>237975</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-02-20T20:41:29Z</date>
+			<key>Date Added</key><date>2025-05-19T19:52:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3843583110</integer>
+			<key>Play Date UTC</key><date>2025-10-18T02:58:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-20T20:28:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11766</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA65CE7984DCE5C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Singl/01%20%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26552</key>
+		<dict>
+			<key>Track ID</key><integer>26552</integer>
+			<key>Name</key><string>アタシは問題作</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>PinocchioP</string>
+			<key>Album</key><string>アタシは問題作 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6307291</integer>
+			<key>Total Time</key><integer>194638</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-02-20T21:08:34Z</date>
+			<key>Date Added</key><date>2025-05-19T19:52:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853233140</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:32:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6356</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82F3161FFED1C2C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C%20-%20Single/01%20%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26558</key>
+		<dict>
+			<key>Track ID</key><integer>26558</integer>
+			<key>Name</key><string>新時代 (UTA from ONE PIECE FILM RED)</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>Yasutaka Nakata</string>
+			<key>Album</key><string>新時代 (UTA from ONE PIECE FILM RED) - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7413394</integer>
+			<key>Total Time</key><integer>228336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>175</integer>
+			<key>Date Modified</key><date>2026-02-23T01:33:17Z</date>
+			<key>Date Added</key><date>2025-05-19T19:52:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842203282</integer>
+			<key>Play Date UTC</key><date>2025-10-02T03:41:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-20T20:39:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9817</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>新時代</string>
+			<key>Persistent ID</key><string>1BCD05E10D1F3950</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Sing/01%20%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26564</key>
+		<dict>
+			<key>Track ID</key><integer>26564</integer>
+			<key>Name</key><string>クラクラ</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Composer</key><string>meiyo</string>
+			<key>Album</key><string>クラクラ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6227229</integer>
+			<key>Total Time</key><integer>191242</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-02-20T21:13:05Z</date>
+			<key>Date Added</key><date>2025-05-19T19:54:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852109372</integer>
+			<key>Play Date UTC</key><date>2026-01-24T20:22:52Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8562</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>014D28E55CB2A348</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9%20-%20Single/01%20%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26568</key>
+		<dict>
+			<key>Track ID</key><integer>26568</integer>
+			<key>Name</key><string>シャルル</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>シャルル - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7276878</integer>
+			<key>Total Time</key><integer>224417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>148</integer>
+			<key>Date Modified</key><date>2026-02-20T22:00:55Z</date>
+			<key>Date Added</key><date>2025-05-19T19:54:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849284217</integer>
+			<key>Play Date UTC</key><date>2025-12-23T03:36:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15054</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D07CBDD59A8CDF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB%20-%20Single/01%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26574</key>
+		<dict>
+			<key>Track ID</key><integer>26574</integer>
+			<key>Name</key><string>フールフールフール</string>
+			<key>Artist</key><string>おくのほそみち feat. Ado</string>
+			<key>Album Artist</key><string>おくのほそみち feat. Ado</string>
+			<key>Album</key><string>フールフールフール - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6279348</integer>
+			<key>Total Time</key><integer>193123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T19:31:41Z</date>
+			<key>Date Added</key><date>2025-05-19T20:11:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855306298</integer>
+			<key>Play Date UTC</key><date>2026-03-02T20:24:58Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5190</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D9327C15C095C820</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E3%81%8A%E3%81%8F%E3%81%AE%E3%81%BB%E3%81%9D%E3%81%BF%E3%81%A1%20feat.%20Ado/%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%20-%20Single/01%20%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26832</key>
+		<dict>
+			<key>Track ID</key><integer>26832</integer>
+			<key>Name</key><string>Stay Gold (From 'Beyblade X')</string>
+			<key>Artist</key><string>Jax Jones &#38; Ado</string>
+			<key>Album Artist</key><string>Jax Jones &#38; Ado</string>
+			<key>Composer</key><string>Timucin Lam, Frank Nobel, HighT &#38; Emma Bertilsson</string>
+			<key>Album</key><string>Stay Gold (From 'BEYBLADE X') - Single</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6683260</integer>
+			<key>Total Time</key><integer>206315</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-01-07T17:37:37Z</date>
+			<key>Date Added</key><date>2025-06-16T18:37:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3852791110</integer>
+			<key>Play Date UTC</key><date>2026-02-01T17:45:10Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10821</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5FE169911FB401BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Jax%20Jones%20&#38;%20Ado/Stay%20Gold%20(From%20'BEYBLADE%20X')%20-%20Single/01%20Stay%20Gold%20(From%20'Beyblade%20X').mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28772</key>
+		<dict>
+			<key>Track ID</key><integer>28772</integer>
+			<key>Name</key><string>CAT'S EYE</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>CAT'S EYE - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5888314</integer>
+			<key>Total Time</key><integer>180767</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-01-07T18:56:25Z</date>
+			<key>Date Added</key><date>2025-09-13T09:22:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851437993</integer>
+			<key>Play Date UTC</key><date>2026-01-17T01:53:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11956</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>06B29E4EDE243CCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/CAT'S%20EYE%20-%20Single/01%20CAT'S%20EYE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>32940</key>
+		<dict>
+			<key>Track ID</key><integer>32940</integer>
+			<key>Name</key><string>MAGIC</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>MAGIC - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7116047</integer>
+			<key>Total Time</key><integer>172362</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2026-01-07T18:22:35Z</date>
+			<key>Date Added</key><date>2025-10-31T17:32:11Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3848301495</integer>
+			<key>Play Date UTC</key><date>2025-12-11T18:38:15Z</date>
+			<key>Release Date</key><date>2025-10-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12072</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B83B867B17B81334</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/MAGIC%20-%20Single/01%20MAGIC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34222</key>
+		<dict>
+			<key>Track ID</key><integer>34222</integer>
+			<key>Name</key><string>soldier game</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>soldier game - Single</string>
+			<key>Genre</key><string>Anime</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>31467544</integer>
+			<key>Total Time</key><integer>221360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-01-16T18:12:06Z</date>
+			<key>Date Added</key><date>2026-01-16T16:19:53Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3851407761</integer>
+			<key>Play Date UTC</key><date>2026-01-16T17:29:21Z</date>
+			<key>Release Date</key><date>2026-01-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13751</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41398D8DED75B0EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/soldier%20game%20-%20Single/01%20soldier%20game.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34936</key>
+		<dict>
+			<key>Track ID</key><integer>34936</integer>
+			<key>Name</key><string>エンゼルシーク</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>エンゼルシーク - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>34368842</integer>
+			<key>Total Time</key><integer>229459</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-02-20T22:06:41Z</date>
+			<key>Date Added</key><date>2026-01-27T02:15:43Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3852305911</integer>
+			<key>Play Date UTC</key><date>2026-01-27T02:58:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-31T17:01:00Z</date>
+			<key>Release Date</key><date>2026-01-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>22418</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8EA4892C511786B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF%20-%20Single/01%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>182497</key>
+		<dict>
+			<key>Track ID</key><integer>182497</integer>
+			<key>Name</key><string>Radio Noise</string>
+			<key>Artist</key><string>ミコ吉 feat Ado</string>
+			<key>Album Artist</key><string>ミコ吉 feat Ado</string>
+			<key>Album</key><string>Radio Noise - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>60459497</integer>
+			<key>Total Time</key><integer>288368</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-03-10T05:41:41Z</date>
+			<key>Date Added</key><date>2026-03-09T19:19:32Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3855921621</integer>
+			<key>Play Date UTC</key><date>2026-03-09T23:20:21Z</date>
+			<key>Release Date</key><date>2021-02-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F441F25A4699B9E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E3%83%9F%E3%82%B3%E5%90%89%20feat%20Ado/Radio%20Noise%20-%20Single/01%20Radio%20Noise.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>182504</key>
+		<dict>
+			<key>Track ID</key><integer>182504</integer>
+			<key>Name</key><string>立ち入り禁止</string>
+			<key>Artist</key><string>Ayase &#38; Ado</string>
+			<key>Album</key><string>まふまふ トリビュートアルバム ～転生～</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48663683</integer>
+			<key>Total Time</key><integer>208886</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-03-10T05:41:32Z</date>
+			<key>Date Added</key><date>2026-03-09T19:19:32Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3855918547</integer>
+			<key>Play Date UTC</key><date>2026-03-09T22:29:07Z</date>
+			<key>Release Date</key><date>2022-03-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE32E72E85A9B7C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Compilations/%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5%20%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%20%EF%BD%9E%E8%BB%A2%E7%94%9F%EF%BD%9E/04%20%E7%AB%8B%E3%81%A1%E5%85%A5%E3%82%8A%E7%A6%81%E6%AD%A2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Ado</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>113147</integer>
+			<key>Playlist Persistent ID</key><string>30295C9EA3099F94</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7RTTHN0AAEAAQAAAAoAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAYAQQBkAG8AAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABt
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBzACAAbABpAHYAZQAA
+			AA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAW
+			AEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAAIDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQByAHMAdAAg
+			AFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBOAG8AIABlAHMAIABBAGQAbwAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAg
+			AGkAbgBzAHQAcgB1AG0AZQBuAHQAYQBsAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAcgBlAHAAZQB0AGkAZABhAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIARQBz
+			ACAAVABWACAAVgBlAHI=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>26532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26522</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11966</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26558</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11938</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11976</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11928</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15360</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28772</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>32940</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>182497</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-02-03T22:57:30Z</date>
+	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13862</key>
+		<dict>
+			<key>Track ID</key><integer>13862</integer>
+			<key>Name</key><string>Baseball Bat</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>ＳｉＭ</string>
+			<key>Album</key><string>Thank God, There Are Hundreds of Ways To Kill Enemies</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10145127</integer>
+			<key>Total Time</key><integer>246410</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T19:30:25Z</date>
+			<key>Date Added</key><date>2025-01-17T17:05:38Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3845730274</integer>
+			<key>Play Date UTC</key><date>2025-11-12T00:24:34Z</date>
+			<key>Release Date</key><date>2020-04-01T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>18410</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>62C2209693844A1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Thank%20God,%20There%20Are%20Hundreds%20of%20Ways%20To/05%20Baseball%20Bat.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13988</key>
+		<dict>
+			<key>Track ID</key><integer>13988</integer>
+			<key>Name</key><string>Boring People, Fucking Grays</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>Pandora</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8369726</integer>
+			<key>Total Time</key><integer>204614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-01-07T17:31:09Z</date>
+			<key>Date Added</key><date>2025-01-17T18:19:48Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847191963</integer>
+			<key>Play Date UTC</key><date>2025-11-28T22:26:03Z</date>
+			<key>Release Date</key><date>2013-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9160</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B402B8DD5EFE125D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Pandora/06%20Boring%20People,%20Fucking%20Grays.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14052</key>
+		<dict>
+			<key>Track ID</key><integer>14052</integer>
+			<key>Name</key><string>Rosso &#38; Dry</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>Pandora</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12273089</integer>
+			<key>Total Time</key><integer>299444</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>164</integer>
+			<key>Date Modified</key><date>2026-01-07T20:30:27Z</date>
+			<key>Date Added</key><date>2025-01-17T18:19:49Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3841340170</integer>
+			<key>Play Date UTC</key><date>2025-09-22T03:56:10Z</date>
+			<key>Release Date</key><date>2013-10-23T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6055</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>292C64BCD3F69D50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Pandora/09%20Rosso%20&#38;%20Dry.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14072</key>
+		<dict>
+			<key>Track ID</key><integer>14072</integer>
+			<key>Name</key><string>Captain Hook</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>ＳｉＭ</string>
+			<key>Album</key><string>Thank God, There Are Hundreds of Ways To Kill Enemies</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9061533</integer>
+			<key>Total Time</key><integer>219452</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T19:54:27Z</date>
+			<key>Date Added</key><date>2025-01-17T18:19:49Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845974302</integer>
+			<key>Play Date UTC</key><date>2025-11-14T20:11:42Z</date>
+			<key>Release Date</key><date>2020-06-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>15251</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>757683F24B0CF065</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Thank%20God,%20There%20Are%20Hundreds%20of%20Ways%20To/10%20Captain%20Hook.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14344</key>
+		<dict>
+			<key>Track ID</key><integer>14344</integer>
+			<key>Name</key><string>Red</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>邦楽</string>
+			<key>Album</key><string>Playdead (Deluxe Edition)</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9536611</integer>
+			<key>Total Time</key><integer>234220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-01-07T20:47:02Z</date>
+			<key>Date Added</key><date>2025-01-17T19:33:32Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840902542</integer>
+			<key>Play Date UTC</key><date>2025-09-17T02:22:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-09-17T02:13:59Z</date>
+			<key>Release Date</key><date>2023-07-14T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>16030</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2925E439F97C318</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Playdead%20(Deluxe%20Edition)/02%20Red.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14348</key>
+		<dict>
+			<key>Track ID</key><integer>14348</integer>
+			<key>Name</key><string>Sweet Dreams</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>邦楽</string>
+			<key>Album</key><string>Playdead (Deluxe Edition)</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8774823</integer>
+			<key>Total Time</key><integer>211000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T20:42:51Z</date>
+			<key>Date Added</key><date>2025-01-17T19:33:32Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3841227392</integer>
+			<key>Play Date UTC</key><date>2025-09-20T20:36:32Z</date>
+			<key>Release Date</key><date>2023-09-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>14475</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3C29C400F7FC856</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Playdead%20(Deluxe%20Edition)/04%20Sweet%20Dreams.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14352</key>
+		<dict>
+			<key>Track ID</key><integer>14352</integer>
+			<key>Name</key><string>Too Late</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>邦楽</string>
+			<key>Album</key><string>Playdead (Deluxe Edition)</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6629186</integer>
+			<key>Total Time</key><integer>161000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-01-07T21:24:38Z</date>
+			<key>Date Added</key><date>2025-01-17T19:33:32Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840903269</integer>
+			<key>Play Date UTC</key><date>2025-09-17T02:34:29Z</date>
+			<key>Release Date</key><date>2023-09-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10869</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67B593FEF8AF4AC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Playdead%20(Deluxe%20Edition)/06%20Too%20Late.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14364</key>
+		<dict>
+			<key>Track ID</key><integer>14364</integer>
+			<key>Name</key><string>Under the Tree</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>Playdead (Deluxe Edition)</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11066459</integer>
+			<key>Total Time</key><integer>271325</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-01-07T22:13:16Z</date>
+			<key>Date Added</key><date>2025-01-17T19:33:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847104604</integer>
+			<key>Play Date UTC</key><date>2025-11-27T22:10:04Z</date>
+			<key>Release Date</key><date>2023-09-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>13986</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55BEDCE72EAD22AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Playdead%20(Deluxe%20Edition)/12%20Under%20the%20Tree.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>19496</key>
+		<dict>
+			<key>Track ID</key><integer>19496</integer>
+			<key>Name</key><string>Champions</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Album</key><string>Champions - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9948208</integer>
+			<key>Total Time</key><integer>241673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>154</integer>
+			<key>Date Modified</key><date>2026-01-07T21:46:53Z</date>
+			<key>Date Added</key><date>2025-02-22T21:02:47Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3840904505</integer>
+			<key>Play Date UTC</key><date>2025-09-17T02:55:05Z</date>
+			<key>Release Date</key><date>2025-02-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13772</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A9155E88140A5B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Champions%20-%20Single/01%20Champions.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21812</key>
+		<dict>
+			<key>Track ID</key><integer>21812</integer>
+			<key>Name</key><string>Get up, Get up</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>LiFE and DEATH</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>9529407</integer>
+			<key>Total Time</key><integer>235990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>160</integer>
+			<key>Date Modified</key><date>2026-01-07T17:18:48Z</date>
+			<key>Date Added</key><date>2025-02-23T20:48:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3849285270</integer>
+			<key>Play Date UTC</key><date>2025-12-23T03:54:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>14130</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>62A0F8F866119859</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/LiFE%20and%20DEATH/01%20Get%20up,%20Get%20up.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21814</key>
+		<dict>
+			<key>Track ID</key><integer>21814</integer>
+			<key>Name</key><string>Amy</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>LiFE and DEATH</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8815731</integer>
+			<key>Total Time</key><integer>218148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2025-11-29T03:27:22Z</date>
+			<key>Date Added</key><date>2025-02-23T20:48:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846407849</integer>
+			<key>Play Date UTC</key><date>2025-11-19T20:37:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10183</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4CE25B5EABBE6897</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/LiFE%20and%20DEATH/02%20Amy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21816</key>
+		<dict>
+			<key>Track ID</key><integer>21816</integer>
+			<key>Name</key><string>R.P.G</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>LiFE and DEATH</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8205512</integer>
+			<key>Total Time</key><integer>202893</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-07T17:43:22Z</date>
+			<key>Date Added</key><date>2025-02-23T20:48:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847092054</integer>
+			<key>Play Date UTC</key><date>2025-11-27T18:40:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>11740</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>217F8B9D6E004E35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/LiFE%20and%20DEATH/03%20R.P.G.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>21820</key>
+		<dict>
+			<key>Track ID</key><integer>21820</integer>
+			<key>Name</key><string>Evolution is Solution</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>LiFE and DEATH</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8837691</integer>
+			<key>Total Time</key><integer>218697</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T17:36:15Z</date>
+			<key>Date Added</key><date>2025-02-23T20:48:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851891649</integer>
+			<key>Play Date UTC</key><date>2026-01-22T07:54:09Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8131</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE3627AE2E71D755</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/LiFE%20and%20DEATH/05%20Evolution%20is%20Solution.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28620</key>
+		<dict>
+			<key>Track ID</key><integer>28620</integer>
+			<key>Name</key><string>Anthem</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Album</key><string>ANTHEM - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5570153</integer>
+			<key>Total Time</key><integer>172016</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>131</integer>
+			<key>Date Modified</key><date>2026-01-07T17:45:17Z</date>
+			<key>Date Added</key><date>2025-09-03T04:35:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3846155587</integer>
+			<key>Play Date UTC</key><date>2025-11-16T22:33:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15280</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D71B1529C096BDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/ANTHEM%20-%20Single/01%20Anthem.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28630</key>
+		<dict>
+			<key>Track ID</key><integer>28630</integer>
+			<key>Name</key><string>Dream and the Fact</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>MAH/SiM</string>
+			<key>Album</key><string>LIVING IN PAiN - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7070092</integer>
+			<key>Total Time</key><integer>217547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>98</integer>
+			<key>Date Modified</key><date>2026-01-07T21:26:41Z</date>
+			<key>Date Added</key><date>2025-09-03T04:35:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3844247172</integer>
+			<key>Play Date UTC</key><date>2025-10-25T19:26:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8783</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C72A20AA54E8069</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/LIVING%20IN%20PAiN%20-%20EP/04%20Dream%20and%20the%20Fact.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28690</key>
+		<dict>
+			<key>Track ID</key><integer>28690</integer>
+			<key>Name</key><string>Fall In Love With You</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>SEEDS OF HOPE</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7025351</integer>
+			<key>Total Time</key><integer>218253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>176</integer>
+			<key>Date Modified</key><date>2026-01-07T19:36:43Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851361703</integer>
+			<key>Play Date UTC</key><date>2026-01-16T04:41:43Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10219</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E0C15801C54DCEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/SEEDS%20OF%20HOPE/09%20Fall%20In%20Love%20With%20You.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28696</key>
+		<dict>
+			<key>Track ID</key><integer>28696</integer>
+			<key>Name</key><string>Here I Am</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>Mäh</string>
+			<key>Album</key><string>Silence iz Mine</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8304446</integer>
+			<key>Total Time</key><integer>255608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-01-07T18:35:45Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3839860421</integer>
+			<key>Play Date UTC</key><date>2025-09-05T00:53:41Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2113</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A4E340E5FF30C55F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Silence%20iz%20Mine/07%20Here%20I%20Am.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28706</key>
+		<dict>
+			<key>Track ID</key><integer>28706</integer>
+			<key>Name</key><string>Misery</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>SEEDS OF HOPE</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5881297</integer>
+			<key>Total Time</key><integer>182491</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-01-07T18:13:16Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840224858</integer>
+			<key>Play Date UTC</key><date>2025-09-09T06:07:38Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8489</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A84035EC5C27D508</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/SEEDS%20OF%20HOPE/04%20Misery.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28718</key>
+		<dict>
+			<key>Track ID</key><integer>28718</integer>
+			<key>Name</key><string>FXXKFXXKFXXK</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>邦楽</string>
+			<key>Album</key><string>BEWARE - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4749599</integer>
+			<key>Total Time</key><integer>145319</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-01-07T17:11:02Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3846062314</integer>
+			<key>Play Date UTC</key><date>2025-11-15T20:38:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>20322</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85D7812D97EACFCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/BEWARE%20-%20EP/03%20FXXKFXXKFXXK.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28740</key>
+		<dict>
+			<key>Track ID</key><integer>28740</integer>
+			<key>Name</key><string>The Rumbling</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>The Rumbling - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7315865</integer>
+			<key>Total Time</key><integer>220943</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>145</integer>
+			<key>Date Modified</key><date>2026-01-07T20:10:16Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840901234</integer>
+			<key>Play Date UTC</key><date>2025-09-17T02:00:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>16669</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>641CB7BB05E8D48F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/The%20Rumbling%20-%20Single/01%20The%20Rumbling.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28746</key>
+		<dict>
+			<key>Track ID</key><integer>28746</integer>
+			<key>Name</key><string>Make Me Dead</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>Mah/SiM</string>
+			<key>Album</key><string>The Beautiful People</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7661188</integer>
+			<key>Total Time</key><integer>237244</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T16:59:47Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840890112</integer>
+			<key>Play Date UTC</key><date>2025-09-16T22:55:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14628</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>637D1377635DE757</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/The%20Beautiful%20People/01%20Make%20Me%20Dead.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28758</key>
+		<dict>
+			<key>Track ID</key><integer>28758</integer>
+			<key>Name</key><string>KiLLiNG ME</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>SEEDS OF HOPE</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5660516</integer>
+			<key>Total Time</key><integer>175516</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-01-07T20:35:17Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845106239</integer>
+			<key>Play Date UTC</key><date>2025-11-04T19:03:59Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14014</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6F373994193E24E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/SEEDS%20OF%20HOPE/01%20KiLLiNG%20ME.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28762</key>
+		<dict>
+			<key>Track ID</key><integer>28762</integer>
+			<key>Name</key><string>Bully</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>ＳｉＭ</string>
+			<key>Album</key><string>Bully - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5684292</integer>
+			<key>Total Time</key><integer>173008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-01-07T20:18:28Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3840898264</integer>
+			<key>Play Date UTC</key><date>2025-09-17T01:11:04Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17942</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8470E3354AD92E50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Bully%20-%20Single/01%20Bully.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28766</key>
+		<dict>
+			<key>Track ID</key><integer>28766</integer>
+			<key>Name</key><string>Devil in Your Heart</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>ＳｉＭ</string>
+			<key>Album</key><string>Devil in Your Heart - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6122031</integer>
+			<key>Total Time</key><integer>186174</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>120</integer>
+			<key>Date Modified</key><date>2026-01-07T21:46:36Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3847189849</integer>
+			<key>Play Date UTC</key><date>2025-11-28T21:50:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>22195</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4DE6CDBE3F4B7AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Devil%20in%20Your%20Heart%20-%20Single/01%20Devil%20in%20Your%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28768</key>
+		<dict>
+			<key>Track ID</key><integer>28768</integer>
+			<key>Name</key><string>Diamond</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album Artist</key><string>SiM</string>
+			<key>Composer</key><string>SiM</string>
+			<key>Album</key><string>Diamond - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7350702</integer>
+			<key>Total Time</key><integer>223973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-01-07T18:18:28Z</date>
+			<key>Date Added</key><date>2025-09-03T05:00:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3842124642</integer>
+			<key>Play Date UTC</key><date>2025-10-01T05:50:42Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>18359</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD65D5AEE4B58B99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SiM/Diamond%20-%20Single/01%20Diamond.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>SiM</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>102161</integer>
+			<key>Playlist Persistent ID</key><string>BB5FD53C9D0CAD5F</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2pTTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAYAUwBJAE0AAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABt
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBzACAAbABpAHYAZQAA
+			AA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAW
+			AEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQByAHMAdAAg
+			AFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBFAHMAIABUAFYAIABWAGUAcgAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAg
+			AHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1AG0AZQBuAHQAYQBs
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>28696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21812</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21816</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21820</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28766</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13862</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14072</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19496</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -21,6 +21,12 @@ def limpiar_valor(valor):
             return valor.decode('latin1', errors='ignore')
     return valor
 
+def log_progress(current, total, last_logged=[0]):
+    percent = int((current / total) * 100)
+    if percent >= last_logged[0] + 10 or current == total:
+        print(f"[INFO] {percent}% completado ({current}/{total})")
+        last_logged[0] = percent
+
 # === Letras ===
 def extraer_letra_mp3(tags):
     """
@@ -132,7 +138,7 @@ def procesar_archivo(ruta_completa):
     return meta
 
 # === Función principal ===
-def main(carpeta_musica, csv_salida, num_workers=4, escala=1000):
+def main(carpeta_musica, csv_salida, num_workers=4):
     campos_csv = [
         'filename', 'filepath', 'title', 'artist', 'album', 'album_artist',
         'genre', 'date', 'duration_seconds', 'bpm',
@@ -161,8 +167,7 @@ def main(carpeta_musica, csv_salida, num_workers=4, escala=1000):
             if resultado:
                 datos_canciones.append(resultado)
             procesadas += 1
-            if procesadas % escala == 0:
-                print(f"[INFO] Procesadas {procesadas}/{total} canciones...", flush=True)
+            log_progress(procesadas, total)
 
     with open(csv_salida, 'w', encoding='utf-8', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=campos_csv)
@@ -180,8 +185,7 @@ if __name__ == '__main__':
     parser.add_argument("carpeta_musica", help="Ruta a la carpeta que contiene los archivos de música.")
     parser.add_argument("csv_salida", help="Ruta al archivo CSV de salida.")
     parser.add_argument("--threads", type=int, default=4, help="Número de hilos para procesamiento paralelo.")
-    parser.add_argument("--escala", type=int, default=1000, help="Escala de progreso para mostrar actualizaciones.")
     
     args = parser.parse_args()
-    
-    main(args.carpeta_musica, args.csv_salida, args.threads, args.escala)
+
+    main(args.carpeta_musica, args.csv_salida, args.threads)
