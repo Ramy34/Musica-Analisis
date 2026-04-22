@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:18:26Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-03-10T05:47:02Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4913</key>
+		<key>4938</key>
 		<dict>
-			<key>Track ID</key><integer>4913</integer>
+			<key>Track ID</key><integer>4938</integer>
 			<key>Name</key><string>Como Quieras Quiero</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -41,18 +41,17 @@
 			<key>Skip Date</key><date>2025-10-07T02:32:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4759</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>285466655E412AAA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/02%20Como%20Quieras%20Quiero.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/02%20Como%20Quieras%20Quiero.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4921</key>
+		<key>4946</key>
 		<dict>
-			<key>Track ID</key><integer>4921</integer>
+			<key>Track ID</key><integer>4946</integer>
 			<key>Name</key><string>Hombre Muerto</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -72,23 +71,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3847259806</integer>
-			<key>Play Date UTC</key><date>2025-11-29T17:16:46Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851939690</integer>
+			<key>Play Date UTC</key><date>2026-01-22T21:14:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4116</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>11B081C44D081A49</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/07%20Hombre%20Muerto.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/07%20Hombre%20Muerto.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4925</key>
+		<key>4950</key>
 		<dict>
-			<key>Track ID</key><integer>4925</integer>
+			<key>Track ID</key><integer>4950</integer>
 			<key>Name</key><string>Esquivando Balas</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -108,25 +106,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3830085978</integer>
-			<key>Play Date UTC</key><date>2025-05-14T21:46:18Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852356643</integer>
+			<key>Play Date UTC</key><date>2026-01-27T17:04:03Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2025-07-19T23:26:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6065</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7BCDD5F84A977861</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/10%20Esquivando%20Balas.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/10%20Esquivando%20Balas.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4927</key>
+		<key>4952</key>
 		<dict>
-			<key>Track ID</key><integer>4927</integer>
+			<key>Track ID</key><integer>4952</integer>
 			<key>Name</key><string>Gracias (Bonus Track)</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -151,18 +148,17 @@
 			<key>Play Date UTC</key><date>2026-01-13T19:06:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3873</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>14AE91A1E4D4EC18</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/11%20Gracias%20(Bonus%20Track).mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Duro%20y%20Dale/11%20Gracias%20(Bonus%20Track).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4929</key>
+		<key>4954</key>
 		<dict>
-			<key>Track ID</key><integer>4929</integer>
+			<key>Track ID</key><integer>4954</integer>
 			<key>Name</key><string>Ahí Es</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -187,18 +183,17 @@
 			<key>Play Date UTC</key><date>2025-11-06T23:04:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3577</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A0015D0A4582A2D0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/01%20Ah%C3%AD%20Es.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/01%20Ah%C3%AD%20Es.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4931</key>
+		<key>4956</key>
 		<dict>
-			<key>Track ID</key><integer>4931</integer>
+			<key>Track ID</key><integer>4956</integer>
 			<key>Name</key><string>Tiempo y Espacio</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -223,18 +218,17 @@
 			<key>Play Date UTC</key><date>2025-11-11T22:34:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4239</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>59782F02A7AFD561</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/02%20Tiempo%20y%20Espacio.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/02%20Tiempo%20y%20Espacio.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4933</key>
+		<key>4958</key>
 		<dict>
-			<key>Track ID</key><integer>4933</integer>
+			<key>Track ID</key><integer>4958</integer>
 			<key>Name</key><string>Ese Son</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -254,23 +248,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3850566517</integer>
-			<key>Play Date UTC</key><date>2026-01-06T23:48:37Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3851888009</integer>
+			<key>Play Date UTC</key><date>2026-01-22T06:53:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4060</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DF2E73A7F7CE74D3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/03%20Ese%20Son.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forma%20y%20Fondo/03%20Ese%20Son.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14437</key>
+		<key>14354</key>
 		<dict>
-			<key>Track ID</key><integer>14437</integer>
+			<key>Track ID</key><integer>14354</integer>
 			<key>Name</key><string>Un Ratito</string>
 			<key>Artist</key><string>Alex Soto &#38; Cecy Leos</string>
 			<key>Album Artist</key><string>Alex Soto &#38; Cecy Leos</string>
@@ -303,13 +296,13 @@
 			<key>Sort Name</key><string>Ratito</string>
 			<key>Persistent ID</key><string>FDEF794D88199C2F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Cecy%20Leos/Un%20Ratito%20-%20Single/01%20Un%20Ratito.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Cecy%20Leos/Un%20Ratito%20-%20Single/01%20Un%20Ratito.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14891</key>
+		<key>14808</key>
 		<dict>
-			<key>Track ID</key><integer>14891</integer>
+			<key>Track ID</key><integer>14808</integer>
 			<key>Name</key><string>Ahorita No</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -340,13 +333,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8C758CC59CEBB797</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Ahorita%20No%20-%20Single/01%20Ahorita%20No.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Ahorita%20No%20-%20Single/01%20Ahorita%20No.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14895</key>
+		<key>14812</key>
 		<dict>
-			<key>Track ID</key><integer>14895</integer>
+			<key>Track ID</key><integer>14812</integer>
 			<key>Name</key><string>Claro</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -379,13 +372,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A49C693F0400EA94</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Claro%20-%20Single/01%20Claro.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Claro%20-%20Single/01%20Claro.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14897</key>
+		<key>14814</key>
 		<dict>
-			<key>Track ID</key><integer>14897</integer>
+			<key>Track ID</key><integer>14814</integer>
 			<key>Name</key><string>Dolor De Muelas</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -405,9 +398,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3844007973</integer>
-			<key>Play Date UTC</key><date>2025-10-23T00:59:33Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853616784</integer>
+			<key>Play Date UTC</key><date>2026-02-11T07:06:24Z</date>
 			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -416,13 +409,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F48BA902A5EAF9A1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Dolor%20de%20Muelas%20-%20Single/01%20Dolor%20De%20Muelas.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Dolor%20de%20Muelas%20-%20Single/01%20Dolor%20De%20Muelas.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14901</key>
+		<key>14818</key>
 		<dict>
-			<key>Track ID</key><integer>14901</integer>
+			<key>Track ID</key><integer>14818</integer>
 			<key>Name</key><string>Forever Alone</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -442,9 +435,11 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3843648019</integer>
-			<key>Play Date UTC</key><date>2025-10-18T21:00:19Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855742769</integer>
+			<key>Play Date UTC</key><date>2026-03-07T21:39:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-07T20:41:42Z</date>
 			<key>Release Date</key><date>2018-02-12T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -453,13 +448,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>617B56E327016895</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forever%20Alone%20-%20Single/01%20Forever%20Alone.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Forever%20Alone%20-%20Single/01%20Forever%20Alone.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14905</key>
+		<key>14822</key>
 		<dict>
-			<key>Track ID</key><integer>14905</integer>
+			<key>Track ID</key><integer>14822</integer>
 			<key>Name</key><string>Mala Copa</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -490,13 +485,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BB0F1C27C0D430C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Mala%20Copa%20-%20Single/01%20Mala%20Copa.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Mala%20Copa%20-%20Single/01%20Mala%20Copa.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14907</key>
+		<key>14824</key>
 		<dict>
-			<key>Track ID</key><integer>14907</integer>
+			<key>Track ID</key><integer>14824</integer>
 			<key>Name</key><string>Nadie Le Gana Al Destino</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -516,9 +511,9 @@
 			<key>Bit Rate</key><integer>336</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3847194302</integer>
-			<key>Play Date UTC</key><date>2025-11-28T23:05:02Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855385332</integer>
+			<key>Play Date UTC</key><date>2026-03-03T18:22:12Z</date>
 			<key>Release Date</key><date>2019-02-03T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -527,13 +522,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AB21EEAF5B6AE7E2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Nadie%20Le%20Gana%20Al%20Destino%20-%20Single/01%20Nadie%20Le%20Gana%20Al%20Destino.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Nadie%20Le%20Gana%20Al%20Destino%20-%20Single/01%20Nadie%20Le%20Gana%20Al%20Destino.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14909</key>
+		<key>14826</key>
 		<dict>
-			<key>Track ID</key><integer>14909</integer>
+			<key>Track ID</key><integer>14826</integer>
 			<key>Name</key><string>No Debería</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -553,9 +548,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3820996606</integer>
-			<key>Play Date UTC</key><date>2025-01-29T17:56:46Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851965225</integer>
+			<key>Play Date UTC</key><date>2026-01-23T04:20:25Z</date>
 			<key>Release Date</key><date>2021-12-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -564,13 +559,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>794EBC14262E042E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/No%20Deber%C3%ADa%20-%20Single/01%20No%20Deber%C3%ADa.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/No%20Deber%C3%ADa%20-%20Single/01%20No%20Deber%C3%ADa.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14913</key>
+		<key>14830</key>
 		<dict>
-			<key>Track ID</key><integer>14913</integer>
+			<key>Track ID</key><integer>14830</integer>
 			<key>Name</key><string>Qué Tal</string>
 			<key>Artist</key><string>Alex Soto &#38; Griss Romero</string>
 			<key>Album Artist</key><string>Alex Soto &#38; Griss Romero</string>
@@ -603,13 +598,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AE76530492691D8A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Griss%20Romero/Qu%C3%A9%20Tal%20-%20Single/01%20Qu%C3%A9%20Tal.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Griss%20Romero/Qu%C3%A9%20Tal%20-%20Single/01%20Qu%C3%A9%20Tal.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14915</key>
+		<key>14832</key>
 		<dict>
-			<key>Track ID</key><integer>14915</integer>
+			<key>Track ID</key><integer>14832</integer>
 			<key>Name</key><string>Recaídas</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -640,13 +635,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3E7971FDDBEFA325</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Reca%C3%ADdas%20-%20Single/01%20Reca%C3%ADdas.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Reca%C3%ADdas%20-%20Single/01%20Reca%C3%ADdas.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14917</key>
+		<key>14834</key>
 		<dict>
-			<key>Track ID</key><integer>14917</integer>
+			<key>Track ID</key><integer>14834</integer>
 			<key>Name</key><string>Seré Discreto</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -666,9 +661,9 @@
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3834829940</integer>
-			<key>Play Date UTC</key><date>2025-07-08T19:32:20Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851954370</integer>
+			<key>Play Date UTC</key><date>2026-01-23T01:19:30Z</date>
 			<key>Release Date</key><date>2019-11-15T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -677,13 +672,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>11807EDF8138DF09</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Ser%C3%A9%20Discreto%20-%20Single/01%20Ser%C3%A9%20Discreto.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Ser%C3%A9%20Discreto%20-%20Single/01%20Ser%C3%A9%20Discreto.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14925</key>
+		<key>14842</key>
 		<dict>
-			<key>Track ID</key><integer>14925</integer>
+			<key>Track ID</key><integer>14842</integer>
 			<key>Name</key><string>Qué Chingón</string>
 			<key>Artist</key><string>Alex Soto</string>
 			<key>Album Artist</key><string>Alex Soto</string>
@@ -716,13 +711,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BBA90AF2F5F4AD17</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto/Qu%C3%A9%20Ching%C3%B3n%20-%20Single/01%20Qu%C3%A9%20Ching%C3%B3n.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto/Qu%C3%A9%20Ching%C3%B3n%20-%20Single/01%20Qu%C3%A9%20Ching%C3%B3n.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17337</key>
+		<key>17254</key>
 		<dict>
-			<key>Track ID</key><integer>17337</integer>
+			<key>Track ID</key><integer>17254</integer>
 			<key>Name</key><string>14 Febrero</string>
 			<key>Artist</key><string>Alex Soto &#38; Cyluz</string>
 			<key>Album Artist</key><string>Alex Soto &#38; Cyluz</string>
@@ -742,9 +737,9 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3837247058</integer>
-			<key>Play Date UTC</key><date>2025-08-05T18:57:38Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855292436</integer>
+			<key>Play Date UTC</key><date>2026-03-02T16:33:56Z</date>
 			<key>Release Date</key><date>2025-02-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -753,7 +748,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>52D910799B815B48</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Cyluz/14%20Febrero%20-%20Single/01%2014%20Febrero.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alex%20Soto%20&#38;%20Cyluz/14%20Febrero%20-%20Single/01%2014%20Febrero.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -763,7 +758,7 @@
 		<dict>
 			<key>Name</key><string>Alex Soto</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>100945</integer>
+			<key>Playlist ID</key><integer>113333</integer>
 			<key>Playlist Persistent ID</key><string>1BE1DCC6CA240D30</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -786,78 +781,82 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeJTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAs5TTHN0AAEAAQAAAAcAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABIAQQBsAGUAeAAgAFMAbwB0AG8AAAAZAAABAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
 			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
-			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBz
 			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbw==
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1
+			AG0AZQBuAHQAYQBsAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAcgBlAHAAZQB0AGkAZABh
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>14901</integer>
+					<key>Track ID</key><integer>14818</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4921</integer>
+					<key>Track ID</key><integer>4946</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14905</integer>
+					<key>Track ID</key><integer>14822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14907</integer>
+					<key>Track ID</key><integer>14824</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14895</integer>
+					<key>Track ID</key><integer>14812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14891</integer>
+					<key>Track ID</key><integer>14808</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14437</integer>
+					<key>Track ID</key><integer>14354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14917</integer>
+					<key>Track ID</key><integer>14834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14913</integer>
+					<key>Track ID</key><integer>14830</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4913</integer>
+					<key>Track ID</key><integer>4938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4925</integer>
+					<key>Track ID</key><integer>4950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4927</integer>
+					<key>Track ID</key><integer>4952</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14897</integer>
+					<key>Track ID</key><integer>14814</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14909</integer>
+					<key>Track ID</key><integer>14826</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4933</integer>
+					<key>Track ID</key><integer>4958</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14915</integer>
+					<key>Track ID</key><integer>14832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14925</integer>
+					<key>Track ID</key><integer>14842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4929</integer>
+					<key>Track ID</key><integer>4954</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4931</integer>
+					<key>Track ID</key><integer>4956</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17337</integer>
+					<key>Track ID</key><integer>17254</integer>
 				</dict>
 			</array>
 		</dict>

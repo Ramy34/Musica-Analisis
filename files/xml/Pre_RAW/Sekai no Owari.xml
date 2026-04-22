@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:26:33Z</date>
+	<key>Date</key><date>2026-02-03T22:56:39Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10505</key>
+		<key>10510</key>
 		<dict>
-			<key>Track ID</key><integer>10505</integer>
+			<key>Track ID</key><integer>10510</integer>
 			<key>Name</key><string>Anti-Hero</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10511</key>
+		<key>10516</key>
 		<dict>
-			<key>Track ID</key><integer>10511</integer>
+			<key>Track ID</key><integer>10516</integer>
 			<key>Name</key><string>Death Disco</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -86,9 +86,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10517</key>
+		<key>10522</key>
 		<dict>
-			<key>Track ID</key><integer>10517</integer>
+			<key>Track ID</key><integer>10522</integer>
 			<key>Name</key><string>Love the warz - rearranged</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -109,9 +109,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3831496550</integer>
-			<key>Play Date UTC</key><date>2025-05-31T05:35:50Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852540018</integer>
+			<key>Play Date UTC</key><date>2026-01-29T20:00:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -123,9 +123,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10519</key>
+		<key>10524</key>
 		<dict>
-			<key>Track ID</key><integer>10519</integer>
+			<key>Track ID</key><integer>10524</integer>
 			<key>Name</key><string>Dropout</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -160,9 +160,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10531</key>
+		<key>10536</key>
 		<dict>
-			<key>Track ID</key><integer>10531</integer>
+			<key>Track ID</key><integer>10536</integer>
 			<key>Name</key><string>世界平和</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -197,9 +197,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10567</key>
+		<key>10572</key>
 		<dict>
-			<key>Track ID</key><integer>10567</integer>
+			<key>Track ID</key><integer>10572</integer>
 			<key>Name</key><string>Love Song</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -234,9 +234,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10569</key>
+		<key>10574</key>
 		<dict>
-			<key>Track ID</key><integer>10569</integer>
+			<key>Track ID</key><integer>10574</integer>
 			<key>Name</key><string>Blue Flower</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -271,9 +271,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10593</key>
+		<key>10598</key>
 		<dict>
-			<key>Track ID</key><integer>10593</integer>
+			<key>Track ID</key><integer>10598</integer>
 			<key>Name</key><string>Habit</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -294,9 +294,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3843584055</integer>
-			<key>Play Date UTC</key><date>2025-10-18T03:14:15Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851940389</integer>
+			<key>Play Date UTC</key><date>2026-01-22T21:26:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -308,9 +308,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10595</key>
+		<key>10600</key>
 		<dict>
-			<key>Track ID</key><integer>10595</integer>
+			<key>Track ID</key><integer>10600</integer>
 			<key>Name</key><string>Eve</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -345,9 +345,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10603</key>
+		<key>10608</key>
 		<dict>
-			<key>Track ID</key><integer>10603</integer>
+			<key>Track ID</key><integer>10608</integer>
 			<key>Name</key><string>Never Ending World</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -368,9 +368,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851330010</integer>
-			<key>Play Date UTC</key><date>2026-01-15T19:53:30Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851947971</integer>
+			<key>Play Date UTC</key><date>2026-01-22T23:32:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -382,9 +382,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10605</key>
+		<key>10610</key>
 		<dict>
-			<key>Track ID</key><integer>10605</integer>
+			<key>Track ID</key><integer>10610</integer>
 			<key>Name</key><string>Yokohama Blues</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -419,9 +419,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10633</key>
+		<key>10638</key>
 		<dict>
-			<key>Track ID</key><integer>10633</integer>
+			<key>Track ID</key><integer>10638</integer>
 			<key>Name</key><string>Seibutsugakutekigensoukyoku</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -442,9 +442,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3844177113</integer>
-			<key>Play Date UTC</key><date>2025-10-24T23:58:33Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852111120</integer>
+			<key>Play Date UTC</key><date>2026-01-24T20:52:00Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-16T03:11:22Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -458,9 +458,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10639</key>
+		<key>10644</key>
 		<dict>
-			<key>Track ID</key><integer>10639</integer>
+			<key>Track ID</key><integer>10644</integer>
 			<key>Name</key><string>Cordless Baby</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -495,9 +495,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10643</key>
+		<key>10648</key>
 		<dict>
-			<key>Track ID</key><integer>10643</integer>
+			<key>Track ID</key><integer>10648</integer>
 			<key>Name</key><string>SOS</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -532,9 +532,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10651</key>
+		<key>10656</key>
 		<dict>
-			<key>Track ID</key><integer>10651</integer>
+			<key>Track ID</key><integer>10656</integer>
 			<key>Name</key><string>umbrella</string>
 			<key>Artist</key><string>SEKAI NO OWARI</string>
 			<key>Album Artist</key><string>SEKAI NO OWARI</string>
@@ -575,7 +575,7 @@
 		<dict>
 			<key>Name</key><string>Sekai no Owari</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102201</integer>
+			<key>Playlist ID</key><integer>102143</integer>
 			<key>Playlist Persistent ID</key><string>00F0D250193B9C0A</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -598,63 +598,71 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAexTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4BTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABwAUwBFAEsAQQBJACAATgBPACAATwBXAEEAUgBJAAAAGQAAAQAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAA
 			AAAAAAAAAAAAAAAAAAEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAQDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAAQDAAACAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAGUAcwAgAGwAaQB2AGU=
+			AAAAAAAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAEUAcwAgAGwAaQB2AGUAAAAOAwAAAgAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBFAHMAIABU
+			AFYAIABWAGUAcgAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAg
+			AEYAaQByAHMAdAAgAFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgBFAHMAIABpAG4AcwB0
+			AHIAdQBtAGUAbgB0AGEAbA==
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10603</integer>
+					<key>Track ID</key><integer>10608</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10633</integer>
+					<key>Track ID</key><integer>10638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10511</integer>
+					<key>Track ID</key><integer>10516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10517</integer>
+					<key>Track ID</key><integer>10522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10505</integer>
+					<key>Track ID</key><integer>10510</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10643</integer>
+					<key>Track ID</key><integer>10648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10567</integer>
+					<key>Track ID</key><integer>10572</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10519</integer>
+					<key>Track ID</key><integer>10524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10651</integer>
+					<key>Track ID</key><integer>10656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10639</integer>
+					<key>Track ID</key><integer>10644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10593</integer>
+					<key>Track ID</key><integer>10598</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10595</integer>
+					<key>Track ID</key><integer>10600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10531</integer>
+					<key>Track ID</key><integer>10536</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10605</integer>
+					<key>Track ID</key><integer>10610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10569</integer>
+					<key>Track ID</key><integer>10574</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:26:47Z</date>
+	<key>Date</key><date>2026-02-03T22:58:18Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12795</key>
+		<key>12800</key>
 		<dict>
-			<key>Track ID</key><integer>12795</integer>
+			<key>Track ID</key><integer>12800</integer>
 			<key>Name</key><string>ファタール - Fatal</string>
 			<key>Artist</key><string>GEMN, Kento Nakajima &#38; Tatsuya Kitani</string>
 			<key>Album Artist</key><string>GEMN, Kento Nakajima &#38; Tatsuya Kitani</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851360074</integer>
-			<key>Play Date UTC</key><date>2026-01-16T04:14:34Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852612776</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:12:56Z</date>
 			<key>Release Date</key><date>2024-07-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13161</key>
+		<key>13166</key>
 		<dict>
-			<key>Track ID</key><integer>13161</integer>
+			<key>Track ID</key><integer>13166</integer>
 			<key>Name</key><string>いらないもの</string>
 			<key>Artist</key><string>Tatsuya Kitani &#38; natori</string>
 			<key>Album</key><string>いらないもの - EP</string>
@@ -70,9 +70,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850562295</integer>
-			<key>Play Date UTC</key><date>2026-01-06T22:38:15Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852292881</integer>
+			<key>Play Date UTC</key><date>2026-01-26T23:21:21Z</date>
 			<key>Release Date</key><date>2024-10-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -86,9 +86,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13701</key>
+		<key>13706</key>
 		<dict>
-			<key>Track ID</key><integer>13701</integer>
+			<key>Track ID</key><integer>13706</integer>
 			<key>Name</key><string>Moonthief</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -108,9 +108,9 @@
 			<key>Bit Rate</key><integer>336</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3846152779</integer>
-			<key>Play Date UTC</key><date>2025-11-16T21:46:19Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852540668</integer>
+			<key>Play Date UTC</key><date>2026-01-29T20:11:08Z</date>
 			<key>Release Date</key><date>2023-11-29T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -123,9 +123,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14299</key>
+		<key>14304</key>
 		<dict>
-			<key>Track ID</key><integer>14299</integer>
+			<key>Track ID</key><integer>14304</integer>
 			<key>Name</key><string>PINK</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -160,9 +160,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14319</key>
+		<key>14324</key>
 		<dict>
-			<key>Track ID</key><integer>14319</integer>
+			<key>Track ID</key><integer>14324</integer>
 			<key>Name</key><string>夜警</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -197,9 +197,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17723</key>
+		<key>17728</key>
 		<dict>
-			<key>Track ID</key><integer>17723</integer>
+			<key>Track ID</key><integer>17728</integer>
 			<key>Name</key><string>I DO NOT LOVE YOU.</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -234,9 +234,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17841</key>
+		<key>17846</key>
 		<dict>
-			<key>Track ID</key><integer>17841</integer>
+			<key>Track ID</key><integer>17846</integer>
 			<key>Name</key><string>Rapport</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -271,9 +271,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17891</key>
+		<key>17896</key>
 		<dict>
-			<key>Track ID</key><integer>17891</integer>
+			<key>Track ID</key><integer>17896</integer>
 			<key>Name</key><string>スカー</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -309,9 +309,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17893</key>
+		<key>17898</key>
 		<dict>
-			<key>Track ID</key><integer>17893</integer>
+			<key>Track ID</key><integer>17898</integer>
 			<key>Name</key><string>タナトフォビア</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -332,9 +332,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3829846241</integer>
-			<key>Play Date UTC</key><date>2025-05-12T03:10:41Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852312132</integer>
+			<key>Play Date UTC</key><date>2026-01-27T04:42:12Z</date>
 			<key>Release Date</key><date>2021-12-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -347,9 +347,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17901</key>
+		<key>17906</key>
 		<dict>
-			<key>Track ID</key><integer>17901</integer>
+			<key>Track ID</key><integer>17906</integer>
 			<key>Name</key><string>冷たい渦</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -384,9 +384,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17905</key>
+		<key>17910</key>
 		<dict>
-			<key>Track ID</key><integer>17905</integer>
+			<key>Track ID</key><integer>17910</integer>
 			<key>Name</key><string>化け猫</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -421,9 +421,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17913</key>
+		<key>17918</key>
 		<dict>
-			<key>Track ID</key><integer>17913</integer>
+			<key>Track ID</key><integer>17918</integer>
 			<key>Name</key><string>悪魔の踊り方</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -459,9 +459,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17915</key>
+		<key>17920</key>
 		<dict>
-			<key>Track ID</key><integer>17915</integer>
+			<key>Track ID</key><integer>17920</integer>
 			<key>Name</key><string>憧れのままに</string>
 			<key>Artist</key><string>yama &#38; Tatsuya Kitani</string>
 			<key>Album Artist</key><string>yama &#38; Tatsuya Kitani</string>
@@ -496,9 +496,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17917</key>
+		<key>17922</key>
 		<dict>
-			<key>Track ID</key><integer>17917</integer>
+			<key>Track ID</key><integer>17922</integer>
 			<key>Name</key><string>月光</string>
 			<key>Artist</key><string>Tatsuya Kitani feat. はるまきごはん</string>
 			<key>Album Artist</key><string>Tatsuya Kitani feat. はるまきごはん</string>
@@ -533,9 +533,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17921</key>
+		<key>17926</key>
 		<dict>
-			<key>Track ID</key><integer>17921</integer>
+			<key>Track ID</key><integer>17926</integer>
 			<key>Name</key><string>聖者の行進</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -570,9 +570,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17925</key>
+		<key>17930</key>
 		<dict>
-			<key>Track ID</key><integer>17925</integer>
+			<key>Track ID</key><integer>17930</integer>
 			<key>Name</key><string>青のすみか</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -608,9 +608,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17977</key>
+		<key>17982</key>
 		<dict>
-			<key>Track ID</key><integer>17977</integer>
+			<key>Track ID</key><integer>17982</integer>
 			<key>Name</key><string>次回予告</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -645,9 +645,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>25847</key>
+		<key>25852</key>
 		<dict>
-			<key>Track ID</key><integer>25847</integer>
+			<key>Track ID</key><integer>25852</integer>
 			<key>Name</key><string>あなたのことをおしえて</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -681,9 +681,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27923</key>
+		<key>27928</key>
 		<dict>
-			<key>Track ID</key><integer>27923</integer>
+			<key>Track ID</key><integer>27928</integer>
 			<key>Name</key><string>なくしもの</string>
 			<key>Artist</key><string>Tatsuya Kitani</string>
 			<key>Album Artist</key><string>Tatsuya Kitani</string>
@@ -717,9 +717,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34391</key>
+		<key>34396</key>
 		<dict>
-			<key>Track ID</key><integer>34391</integer>
+			<key>Track ID</key><integer>34396</integer>
 			<key>Name</key><string>Kasuka na Hana- (OP Theme to Hell's Paradise- Jigokuraku Season 2)</string>
 			<key>Artist</key><string>Tatsuya Kitani feat. BABYMETAL</string>
 			<key>Album Artist</key><string>Tatsuya Kitani feat. BABYMETAL</string>
@@ -737,9 +737,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>17</integer>
-			<key>Play Date</key><integer>3851339326</integer>
-			<key>Play Date UTC</key><date>2026-01-15T22:28:46Z</date>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3852789681</integer>
+			<key>Play Date UTC</key><date>2026-02-01T17:21:21Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-13T18:49:00Z</date>
 			<key>Release Date</key><date>2026-01-12T12:00:00Z</date>
@@ -760,7 +760,7 @@
 		<dict>
 			<key>Name</key><string>Tatsuya Kitani</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102247</integer>
+			<key>Playlist ID</key><integer>102189</integer>
 			<key>Playlist Persistent ID</key><string>7EBBE60309AAD8C3</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -783,7 +783,7 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkpTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4BTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -791,72 +791,78 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAA
 			AAAAAAAAAAAAAAAAAAEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAOAGUAcwAgAGwAaQB2AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAACAwAAAgAA
+			AAAAAAAOAEUAcwAgAGwAaQB2AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBt
-			ACAAVABoAGUAIABGAGkAcgBzAHQAIABUAGEAawBl
+			ACAAVABoAGUAIABGAGkAcgBzAHQAIABUAGEAawBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIARQBzACAAVABWACAAVgBlAHIAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBF
+			AHMAIAByAGUAcABlAHQAaQBkAGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgBFAHMAIABpAG4AcwB0
+			AHIAdQBtAGUAbgB0AGEAbA==
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>17913</integer>
+					<key>Track ID</key><integer>17918</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17723</integer>
+					<key>Track ID</key><integer>17728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17921</integer>
+					<key>Track ID</key><integer>17926</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17841</integer>
+					<key>Track ID</key><integer>17846</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17893</integer>
+					<key>Track ID</key><integer>17898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17901</integer>
+					<key>Track ID</key><integer>17906</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14299</integer>
+					<key>Track ID</key><integer>14304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14319</integer>
+					<key>Track ID</key><integer>14324</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17917</integer>
+					<key>Track ID</key><integer>17922</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17905</integer>
+					<key>Track ID</key><integer>17910</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17925</integer>
+					<key>Track ID</key><integer>17930</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17915</integer>
+					<key>Track ID</key><integer>17920</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17891</integer>
+					<key>Track ID</key><integer>17896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13701</integer>
+					<key>Track ID</key><integer>13706</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17977</integer>
+					<key>Track ID</key><integer>17982</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12795</integer>
+					<key>Track ID</key><integer>12800</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13161</integer>
+					<key>Track ID</key><integer>13166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>25847</integer>
+					<key>Track ID</key><integer>25852</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27923</integer>
+					<key>Track ID</key><integer>27928</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34391</integer>
+					<key>Track ID</key><integer>34396</integer>
 				</dict>
 			</array>
 		</dict>

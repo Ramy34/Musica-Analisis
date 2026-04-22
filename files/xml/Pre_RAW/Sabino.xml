@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:25:03Z</date>
+	<key>Date</key><date>2026-02-03T22:53:58Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9757</key>
+		<key>9762</key>
 		<dict>
-			<key>Track ID</key><integer>9757</integer>
+			<key>Track ID</key><integer>9762</integer>
 			<key>Name</key><string>Perder para Ganar</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -34,9 +34,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3850495069</integer>
-			<key>Play Date UTC</key><date>2026-01-06T03:57:49Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852792948</integer>
+			<key>Play Date UTC</key><date>2026-02-01T18:15:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -48,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9777</key>
+		<key>9782</key>
 		<dict>
-			<key>Track ID</key><integer>9777</integer>
+			<key>Track ID</key><integer>9782</integer>
 			<key>Name</key><string>Culpablo</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -70,9 +70,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835428046</integer>
-			<key>Play Date UTC</key><date>2025-07-15T17:40:46Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852387668</integer>
+			<key>Play Date UTC</key><date>2026-01-28T01:41:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3324</integer>
@@ -83,9 +83,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9779</key>
+		<key>9784</key>
 		<dict>
-			<key>Track ID</key><integer>9779</integer>
+			<key>Track ID</key><integer>9784</integer>
 			<key>Name</key><string>¡Súbele a la Mú!</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -118,9 +118,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9785</key>
+		<key>9790</key>
 		<dict>
-			<key>Track ID</key><integer>9785</integer>
+			<key>Track ID</key><integer>9790</integer>
 			<key>Name</key><string>El Tiempo a Mi Favor</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -141,9 +141,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850539346</integer>
-			<key>Play Date UTC</key><date>2026-01-06T16:15:46Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852614393</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:39:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5145</integer>
@@ -155,9 +155,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9791</key>
+		<key>9796</key>
 		<dict>
-			<key>Track ID</key><integer>9791</integer>
+			<key>Track ID</key><integer>9796</integer>
 			<key>Name</key><string>Mala</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -190,9 +190,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9803</key>
+		<key>9808</key>
 		<dict>
-			<key>Track ID</key><integer>9803</integer>
+			<key>Track ID</key><integer>9808</integer>
 			<key>Name</key><string>Niño Adentro</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -225,9 +225,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9807</key>
+		<key>9812</key>
 		<dict>
-			<key>Track ID</key><integer>9807</integer>
+			<key>Track ID</key><integer>9812</integer>
 			<key>Name</key><string>La Magia</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -262,9 +262,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9813</key>
+		<key>9818</key>
 		<dict>
-			<key>Track ID</key><integer>9813</integer>
+			<key>Track ID</key><integer>9818</integer>
 			<key>Name</key><string>Película</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -298,9 +298,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9817</key>
+		<key>9822</key>
 		<dict>
-			<key>Track ID</key><integer>9817</integer>
+			<key>Track ID</key><integer>9822</integer>
 			<key>Name</key><string>Tú</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -321,9 +321,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3847103135</integer>
-			<key>Play Date UTC</key><date>2025-11-27T21:45:35Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852615609</integer>
+			<key>Play Date UTC</key><date>2026-01-30T17:00:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3278</integer>
@@ -334,9 +334,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13037</key>
+		<key>13042</key>
 		<dict>
-			<key>Track ID</key><integer>13037</integer>
+			<key>Track ID</key><integer>13042</integer>
 			<key>Name</key><string>Con Todo Respeto</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -356,9 +356,9 @@
 			<key>Bit Rate</key><integer>336</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3842973777</integer>
-			<key>Play Date UTC</key><date>2025-10-11T01:42:57Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852440662</integer>
+			<key>Play Date UTC</key><date>2026-01-28T16:24:22Z</date>
 			<key>Release Date</key><date>2024-11-29T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -370,9 +370,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13043</key>
+		<key>13048</key>
 		<dict>
-			<key>Track ID</key><integer>13043</integer>
+			<key>Track ID</key><integer>13048</integer>
 			<key>Name</key><string>Café Sin Ti</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -392,9 +392,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850482732</integer>
-			<key>Play Date UTC</key><date>2026-01-06T00:32:12Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852615379</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:56:19Z</date>
 			<key>Release Date</key><date>2024-11-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -406,9 +406,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13087</key>
+		<key>13092</key>
 		<dict>
-			<key>Track ID</key><integer>13087</integer>
+			<key>Track ID</key><integer>13092</integer>
 			<key>Name</key><string>Charmeleon</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -442,9 +442,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18297</key>
+		<key>18302</key>
 		<dict>
-			<key>Track ID</key><integer>18297</integer>
+			<key>Track ID</key><integer>18302</integer>
 			<key>Name</key><string>MOTEL CALIFORNIA</string>
 			<key>Artist</key><string>DAAZ &#38; Sabino</string>
 			<key>Album Artist</key><string>DAAZ &#38; Sabino</string>
@@ -468,6 +468,8 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3846767615</integer>
 			<key>Play Date UTC</key><date>2025-11-24T00:33:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-30T16:50:18Z</date>
 			<key>Release Date</key><date>2023-03-02T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -479,9 +481,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24829</key>
+		<key>24834</key>
 		<dict>
-			<key>Track ID</key><integer>24829</integer>
+			<key>Track ID</key><integer>24834</integer>
 			<key>Name</key><string>Nuevequince</string>
 			<key>Artist</key><string>Sabino, Fer Casillas, Aballoon, Garam Masala, Pizarro Luna, Kike Nieto &#38; Moha</string>
 			<key>Album Artist</key><string>Sabino, Fer Casillas, Aballoon, Garam Masala, Pizarro Luna, Kike Nieto &#38; Moha</string>
@@ -515,9 +517,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26681</key>
+		<key>26686</key>
 		<dict>
-			<key>Track ID</key><integer>26681</integer>
+			<key>Track ID</key><integer>26686</integer>
 			<key>Name</key><string>Película (Intervenida por Ximena Sariñana)</string>
 			<key>Artist</key><string>Sabino &#38; Ximena Sariñana</string>
 			<key>Album Artist</key><string>Sabino &#38; Ximena Sariñana</string>
@@ -550,9 +552,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29559</key>
+		<key>29564</key>
 		<dict>
-			<key>Track ID</key><integer>29559</integer>
+			<key>Track ID</key><integer>29564</integer>
 			<key>Name</key><string>Duele</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -587,9 +589,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29561</key>
+		<key>29566</key>
 		<dict>
-			<key>Track ID</key><integer>29561</integer>
+			<key>Track ID</key><integer>29566</integer>
 			<key>Name</key><string>No Me Vuelvo a Involucrar</string>
 			<key>Artist</key><string>Sabino &#38; Los Rumberos</string>
 			<key>Album Artist</key><string>Sabino &#38; Los Rumberos</string>
@@ -625,9 +627,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>31375</key>
+		<key>31380</key>
 		<dict>
-			<key>Track ID</key><integer>31375</integer>
+			<key>Track ID</key><integer>31380</integer>
 			<key>Name</key><string>Torpe</string>
 			<key>Artist</key><string>Los Rumberos &#38; Sabino</string>
 			<key>Album Artist</key><string>Los Rumberos &#38; Sabino</string>
@@ -665,9 +667,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32741</key>
+		<key>32746</key>
 		<dict>
-			<key>Track ID</key><integer>32741</integer>
+			<key>Track ID</key><integer>32746</integer>
 			<key>Name</key><string>Es Cierto</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -687,9 +689,9 @@
 			<key>Bit Rate</key><integer>334</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850576620</integer>
-			<key>Play Date UTC</key><date>2026-01-07T02:37:00Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852615215</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:53:35Z</date>
 			<key>Release Date</key><date>2012-02-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -702,9 +704,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32749</key>
+		<key>32754</key>
 		<dict>
-			<key>Track ID</key><integer>32749</integer>
+			<key>Track ID</key><integer>32754</integer>
 			<key>Name</key><string>Sab Hop</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -725,9 +727,9 @@
 			<key>Bit Rate</key><integer>331</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850407906</integer>
-			<key>Play Date UTC</key><date>2026-01-05T03:45:06Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851879778</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:36:18Z</date>
 			<key>Release Date</key><date>2016-05-20T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -740,9 +742,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32761</key>
+		<key>32766</key>
 		<dict>
-			<key>Track ID</key><integer>32761</integer>
+			<key>Track ID</key><integer>32766</integer>
 			<key>Name</key><string>Me Puse Pedo</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -778,9 +780,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32767</key>
+		<key>32772</key>
 		<dict>
-			<key>Track ID</key><integer>32767</integer>
+			<key>Track ID</key><integer>32772</integer>
 			<key>Name</key><string>Los Raros de la Clase</string>
 			<key>Artist</key><string>Sabino feat. Lng-SHTfeat. Lng-SHT</string>
 			<key>Album Artist</key><string>Sabino feat. Lng-SHT</string>
@@ -817,9 +819,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32769</key>
+		<key>32774</key>
 		<dict>
-			<key>Track ID</key><integer>32769</integer>
+			<key>Track ID</key><integer>32774</integer>
 			<key>Name</key><string>Solo</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -840,9 +842,9 @@
 			<key>Bit Rate</key><integer>328</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851446275</integer>
-			<key>Play Date UTC</key><date>2026-01-17T04:11:15Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851952257</integer>
+			<key>Play Date UTC</key><date>2026-01-23T00:44:17Z</date>
 			<key>Release Date</key><date>2018-03-15T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -855,9 +857,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32775</key>
+		<key>32780</key>
 		<dict>
-			<key>Track ID</key><integer>32775</integer>
+			<key>Track ID</key><integer>32780</integer>
 			<key>Name</key><string>Ya Le Bajó</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -893,9 +895,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32779</key>
+		<key>32784</key>
 		<dict>
-			<key>Track ID</key><integer>32779</integer>
+			<key>Track ID</key><integer>32784</integer>
 			<key>Name</key><string>Conmigo Siempre</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -931,9 +933,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32783</key>
+		<key>32788</key>
 		<dict>
-			<key>Track ID</key><integer>32783</integer>
+			<key>Track ID</key><integer>32788</integer>
 			<key>Name</key><string>Los Enamorados</string>
 			<key>Artist</key><string>Sabino &#38; Loli Molina</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -953,9 +955,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3842907231</integer>
-			<key>Play Date UTC</key><date>2025-10-10T07:13:51Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851951694</integer>
+			<key>Play Date UTC</key><date>2026-01-23T00:34:54Z</date>
 			<key>Release Date</key><date>2019-02-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -970,9 +972,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32797</key>
+		<key>32802</key>
 		<dict>
-			<key>Track ID</key><integer>32797</integer>
+			<key>Track ID</key><integer>32802</integer>
 			<key>Name</key><string>Yin Yang</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1007,9 +1009,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32807</key>
+		<key>32812</key>
 		<dict>
-			<key>Track ID</key><integer>32807</integer>
+			<key>Track ID</key><integer>32812</integer>
 			<key>Name</key><string>Ñam Ñam Extravagan-Sab</string>
 			<key>Artist</key><string>Ricardo O'Farrill &#38; Sabino feat. Dan Solo</string>
 			<key>Album Artist</key><string>Ricardo O'Farrill &#38; Sabino feat. Dan Solo</string>
@@ -1044,9 +1046,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32839</key>
+		<key>32844</key>
 		<dict>
-			<key>Track ID</key><integer>32839</integer>
+			<key>Track ID</key><integer>32844</integer>
 			<key>Name</key><string>El Día de Tu Muerte</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1067,9 +1069,9 @@
 			<key>Bit Rate</key><integer>333</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3842952300</integer>
-			<key>Play Date UTC</key><date>2025-10-10T19:45:00Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852541272</integer>
+			<key>Play Date UTC</key><date>2026-01-29T20:21:12Z</date>
 			<key>Release Date</key><date>2021-09-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1084,9 +1086,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32841</key>
+		<key>32846</key>
 		<dict>
-			<key>Track ID</key><integer>32841</integer>
+			<key>Track ID</key><integer>32846</integer>
 			<key>Name</key><string>Ajenos</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1122,9 +1124,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32843</key>
+		<key>32848</key>
 		<dict>
-			<key>Track ID</key><integer>32843</integer>
+			<key>Track ID</key><integer>32848</integer>
 			<key>Name</key><string>Cachitos</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1159,9 +1161,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32847</key>
+		<key>32852</key>
 		<dict>
-			<key>Track ID</key><integer>32847</integer>
+			<key>Track ID</key><integer>32852</integer>
 			<key>Name</key><string>EGO</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1197,9 +1199,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32851</key>
+		<key>32856</key>
 		<dict>
-			<key>Track ID</key><integer>32851</integer>
+			<key>Track ID</key><integer>32856</integer>
 			<key>Name</key><string>Diamante</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1234,9 +1236,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32853</key>
+		<key>32858</key>
 		<dict>
-			<key>Track ID</key><integer>32853</integer>
+			<key>Track ID</key><integer>32858</integer>
 			<key>Name</key><string>Masoquista</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1256,9 +1258,9 @@
 			<key>Bit Rate</key><integer>337</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3845989293</integer>
-			<key>Play Date UTC</key><date>2025-11-15T00:21:33Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852614612</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:43:32Z</date>
 			<key>Release Date</key><date>2021-11-05T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1271,9 +1273,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32855</key>
+		<key>32860</key>
 		<dict>
-			<key>Track ID</key><integer>32855</integer>
+			<key>Track ID</key><integer>32860</integer>
 			<key>Name</key><string>¿Qué Pasó Mi Amor </string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1293,9 +1295,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3847117297</integer>
-			<key>Play Date UTC</key><date>2025-11-28T01:41:37Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852615014</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:50:14Z</date>
 			<key>Release Date</key><date>2021-11-05T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1308,9 +1310,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32861</key>
+		<key>32866</key>
 		<dict>
-			<key>Track ID</key><integer>32861</integer>
+			<key>Track ID</key><integer>32866</integer>
 			<key>Name</key><string>Dime Tú</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1347,9 +1349,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32867</key>
+		<key>32872</key>
 		<dict>
-			<key>Track ID</key><integer>32867</integer>
+			<key>Track ID</key><integer>32872</integer>
 			<key>Name</key><string>Mala Manía</string>
 			<key>Artist</key><string>Nicole Favre, Aczino &#38; Sabino</string>
 			<key>Album Artist</key><string>Nicole Favre, Aczino &#38; Sabino</string>
@@ -1384,9 +1386,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32869</key>
+		<key>32874</key>
 		<dict>
-			<key>Track ID</key><integer>32869</integer>
+			<key>Track ID</key><integer>32874</integer>
 			<key>Name</key><string>Nada de Ti</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1421,9 +1423,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32901</key>
+		<key>32906</key>
 		<dict>
-			<key>Track ID</key><integer>32901</integer>
+			<key>Track ID</key><integer>32906</integer>
 			<key>Name</key><string>Inmortal</string>
 			<key>Artist</key><string>Los Pericos &#38; Sabino</string>
 			<key>Album Artist</key><string>Los Pericos &#38; Sabino</string>
@@ -1443,9 +1445,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3849032080</integer>
-			<key>Play Date UTC</key><date>2025-12-20T05:34:40Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852614837</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:47:17Z</date>
 			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1460,9 +1462,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32903</key>
+		<key>32908</key>
 		<dict>
-			<key>Track ID</key><integer>32903</integer>
+			<key>Track ID</key><integer>32908</integer>
 			<key>Name</key><string>Luego Lo Hago</string>
 			<key>Artist</key><string>Sabino</string>
 			<key>Album Artist</key><string>Sabino</string>
@@ -1483,9 +1485,9 @@
 			<key>Bit Rate</key><integer>338</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3848394557</integer>
-			<key>Play Date UTC</key><date>2025-12-12T20:29:17Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852616017</integer>
+			<key>Play Date UTC</key><date>2026-01-30T17:06:57Z</date>
 			<key>Release Date</key><date>2025-02-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1498,9 +1500,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32907</key>
+		<key>32912</key>
 		<dict>
-			<key>Track ID</key><integer>32907</integer>
+			<key>Track ID</key><integer>32912</integer>
 			<key>Name</key><string>Parison</string>
 			<key>Artist</key><string>Panteón Rococó, Sabino, Carín León &#38; Remmy Valenzuela feat. Lng-SHT</string>
 			<key>Album Artist</key><string>Panteón Rococó, Sabino, Carín León &#38; Remmy Valenzuela feat. Lng-SHT</string>
@@ -1535,9 +1537,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33247</key>
+		<key>33252</key>
 		<dict>
-			<key>Track ID</key><integer>33247</integer>
+			<key>Track ID</key><integer>33252</integer>
 			<key>Name</key><string>Relato Corto</string>
 			<key>Artist</key><string>Sabino &#38; Pj Sin Suela</string>
 			<key>Album Artist</key><string>Sabino &#38; Pj Sin Suela</string>
@@ -1557,9 +1559,9 @@
 			<key>Bit Rate</key><integer>343</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3847270009</integer>
-			<key>Play Date UTC</key><date>2025-11-29T20:06:49Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852614202</integer>
+			<key>Play Date UTC</key><date>2026-01-30T16:36:42Z</date>
 			<key>Release Date</key><date>2025-11-20T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1578,7 +1580,7 @@
 		<dict>
 			<key>Name</key><string>Sabino</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102060</integer>
+			<key>Playlist ID</key><integer>102001</integer>
 			<key>Playlist Persistent ID</key><string>CCEA95FC58B7FC76</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1601,145 +1603,148 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiRTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAshTTHN0AAEAAQAAAAcAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAwAUwBhAGIAaQBuAG8AAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAA
 			AAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBzACAAbABp
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBzACAAbABp
 			AHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeA==
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeAAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAg
+			AHIAZQBwAGUAdABpAGQAYQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1AG0AZQBuAHQAYQBs
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>32741</integer>
+					<key>Track ID</key><integer>32746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32749</integer>
+					<key>Track ID</key><integer>32754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32761</integer>
+					<key>Track ID</key><integer>32766</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32769</integer>
+					<key>Track ID</key><integer>32774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32767</integer>
+					<key>Track ID</key><integer>32772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32775</integer>
+					<key>Track ID</key><integer>32780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32779</integer>
+					<key>Track ID</key><integer>32784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32783</integer>
+					<key>Track ID</key><integer>32788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32797</integer>
+					<key>Track ID</key><integer>32802</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9807</integer>
+					<key>Track ID</key><integer>9812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9813</integer>
+					<key>Track ID</key><integer>9818</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9817</integer>
+					<key>Track ID</key><integer>9822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32807</integer>
+					<key>Track ID</key><integer>32812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32841</integer>
+					<key>Track ID</key><integer>32846</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32839</integer>
+					<key>Track ID</key><integer>32844</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32843</integer>
+					<key>Track ID</key><integer>32848</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32847</integer>
+					<key>Track ID</key><integer>32852</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32853</integer>
+					<key>Track ID</key><integer>32858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32855</integer>
+					<key>Track ID</key><integer>32860</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32851</integer>
+					<key>Track ID</key><integer>32856</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9777</integer>
+					<key>Track ID</key><integer>9782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9779</integer>
+					<key>Track ID</key><integer>9784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9785</integer>
+					<key>Track ID</key><integer>9790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9791</integer>
+					<key>Track ID</key><integer>9796</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9803</integer>
+					<key>Track ID</key><integer>9808</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>31375</integer>
+					<key>Track ID</key><integer>31380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32861</integer>
+					<key>Track ID</key><integer>32866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32869</integer>
+					<key>Track ID</key><integer>32874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32867</integer>
+					<key>Track ID</key><integer>32872</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29561</integer>
+					<key>Track ID</key><integer>29566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29559</integer>
+					<key>Track ID</key><integer>29564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18297</integer>
+					<key>Track ID</key><integer>18302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9757</integer>
+					<key>Track ID</key><integer>9762</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13037</integer>
+					<key>Track ID</key><integer>13042</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13043</integer>
+					<key>Track ID</key><integer>13048</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13087</integer>
+					<key>Track ID</key><integer>13092</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32903</integer>
+					<key>Track ID</key><integer>32908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32901</integer>
+					<key>Track ID</key><integer>32906</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26681</integer>
+					<key>Track ID</key><integer>26686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32907</integer>
+					<key>Track ID</key><integer>32912</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24829</integer>
+					<key>Track ID</key><integer>24834</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33247</integer>
+					<key>Track ID</key><integer>33252</integer>
 				</dict>
 			</array>
 		</dict>

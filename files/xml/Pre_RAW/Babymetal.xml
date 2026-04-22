@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:18:48Z</date>
+	<key>Date</key><date>2026-02-03T22:13:53Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5167</key>
+		<key>5172</key>
 		<dict>
-			<key>Track ID</key><integer>5167</integer>
+			<key>Track ID</key><integer>5172</integer>
 			<key>Name</key><string>Megitsune</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850411879</integer>
-			<key>Play Date UTC</key><date>2026-01-05T04:51:19Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851879451</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:30:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -51,9 +51,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5169</key>
+		<key>5174</key>
 		<dict>
-			<key>Track ID</key><integer>5169</integer>
+			<key>Track ID</key><integer>5174</integer>
 			<key>Name</key><string>Gimme Chocolate!!</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -90,9 +90,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5171</key>
+		<key>5176</key>
 		<dict>
-			<key>Track ID</key><integer>5171</integer>
+			<key>Track ID</key><integer>5176</integer>
 			<key>Name</key><string>Iine!</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -127,9 +127,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5187</key>
+		<key>5192</key>
 		<dict>
-			<key>Track ID</key><integer>5187</integer>
+			<key>Track ID</key><integer>5192</integer>
 			<key>Name</key><string>Headbangeeeeerrrrr!!!!!</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -164,9 +164,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5189</key>
+		<key>5194</key>
 		<dict>
-			<key>Track ID</key><integer>5189</integer>
+			<key>Track ID</key><integer>5194</integer>
 			<key>Name</key><string>Ijime, Dame, Zettai</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -187,9 +187,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3844417562</integer>
-			<key>Play Date UTC</key><date>2025-10-27T19:46:02Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851890926</integer>
+			<key>Play Date UTC</key><date>2026-01-22T07:42:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -201,9 +201,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5251</key>
+		<key>5256</key>
 		<dict>
-			<key>Track ID</key><integer>5251</integer>
+			<key>Track ID</key><integer>5256</integer>
 			<key>Name</key><string>Oh! MAJINAI</string>
 			<key>Artist</key><string>BABYMETAL feat. Joakim Broden</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -224,9 +224,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3827236675</integer>
-			<key>Play Date UTC</key><date>2025-04-11T22:17:55Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852045208</integer>
+			<key>Play Date UTC</key><date>2026-01-24T02:33:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -238,9 +238,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5253</key>
+		<key>5258</key>
 		<dict>
-			<key>Track ID</key><integer>5253</integer>
+			<key>Track ID</key><integer>5258</integer>
 			<key>Name</key><string>Brand New Day</string>
 			<key>Artist</key><string>BABYMETAL feat. Tim Henson &#38; Scott Lepage</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -261,9 +261,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3838820717</integer>
-			<key>Play Date UTC</key><date>2025-08-24T00:05:17Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852440911</integer>
+			<key>Play Date UTC</key><date>2026-01-28T16:28:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -275,9 +275,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5255</key>
+		<key>5260</key>
 		<dict>
-			<key>Track ID</key><integer>5255</integer>
+			<key>Track ID</key><integer>5260</integer>
 			<key>Name</key><string>Night Night Burn!</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -298,9 +298,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3844175364</integer>
-			<key>Play Date UTC</key><date>2025-10-24T23:29:24Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852485611</integer>
+			<key>Play Date UTC</key><date>2026-01-29T04:53:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -312,9 +312,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5259</key>
+		<key>5264</key>
 		<dict>
-			<key>Track ID</key><integer>5259</integer>
+			<key>Track ID</key><integer>5264</integer>
 			<key>Name</key><string>Distortion</string>
 			<key>Artist</key><string>BABYMETAL feat. Alissa White-Gluz</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -335,9 +335,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3823757016</integer>
-			<key>Play Date UTC</key><date>2025-03-02T16:43:36Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852023469</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:31:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -349,9 +349,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5261</key>
+		<key>5266</key>
 		<dict>
-			<key>Track ID</key><integer>5261</integer>
+			<key>Track ID</key><integer>5266</integer>
 			<key>Name</key><string>PA PA YA!!</string>
 			<key>Artist</key><string>BABYMETAL feat. F.HERO</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -386,9 +386,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5263</key>
+		<key>5268</key>
 		<dict>
-			<key>Track ID</key><integer>5263</integer>
+			<key>Track ID</key><integer>5268</integer>
 			<key>Name</key><string>Kagerou</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -423,9 +423,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5265</key>
+		<key>5270</key>
 		<dict>
-			<key>Track ID</key><integer>5265</integer>
+			<key>Track ID</key><integer>5270</integer>
 			<key>Name</key><string>Starlight</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -446,9 +446,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835882571</integer>
-			<key>Play Date UTC</key><date>2025-07-20T23:56:11Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852396182</integer>
+			<key>Play Date UTC</key><date>2026-01-28T04:03:02Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-01-26T22:13:07Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -462,9 +462,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5273</key>
+		<key>5278</key>
 		<dict>
-			<key>Track ID</key><integer>5273</integer>
+			<key>Track ID</key><integer>5278</integer>
 			<key>Name</key><string>KARATE</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -501,9 +501,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5277</key>
+		<key>5282</key>
 		<dict>
-			<key>Track ID</key><integer>5277</integer>
+			<key>Track ID</key><integer>5282</integer>
 			<key>Name</key><string>YAVA!</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -524,9 +524,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3848303086</integer>
-			<key>Play Date UTC</key><date>2025-12-11T19:04:46Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852101305</integer>
+			<key>Play Date UTC</key><date>2026-01-24T18:08:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -538,9 +538,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5289</key>
+		<key>5294</key>
 		<dict>
-			<key>Track ID</key><integer>5289</integer>
+			<key>Track ID</key><integer>5294</integer>
 			<key>Name</key><string>No Rain, No Rainbow</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -577,9 +577,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5295</key>
+		<key>5300</key>
 		<dict>
-			<key>Track ID</key><integer>5295</integer>
+			<key>Track ID</key><integer>5300</integer>
 			<key>Name</key><string>METALI!!</string>
 			<key>Artist</key><string>BABYMETAL feat. Tom Morello</string>
 			<key>Album Artist</key><string>BABYMETAL feat. Tom Morello</string>
@@ -614,9 +614,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5297</key>
+		<key>5302</key>
 		<dict>
-			<key>Track ID</key><integer>5297</integer>
+			<key>Track ID</key><integer>5302</integer>
 			<key>Name</key><string>METAL KINGDOM</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -652,9 +652,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5303</key>
+		<key>5308</key>
 		<dict>
-			<key>Track ID</key><integer>5303</integer>
+			<key>Track ID</key><integer>5308</integer>
 			<key>Name</key><string>MAYA</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -690,9 +690,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5305</key>
+		<key>5310</key>
 		<dict>
-			<key>Track ID</key><integer>5305</integer>
+			<key>Track ID</key><integer>5310</integer>
 			<key>Name</key><string>Time Wave</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -728,9 +728,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5309</key>
+		<key>5314</key>
 		<dict>
-			<key>Track ID</key><integer>5309</integer>
+			<key>Track ID</key><integer>5314</integer>
 			<key>Name</key><string>METALIZM</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -766,9 +766,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5313</key>
+		<key>5318</key>
 		<dict>
-			<key>Track ID</key><integer>5313</integer>
+			<key>Track ID</key><integer>5318</integer>
 			<key>Name</key><string>Light and Darkness</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -789,9 +789,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3850496761</integer>
-			<key>Play Date UTC</key><date>2026-01-06T04:26:01Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3852488787</integer>
+			<key>Play Date UTC</key><date>2026-01-29T05:46:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -804,9 +804,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5317</key>
+		<key>5322</key>
 		<dict>
-			<key>Track ID</key><integer>5317</integer>
+			<key>Track ID</key><integer>5322</integer>
 			<key>Name</key><string>RATATATA</string>
 			<key>Artist</key><string>BABYMETAL &#38; Electric Callboy</string>
 			<key>Album Artist</key><string>BABYMETAL &#38; Electric Callboy</string>
@@ -841,9 +841,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6395</key>
+		<key>6400</key>
 		<dict>
-			<key>Track ID</key><integer>6395</integer>
+			<key>Track ID</key><integer>6400</integer>
 			<key>Name</key><string>Leave It All Behind</string>
 			<key>Artist</key><string>F.HERO, Bodyslam &#38; BABYMETAL</string>
 			<key>Album Artist</key><string>F.HERO, Bodyslam &#38; BABYMETAL</string>
@@ -878,9 +878,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14801</key>
+		<key>14806</key>
 		<dict>
-			<key>Track ID</key><integer>14801</integer>
+			<key>Track ID</key><integer>14806</integer>
 			<key>Name</key><string>Kingslayer</string>
 			<key>Artist</key><string>Bring Me The Horizon feat. BABYMETAL</string>
 			<key>Album Artist</key><string>Bring Me The Horizon</string>
@@ -916,9 +916,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14815</key>
+		<key>14820</key>
 		<dict>
-			<key>Track ID</key><integer>14815</integer>
+			<key>Track ID</key><integer>14820</integer>
 			<key>Name</key><string>Bekhauf</string>
 			<key>Artist</key><string>Bloodywood feat. BABYMETAL</string>
 			<key>Album Artist</key><string>Bloodywood feat. BABYMETAL</string>
@@ -953,9 +953,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14817</key>
+		<key>14822</key>
 		<dict>
-			<key>Track ID</key><integer>14817</integer>
+			<key>Track ID</key><integer>14822</integer>
 			<key>Name</key><string>BxMxC</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -976,9 +976,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835794196</integer>
-			<key>Play Date UTC</key><date>2025-07-19T23:23:16Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852392687</integer>
+			<key>Play Date UTC</key><date>2026-01-28T03:04:47Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-09-28T04:50:38Z</date>
 			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
@@ -993,9 +993,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24863</key>
+		<key>24868</key>
 		<dict>
-			<key>Track ID</key><integer>24863</integer>
+			<key>Track ID</key><integer>24868</integer>
 			<key>Name</key><string>from me to u</string>
 			<key>Artist</key><string>BABYMETAL &#38; Poppy</string>
 			<key>Album Artist</key><string>BABYMETAL &#38; Poppy</string>
@@ -1016,9 +1016,9 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3834501933</integer>
-			<key>Play Date UTC</key><date>2025-07-05T00:25:33Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852382361</integer>
+			<key>Play Date UTC</key><date>2026-01-28T00:12:41Z</date>
 			<key>Release Date</key><date>2025-04-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1031,9 +1031,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28013</key>
+		<key>28018</key>
 		<dict>
-			<key>Track ID</key><integer>28013</integer>
+			<key>Track ID</key><integer>28018</integer>
 			<key>Name</key><string>Kon! Kon!</string>
 			<key>Artist</key><string>BABYMETAL &#38; Bloodywood</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -1067,9 +1067,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28301</key>
+		<key>28306</key>
 		<dict>
-			<key>Track ID</key><integer>28301</integer>
+			<key>Track ID</key><integer>28306</integer>
 			<key>Name</key><string>Algorism</string>
 			<key>Artist</key><string>BABYMETAL</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -1103,9 +1103,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28311</key>
+		<key>28316</key>
 		<dict>
-			<key>Track ID</key><integer>28311</integer>
+			<key>Track ID</key><integer>28316</integer>
 			<key>Name</key><string>Sunset Kiss</string>
 			<key>Artist</key><string>BABYMETAL &#38; Polyphia</string>
 			<key>Album Artist</key><string>BABYMETAL</string>
@@ -1139,9 +1139,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34391</key>
+		<key>34396</key>
 		<dict>
-			<key>Track ID</key><integer>34391</integer>
+			<key>Track ID</key><integer>34396</integer>
 			<key>Name</key><string>Kasuka na Hana- (OP Theme to Hell's Paradise- Jigokuraku Season 2)</string>
 			<key>Artist</key><string>Tatsuya Kitani feat. BABYMETAL</string>
 			<key>Album Artist</key><string>Tatsuya Kitani feat. BABYMETAL</string>
@@ -1159,9 +1159,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>17</integer>
-			<key>Play Date</key><integer>3851339326</integer>
-			<key>Play Date UTC</key><date>2026-01-15T22:28:46Z</date>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3852789681</integer>
+			<key>Play Date UTC</key><date>2026-02-01T17:21:21Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-13T18:49:00Z</date>
 			<key>Release Date</key><date>2026-01-12T12:00:00Z</date>
@@ -1182,7 +1182,7 @@
 		<dict>
 			<key>Name</key><string>Babymetal</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101025</integer>
+			<key>Playlist ID</key><integer>100943</integer>
 			<key>Playlist Persistent ID</key><string>85C3B8CAADD58DAE</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1205,111 +1205,119 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeJTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3ZTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABIAQgBBAEIAWQBNAEUAVABBAEwAAAAZAAABAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAA
 			AAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMA
-			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AZQBz
-			ACAAbABpAHYAZQAAADcDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbw==
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBz
+			ACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1
+			AG0AZQBuAHQAYQBsAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAcgBlAHAAZQB0AGkAZABh
+			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			ABIARQBzACAAVABWACAAVgBlAHIAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBtACAAVABoAGUAIABGAGkAcgBzAHQAIABU
+			AGEAawBl
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5167</integer>
+					<key>Track ID</key><integer>5172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5169</integer>
+					<key>Track ID</key><integer>5174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5171</integer>
+					<key>Track ID</key><integer>5176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5187</integer>
+					<key>Track ID</key><integer>5192</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5189</integer>
+					<key>Track ID</key><integer>5194</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5273</integer>
+					<key>Track ID</key><integer>5278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5277</integer>
+					<key>Track ID</key><integer>5282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5289</integer>
+					<key>Track ID</key><integer>5294</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5259</integer>
+					<key>Track ID</key><integer>5264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5261</integer>
+					<key>Track ID</key><integer>5266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5265</integer>
+					<key>Track ID</key><integer>5270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5251</integer>
+					<key>Track ID</key><integer>5256</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5255</integer>
+					<key>Track ID</key><integer>5260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5253</integer>
+					<key>Track ID</key><integer>5258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5263</integer>
+					<key>Track ID</key><integer>5268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14817</integer>
+					<key>Track ID</key><integer>14822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5297</integer>
+					<key>Track ID</key><integer>5302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5303</integer>
+					<key>Track ID</key><integer>5308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5305</integer>
+					<key>Track ID</key><integer>5310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5309</integer>
+					<key>Track ID</key><integer>5314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5313</integer>
+					<key>Track ID</key><integer>5318</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5295</integer>
+					<key>Track ID</key><integer>5300</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14801</integer>
+					<key>Track ID</key><integer>14806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5317</integer>
+					<key>Track ID</key><integer>5322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14815</integer>
+					<key>Track ID</key><integer>14820</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6395</integer>
+					<key>Track ID</key><integer>6400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24863</integer>
+					<key>Track ID</key><integer>24868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28013</integer>
+					<key>Track ID</key><integer>28018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28301</integer>
+					<key>Track ID</key><integer>28306</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28311</integer>
+					<key>Track ID</key><integer>28316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34391</integer>
+					<key>Track ID</key><integer>34396</integer>
 				</dict>
 			</array>
 		</dict>

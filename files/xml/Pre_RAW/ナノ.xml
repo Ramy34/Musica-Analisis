@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:27:28Z</date>
+	<key>Date</key><date>2026-02-03T22:44:59Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>8259</key>
+		<key>8264</key>
 		<dict>
-			<key>Track ID</key><integer>8259</integer>
+			<key>Track ID</key><integer>8264</integer>
 			<key>Name</key><string>AUTOBIOGRAPHY</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -48,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8261</key>
+		<key>8266</key>
 		<dict>
-			<key>Track ID</key><integer>8261</integer>
+			<key>Track ID</key><integer>8266</integer>
 			<key>Name</key><string>All I Need</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -84,9 +84,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8263</key>
+		<key>8268</key>
 		<dict>
-			<key>Track ID</key><integer>8263</integer>
+			<key>Track ID</key><integer>8268</integer>
 			<key>Name</key><string>LINE OF FIRE</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -106,9 +106,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3834326198</integer>
-			<key>Play Date UTC</key><date>2025-07-02T23:36:38Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852377690</integer>
+			<key>Play Date UTC</key><date>2026-01-27T22:54:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -120,9 +120,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8265</key>
+		<key>8270</key>
 		<dict>
-			<key>Track ID</key><integer>8265</integer>
+			<key>Track ID</key><integer>8270</integer>
 			<key>Name</key><string>Hourglass Story</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -145,8 +145,8 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3846410971</integer>
 			<key>Play Date UTC</key><date>2025-11-19T21:29:31Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2025-09-23T18:25:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-02-01T17:41:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -158,9 +158,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8267</key>
+		<key>8272</key>
 		<dict>
-			<key>Track ID</key><integer>8267</integer>
+			<key>Track ID</key><integer>8272</integer>
 			<key>Name</key><string>Remember again.</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -194,9 +194,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8271</key>
+		<key>8276</key>
 		<dict>
-			<key>Track ID</key><integer>8271</integer>
+			<key>Track ID</key><integer>8276</integer>
 			<key>Name</key><string>Born to Be</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -217,9 +217,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3829915142</integer>
-			<key>Play Date UTC</key><date>2025-05-12T22:19:02Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852441560</integer>
+			<key>Play Date UTC</key><date>2026-01-28T16:39:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -231,9 +231,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8273</key>
+		<key>8278</key>
 		<dict>
-			<key>Track ID</key><integer>8273</integer>
+			<key>Track ID</key><integer>8278</integer>
 			<key>Name</key><string>New World</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -254,9 +254,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3832968121</integer>
-			<key>Play Date UTC</key><date>2025-06-17T06:22:01Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852366757</integer>
+			<key>Play Date UTC</key><date>2026-01-27T19:52:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -268,9 +268,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8277</key>
+		<key>8282</key>
 		<dict>
-			<key>Track ID</key><integer>8277</integer>
+			<key>Track ID</key><integer>8282</integer>
 			<key>Name</key><string>Happy Ending Simulator</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -291,9 +291,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3835864255</integer>
-			<key>Play Date UTC</key><date>2025-07-20T18:50:55Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852394351</integer>
+			<key>Play Date UTC</key><date>2026-01-28T03:32:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -305,9 +305,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8281</key>
+		<key>8286</key>
 		<dict>
-			<key>Track ID</key><integer>8281</integer>
+			<key>Track ID</key><integer>8286</integer>
 			<key>Name</key><string>Last Refrain</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -342,9 +342,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8283</key>
+		<key>8288</key>
 		<dict>
-			<key>Track ID</key><integer>8283</integer>
+			<key>Track ID</key><integer>8288</integer>
 			<key>Name</key><string>Bull's Eye</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -365,9 +365,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3830155841</integer>
-			<key>Play Date UTC</key><date>2025-05-15T17:10:41Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852311143</integer>
+			<key>Play Date UTC</key><date>2026-01-27T04:25:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -379,9 +379,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8287</key>
+		<key>8292</key>
 		<dict>
-			<key>Track ID</key><integer>8287</integer>
+			<key>Track ID</key><integer>8292</integer>
 			<key>Name</key><string>Catastrophe</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -415,9 +415,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8289</key>
+		<key>8294</key>
 		<dict>
-			<key>Track ID</key><integer>8289</integer>
+			<key>Track ID</key><integer>8294</integer>
 			<key>Name</key><string>Do or Die</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -437,9 +437,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3821781602</integer>
-			<key>Play Date UTC</key><date>2025-02-07T20:00:02Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851963585</integer>
+			<key>Play Date UTC</key><date>2026-01-23T03:53:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -451,9 +451,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8291</key>
+		<key>8296</key>
 		<dict>
-			<key>Track ID</key><integer>8291</integer>
+			<key>Track ID</key><integer>8296</integer>
 			<key>Name</key><string>Dream Of Netherworlds</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -487,9 +487,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8293</key>
+		<key>8298</key>
 		<dict>
-			<key>Track ID</key><integer>8293</integer>
+			<key>Track ID</key><integer>8298</integer>
 			<key>Name</key><string>Gloria</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -509,9 +509,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3823539748</integer>
-			<key>Play Date UTC</key><date>2025-02-28T04:22:28Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3851962387</integer>
+			<key>Play Date UTC</key><date>2026-01-23T03:33:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -523,9 +523,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8299</key>
+		<key>8304</key>
 		<dict>
-			<key>Track ID</key><integer>8299</integer>
+			<key>Track ID</key><integer>8304</integer>
 			<key>Name</key><string>Bittersweet</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -560,9 +560,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8301</key>
+		<key>8306</key>
 		<dict>
-			<key>Track ID</key><integer>8301</integer>
+			<key>Track ID</key><integer>8306</integer>
 			<key>Name</key><string>Dreamcatcher</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -597,9 +597,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8309</key>
+		<key>8314</key>
 		<dict>
-			<key>Track ID</key><integer>8309</integer>
+			<key>Track ID</key><integer>8314</integer>
 			<key>Name</key><string>Paralyze-D</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -619,9 +619,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835880781</integer>
-			<key>Play Date UTC</key><date>2025-07-20T23:26:21Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852395965</integer>
+			<key>Play Date UTC</key><date>2026-01-28T03:59:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -633,9 +633,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8311</key>
+		<key>8316</key>
 		<dict>
-			<key>Track ID</key><integer>8311</integer>
+			<key>Track ID</key><integer>8316</integer>
 			<key>Name</key><string>Infinity≠Zero</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -670,9 +670,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8313</key>
+		<key>8318</key>
 		<dict>
-			<key>Track ID</key><integer>8313</integer>
+			<key>Track ID</key><integer>8318</integer>
 			<key>Name</key><string>Sable</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -707,9 +707,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8315</key>
+		<key>8320</key>
 		<dict>
-			<key>Track ID</key><integer>8315</integer>
+			<key>Track ID</key><integer>8320</integer>
 			<key>Name</key><string>Dusty Mirror</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -744,9 +744,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8317</key>
+		<key>8322</key>
 		<dict>
-			<key>Track ID</key><integer>8317</integer>
+			<key>Track ID</key><integer>8322</integer>
 			<key>Name</key><string>Kemurikusa</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -781,9 +781,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8319</key>
+		<key>8324</key>
 		<dict>
-			<key>Track ID</key><integer>8319</integer>
+			<key>Track ID</key><integer>8324</integer>
 			<key>Name</key><string>Spiral Eye</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -817,9 +817,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8321</key>
+		<key>8326</key>
 		<dict>
-			<key>Track ID</key><integer>8321</integer>
+			<key>Track ID</key><integer>8326</integer>
 			<key>Name</key><string>Lost In Gray</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -853,9 +853,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8323</key>
+		<key>8328</key>
 		<dict>
-			<key>Track ID</key><integer>8323</integer>
+			<key>Track ID</key><integer>8328</integer>
 			<key>Name</key><string>My Liberation</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -890,9 +890,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8325</key>
+		<key>8330</key>
 		<dict>
-			<key>Track ID</key><integer>8325</integer>
+			<key>Track ID</key><integer>8330</integer>
 			<key>Name</key><string>Paraiso</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -927,9 +927,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8327</key>
+		<key>8332</key>
 		<dict>
-			<key>Track ID</key><integer>8327</integer>
+			<key>Track ID</key><integer>8332</integer>
 			<key>Name</key><string>Dare Devil</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -963,9 +963,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8329</key>
+		<key>8334</key>
 		<dict>
-			<key>Track ID</key><integer>8329</integer>
+			<key>Track ID</key><integer>8334</integer>
 			<key>Name</key><string>neophobia</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -985,9 +985,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3835518905</integer>
-			<key>Play Date UTC</key><date>2025-07-16T18:55:05Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852388350</integer>
+			<key>Play Date UTC</key><date>2026-01-28T01:52:30Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -999,9 +999,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8333</key>
+		<key>8338</key>
 		<dict>
-			<key>Track ID</key><integer>8333</integer>
+			<key>Track ID</key><integer>8338</integer>
 			<key>Name</key><string>KALEIDOSCOPE</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1036,9 +1036,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8335</key>
+		<key>8340</key>
 		<dict>
-			<key>Track ID</key><integer>8335</integer>
+			<key>Track ID</key><integer>8340</integer>
 			<key>Name</key><string>Nevereverland</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1058,9 +1058,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3822908222</integer>
-			<key>Play Date UTC</key><date>2025-02-20T20:57:02Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851965703</integer>
+			<key>Play Date UTC</key><date>2026-01-23T04:28:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1072,9 +1072,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8337</key>
+		<key>8342</key>
 		<dict>
-			<key>Track ID</key><integer>8337</integer>
+			<key>Track ID</key><integer>8342</integer>
 			<key>Name</key><string>Silence</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1094,9 +1094,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3841224444</integer>
-			<key>Play Date UTC</key><date>2025-09-20T19:47:24Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851954620</integer>
+			<key>Play Date UTC</key><date>2026-01-23T01:23:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1108,9 +1108,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8349</key>
+		<key>8354</key>
 		<dict>
-			<key>Track ID</key><integer>8349</integer>
+			<key>Track ID</key><integer>8354</integer>
 			<key>Name</key><string>Black Board</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1145,9 +1145,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8355</key>
+		<key>8360</key>
 		<dict>
-			<key>Track ID</key><integer>8355</integer>
+			<key>Track ID</key><integer>8360</integer>
 			<key>Name</key><string>Freedom Is Yours</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1181,9 +1181,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8369</key>
+		<key>8374</key>
 		<dict>
-			<key>Track ID</key><integer>8369</integer>
+			<key>Track ID</key><integer>8374</integer>
 			<key>Name</key><string>Magenta</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1218,9 +1218,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8371</key>
+		<key>8376</key>
 		<dict>
-			<key>Track ID</key><integer>8371</integer>
+			<key>Track ID</key><integer>8376</integer>
 			<key>Name</key><string>Hysteria</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1240,9 +1240,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3842207803</integer>
-			<key>Play Date UTC</key><date>2025-10-02T04:56:43Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852110765</integer>
+			<key>Play Date UTC</key><date>2026-01-24T20:46:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1254,9 +1254,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8377</key>
+		<key>8382</key>
 		<dict>
-			<key>Track ID</key><integer>8377</integer>
+			<key>Track ID</key><integer>8382</integer>
 			<key>Name</key><string>Glow</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1291,9 +1291,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8379</key>
+		<key>8384</key>
 		<dict>
-			<key>Track ID</key><integer>8379</integer>
+			<key>Track ID</key><integer>8384</integer>
 			<key>Name</key><string>Omoide Kakera</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1314,9 +1314,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851342573</integer>
-			<key>Play Date UTC</key><date>2026-01-15T23:22:53Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852298046</integer>
+			<key>Play Date UTC</key><date>2026-01-27T00:47:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1328,9 +1328,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8381</key>
+		<key>8386</key>
 		<dict>
-			<key>Track ID</key><integer>8381</integer>
+			<key>Track ID</key><integer>8386</integer>
 			<key>Name</key><string>Dive in Your Eyes</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1365,9 +1365,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8383</key>
+		<key>8388</key>
 		<dict>
-			<key>Track ID</key><integer>8383</integer>
+			<key>Track ID</key><integer>8388</integer>
 			<key>Name</key><string>Just Be Friends</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1402,9 +1402,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8385</key>
+		<key>8390</key>
 		<dict>
-			<key>Track ID</key><integer>8385</integer>
+			<key>Track ID</key><integer>8390</integer>
 			<key>Name</key><string>Empty Shell</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1439,9 +1439,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8387</key>
+		<key>8392</key>
 		<dict>
-			<key>Track ID</key><integer>8387</integer>
+			<key>Track ID</key><integer>8392</integer>
 			<key>Name</key><string>Melancholic</string>
 			<key>Artist</key><string>ナノ feat. neko</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1478,9 +1478,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8389</key>
+		<key>8394</key>
 		<dict>
-			<key>Track ID</key><integer>8389</integer>
+			<key>Track ID</key><integer>8394</integer>
 			<key>Name</key><string>Dai Ichiji Jibun Senso</string>
 			<key>Artist</key><string>ナノ feat. _</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1500,9 +1500,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3851165813</integer>
-			<key>Play Date UTC</key><date>2026-01-13T22:16:53Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851889879</integer>
+			<key>Play Date UTC</key><date>2026-01-22T07:24:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-29T21:10:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1514,9 +1516,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8393</key>
+		<key>8398</key>
 		<dict>
-			<key>Track ID</key><integer>8393</integer>
+			<key>Track ID</key><integer>8398</integer>
 			<key>Name</key><string>No Pain, No Game</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1553,9 +1555,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8399</key>
+		<key>8404</key>
 		<dict>
-			<key>Track ID</key><integer>8399</integer>
+			<key>Track ID</key><integer>8404</integer>
 			<key>Name</key><string>Exist</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1589,9 +1591,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8403</key>
+		<key>8408</key>
 		<dict>
-			<key>Track ID</key><integer>8403</integer>
+			<key>Track ID</key><integer>8408</integer>
 			<key>Name</key><string>Rolling Star</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1611,9 +1613,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3843681567</integer>
-			<key>Play Date UTC</key><date>2025-10-19T06:19:27Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852292694</integer>
+			<key>Play Date UTC</key><date>2026-01-26T23:18:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1625,9 +1627,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8405</key>
+		<key>8410</key>
 		<dict>
-			<key>Track ID</key><integer>8405</integer>
+			<key>Track ID</key><integer>8410</integer>
 			<key>Name</key><string>Fight Song</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1647,9 +1649,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3821780252</integer>
-			<key>Play Date UTC</key><date>2025-02-07T19:37:32Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851964848</integer>
+			<key>Play Date UTC</key><date>2026-01-23T04:14:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1661,9 +1663,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8407</key>
+		<key>8412</key>
 		<dict>
-			<key>Track ID</key><integer>8407</integer>
+			<key>Track ID</key><integer>8412</integer>
 			<key>Name</key><string>TRUTH- A Great Detective of Love</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1697,9 +1699,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8409</key>
+		<key>8414</key>
 		<dict>
-			<key>Track ID</key><integer>8409</integer>
+			<key>Track ID</key><integer>8414</integer>
 			<key>Name</key><string>Rewrite</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1719,9 +1721,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3834409361</integer>
-			<key>Play Date UTC</key><date>2025-07-03T22:42:41Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852381295</integer>
+			<key>Play Date UTC</key><date>2026-01-27T23:54:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1733,9 +1735,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8411</key>
+		<key>8416</key>
 		<dict>
-			<key>Track ID</key><integer>8411</integer>
+			<key>Track ID</key><integer>8416</integer>
 			<key>Name</key><string>God Knows...</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1769,9 +1771,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8423</key>
+		<key>8428</key>
 		<dict>
-			<key>Track ID</key><integer>8423</integer>
+			<key>Track ID</key><integer>8428</integer>
 			<key>Name</key><string>Circle of Stars</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1791,9 +1793,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3843129026</integer>
-			<key>Play Date UTC</key><date>2025-10-12T20:50:26Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3852570856</integer>
+			<key>Play Date UTC</key><date>2026-01-30T04:34:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1805,9 +1807,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8425</key>
+		<key>8430</key>
 		<dict>
-			<key>Track ID</key><integer>8425</integer>
+			<key>Track ID</key><integer>8430</integer>
 			<key>Name</key><string>Now or Never</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1841,9 +1843,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8427</key>
+		<key>8432</key>
 		<dict>
-			<key>Track ID</key><integer>8427</integer>
+			<key>Track ID</key><integer>8432</integer>
 			<key>Name</key><string>Destiny - The 12th Miracle</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1863,9 +1865,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3830948861</integer>
-			<key>Play Date UTC</key><date>2025-05-24T21:27:41Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852360438</integer>
+			<key>Play Date UTC</key><date>2026-01-27T18:07:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1877,9 +1879,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8429</key>
+		<key>8434</key>
 		<dict>
-			<key>Track ID</key><integer>8429</integer>
+			<key>Track ID</key><integer>8434</integer>
 			<key>Name</key><string>Oblivion</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1913,9 +1915,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8451</key>
+		<key>8456</key>
 		<dict>
-			<key>Track ID</key><integer>8451</integer>
+			<key>Track ID</key><integer>8456</integer>
 			<key>Name</key><string>Identity Crisis</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1936,9 +1938,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3843648269</integer>
-			<key>Play Date UTC</key><date>2025-10-18T21:04:29Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3851946233</integer>
+			<key>Play Date UTC</key><date>2026-01-22T23:03:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1950,9 +1952,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8459</key>
+		<key>8464</key>
 		<dict>
-			<key>Track ID</key><integer>8459</integer>
+			<key>Track ID</key><integer>8464</integer>
 			<key>Name</key><string>Scarlet Story</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -1987,9 +1989,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8465</key>
+		<key>8470</key>
 		<dict>
-			<key>Track ID</key><integer>8465</integer>
+			<key>Track ID</key><integer>8470</integer>
 			<key>Name</key><string>Restart</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2010,9 +2012,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3828949587</integer>
-			<key>Play Date UTC</key><date>2025-05-01T18:06:27Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852046763</integer>
+			<key>Play Date UTC</key><date>2026-01-24T02:59:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2024,9 +2026,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8471</key>
+		<key>8476</key>
 		<dict>
-			<key>Track ID</key><integer>8471</integer>
+			<key>Track ID</key><integer>8476</integer>
 			<key>Name</key><string>Rock On.</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2060,9 +2062,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8473</key>
+		<key>8478</key>
 		<dict>
-			<key>Track ID</key><integer>8473</integer>
+			<key>Track ID</key><integer>8478</integer>
 			<key>Name</key><string>Savior of Song</string>
 			<key>Artist</key><string>ナノ feat. MY FIRST STORY</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2083,9 +2085,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3832011228</integer>
-			<key>Play Date UTC</key><date>2025-06-06T04:33:48Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852362647</integer>
+			<key>Play Date UTC</key><date>2026-01-27T18:44:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2097,9 +2099,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8475</key>
+		<key>8480</key>
 		<dict>
-			<key>Track ID</key><integer>8475</integer>
+			<key>Track ID</key><integer>8480</integer>
 			<key>Name</key><string>Silver Sky</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2120,9 +2122,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3837856664</integer>
-			<key>Play Date UTC</key><date>2025-08-12T20:17:44Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852118032</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:47:12Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2134,9 +2136,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8479</key>
+		<key>8484</key>
 		<dict>
-			<key>Track ID</key><integer>8479</integer>
+			<key>Track ID</key><integer>8484</integer>
 			<key>Name</key><string>Start Over</string>
 			<key>Artist</key><string>ナノ feat. MY FIRST STORY</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2156,9 +2158,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3834325732</integer>
-			<key>Play Date UTC</key><date>2025-07-02T23:28:52Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852377415</integer>
+			<key>Play Date UTC</key><date>2026-01-27T22:50:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2170,9 +2172,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8485</key>
+		<key>8490</key>
 		<dict>
-			<key>Track ID</key><integer>8485</integer>
+			<key>Track ID</key><integer>8490</integer>
 			<key>Name</key><string>Star light, Star bright</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2193,9 +2195,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3831643211</integer>
-			<key>Play Date UTC</key><date>2025-06-01T22:20:11Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852361658</integer>
+			<key>Play Date UTC</key><date>2026-01-27T18:27:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2207,9 +2209,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8489</key>
+		<key>8494</key>
 		<dict>
-			<key>Track ID</key><integer>8489</integer>
+			<key>Track ID</key><integer>8494</integer>
 			<key>Name</key><string>Artificial Hero</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2243,9 +2245,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8493</key>
+		<key>8498</key>
 		<dict>
-			<key>Track ID</key><integer>8493</integer>
+			<key>Track ID</key><integer>8498</integer>
 			<key>Name</key><string>Eye of the Beholder</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2280,9 +2282,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8495</key>
+		<key>8500</key>
 		<dict>
-			<key>Track ID</key><integer>8495</integer>
+			<key>Track ID</key><integer>8500</integer>
 			<key>Name</key><string>Nameless Nemesis</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2302,9 +2304,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3826302950</integer>
-			<key>Play Date UTC</key><date>2025-04-01T03:55:50Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852042311</integer>
+			<key>Play Date UTC</key><date>2026-01-24T01:45:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2317,9 +2319,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8497</key>
+		<key>8502</key>
 		<dict>
-			<key>Track ID</key><integer>8497</integer>
+			<key>Track ID</key><integer>8502</integer>
 			<key>Name</key><string>Hybrid Heart</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2339,9 +2341,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3846909909</integer>
-			<key>Play Date UTC</key><date>2025-11-25T16:05:09Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852118834</integer>
+			<key>Play Date UTC</key><date>2026-01-24T23:00:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2354,9 +2356,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8503</key>
+		<key>8508</key>
 		<dict>
-			<key>Track ID</key><integer>8503</integer>
+			<key>Track ID</key><integer>8508</integer>
 			<key>Name</key><string>Beautiful Disaster</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2391,9 +2393,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8507</key>
+		<key>8512</key>
 		<dict>
-			<key>Track ID</key><integer>8507</integer>
+			<key>Track ID</key><integer>8512</integer>
 			<key>Name</key><string>Because of You</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2428,9 +2430,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8509</key>
+		<key>8514</key>
 		<dict>
-			<key>Track ID</key><integer>8509</integer>
+			<key>Track ID</key><integer>8514</integer>
 			<key>Name</key><string>Milestone</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2465,9 +2467,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8515</key>
+		<key>8520</key>
 		<dict>
-			<key>Track ID</key><integer>8515</integer>
+			<key>Track ID</key><integer>8520</integer>
 			<key>Name</key><string>We Are the Vanguard</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2501,9 +2503,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8517</key>
+		<key>8522</key>
 		<dict>
-			<key>Track ID</key><integer>8517</integer>
+			<key>Track ID</key><integer>8522</integer>
 			<key>Name</key><string>A Nameless Color</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2523,9 +2525,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3820854577</integer>
-			<key>Play Date UTC</key><date>2025-01-28T02:29:37Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851889351</integer>
+			<key>Play Date UTC</key><date>2026-01-22T07:15:51Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-11-12T01:29:39Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -2540,9 +2542,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8519</key>
+		<key>8524</key>
 		<dict>
-			<key>Track ID</key><integer>8519</integer>
+			<key>Track ID</key><integer>8524</integer>
 			<key>Name</key><string>Broken Voices</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2565,6 +2567,8 @@
 			<key>Play Count</key><integer>6</integer>
 			<key>Play Date</key><integer>3841920838</integer>
 			<key>Play Date UTC</key><date>2025-09-28T21:13:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-31T21:43:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -2576,9 +2580,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27007</key>
+		<key>27012</key>
 		<dict>
-			<key>Track ID</key><integer>27007</integer>
+			<key>Track ID</key><integer>27012</integer>
 			<key>Name</key><string>Devil in Me</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2612,9 +2616,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28801</key>
+		<key>28806</key>
 		<dict>
-			<key>Track ID</key><integer>28801</integer>
+			<key>Track ID</key><integer>28806</integer>
 			<key>Name</key><string>Antagonist</string>
 			<key>Artist</key><string>ナノ</string>
 			<key>Album Artist</key><string>ナノ</string>
@@ -2654,7 +2658,7 @@
 		<dict>
 			<key>Name</key><string>ナノ</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102498</integer>
+			<key>Playlist ID</key><integer>102442</integer>
 			<key>Playlist Persistent ID</key><string>CE692DF15FBA68C5</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -2677,234 +2681,240 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdRTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwpTTHN0AAEAAQAAAAgAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAQwyjDOAAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAbQAA
 			AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAACAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAGUAcwAgAGwAaQB2AGUAAAAO
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAEUAcwAgAGwAaQB2AGUAAAAO
 			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBF
-			AHMAIABhAGMA+gBzAHQAaQBjAG8=
+			AHMAIABhAGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBFAHMAIABUAFYAIABWAGUAcgAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAgAHIAZQBw
+			AGUAdABpAGQAYQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeAAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1AG0AZQBu
+			AHQAYQBs
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>8425</integer>
+					<key>Track ID</key><integer>8430</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8427</integer>
+					<key>Track ID</key><integer>8432</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8393</integer>
+					<key>Track ID</key><integer>8398</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8399</integer>
+					<key>Track ID</key><integer>8404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8473</integer>
+					<key>Track ID</key><integer>8478</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8475</integer>
+					<key>Track ID</key><integer>8480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8479</integer>
+					<key>Track ID</key><integer>8484</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8271</integer>
+					<key>Track ID</key><integer>8276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8273</integer>
+					<key>Track ID</key><integer>8278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8277</integer>
+					<key>Track ID</key><integer>8282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8311</integer>
+					<key>Track ID</key><integer>8316</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8313</integer>
+					<key>Track ID</key><integer>8318</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8315</integer>
+					<key>Track ID</key><integer>8320</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8309</integer>
+					<key>Track ID</key><integer>8314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8283</integer>
+					<key>Track ID</key><integer>8288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8281</integer>
+					<key>Track ID</key><integer>8286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8301</integer>
+					<key>Track ID</key><integer>8306</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8299</integer>
+					<key>Track ID</key><integer>8304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8323</integer>
+					<key>Track ID</key><integer>8328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8325</integer>
+					<key>Track ID</key><integer>8330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8327</integer>
+					<key>Track ID</key><integer>8332</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8291</integer>
+					<key>Track ID</key><integer>8296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8293</integer>
+					<key>Track ID</key><integer>8298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8485</integer>
+					<key>Track ID</key><integer>8490</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8489</integer>
+					<key>Track ID</key><integer>8494</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8317</integer>
+					<key>Track ID</key><integer>8322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8319</integer>
+					<key>Track ID</key><integer>8324</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8259</integer>
+					<key>Track ID</key><integer>8264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8261</integer>
+					<key>Track ID</key><integer>8266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8263</integer>
+					<key>Track ID</key><integer>8268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8265</integer>
+					<key>Track ID</key><integer>8270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8267</integer>
+					<key>Track ID</key><integer>8272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8429</integer>
+					<key>Track ID</key><integer>8434</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8369</integer>
+					<key>Track ID</key><integer>8374</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8371</integer>
+					<key>Track ID</key><integer>8376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8377</integer>
+					<key>Track ID</key><integer>8382</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8379</integer>
+					<key>Track ID</key><integer>8384</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8381</integer>
+					<key>Track ID</key><integer>8386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8383</integer>
+					<key>Track ID</key><integer>8388</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8385</integer>
+					<key>Track ID</key><integer>8390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8387</integer>
+					<key>Track ID</key><integer>8392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8389</integer>
+					<key>Track ID</key><integer>8394</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8329</integer>
+					<key>Track ID</key><integer>8334</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8333</integer>
+					<key>Track ID</key><integer>8338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8335</integer>
+					<key>Track ID</key><integer>8340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8337</integer>
+					<key>Track ID</key><integer>8342</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8349</integer>
+					<key>Track ID</key><integer>8354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8451</integer>
+					<key>Track ID</key><integer>8456</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8459</integer>
+					<key>Track ID</key><integer>8464</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8465</integer>
+					<key>Track ID</key><integer>8470</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8471</integer>
+					<key>Track ID</key><integer>8476</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8355</integer>
+					<key>Track ID</key><integer>8360</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8493</integer>
+					<key>Track ID</key><integer>8498</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8495</integer>
+					<key>Track ID</key><integer>8500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8497</integer>
+					<key>Track ID</key><integer>8502</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8503</integer>
+					<key>Track ID</key><integer>8508</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8507</integer>
+					<key>Track ID</key><integer>8512</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8509</integer>
+					<key>Track ID</key><integer>8514</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8287</integer>
+					<key>Track ID</key><integer>8292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8289</integer>
+					<key>Track ID</key><integer>8294</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8405</integer>
+					<key>Track ID</key><integer>8410</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8515</integer>
+					<key>Track ID</key><integer>8520</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8519</integer>
+					<key>Track ID</key><integer>8524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8517</integer>
+					<key>Track ID</key><integer>8522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8423</integer>
+					<key>Track ID</key><integer>8428</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8403</integer>
+					<key>Track ID</key><integer>8408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8407</integer>
+					<key>Track ID</key><integer>8412</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8409</integer>
+					<key>Track ID</key><integer>8414</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8411</integer>
+					<key>Track ID</key><integer>8416</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8321</integer>
+					<key>Track ID</key><integer>8326</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27007</integer>
+					<key>Track ID</key><integer>27012</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28801</integer>
+					<key>Track ID</key><integer>28806</integer>
 				</dict>
 			</array>
 		</dict>

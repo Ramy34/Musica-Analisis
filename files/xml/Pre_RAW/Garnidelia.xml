@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:20:37Z</date>
+	<key>Date</key><date>2026-02-03T22:26:56Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14369</key>
+		<key>14374</key>
 		<dict>
-			<key>Track ID</key><integer>14369</integer>
+			<key>Track ID</key><integer>14374</integer>
 			<key>Name</key><string>G.R.N.D.</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -48,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14375</key>
+		<key>14380</key>
 		<dict>
-			<key>Track ID</key><integer>14375</integer>
+			<key>Track ID</key><integer>14380</integer>
 			<key>Name</key><string>Jesus</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -85,9 +85,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14379</key>
+		<key>14384</key>
 		<dict>
-			<key>Track ID</key><integer>14379</integer>
+			<key>Track ID</key><integer>14384</integer>
 			<key>Name</key><string>Poppin'Trip -GARNiDELiA vs HEAVYGRINDER-</string>
 			<key>Artist</key><string>GARNiDELiA &#38; HEAVYGRINDER</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -122,9 +122,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14381</key>
+		<key>14386</key>
 		<dict>
-			<key>Track ID</key><integer>14381</integer>
+			<key>Track ID</key><integer>14386</integer>
 			<key>Name</key><string>最後の恋</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -161,10 +161,10 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14385</key>
+		<key>14390</key>
 		<dict>
-			<key>Track ID</key><integer>14385</integer>
-			<key>Name</key><string>Arrow  Of  Love</string>
+			<key>Track ID</key><integer>14390</integer>
+			<key>Name</key><string>Arrow Of Love</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
 			<key>Composer</key><string>TOKU</string>
@@ -179,14 +179,14 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>BPM</key><integer>88</integer>
-			<key>Date Modified</key><date>2026-01-17T06:08:24Z</date>
+			<key>Date Modified</key><date>2026-02-03T22:26:47Z</date>
 			<key>Date Added</key><date>2025-01-17T21:47:07Z</date>
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3851452529</integer>
-			<key>Play Date UTC</key><date>2026-01-17T05:55:29Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852956936</integer>
+			<key>Play Date UTC</key><date>2026-02-03T15:48:56Z</date>
 			<key>Release Date</key><date>2012-08-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -195,13 +195,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F26091D649BEB5B3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/02%20Arrow%20%C2%A0Of%20%C2%A0Love.m4a</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/02%20Arrow%20Of%20Love.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14391</key>
+		<key>14396</key>
 		<dict>
-			<key>Track ID</key><integer>14391</integer>
+			<key>Track ID</key><integer>14396</integer>
 			<key>Name</key><string>Asteroid</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -237,9 +237,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14399</key>
+		<key>14404</key>
 		<dict>
-			<key>Track ID</key><integer>14399</integer>
+			<key>Track ID</key><integer>14404</integer>
 			<key>Name</key><string>桃源恋歌</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -276,9 +276,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14403</key>
+		<key>14408</key>
 		<dict>
-			<key>Track ID</key><integer>14403</integer>
+			<key>Track ID</key><integer>14408</integer>
 			<key>Name</key><string>紅葉愛唄</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -313,9 +313,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14405</key>
+		<key>14410</key>
 		<dict>
-			<key>Track ID</key><integer>14405</integer>
+			<key>Track ID</key><integer>14410</integer>
 			<key>Name</key><string>Love Swing</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -352,9 +352,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14407</key>
+		<key>14412</key>
 		<dict>
-			<key>Track ID</key><integer>14407</integer>
+			<key>Track ID</key><integer>14412</integer>
 			<key>Name</key><string>After glow</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -389,9 +389,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18247</key>
+		<key>18252</key>
 		<dict>
-			<key>Track ID</key><integer>18247</integer>
+			<key>Track ID</key><integer>18252</integer>
 			<key>Name</key><string>EXXXTASY</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -412,9 +412,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851506466</integer>
-			<key>Play Date UTC</key><date>2026-01-17T20:54:26Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851950886</integer>
+			<key>Play Date UTC</key><date>2026-01-23T00:21:26Z</date>
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -427,9 +427,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18277</key>
+		<key>18282</key>
 		<dict>
-			<key>Track ID</key><integer>18277</integer>
+			<key>Track ID</key><integer>18282</integer>
 			<key>Name</key><string>Kishikaisei</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -464,9 +464,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18285</key>
+		<key>18290</key>
 		<dict>
-			<key>Track ID</key><integer>18285</integer>
+			<key>Track ID</key><integer>18290</integer>
 			<key>Name</key><string>Live On!</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -502,9 +502,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18325</key>
+		<key>18330</key>
 		<dict>
-			<key>Track ID</key><integer>18325</integer>
+			<key>Track ID</key><integer>18330</integer>
 			<key>Name</key><string>Secret Party</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -540,9 +540,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18371</key>
+		<key>18376</key>
 		<dict>
-			<key>Track ID</key><integer>18371</integer>
+			<key>Track ID</key><integer>18376</integer>
 			<key>Name</key><string>―TEN―</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -577,9 +577,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18391</key>
+		<key>18396</key>
 		<dict>
-			<key>Track ID</key><integer>18391</integer>
+			<key>Track ID</key><integer>18396</integer>
 			<key>Name</key><string>暁桜</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -615,9 +615,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18439</key>
+		<key>18444</key>
 		<dict>
-			<key>Track ID</key><integer>18439</integer>
+			<key>Track ID</key><integer>18444</integer>
 			<key>Name</key><string>IDENtity</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -653,9 +653,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18463</key>
+		<key>18468</key>
 		<dict>
-			<key>Track ID</key><integer>18463</integer>
+			<key>Track ID</key><integer>18468</integer>
 			<key>Name</key><string>my code</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -691,9 +691,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18473</key>
+		<key>18478</key>
 		<dict>
-			<key>Track ID</key><integer>18473</integer>
+			<key>Track ID</key><integer>18478</integer>
 			<key>Name</key><string>Real</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -714,9 +714,9 @@
 			<key>Bit Rate</key><integer>315</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851506739</integer>
-			<key>Play Date UTC</key><date>2026-01-17T20:58:59Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852790896</integer>
+			<key>Play Date UTC</key><date>2026-02-01T17:41:36Z</date>
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -729,9 +729,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18737</key>
+		<key>18742</key>
 		<dict>
-			<key>Track ID</key><integer>18737</integer>
+			<key>Track ID</key><integer>18742</integer>
 			<key>Name</key><string>LIFE</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -767,9 +767,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18863</key>
+		<key>18868</key>
 		<dict>
-			<key>Track ID</key><integer>18863</integer>
+			<key>Track ID</key><integer>18868</integer>
 			<key>Name</key><string>祈りの歌</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -790,9 +790,9 @@
 			<key>Bit Rate</key><integer>317</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851507273</integer>
-			<key>Play Date UTC</key><date>2026-01-17T21:07:53Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851933736</integer>
+			<key>Play Date UTC</key><date>2026-01-22T19:35:36Z</date>
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -805,9 +805,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18885</key>
+		<key>18890</key>
 		<dict>
-			<key>Track ID</key><integer>18885</integer>
+			<key>Track ID</key><integer>18890</integer>
 			<key>Name</key><string>DEPARTURES</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -843,9 +843,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19001</key>
+		<key>19006</key>
 		<dict>
-			<key>Track ID</key><integer>19001</integer>
+			<key>Track ID</key><integer>19006</integer>
 			<key>Name</key><string>Steps</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -872,7 +872,6 @@
 			<key>Release Date</key><date>2015-01-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6399</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F7EA83A9618BB48</string>
@@ -881,9 +880,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19067</key>
+		<key>19072</key>
 		<dict>
-			<key>Track ID</key><integer>19067</integer>
+			<key>Track ID</key><integer>19072</integer>
 			<key>Name</key><string>Lamb.</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -904,13 +903,12 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851495027</integer>
-			<key>Play Date UTC</key><date>2026-01-17T17:43:47Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852059245</integer>
+			<key>Play Date UTC</key><date>2026-01-24T06:27:25Z</date>
 			<key>Release Date</key><date>2015-01-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6959</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D7607E7663F090E0</string>
@@ -919,9 +917,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19109</key>
+		<key>19114</key>
 		<dict>
-			<key>Track ID</key><integer>19109</integer>
+			<key>Track ID</key><integer>19114</integer>
 			<key>Name</key><string>飾りじゃないのよ 涙は</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -957,9 +955,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19167</key>
+		<key>19172</key>
 		<dict>
-			<key>Track ID</key><integer>19167</integer>
+			<key>Track ID</key><integer>19172</integer>
 			<key>Name</key><string>オオカミ少女</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -983,10 +981,11 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3851495305</integer>
 			<key>Play Date UTC</key><date>2026-01-17T17:48:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-01T17:41:47Z</date>
 			<key>Release Date</key><date>2015-01-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10563</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>995EE944665424A1</string>
@@ -995,9 +994,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19237</key>
+		<key>19242</key>
 		<dict>
-			<key>Track ID</key><integer>19237</integer>
+			<key>Track ID</key><integer>19242</integer>
 			<key>Name</key><string>一蓮托生</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1032,9 +1031,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20815</key>
+		<key>20820</key>
 		<dict>
-			<key>Track ID</key><integer>20815</integer>
+			<key>Track ID</key><integer>20820</integer>
 			<key>Name</key><string>Error</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1069,9 +1068,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20817</key>
+		<key>20822</key>
 		<dict>
-			<key>Track ID</key><integer>20817</integer>
+			<key>Track ID</key><integer>20822</integer>
 			<key>Name</key><string>anymore</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1108,9 +1107,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20825</key>
+		<key>20830</key>
 		<dict>
-			<key>Track ID</key><integer>20825</integer>
+			<key>Track ID</key><integer>20830</integer>
 			<key>Name</key><string>Desir</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1131,9 +1130,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851509505</integer>
-			<key>Play Date UTC</key><date>2026-01-17T21:45:05Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852108091</integer>
+			<key>Play Date UTC</key><date>2026-01-24T20:01:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1145,9 +1144,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20869</key>
+		<key>20874</key>
 		<dict>
-			<key>Track ID</key><integer>20869</integer>
+			<key>Track ID</key><integer>20874</integer>
 			<key>Name</key><string>響喜乱舞</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1182,9 +1181,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20871</key>
+		<key>20876</key>
 		<dict>
-			<key>Track ID</key><integer>20871</integer>
+			<key>Track ID</key><integer>20876</integer>
 			<key>Name</key><string>アブラカダブラ ～avra K'Davarah～</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1219,9 +1218,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20901</key>
+		<key>20906</key>
 		<dict>
-			<key>Track ID</key><integer>20901</integer>
+			<key>Track ID</key><integer>20906</integer>
 			<key>Name</key><string>Hysteric Bullet</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1256,9 +1255,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29221</key>
+		<key>29226</key>
 		<dict>
-			<key>Track ID</key><integer>29221</integer>
+			<key>Track ID</key><integer>29226</integer>
 			<key>Name</key><string>春がきたよ</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1294,9 +1293,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29225</key>
+		<key>29230</key>
 		<dict>
-			<key>Track ID</key><integer>29225</integer>
+			<key>Track ID</key><integer>29230</integer>
 			<key>Name</key><string>ambiguous</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1325,7 +1324,6 @@
 			<key>Release Date</key><date>2014-03-05T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14943</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9AE8557DEAE930EE</string>
@@ -1334,9 +1332,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29233</key>
+		<key>29238</key>
 		<dict>
-			<key>Track ID</key><integer>29233</integer>
+			<key>Track ID</key><integer>29238</integer>
 			<key>Name</key><string>grilletto</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1357,9 +1355,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851492192</integer>
-			<key>Play Date UTC</key><date>2026-01-17T16:56:32Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852097181</integer>
+			<key>Play Date UTC</key><date>2026-01-24T16:59:41Z</date>
 			<key>Release Date</key><date>2014-07-30T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1372,9 +1370,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29245</key>
+		<key>29250</key>
 		<dict>
-			<key>Track ID</key><integer>29245</integer>
+			<key>Track ID</key><integer>29250</integer>
 			<key>Name</key><string>BLAZING</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1410,9 +1408,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29269</key>
+		<key>29274</key>
 		<dict>
-			<key>Track ID</key><integer>29269</integer>
+			<key>Track ID</key><integer>29274</integer>
 			<key>Name</key><string>Burning Soul</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1433,9 +1431,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851505161</integer>
-			<key>Play Date UTC</key><date>2026-01-17T20:32:41Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852115701</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:08:21Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-17T20:28:47Z</date>
 			<key>Release Date</key><date>2016-04-13T12:00:00Z</date>
@@ -1450,9 +1448,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29271</key>
+		<key>29276</key>
 		<dict>
-			<key>Track ID</key><integer>29271</integer>
+			<key>Track ID</key><integer>29276</integer>
 			<key>Name</key><string>約束 -Promise code-</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1488,9 +1486,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29273</key>
+		<key>29278</key>
 		<dict>
-			<key>Track ID</key><integer>29273</integer>
+			<key>Track ID</key><integer>29278</integer>
 			<key>Name</key><string>極楽浄土</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1526,9 +1524,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29279</key>
+		<key>29284</key>
 		<dict>
-			<key>Track ID</key><integer>29279</integer>
+			<key>Track ID</key><integer>29284</integer>
 			<key>Name</key><string>clever</string>
 			<key>Artist</key><string>ClariS &#38; GARNiDELiA</string>
 			<key>Album Artist</key><string>ClariS &#38; GARNiDELiA</string>
@@ -1564,9 +1562,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29295</key>
+		<key>29300</key>
 		<dict>
-			<key>Track ID</key><integer>29295</integer>
+			<key>Track ID</key><integer>29300</integer>
 			<key>Name</key><string>廻廻奇譚 (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1602,9 +1600,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29297</key>
+		<key>29302</key>
 		<dict>
-			<key>Track ID</key><integer>29297</integer>
+			<key>Track ID</key><integer>29302</integer>
 			<key>Name</key><string>春よ、来い (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1639,9 +1637,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29299</key>
+		<key>29304</key>
 		<dict>
-			<key>Track ID</key><integer>29299</integer>
+			<key>Track ID</key><integer>29304</integer>
 			<key>Name</key><string>フレンズ (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1682,7 +1680,7 @@
 		<dict>
 			<key>Name</key><string>Garnidelia</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101403</integer>
+			<key>Playlist ID</key><integer>101322</integer>
 			<key>Playlist Persistent ID</key><string>C6A4F0EBE6338127</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1705,152 +1703,158 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkJTTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3hTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABQARwBBAFIATgBpAEQARQBMAGkAQQAAABkAAAEAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAA
 			AAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO
-			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBl
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBF
 			AHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAAAgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAADgMAAAIAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYARgByAG8AbQAgAFQAaABl
-			ACAARgBpAHIAcwB0ACAAVABhAGsAZQ==
+			ACAARgBpAHIAcwB0ACAAVABhAGsAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAEUAcwAgAFQAVgAgAFYAZQByAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAcgBl
+			AHAAZQB0AGkAZABhAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBl
+			AG4AdABhAGw=
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>29297</integer>
+					<key>Track ID</key><integer>29302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14385</integer>
+					<key>Track ID</key><integer>14390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14391</integer>
+					<key>Track ID</key><integer>14396</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29225</integer>
+					<key>Track ID</key><integer>29230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29233</integer>
+					<key>Track ID</key><integer>29238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29245</integer>
+					<key>Track ID</key><integer>29250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19001</integer>
+					<key>Track ID</key><integer>19006</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19067</integer>
+					<key>Track ID</key><integer>19072</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19167</integer>
+					<key>Track ID</key><integer>19172</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29269</integer>
+					<key>Track ID</key><integer>29274</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29271</integer>
+					<key>Track ID</key><integer>29276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29273</integer>
+					<key>Track ID</key><integer>29278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29279</integer>
+					<key>Track ID</key><integer>29284</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18247</integer>
+					<key>Track ID</key><integer>18252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18473</integer>
+					<key>Track ID</key><integer>18478</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18737</integer>
+					<key>Track ID</key><integer>18742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18863</integer>
+					<key>Track ID</key><integer>18868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20825</integer>
+					<key>Track ID</key><integer>20830</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20901</integer>
+					<key>Track ID</key><integer>20906</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20815</integer>
+					<key>Track ID</key><integer>20820</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20817</integer>
+					<key>Track ID</key><integer>20822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14369</integer>
+					<key>Track ID</key><integer>14374</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14375</integer>
+					<key>Track ID</key><integer>14380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14379</integer>
+					<key>Track ID</key><integer>14384</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14399</integer>
+					<key>Track ID</key><integer>14404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14403</integer>
+					<key>Track ID</key><integer>14408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14405</integer>
+					<key>Track ID</key><integer>14410</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14407</integer>
+					<key>Track ID</key><integer>14412</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14381</integer>
+					<key>Track ID</key><integer>14386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20869</integer>
+					<key>Track ID</key><integer>20874</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>20871</integer>
+					<key>Track ID</key><integer>20876</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18325</integer>
+					<key>Track ID</key><integer>18330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18277</integer>
+					<key>Track ID</key><integer>18282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18439</integer>
+					<key>Track ID</key><integer>18444</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29221</integer>
+					<key>Track ID</key><integer>29226</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18285</integer>
+					<key>Track ID</key><integer>18290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18463</integer>
+					<key>Track ID</key><integer>18468</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29295</integer>
+					<key>Track ID</key><integer>29300</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29299</integer>
+					<key>Track ID</key><integer>29304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18885</integer>
+					<key>Track ID</key><integer>18890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19109</integer>
+					<key>Track ID</key><integer>19114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18391</integer>
+					<key>Track ID</key><integer>18396</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18371</integer>
+					<key>Track ID</key><integer>18376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19237</integer>
+					<key>Track ID</key><integer>19242</integer>
 				</dict>
 			</array>
 		</dict>

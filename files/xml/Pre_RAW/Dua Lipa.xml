@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:19:54Z</date>
+	<key>Date</key><date>2026-02-03T22:20:10Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6183</key>
+		<key>6188</key>
 		<dict>
-			<key>Track ID</key><integer>6183</integer>
+			<key>Track ID</key><integer>6188</integer>
 			<key>Name</key><string>Dance The Night (From Barbie The Album)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3831057497</integer>
-			<key>Play Date UTC</key><date>2025-05-26T03:38:17Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852353060</integer>
+			<key>Play Date UTC</key><date>2026-01-27T16:04:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6189</key>
+		<key>6194</key>
 		<dict>
-			<key>Track ID</key><integer>6189</integer>
+			<key>Track ID</key><integer>6194</integer>
 			<key>Name</key><string>Hotter Than Hell</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -86,9 +86,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6197</key>
+		<key>6202</key>
 		<dict>
-			<key>Track ID</key><integer>6197</integer>
+			<key>Track ID</key><integer>6202</integer>
 			<key>Name</key><string>Garden</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -123,9 +123,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6199</key>
+		<key>6204</key>
 		<dict>
-			<key>Track ID</key><integer>6199</integer>
+			<key>Track ID</key><integer>6204</integer>
 			<key>Name</key><string>No Goodbyes</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -146,9 +146,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851446487</integer>
-			<key>Play Date UTC</key><date>2026-01-17T04:14:47Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852127293</integer>
+			<key>Play Date UTC</key><date>2026-01-25T01:21:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -160,9 +160,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6201</key>
+		<key>6206</key>
 		<dict>
-			<key>Track ID</key><integer>6201</integer>
+			<key>Track ID</key><integer>6206</integer>
 			<key>Name</key><string>Thinking 'Bout You</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -183,9 +183,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850330732</integer>
-			<key>Play Date UTC</key><date>2026-01-04T06:18:52Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852440265</integer>
+			<key>Play Date UTC</key><date>2026-01-28T16:17:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -197,9 +197,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6203</key>
+		<key>6208</key>
 		<dict>
-			<key>Track ID</key><integer>6203</integer>
+			<key>Track ID</key><integer>6208</integer>
 			<key>Name</key><string>New Rules</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -234,9 +234,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6217</key>
+		<key>6222</key>
 		<dict>
-			<key>Track ID</key><integer>6217</integer>
+			<key>Track ID</key><integer>6222</integer>
 			<key>Name</key><string>Last Dance</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -271,9 +271,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6223</key>
+		<key>6228</key>
 		<dict>
-			<key>Track ID</key><integer>6223</integer>
+			<key>Track ID</key><integer>6228</integer>
 			<key>Name</key><string>Cool</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -294,9 +294,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3825864195</integer>
-			<key>Play Date UTC</key><date>2025-03-27T02:03:15Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3851970495</integer>
+			<key>Play Date UTC</key><date>2026-01-23T05:48:15Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-02-15T21:35:25Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -310,9 +310,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6225</key>
+		<key>6230</key>
 		<dict>
-			<key>Track ID</key><integer>6225</integer>
+			<key>Track ID</key><integer>6230</integer>
 			<key>Name</key><string>Physical</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -347,9 +347,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6227</key>
+		<key>6232</key>
 		<dict>
-			<key>Track ID</key><integer>6227</integer>
+			<key>Track ID</key><integer>6232</integer>
 			<key>Name</key><string>Levitating</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -384,9 +384,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6231</key>
+		<key>6236</key>
 		<dict>
-			<key>Track ID</key><integer>6231</integer>
+			<key>Track ID</key><integer>6236</integer>
 			<key>Name</key><string>Hallucinate</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -421,9 +421,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6233</key>
+		<key>6238</key>
 		<dict>
-			<key>Track ID</key><integer>6233</integer>
+			<key>Track ID</key><integer>6238</integer>
 			<key>Name</key><string>Love Again</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -458,9 +458,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6235</key>
+		<key>6240</key>
 		<dict>
-			<key>Track ID</key><integer>6235</integer>
+			<key>Track ID</key><integer>6240</integer>
 			<key>Name</key><string>Break My Heart</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -495,9 +495,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6243</key>
+		<key>6248</key>
 		<dict>
-			<key>Track ID</key><integer>6243</integer>
+			<key>Track ID</key><integer>6248</integer>
 			<key>Name</key><string>Houdini</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -518,9 +518,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3843653142</integer>
-			<key>Play Date UTC</key><date>2025-10-18T22:25:42Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852136147</integer>
+			<key>Play Date UTC</key><date>2026-01-25T03:49:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -532,9 +532,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6245</key>
+		<key>6250</key>
 		<dict>
-			<key>Track ID</key><integer>6245</integer>
+			<key>Track ID</key><integer>6250</integer>
 			<key>Name</key><string>Illusion</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -555,9 +555,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3834831984</integer>
-			<key>Play Date UTC</key><date>2025-07-08T20:06:24Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852384308</integer>
+			<key>Play Date UTC</key><date>2026-01-28T00:45:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -569,9 +569,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6249</key>
+		<key>6254</key>
 		<dict>
-			<key>Track ID</key><integer>6249</integer>
+			<key>Track ID</key><integer>6254</integer>
 			<key>Name</key><string>End Of An Era</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -592,9 +592,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851447216</integer>
-			<key>Play Date UTC</key><date>2026-01-17T04:26:56Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852485188</integer>
+			<key>Play Date UTC</key><date>2026-01-29T04:46:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -609,9 +609,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6255</key>
+		<key>6260</key>
 		<dict>
-			<key>Track ID</key><integer>6255</integer>
+			<key>Track ID</key><integer>6260</integer>
 			<key>Name</key><string>These Walls</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -632,9 +632,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3825877783</integer>
-			<key>Play Date UTC</key><date>2025-03-27T05:49:43Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851969298</integer>
+			<key>Play Date UTC</key><date>2026-01-23T05:28:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -649,9 +649,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6257</key>
+		<key>6262</key>
 		<dict>
-			<key>Track ID</key><integer>6257</integer>
+			<key>Track ID</key><integer>6262</integer>
 			<key>Name</key><string>Whatcha Doing</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -689,9 +689,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6263</key>
+		<key>6268</key>
 		<dict>
-			<key>Track ID</key><integer>6263</integer>
+			<key>Track ID</key><integer>6268</integer>
 			<key>Name</key><string>Falling Forever</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -712,9 +712,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3833361288</integer>
-			<key>Play Date UTC</key><date>2025-06-21T19:34:48Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852367855</integer>
+			<key>Play Date UTC</key><date>2026-01-27T20:10:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -729,9 +729,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6267</key>
+		<key>6272</key>
 		<dict>
-			<key>Track ID</key><integer>6267</integer>
+			<key>Track ID</key><integer>6272</integer>
 			<key>Name</key><string>Maria</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -769,9 +769,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6269</key>
+		<key>6274</key>
 		<dict>
-			<key>Track ID</key><integer>6269</integer>
+			<key>Track ID</key><integer>6274</integer>
 			<key>Name</key><string>Happy For You</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -792,9 +792,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3846153025</integer>
-			<key>Play Date UTC</key><date>2025-11-16T21:50:25Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852294245</integer>
+			<key>Play Date UTC</key><date>2026-01-26T23:44:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -809,9 +809,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6293</key>
+		<key>6298</key>
 		<dict>
-			<key>Track ID</key><integer>6293</integer>
+			<key>Track ID</key><integer>6298</integer>
 			<key>Name</key><string>Training Season</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -846,9 +846,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6295</key>
+		<key>6300</key>
 		<dict>
-			<key>Track ID</key><integer>6295</integer>
+			<key>Track ID</key><integer>6300</integer>
 			<key>Name</key><string>Fever</string>
 			<key>Artist</key><string>Dua Lipa &#38; Angèle</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -883,9 +883,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12261</key>
+		<key>12266</key>
 		<dict>
-			<key>Track ID</key><integer>12261</integer>
+			<key>Track ID</key><integer>12266</integer>
 			<key>Name</key><string>Prisoner</string>
 			<key>Artist</key><string>Miley Cyrus feat. Dua Lipa</string>
 			<key>Album Artist</key><string>Miley Cyrus</string>
@@ -906,9 +906,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3842282768</integer>
-			<key>Play Date UTC</key><date>2025-10-03T01:46:08Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851878841</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:20:41Z</date>
 			<key>Release Date</key><date>2020-11-19T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -921,9 +921,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17733</key>
+		<key>17738</key>
 		<dict>
-			<key>Track ID</key><integer>17733</integer>
+			<key>Track ID</key><integer>17738</integer>
 			<key>Name</key><string>Blow Your Mind (Mwah)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -944,9 +944,9 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3832241362</integer>
-			<key>Play Date UTC</key><date>2025-06-08T20:29:22Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852363959</integer>
+			<key>Play Date UTC</key><date>2026-01-27T19:05:59Z</date>
 			<key>Release Date</key><date>2016-08-26T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -959,9 +959,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17741</key>
+		<key>17746</key>
 		<dict>
-			<key>Track ID</key><integer>17741</integer>
+			<key>Track ID</key><integer>17746</integer>
 			<key>Name</key><string>CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -997,9 +997,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17751</key>
+		<key>17756</key>
 		<dict>
-			<key>Track ID</key><integer>17751</integer>
+			<key>Track ID</key><integer>17756</integer>
 			<key>Name</key><string>Cold Heart (PNAU Remix)</string>
 			<key>Artist</key><string>Elton John &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Elton John &#38; Dua Lipa</string>
@@ -1020,9 +1020,9 @@
 			<key>Bit Rate</key><integer>331</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3825961375</integer>
-			<key>Play Date UTC</key><date>2025-03-28T05:02:55Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852571053</integer>
+			<key>Play Date UTC</key><date>2026-01-30T04:37:33Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-08-16T17:47:02Z</date>
 			<key>Release Date</key><date>2021-08-13T12:00:00Z</date>
@@ -1037,9 +1037,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17761</key>
+		<key>17766</key>
 		<dict>
-			<key>Track ID</key><integer>17761</integer>
+			<key>Track ID</key><integer>17766</integer>
 			<key>Name</key><string>Don't Start Now</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1060,9 +1060,9 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3850404739</integer>
-			<key>Play Date UTC</key><date>2026-01-05T02:52:19Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852116845</integer>
+			<key>Play Date UTC</key><date>2026-01-24T22:27:25Z</date>
 			<key>Release Date</key><date>2019-10-31T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1075,9 +1075,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17775</key>
+		<key>17780</key>
 		<dict>
-			<key>Track ID</key><integer>17775</integer>
+			<key>Track ID</key><integer>17780</integer>
 			<key>Name</key><string>Future Nostalgia</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1113,9 +1113,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17831</key>
+		<key>17836</key>
 		<dict>
-			<key>Track ID</key><integer>17831</integer>
+			<key>Track ID</key><integer>17836</integer>
 			<key>Name</key><string>One Kiss</string>
 			<key>Artist</key><string>Calvin Harris, Dua Lipa</string>
 			<key>Album Artist</key><string>Calvin Harris, Dua Lipa</string>
@@ -1136,9 +1136,9 @@
 			<key>Bit Rate</key><integer>333</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3834417597</integer>
-			<key>Play Date UTC</key><date>2025-07-04T00:59:57Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852382157</integer>
+			<key>Play Date UTC</key><date>2026-01-28T00:09:17Z</date>
 			<key>Release Date</key><date>2018-04-06T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1151,9 +1151,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17843</key>
+		<key>17848</key>
 		<dict>
-			<key>Track ID</key><integer>17843</integer>
+			<key>Track ID</key><integer>17848</integer>
 			<key>Name</key><string>Real Groove (Studio 2054 Remix)</string>
 			<key>Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
@@ -1189,9 +1189,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17857</key>
+		<key>17862</key>
 		<dict>
-			<key>Track ID</key><integer>17857</integer>
+			<key>Track ID</key><integer>17862</integer>
 			<key>Name</key><string>Swan Song (From the Motion Picture 'Alita- Battle Angel')</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1229,9 +1229,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18161</key>
+		<key>18166</key>
 		<dict>
-			<key>Track ID</key><integer>18161</integer>
+			<key>Track ID</key><integer>18166</integer>
 			<key>Name</key><string>No Lie</string>
 			<key>Artist</key><string>Sean Paul feat. Dua Lipa</string>
 			<key>Album Artist</key><string>Sean Paul feat. Dua Lipa</string>
@@ -1267,9 +1267,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18165</key>
+		<key>18170</key>
 		<dict>
-			<key>Track ID</key><integer>18165</integer>
+			<key>Track ID</key><integer>18170</integer>
 			<key>Name</key><string>Scared to Be Lonely</string>
 			<key>Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
@@ -1290,9 +1290,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3832860522</integer>
-			<key>Play Date UTC</key><date>2025-06-16T00:28:42Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852097849</integer>
+			<key>Play Date UTC</key><date>2026-01-24T17:10:49Z</date>
 			<key>Release Date</key><date>2017-01-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1305,9 +1305,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18201</key>
+		<key>18206</key>
 		<dict>
-			<key>Track ID</key><integer>18201</integer>
+			<key>Track ID</key><integer>18206</integer>
 			<key>Name</key><string>Want To</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1343,9 +1343,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18203</key>
+		<key>18208</key>
 		<dict>
-			<key>Track ID</key><integer>18203</integer>
+			<key>Track ID</key><integer>18208</integer>
 			<key>Name</key><string>Running</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1381,9 +1381,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18205</key>
+		<key>18210</key>
 		<dict>
-			<key>Track ID</key><integer>18205</integer>
+			<key>Track ID</key><integer>18210</integer>
 			<key>Name</key><string>Kiss and Make Up</string>
 			<key>Artist</key><string>Dua Lipa &#38; BLACKPINK</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1425,7 +1425,7 @@
 		<dict>
 			<key>Name</key><string>Dua Lipa</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101217</integer>
+			<key>Playlist ID</key><integer>101136</integer>
 			<key>Playlist Persistent ID</key><string>E84200D4B74DA227</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1448,129 +1448,133 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBTTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsxTTHN0AAEAAQAAAAcAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABAARAB1AGEAIABMAGkAcABhAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBv
 			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AA4AZQBzACAAbABpAHYAZQAAABkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AA4ARQBzACAAbABpAHYAZQAAABkAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAG0AAAAA
-			AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAwAAAgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIAByAGUAcABlAHQAaQBk
+			AGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAEABFAHMAIAByAGUAbQBpAHgAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAHgBFAHMAIABpAG4AcwB0AHIAdQBtAGUAbgB0AGEAbA==
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6217</integer>
+					<key>Track ID</key><integer>6222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6189</integer>
+					<key>Track ID</key><integer>6194</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17733</integer>
+					<key>Track ID</key><integer>17738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18161</integer>
+					<key>Track ID</key><integer>18166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6201</integer>
+					<key>Track ID</key><integer>6206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18165</integer>
+					<key>Track ID</key><integer>18170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6197</integer>
+					<key>Track ID</key><integer>6202</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6199</integer>
+					<key>Track ID</key><integer>6204</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6203</integer>
+					<key>Track ID</key><integer>6208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17831</integer>
+					<key>Track ID</key><integer>17836</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18201</integer>
+					<key>Track ID</key><integer>18206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18203</integer>
+					<key>Track ID</key><integer>18208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18205</integer>
+					<key>Track ID</key><integer>18210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17857</integer>
+					<key>Track ID</key><integer>17862</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17761</integer>
+					<key>Track ID</key><integer>17766</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17775</integer>
+					<key>Track ID</key><integer>17780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6225</integer>
+					<key>Track ID</key><integer>6230</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6235</integer>
+					<key>Track ID</key><integer>6240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6223</integer>
+					<key>Track ID</key><integer>6228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6227</integer>
+					<key>Track ID</key><integer>6232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6231</integer>
+					<key>Track ID</key><integer>6236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6233</integer>
+					<key>Track ID</key><integer>6238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6295</integer>
+					<key>Track ID</key><integer>6300</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17843</integer>
+					<key>Track ID</key><integer>17848</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17741</integer>
+					<key>Track ID</key><integer>17746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17751</integer>
+					<key>Track ID</key><integer>17756</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12261</integer>
+					<key>Track ID</key><integer>12266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6183</integer>
+					<key>Track ID</key><integer>6188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6243</integer>
+					<key>Track ID</key><integer>6248</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6293</integer>
+					<key>Track ID</key><integer>6298</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6245</integer>
+					<key>Track ID</key><integer>6250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6249</integer>
+					<key>Track ID</key><integer>6254</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6255</integer>
+					<key>Track ID</key><integer>6260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6257</integer>
+					<key>Track ID</key><integer>6262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6263</integer>
+					<key>Track ID</key><integer>6268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6267</integer>
+					<key>Track ID</key><integer>6272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6269</integer>
+					<key>Track ID</key><integer>6274</integer>
 				</dict>
 			</array>
 		</dict>

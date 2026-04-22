@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:19:32Z</date>
+	<key>Date</key><date>2026-02-05T15:51:07Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5783</key>
+		<key>5790</key>
 		<dict>
-			<key>Track ID</key><integer>5783</integer>
+			<key>Track ID</key><integer>5790</integer>
 			<key>Name</key><string>Artificial Vampire</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -48,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5787</key>
+		<key>5794</key>
 		<dict>
-			<key>Track ID</key><integer>5787</integer>
+			<key>Track ID</key><integer>5794</integer>
 			<key>Name</key><string>asphyxia</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -71,9 +71,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3826296912</integer>
-			<key>Play Date UTC</key><date>2025-04-01T02:15:12Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852041584</integer>
+			<key>Play Date UTC</key><date>2026-01-24T01:33:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -84,9 +84,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5789</key>
+		<key>5796</key>
 		<dict>
-			<key>Track ID</key><integer>5789</integer>
+			<key>Track ID</key><integer>5796</integer>
 			<key>Name</key><string>最終列車</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -126,9 +126,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5791</key>
+		<key>5798</key>
 		<dict>
-			<key>Track ID</key><integer>5791</integer>
+			<key>Track ID</key><integer>5798</integer>
 			<key>Name</key><string>PERSON.</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -149,9 +149,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850411632</integer>
-			<key>Play Date UTC</key><date>2026-01-05T04:47:12Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851953951</integer>
+			<key>Play Date UTC</key><date>2026-01-23T01:12:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -166,9 +166,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5793</key>
+		<key>5800</key>
 		<dict>
-			<key>Track ID</key><integer>5793</integer>
+			<key>Track ID</key><integer>5800</integer>
 			<key>Name</key><string>character</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -194,7 +194,6 @@
 			<key>Play Date UTC</key><date>2025-09-28T20:36:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13842</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aurora - EP</string>
@@ -206,9 +205,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5795</key>
+		<key>5802</key>
 		<dict>
-			<key>Track ID</key><integer>5795</integer>
+			<key>Track ID</key><integer>5802</integer>
 			<key>Name</key><string>葡萄</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -229,12 +228,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3842294093</integer>
-			<key>Play Date UTC</key><date>2025-10-03T04:54:53Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851938256</integer>
+			<key>Play Date UTC</key><date>2026-01-22T20:50:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9047</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aurora - EP</string>
@@ -246,9 +244,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5797</key>
+		<key>5804</key>
 		<dict>
-			<key>Track ID</key><integer>5797</integer>
+			<key>Track ID</key><integer>5804</integer>
 			<key>Name</key><string>defection</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -274,7 +272,6 @@
 			<key>Play Date UTC</key><date>2025-11-11T23:40:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5471</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aurora - EP</string>
@@ -286,9 +283,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5799</key>
+		<key>5806</key>
 		<dict>
-			<key>Track ID</key><integer>5799</integer>
+			<key>Track ID</key><integer>5806</integer>
 			<key>Name</key><string>asura</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -314,7 +311,6 @@
 			<key>Play Date UTC</key><date>2025-11-28T00:00:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11535</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Aurora - EP</string>
@@ -326,9 +322,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5803</key>
+		<key>5810</key>
 		<dict>
-			<key>Track ID</key><integer>5803</integer>
+			<key>Track ID</key><integer>5810</integer>
 			<key>Name</key><string>Burn The Fire</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -364,9 +360,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5813</key>
+		<key>5820</key>
 		<dict>
-			<key>Track ID</key><integer>5813</integer>
+			<key>Track ID</key><integer>5820</integer>
 			<key>Name</key><string>病は花から</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -387,9 +383,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3823967827</integer>
-			<key>Play Date UTC</key><date>2025-03-05T03:17:07Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852022519</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:15:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -404,9 +400,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5835</key>
+		<key>5842</key>
 		<dict>
-			<key>Track ID</key><integer>5835</integer>
+			<key>Track ID</key><integer>5842</integer>
 			<key>Name</key><string>ö=Person</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -427,9 +423,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3833098405</integer>
-			<key>Play Date UTC</key><date>2025-06-18T18:33:25Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852301519</integer>
+			<key>Play Date UTC</key><date>2026-01-27T01:45:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -442,9 +438,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5839</key>
+		<key>5846</key>
 		<dict>
-			<key>Track ID</key><integer>5839</integer>
+			<key>Track ID</key><integer>5846</integer>
 			<key>Name</key><string>About the Drawings of a Mirror</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -480,9 +476,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5851</key>
+		<key>5858</key>
 		<dict>
-			<key>Track ID</key><integer>5851</integer>
+			<key>Track ID</key><integer>5858</integer>
 			<key>Name</key><string>Fool in tank</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -520,9 +516,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5853</key>
+		<key>5860</key>
 		<dict>
-			<key>Track ID</key><integer>5853</integer>
+			<key>Track ID</key><integer>5860</integer>
 			<key>Name</key><string>ice melt</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -560,9 +556,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5857</key>
+		<key>5864</key>
 		<dict>
-			<key>Track ID</key><integer>5857</integer>
+			<key>Track ID</key><integer>5864</integer>
 			<key>Name</key><string>Black sand</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -602,9 +598,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5859</key>
+		<key>5866</key>
 		<dict>
-			<key>Track ID</key><integer>5859</integer>
+			<key>Track ID</key><integer>5866</integer>
 			<key>Name</key><string>Forever together</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -642,9 +638,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5861</key>
+		<key>5868</key>
 		<dict>
-			<key>Track ID</key><integer>5861</integer>
+			<key>Track ID</key><integer>5868</integer>
 			<key>Name</key><string>no future</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -682,9 +678,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5879</key>
+		<key>5886</key>
 		<dict>
-			<key>Track ID</key><integer>5879</integer>
+			<key>Track ID</key><integer>5886</integer>
 			<key>Name</key><string>透明</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -719,9 +715,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5883</key>
+		<key>5890</key>
 		<dict>
-			<key>Track ID</key><integer>5883</integer>
+			<key>Track ID</key><integer>5890</integer>
 			<key>Name</key><string>フラッシュバック</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -755,9 +751,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5887</key>
+		<key>5894</key>
 		<dict>
-			<key>Track ID</key><integer>5887</integer>
+			<key>Track ID</key><integer>5894</integer>
 			<key>Name</key><string>Pelican-Go de Dokomademo</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -778,9 +774,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850582214</integer>
-			<key>Play Date UTC</key><date>2026-01-07T04:10:14Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851880652</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:50:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -795,9 +791,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5889</key>
+		<key>5896</key>
 		<dict>
-			<key>Track ID</key><integer>5889</integer>
+			<key>Track ID</key><integer>5896</integer>
 			<key>Name</key><string>Amayadori</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -835,9 +831,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5893</key>
+		<key>5900</key>
 		<dict>
-			<key>Track ID</key><integer>5893</integer>
+			<key>Track ID</key><integer>5900</integer>
 			<key>Name</key><string>Eien No Torte</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -858,9 +854,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3834502890</integer>
-			<key>Play Date UTC</key><date>2025-07-05T00:41:30Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852981942</integer>
+			<key>Play Date UTC</key><date>2026-02-03T22:45:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -875,9 +871,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5897</key>
+		<key>5904</key>
 		<dict>
-			<key>Track ID</key><integer>5897</integer>
+			<key>Track ID</key><integer>5904</integer>
 			<key>Name</key><string>red strand</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -912,9 +908,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5899</key>
+		<key>5906</key>
 		<dict>
-			<key>Track ID</key><integer>5899</integer>
+			<key>Track ID</key><integer>5906</integer>
 			<key>Name</key><string>SAKURA BURST</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -949,9 +945,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5901</key>
+		<key>5908</key>
 		<dict>
-			<key>Track ID</key><integer>5901</integer>
+			<key>Track ID</key><integer>5908</integer>
 			<key>Name</key><string>o=レテヘの行進</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -985,9 +981,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5911</key>
+		<key>5918</key>
 		<dict>
-			<key>Track ID</key><integer>5911</integer>
+			<key>Track ID</key><integer>5918</integer>
 			<key>Name</key><string>絶体絶命</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1022,9 +1018,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13251</key>
+		<key>13258</key>
 		<dict>
-			<key>Track ID</key><integer>13251</integer>
+			<key>Track ID</key><integer>13258</integer>
 			<key>Name</key><string>Deal With the Monster</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1059,9 +1055,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13295</key>
+		<key>13302</key>
 		<dict>
-			<key>Track ID</key><integer>13295</integer>
+			<key>Track ID</key><integer>13302</integer>
 			<key>Name</key><string>Where I Belong</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1096,9 +1092,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24223</key>
+		<key>24152</key>
 		<dict>
-			<key>Track ID</key><integer>24223</integer>
+			<key>Track ID</key><integer>24152</integer>
 			<key>Name</key><string>bullet</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1134,9 +1130,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24225</key>
+		<key>24154</key>
 		<dict>
-			<key>Track ID</key><integer>24225</integer>
+			<key>Track ID</key><integer>24154</integer>
 			<key>Name</key><string>scapegoat</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1157,9 +1153,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3824833839</integer>
-			<key>Play Date UTC</key><date>2025-03-15T03:50:39Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852022880</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:21:20Z</date>
 			<key>Release Date</key><date>2019-12-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1172,9 +1168,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24231</key>
+		<key>24160</key>
 		<dict>
-			<key>Track ID</key><integer>24231</integer>
+			<key>Track ID</key><integer>24160</integer>
 			<key>Name</key><string>サイコプール≒レゴプール</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1195,9 +1191,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3825859713</integer>
-			<key>Play Date UTC</key><date>2025-03-27T00:48:33Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852022730</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:18:50Z</date>
 			<key>Release Date</key><date>2015-02-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1210,9 +1206,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24233</key>
+		<key>24162</key>
 		<dict>
-			<key>Track ID</key><integer>24233</integer>
+			<key>Track ID</key><integer>24162</integer>
 			<key>Name</key><string>iB</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1248,9 +1244,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24239</key>
+		<key>24168</key>
 		<dict>
-			<key>Track ID</key><integer>24239</integer>
+			<key>Track ID</key><integer>24168</integer>
 			<key>Name</key><string>inertia</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1271,9 +1267,9 @@
 			<key>Bit Rate</key><integer>309</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835871594</integer>
-			<key>Play Date UTC</key><date>2025-07-20T20:53:14Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3851891833</integer>
+			<key>Play Date UTC</key><date>2026-01-22T07:57:13Z</date>
 			<key>Release Date</key><date>2019-12-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1286,9 +1282,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24241</key>
+		<key>24170</key>
 		<dict>
-			<key>Track ID</key><integer>24241</integer>
+			<key>Track ID</key><integer>24170</integer>
 			<key>Name</key><string>gray</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1309,9 +1305,9 @@
 			<key>Bit Rate</key><integer>312</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846178389</integer>
-			<key>Play Date UTC</key><date>2025-11-17T04:53:09Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852061307</integer>
+			<key>Play Date UTC</key><date>2026-01-24T07:01:47Z</date>
 			<key>Release Date</key><date>2019-12-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1324,9 +1320,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24247</key>
+		<key>24176</key>
 		<dict>
-			<key>Track ID</key><integer>24247</integer>
+			<key>Track ID</key><integer>24176</integer>
 			<key>Name</key><string>give it back</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1347,9 +1343,9 @@
 			<key>Bit Rate</key><integer>308</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3827247233</integer>
-			<key>Play Date UTC</key><date>2025-04-12T01:13:53Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852042992</integer>
+			<key>Play Date UTC</key><date>2026-01-24T01:56:32Z</date>
 			<key>Release Date</key><date>2021-01-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1362,9 +1358,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24255</key>
+		<key>24184</key>
 		<dict>
-			<key>Track ID</key><integer>24255</integer>
+			<key>Track ID</key><integer>24184</integer>
 			<key>Name</key><string>undress me</string>
 			<key>Artist</key><string>Cö shu Nie</string>
 			<key>Album Artist</key><string>Cö shu Nie</string>
@@ -1400,13 +1396,47 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>35060</key>
+		<dict>
+			<key>Track ID</key><integer>35060</integer>
+			<key>Name</key><string>Hollow</string>
+			<key>Artist</key><string>Cö shu Nie</string>
+			<key>Album Artist</key><string>Cö shu Nie</string>
+			<key>Composer</key><string>Miku Nakamura</string>
+			<key>Album</key><string>Hollow - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>30397811</integer>
+			<key>Total Time</key><integer>214807</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-02-05T15:50:51Z</date>
+			<key>Date Added</key><date>2026-02-04T15:32:43Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11000</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7F580615E69D645</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/C%C3%B6%20shu%20Nie/Hollow%20-%20Single/01%20Hollow.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Cö shu Nie</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101143</integer>
+			<key>Playlist ID</key><integer>104499</integer>
 			<key>Playlist Persistent ID</key><string>3CE28B647EC4E479</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1429,129 +1459,137 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAopTTHN0AAEAAQAAAAYAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3hTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABQAQwD2ACAAcwBoAHUAIABOAGkAZQAAABkAAAEAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAAAAAAAAAA
 			AAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO
-			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBl
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBF
 			AHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAAAgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAADgMAAAIAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYARgByAG8AbQAgAFQAaABl
 			ACAARgBpAHIAcwB0ACAAVABhAGsAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeA==
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEUAcwAgAHIAZQBtAGkAeAAAAA4DAAACAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAEUAcwAgAFQAVgAg
+			AFYAZQByAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABYARQBzACAAcgBlAHAAZQB0AGkAZABhAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBl
+			AG4AdABhAGw=
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5835</integer>
+					<key>Track ID</key><integer>5842</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5839</integer>
+					<key>Track ID</key><integer>5846</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5887</integer>
+					<key>Track ID</key><integer>5894</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5889</integer>
+					<key>Track ID</key><integer>5896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5893</integer>
+					<key>Track ID</key><integer>5900</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5879</integer>
+					<key>Track ID</key><integer>5886</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5883</integer>
+					<key>Track ID</key><integer>5890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5787</integer>
+					<key>Track ID</key><integer>5794</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5789</integer>
+					<key>Track ID</key><integer>5796</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5791</integer>
+					<key>Track ID</key><integer>5798</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5793</integer>
+					<key>Track ID</key><integer>5800</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5795</integer>
+					<key>Track ID</key><integer>5802</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5797</integer>
+					<key>Track ID</key><integer>5804</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5799</integer>
+					<key>Track ID</key><integer>5806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5911</integer>
+					<key>Track ID</key><integer>5918</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24223</integer>
+					<key>Track ID</key><integer>24152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24225</integer>
+					<key>Track ID</key><integer>24154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24231</integer>
+					<key>Track ID</key><integer>24160</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24233</integer>
+					<key>Track ID</key><integer>24162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24239</integer>
+					<key>Track ID</key><integer>24168</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24241</integer>
+					<key>Track ID</key><integer>24170</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5897</integer>
+					<key>Track ID</key><integer>5904</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5851</integer>
+					<key>Track ID</key><integer>5858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5853</integer>
+					<key>Track ID</key><integer>5860</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5857</integer>
+					<key>Track ID</key><integer>5864</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5859</integer>
+					<key>Track ID</key><integer>5866</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24247</integer>
+					<key>Track ID</key><integer>24176</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24255</integer>
+					<key>Track ID</key><integer>24184</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5899</integer>
+					<key>Track ID</key><integer>5906</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5901</integer>
+					<key>Track ID</key><integer>5908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5813</integer>
+					<key>Track ID</key><integer>5820</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5861</integer>
+					<key>Track ID</key><integer>5868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5803</integer>
+					<key>Track ID</key><integer>5810</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5783</integer>
+					<key>Track ID</key><integer>5790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13251</integer>
+					<key>Track ID</key><integer>13258</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13295</integer>
+					<key>Track ID</key><integer>13302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35060</integer>
 				</dict>
 			</array>
 		</dict>

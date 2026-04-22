@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:26:18Z</date>
+	<key>Date</key><date>2026-02-12T05:31:11Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10031</key>
+		<key>10039</key>
 		<dict>
-			<key>Track ID</key><integer>10031</integer>
+			<key>Track ID</key><integer>10039</integer>
 			<key>Name</key><string>BURN</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -40,7 +40,6 @@
 			<key>Play Date UTC</key><date>2026-01-15T19:47:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13708</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0F789B38D7BF2979</string>
@@ -49,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10033</key>
+		<key>10041</key>
 		<dict>
-			<key>Track ID</key><integer>10033</integer>
+			<key>Track ID</key><integer>10041</integer>
 			<key>Name</key><string>アップルたちの伝言</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -77,7 +76,6 @@
 			<key>Play Date UTC</key><date>2026-01-13T20:13:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16033</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>664EF5CC6CA0A7D7</string>
@@ -86,9 +84,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10047</key>
+		<key>10055</key>
 		<dict>
-			<key>Track ID</key><integer>10047</integer>
+			<key>Track ID</key><integer>10055</integer>
 			<key>Name</key><string>SCANDAL BABY</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -123,9 +121,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10057</key>
+		<key>10065</key>
 		<dict>
-			<key>Track ID</key><integer>10057</integer>
+			<key>Track ID</key><integer>10065</integer>
 			<key>Name</key><string>アナタガマワル</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -160,9 +158,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10063</key>
+		<key>10071</key>
 		<dict>
-			<key>Track ID</key><integer>10063</integer>
+			<key>Track ID</key><integer>10071</integer>
 			<key>Name</key><string>マボロシナイト</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -183,9 +181,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3829905969</integer>
-			<key>Play Date UTC</key><date>2025-05-12T19:46:09Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852310918</integer>
+			<key>Play Date UTC</key><date>2026-01-27T04:21:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -197,9 +195,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10067</key>
+		<key>10075</key>
 		<dict>
-			<key>Track ID</key><integer>10067</integer>
+			<key>Track ID</key><integer>10075</integer>
 			<key>Name</key><string>ひとつだけ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -220,9 +218,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3825836731</integer>
-			<key>Play Date UTC</key><date>2025-03-26T18:25:31Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853318881</integer>
+			<key>Play Date UTC</key><date>2026-02-07T20:21:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -234,9 +232,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10071</key>
+		<key>10079</key>
 		<dict>
-			<key>Track ID</key><integer>10071</integer>
+			<key>Track ID</key><integer>10079</integer>
 			<key>Name</key><string>カゲロウ-album mix-</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -257,9 +255,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846913658</integer>
-			<key>Play Date UTC</key><date>2025-11-25T17:07:38Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853658562</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:42:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -271,9 +269,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10073</key>
+		<key>10081</key>
 		<dict>
-			<key>Track ID</key><integer>10073</integer>
+			<key>Track ID</key><integer>10081</integer>
 			<key>Name</key><string>Runners high</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>Various Artists</string>
@@ -294,9 +292,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3834336111</integer>
-			<key>Play Date UTC</key><date>2025-07-03T02:21:51Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852983711</integer>
+			<key>Play Date UTC</key><date>2026-02-03T23:15:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -309,9 +307,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10077</key>
+		<key>10085</key>
 		<dict>
-			<key>Track ID</key><integer>10077</integer>
+			<key>Track ID</key><integer>10085</integer>
 			<key>Name</key><string>Departure</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -346,9 +344,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10079</key>
+		<key>10087</key>
 		<dict>
-			<key>Track ID</key><integer>10079</integer>
+			<key>Track ID</key><integer>10087</integer>
 			<key>Name</key><string>Rainy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -383,9 +381,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10093</key>
+		<key>10101</key>
 		<dict>
-			<key>Track ID</key><integer>10093</integer>
+			<key>Track ID</key><integer>10101</integer>
 			<key>Name</key><string>星の降る夜に</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -419,9 +417,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10113</key>
+		<key>10121</key>
 		<dict>
-			<key>Track ID</key><integer>10113</integer>
+			<key>Track ID</key><integer>10121</integer>
 			<key>Name</key><string>ハッピーコレクター</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -455,9 +453,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10125</key>
+		<key>10133</key>
 		<dict>
-			<key>Track ID</key><integer>10125</integer>
+			<key>Track ID</key><integer>10133</integer>
 			<key>Name</key><string>Graduation</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -478,9 +476,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3835964321</integer>
-			<key>Play Date UTC</key><date>2025-07-21T22:38:41Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852538079</integer>
+			<key>Play Date UTC</key><date>2026-01-29T19:27:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -492,9 +490,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10129</key>
+		<key>10137</key>
 		<dict>
-			<key>Track ID</key><integer>10129</integer>
+			<key>Track ID</key><integer>10137</integer>
 			<key>Name</key><string>お願いナビゲーション</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -515,9 +513,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851871511</integer>
-			<key>Play Date UTC</key><date>2026-01-22T02:18:31Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853618102</integer>
+			<key>Play Date UTC</key><date>2026-02-11T07:28:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -529,9 +527,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10143</key>
+		<key>10151</key>
 		<dict>
-			<key>Track ID</key><integer>10143</integer>
+			<key>Track ID</key><integer>10151</integer>
 			<key>Name</key><string>プラットホームシンドローム</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -566,9 +564,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10145</key>
+		<key>10153</key>
 		<dict>
-			<key>Track ID</key><integer>10145</integer>
+			<key>Track ID</key><integer>10153</integer>
 			<key>Name</key><string>OVER</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -605,9 +603,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10159</key>
+		<key>10167</key>
 		<dict>
-			<key>Track ID</key><integer>10159</integer>
+			<key>Track ID</key><integer>10167</integer>
 			<key>Name</key><string>エレクトリックガール</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -644,9 +642,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10163</key>
+		<key>10171</key>
 		<dict>
-			<key>Track ID</key><integer>10163</integer>
+			<key>Track ID</key><integer>10171</integer>
 			<key>Name</key><string>Tonight</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -681,9 +679,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10173</key>
+		<key>10181</key>
 		<dict>
-			<key>Track ID</key><integer>10173</integer>
+			<key>Track ID</key><integer>10181</integer>
 			<key>Name</key><string>NEON TOWN ESCAPE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -704,9 +702,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850576880</integer>
-			<key>Play Date UTC</key><date>2026-01-07T02:41:20Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852440529</integer>
+			<key>Play Date UTC</key><date>2026-01-28T16:22:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -718,9 +716,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10175</key>
+		<key>10183</key>
 		<dict>
-			<key>Track ID</key><integer>10175</integer>
+			<key>Track ID</key><integer>10183</integer>
 			<key>Name</key><string>Ceramic Blue</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -741,9 +739,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3837186896</integer>
-			<key>Play Date UTC</key><date>2025-08-05T02:14:56Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853321943</integer>
+			<key>Play Date UTC</key><date>2026-02-07T21:12:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -755,9 +753,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10181</key>
+		<key>10189</key>
 		<dict>
-			<key>Track ID</key><integer>10181</integer>
+			<key>Track ID</key><integer>10189</integer>
 			<key>Name</key><string>A.M.D.K.J.</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -792,9 +790,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10183</key>
+		<key>10191</key>
 		<dict>
-			<key>Track ID</key><integer>10183</integer>
+			<key>Track ID</key><integer>10191</integer>
 			<key>Name</key><string>月</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -815,9 +813,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3851156118</integer>
-			<key>Play Date UTC</key><date>2026-01-13T19:35:18Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852136412</integer>
+			<key>Play Date UTC</key><date>2026-01-25T03:53:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -829,9 +827,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10185</key>
+		<key>10193</key>
 		<dict>
-			<key>Track ID</key><integer>10185</integer>
+			<key>Track ID</key><integer>10193</integer>
 			<key>Name</key><string>Line of Sight</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -852,9 +850,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3846486282</integer>
-			<key>Play Date UTC</key><date>2025-11-20T18:24:42Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3851880358</integer>
+			<key>Play Date UTC</key><date>2026-01-22T04:45:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -866,9 +864,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10187</key>
+		<key>10195</key>
 		<dict>
-			<key>Track ID</key><integer>10187</integer>
+			<key>Track ID</key><integer>10195</integer>
 			<key>Name</key><string>Vision</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -903,9 +901,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10189</key>
+		<key>10197</key>
 		<dict>
-			<key>Track ID</key><integer>10189</integer>
+			<key>Track ID</key><integer>10197</integer>
 			<key>Name</key><string>LOVE SURVIVE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -931,7 +929,6 @@
 			<key>Play Date UTC</key><date>2025-10-24T21:47:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12035</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>70E49F6C6095E647</string>
@@ -940,9 +937,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10191</key>
+		<key>10199</key>
 		<dict>
-			<key>Track ID</key><integer>10191</integer>
+			<key>Track ID</key><integer>10199</integer>
 			<key>Name</key><string>君に嫉妬中</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -963,12 +960,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3835099917</integer>
-			<key>Play Date UTC</key><date>2025-07-11T22:31:57Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852119985</integer>
+			<key>Play Date UTC</key><date>2026-01-24T23:19:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9119</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4B38223A292E7267</string>
@@ -977,9 +973,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10197</key>
+		<key>10205</key>
 		<dict>
-			<key>Track ID</key><integer>10197</integer>
+			<key>Track ID</key><integer>10205</integer>
 			<key>Name</key><string>群青pleats</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1005,7 +1001,6 @@
 			<key>Play Date UTC</key><date>2025-10-23T19:31:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5194</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1F4566A5A882B80A</string>
@@ -1014,9 +1009,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10201</key>
+		<key>10209</key>
 		<dict>
-			<key>Track ID</key><integer>10201</integer>
+			<key>Track ID</key><integer>10209</integer>
 			<key>Name</key><string>私たち</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1042,7 +1037,6 @@
 			<key>Play Date UTC</key><date>2026-01-07T00:11:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8481</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6C7D3152D8275C33</string>
@@ -1051,9 +1045,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10213</key>
+		<key>10221</key>
 		<dict>
-			<key>Track ID</key><integer>10213</integer>
+			<key>Track ID</key><integer>10221</integer>
 			<key>Name</key><string>あなたへ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1079,7 +1073,6 @@
 			<key>Play Date UTC</key><date>2025-11-28T19:52:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8591</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>271395010D42F0FA</string>
@@ -1088,9 +1081,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10241</key>
+		<key>10249</key>
 		<dict>
-			<key>Track ID</key><integer>10241</integer>
+			<key>Track ID</key><integer>10249</integer>
 			<key>Name</key><string>SCANDAL IN THE HOUSE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1111,9 +1104,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3823601558</integer>
-			<key>Play Date UTC</key><date>2025-02-28T21:32:38Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852024659</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:50:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-01-23T05:04:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1125,9 +1120,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10245</key>
+		<key>10253</key>
 		<dict>
-			<key>Track ID</key><integer>10245</integer>
+			<key>Track ID</key><integer>10253</integer>
 			<key>Name</key><string>Pride</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1162,9 +1157,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10249</key>
+		<key>10257</key>
 		<dict>
-			<key>Track ID</key><integer>10249</integer>
+			<key>Track ID</key><integer>10257</integer>
 			<key>Name</key><string>Emotion</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1199,9 +1194,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10259</key>
+		<key>10267</key>
 		<dict>
-			<key>Track ID</key><integer>10259</integer>
+			<key>Track ID</key><integer>10267</integer>
 			<key>Name</key><string>Rock'n Roll</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1227,7 +1222,6 @@
 			<key>Play Date UTC</key><date>2025-09-05T23:53:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>20729</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FBEAA3DA0D291553</string>
@@ -1236,9 +1230,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10267</key>
+		<key>10275</key>
 		<dict>
-			<key>Track ID</key><integer>10267</integer>
+			<key>Track ID</key><integer>10275</integer>
 			<key>Name</key><string>Rising Star</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1259,12 +1253,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3833751994</integer>
-			<key>Play Date UTC</key><date>2025-06-26T08:06:34Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852369371</integer>
+			<key>Play Date UTC</key><date>2026-01-27T20:36:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17482</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AAD89207A419207A</string>
@@ -1273,9 +1266,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10277</key>
+		<key>10285</key>
 		<dict>
-			<key>Track ID</key><integer>10277</integer>
+			<key>Track ID</key><integer>10285</integer>
 			<key>Name</key><string>六本木心中</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1296,9 +1289,9 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3831996345</integer>
-			<key>Play Date UTC</key><date>2025-06-06T00:25:45Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852361921</integer>
+			<key>Play Date UTC</key><date>2026-01-27T18:32:01Z</date>
 			<key>Release Date</key><date>2010-11-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1311,9 +1304,47 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10325</key>
+		<key>10297</key>
 		<dict>
-			<key>Track ID</key><integer>10325</integer>
+			<key>Track ID</key><integer>10297</integer>
+			<key>Name</key><string>secret base〜君がくれたもの〜</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album Artist</key><string>SCANDAL</string>
+			<key>Composer</key><string>町田紀彦</string>
+			<key>Album</key><string>R-GIRL's ROCK!</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12744385</integer>
+			<key>Total Time</key><integer>315280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-02-12T04:38:39Z</date>
+			<key>Date Added</key><date>2024-09-26T21:01:00Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3846500493</integer>
+			<key>Play Date UTC</key><date>2025-11-20T22:21:33Z</date>
+			<key>Release Date</key><date>2010-11-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10861</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D17741CD3CFB228C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/R-GIRL's%20ROCK!/07%20secret%20base%E3%80%9C%E5%90%9B%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%80%9C.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10333</key>
+		<dict>
+			<key>Track ID</key><integer>10333</integer>
 			<key>Name</key><string>FREEDOM FIGHTERS</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1334,12 +1365,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3844431655</integer>
-			<key>Play Date UTC</key><date>2025-10-27T23:40:55Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852121155</integer>
+			<key>Play Date UTC</key><date>2026-01-24T23:39:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14744</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A8322E2E32E20235</string>
@@ -1348,9 +1378,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10395</key>
+		<key>10403</key>
 		<dict>
-			<key>Track ID</key><integer>10395</integer>
+			<key>Track ID</key><integer>10403</integer>
 			<key>Name</key><string>Spice</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1371,9 +1401,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3845652050</integer>
-			<key>Play Date UTC</key><date>2025-11-11T02:40:50Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853308935</integer>
+			<key>Play Date UTC</key><date>2026-02-07T17:35:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1385,9 +1415,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10399</key>
+		<key>10407</key>
 		<dict>
-			<key>Track ID</key><integer>10399</integer>
+			<key>Track ID</key><integer>10407</integer>
 			<key>Name</key><string>Flashback No.5</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1408,9 +1438,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3847086776</integer>
-			<key>Play Date UTC</key><date>2025-11-27T17:12:56Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853656861</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:14:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1422,9 +1452,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10403</key>
+		<key>10411</key>
 		<dict>
-			<key>Track ID</key><integer>10403</integer>
+			<key>Track ID</key><integer>10411</integer>
 			<key>Name</key><string>Brand new wave</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1461,9 +1491,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10411</key>
+		<key>10419</key>
 		<dict>
-			<key>Track ID</key><integer>10411</integer>
+			<key>Track ID</key><integer>10419</integer>
 			<key>Name</key><string>メトロノーム</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1484,9 +1514,9 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3851170569</integer>
-			<key>Play Date UTC</key><date>2026-01-13T23:36:09Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852114255</integer>
+			<key>Play Date UTC</key><date>2026-01-24T21:44:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1500,9 +1530,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10415</key>
+		<key>10423</key>
 		<dict>
-			<key>Track ID</key><integer>10415</integer>
+			<key>Track ID</key><integer>10423</integer>
 			<key>Name</key><string>8月</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1539,9 +1569,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10429</key>
+		<key>10437</key>
 		<dict>
-			<key>Track ID</key><integer>10429</integer>
+			<key>Track ID</key><integer>10437</integer>
 			<key>Name</key><string>Take Me Out</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1576,9 +1606,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10435</key>
+		<key>10443</key>
 		<dict>
-			<key>Track ID</key><integer>10435</integer>
+			<key>Track ID</key><integer>10443</integer>
 			<key>Name</key><string>EVERYBODY SAY YEAH</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1613,9 +1643,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10451</key>
+		<key>10459</key>
 		<dict>
-			<key>Track ID</key><integer>10451</integer>
+			<key>Track ID</key><integer>10459</integer>
 			<key>Name</key><string>プレイボーイPart II</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1650,9 +1680,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10463</key>
+		<key>10471</key>
 		<dict>
-			<key>Track ID</key><integer>10463</integer>
+			<key>Track ID</key><integer>10471</integer>
 			<key>Name</key><string>LOVE ME DO</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1687,9 +1717,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10473</key>
+		<key>10481</key>
 		<dict>
-			<key>Track ID</key><integer>10473</integer>
+			<key>Track ID</key><integer>10481</integer>
 			<key>Name</key><string>SUKI-SUKI</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1710,9 +1740,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3846784873</integer>
-			<key>Play Date UTC</key><date>2025-11-24T05:21:13Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852295900</integer>
+			<key>Play Date UTC</key><date>2026-01-27T00:11:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1724,9 +1754,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10487</key>
+		<key>10495</key>
 		<dict>
-			<key>Track ID</key><integer>10487</integer>
+			<key>Track ID</key><integer>10495</integer>
 			<key>Name</key><string>キミと未来と完全同期</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1761,9 +1791,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10491</key>
+		<key>10499</key>
 		<dict>
-			<key>Track ID</key><integer>10491</integer>
+			<key>Track ID</key><integer>10499</integer>
 			<key>Name</key><string>会わないつもりの、元気でね</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1798,9 +1828,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10493</key>
+		<key>10501</key>
 		<dict>
-			<key>Track ID</key><integer>10493</integer>
+			<key>Track ID</key><integer>10501</integer>
 			<key>Name</key><string>24時間プラスの夜明け前</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1835,9 +1865,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10497</key>
+		<key>10505</key>
 		<dict>
-			<key>Track ID</key><integer>10497</integer>
+			<key>Track ID</key><integer>10505</integer>
 			<key>Name</key><string>涙のリグレット</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1872,9 +1902,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14677</key>
+		<key>14577</key>
 		<dict>
-			<key>Track ID</key><integer>14677</integer>
+			<key>Track ID</key><integer>14577</integer>
 			<key>Name</key><string>SAKURAグッバイ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1910,9 +1940,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14679</key>
+		<key>14579</key>
 		<dict>
-			<key>Track ID</key><integer>14679</integer>
+			<key>Track ID</key><integer>14579</integer>
 			<key>Name</key><string>Terra Boy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1932,9 +1962,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3843647389</integer>
-			<key>Play Date UTC</key><date>2025-10-18T20:49:49Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852488538</integer>
+			<key>Play Date UTC</key><date>2026-01-29T05:42:18Z</date>
 			<key>Release Date</key><date>2025-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1947,9 +1977,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14681</key>
+		<key>14581</key>
 		<dict>
-			<key>Track ID</key><integer>14681</integer>
+			<key>Track ID</key><integer>14581</integer>
 			<key>Name</key><string>ハイライトの中で僕らずっと</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1985,9 +2015,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14695</key>
+		<key>14595</key>
 		<dict>
-			<key>Track ID</key><integer>14695</integer>
+			<key>Track ID</key><integer>14595</integer>
 			<key>Name</key><string>少女S</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2023,9 +2053,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14709</key>
+		<key>14609</key>
 		<dict>
-			<key>Track ID</key><integer>14709</integer>
+			<key>Track ID</key><integer>14609</integer>
 			<key>Name</key><string>DAYDREAM</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2061,9 +2091,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14711</key>
+		<key>14611</key>
 		<dict>
-			<key>Track ID</key><integer>14711</integer>
+			<key>Track ID</key><integer>14611</integer>
 			<key>Name</key><string>瞬間センチメンタル</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2084,9 +2114,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3846153252</integer>
-			<key>Play Date UTC</key><date>2025-11-16T21:54:12Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852570426</integer>
+			<key>Play Date UTC</key><date>2026-01-30T04:27:06Z</date>
 			<key>Release Date</key><date>2010-02-03T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2099,9 +2129,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14725</key>
+		<key>14625</key>
 		<dict>
-			<key>Track ID</key><integer>14725</integer>
+			<key>Track ID</key><integer>14625</integer>
 			<key>Name</key><string>スキャンダルなんかブッ飛ばせ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2137,9 +2167,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14733</key>
+		<key>14633</key>
 		<dict>
-			<key>Track ID</key><integer>14733</integer>
+			<key>Track ID</key><integer>14633</integer>
 			<key>Name</key><string>How crazy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>YUI Tribute</string>
@@ -2160,9 +2190,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3841996005</integer>
-			<key>Play Date UTC</key><date>2025-09-29T18:06:45Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852959753</integer>
+			<key>Play Date UTC</key><date>2026-02-03T16:35:53Z</date>
 			<key>Release Date</key><date>2012-10-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2174,9 +2204,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14735</key>
+		<key>14635</key>
 		<dict>
-			<key>Track ID</key><integer>14735</integer>
+			<key>Track ID</key><integer>14635</integer>
 			<key>Name</key><string>ハルカ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2212,9 +2242,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14739</key>
+		<key>14639</key>
 		<dict>
-			<key>Track ID</key><integer>14739</integer>
+			<key>Track ID</key><integer>14639</integer>
 			<key>Name</key><string>HARUKAZE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2241,7 +2271,6 @@
 			<key>Release Date</key><date>2012-02-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15125</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0D3BED75D0C1A8F1</string>
@@ -2250,9 +2279,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14741</key>
+		<key>14641</key>
 		<dict>
-			<key>Track ID</key><integer>14741</integer>
+			<key>Track ID</key><integer>14641</integer>
 			<key>Name</key><string>太陽スキャンダラス</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2288,9 +2317,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14757</key>
+		<key>14657</key>
 		<dict>
-			<key>Track ID</key><integer>14757</integer>
+			<key>Track ID</key><integer>14657</integer>
 			<key>Name</key><string>Welcome home</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2326,9 +2355,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14759</key>
+		<key>14659</key>
 		<dict>
-			<key>Track ID</key><integer>14759</integer>
+			<key>Track ID</key><integer>14659</integer>
 			<key>Name</key><string>恋するユニバース</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2364,9 +2393,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17489</key>
+		<key>17389</key>
 		<dict>
-			<key>Track ID</key><integer>17489</integer>
+			<key>Track ID</key><integer>17389</integer>
 			<key>Name</key><string>どうかしてるって</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2386,9 +2415,9 @@
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3837354289</integer>
-			<key>Play Date UTC</key><date>2025-08-07T00:44:49Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853231998</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:13:18Z</date>
 			<key>Release Date</key><date>2025-02-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2401,9 +2430,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35087</key>
+		<key>34899</key>
 		<dict>
-			<key>Track ID</key><integer>35087</integer>
+			<key>Track ID</key><integer>34899</integer>
 			<key>Name</key><string>Girl is Ghost</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2443,7 +2472,7 @@
 		<dict>
 			<key>Name</key><string>Scandal</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102133</integer>
+			<key>Playlist ID</key><integer>109405</integer>
 			<key>Playlist Persistent ID</key><string>391B149C323E7CE2</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -2466,7 +2495,7 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd5TTHN0AAEAAQAAAAQAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3JTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -2475,204 +2504,215 @@
 			AAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAwAAAgAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIABh
 			AGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAADgBlAHMAIABsAGkAdgBl
+			AAAAAAAAAAAAAAAAAAAADgBFAHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIARQBzACAAVABWACAAVgBlAHIAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBF
+			AHMAIAByAGUAcABlAHQAaQBkAGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBtACAAVABoAGUAIABGAGkAcgBzAHQAIABU
+			AGEAawBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBlAG4AdABh
+			AGw=
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10277</integer>
+					<key>Track ID</key><integer>10285</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14677</integer>
+					<key>Track ID</key><integer>14577</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14695</integer>
+					<key>Track ID</key><integer>14595</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14709</integer>
+					<key>Track ID</key><integer>14609</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10047</integer>
+					<key>Track ID</key><integer>10055</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10057</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10063</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10067</integer>
+					<key>Track ID</key><integer>10065</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10071</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14711</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10497</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14733</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10435</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10451</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14725</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10245</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10249</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14735</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10189</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10191</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10031</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10033</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14739</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14741</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14757</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10259</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10267</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10093</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10113</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10491</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10493</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10241</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10403</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10411</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10415</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10487</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10073</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10077</integer>
+					<key>Track ID</key><integer>10075</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10079</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10125</integer>
+					<key>Track ID</key><integer>14611</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10129</integer>
+					<key>Track ID</key><integer>10505</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10399</integer>
+					<key>Track ID</key><integer>14633</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10473</integer>
+					<key>Track ID</key><integer>10443</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10463</integer>
+					<key>Track ID</key><integer>10459</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10429</integer>
+					<key>Track ID</key><integer>14625</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10325</integer>
+					<key>Track ID</key><integer>10253</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14759</integer>
+					<key>Track ID</key><integer>10257</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10143</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10145</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10181</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10163</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10173</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10175</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10183</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10395</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10185</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>10187</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14681</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14679</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>17489</integer>
+					<key>Track ID</key><integer>14635</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>10197</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10201</integer>
+					<key>Track ID</key><integer>10199</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10213</integer>
+					<key>Track ID</key><integer>10039</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10159</integer>
+					<key>Track ID</key><integer>10041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35087</integer>
+					<key>Track ID</key><integer>14639</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14641</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10267</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14581</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10297</integer>
 				</dict>
 			</array>
 		</dict>

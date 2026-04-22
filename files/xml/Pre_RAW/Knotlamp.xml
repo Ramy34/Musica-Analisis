@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:21:23Z</date>
+	<key>Date</key><date>2026-02-03T22:34:17Z</date>
 	<key>Application Version</key><string>12.13.9.1</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12085</key>
+		<key>12090</key>
 		<dict>
-			<key>Track ID</key><integer>12085</integer>
+			<key>Track ID</key><integer>12090</integer>
 			<key>Name</key><string>Blaze drops</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -50,9 +50,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12097</key>
+		<key>12102</key>
 		<dict>
-			<key>Track ID</key><integer>12097</integer>
+			<key>Track ID</key><integer>12102</integer>
 			<key>Name</key><string>Innocent days</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -88,9 +88,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12131</key>
+		<key>12136</key>
 		<dict>
-			<key>Track ID</key><integer>12131</integer>
+			<key>Track ID</key><integer>12136</integer>
 			<key>Name</key><string>時の行方</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -125,9 +125,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12151</key>
+		<key>12156</key>
 		<dict>
-			<key>Track ID</key><integer>12151</integer>
+			<key>Track ID</key><integer>12156</integer>
 			<key>Name</key><string>Holy moments</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -148,9 +148,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850837150</integer>
-			<key>Play Date UTC</key><date>2026-01-10T02:59:10Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851953532</integer>
+			<key>Play Date UTC</key><date>2026-01-23T01:05:32Z</date>
 			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -163,9 +163,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12159</key>
+		<key>12164</key>
 		<dict>
-			<key>Track ID</key><integer>12159</integer>
+			<key>Track ID</key><integer>12164</integer>
 			<key>Name</key><string>Libra</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -201,9 +201,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12177</key>
+		<key>12182</key>
 		<dict>
-			<key>Track ID</key><integer>12177</integer>
+			<key>Track ID</key><integer>12182</integer>
 			<key>Name</key><string>ずっと何処かに</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -238,9 +238,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12199</key>
+		<key>12204</key>
 		<dict>
-			<key>Track ID</key><integer>12199</integer>
+			<key>Track ID</key><integer>12204</integer>
 			<key>Name</key><string>Not alone</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -275,9 +275,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12223</key>
+		<key>12228</key>
 		<dict>
-			<key>Track ID</key><integer>12223</integer>
+			<key>Track ID</key><integer>12228</integer>
 			<key>Name</key><string>遠くへ</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -313,9 +313,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12237</key>
+		<key>12242</key>
 		<dict>
-			<key>Track ID</key><integer>12237</integer>
+			<key>Track ID</key><integer>12242</integer>
 			<key>Name</key><string>Flag</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -351,9 +351,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12255</key>
+		<key>12260</key>
 		<dict>
-			<key>Track ID</key><integer>12255</integer>
+			<key>Track ID</key><integer>12260</integer>
 			<key>Name</key><string>New dawn</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -389,9 +389,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12291</key>
+		<key>12296</key>
 		<dict>
-			<key>Track ID</key><integer>12291</integer>
+			<key>Track ID</key><integer>12296</integer>
 			<key>Name</key><string>Lost Anthology</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -427,9 +427,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12303</key>
+		<key>12308</key>
 		<dict>
-			<key>Track ID</key><integer>12303</integer>
+			<key>Track ID</key><integer>12308</integer>
 			<key>Name</key><string>Siren</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -465,9 +465,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12305</key>
+		<key>12310</key>
 		<dict>
-			<key>Track ID</key><integer>12305</integer>
+			<key>Track ID</key><integer>12310</integer>
 			<key>Name</key><string>The Limited World</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -504,9 +504,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12393</key>
+		<key>12398</key>
 		<dict>
-			<key>Track ID</key><integer>12393</integer>
+			<key>Track ID</key><integer>12398</integer>
 			<key>Name</key><string>夜空</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -542,9 +542,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12395</key>
+		<key>12400</key>
 		<dict>
-			<key>Track ID</key><integer>12395</integer>
+			<key>Track ID</key><integer>12400</integer>
 			<key>Name</key><string>Across the sea</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -580,9 +580,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12435</key>
+		<key>12440</key>
 		<dict>
-			<key>Track ID</key><integer>12435</integer>
+			<key>Track ID</key><integer>12440</integer>
 			<key>Name</key><string>Coda</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -618,9 +618,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12453</key>
+		<key>12458</key>
 		<dict>
-			<key>Track ID</key><integer>12453</integer>
+			<key>Track ID</key><integer>12458</integer>
 			<key>Name</key><string>Time matters</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -655,9 +655,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34387</key>
+		<key>34392</key>
 		<dict>
-			<key>Track ID</key><integer>34387</integer>
+			<key>Track ID</key><integer>34392</integer>
 			<key>Name</key><string>LAST TRAIN -新しい朝-</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -699,7 +699,7 @@
 		<dict>
 			<key>Name</key><string>Knotlamp</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101585</integer>
+			<key>Playlist ID</key><integer>101513</integer>
 			<key>Playlist Persistent ID</key><string>782F845BAD1641F9</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -722,75 +722,80 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoZTTHN0AAEAAQAAAAYAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3RTTHN0AAEAAQAAAAkAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABAASwBuAG8AdABsAGEAbQBwAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBv
 			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AA4AZQBzACAAbABpAHYAZQAAAAIDAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AA4ARQBzACAAbABpAHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQByAHMAdAAgAFQAYQBr
 			AGUAAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABtAAAAAAAAAAAAAAAAAAAAAQAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4
+			AAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIARQBzACAAVABWACAAVgBl
+			AHIAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAFgBFAHMAIAByAGUAcABlAHQAaQBkAGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgBFAHMAIABpAG4AcwB0AHIAdQBtAGUAbgB0
+			AGEAbA==
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12223</integer>
+					<key>Track ID</key><integer>12228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12305</integer>
+					<key>Track ID</key><integer>12310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12085</integer>
+					<key>Track ID</key><integer>12090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12151</integer>
+					<key>Track ID</key><integer>12156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12255</integer>
+					<key>Track ID</key><integer>12260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12303</integer>
+					<key>Track ID</key><integer>12308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12159</integer>
+					<key>Track ID</key><integer>12164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12435</integer>
+					<key>Track ID</key><integer>12440</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12097</integer>
+					<key>Track ID</key><integer>12102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12237</integer>
+					<key>Track ID</key><integer>12242</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12291</integer>
+					<key>Track ID</key><integer>12296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12393</integer>
+					<key>Track ID</key><integer>12398</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12395</integer>
+					<key>Track ID</key><integer>12400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34387</integer>
+					<key>Track ID</key><integer>34392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12131</integer>
+					<key>Track ID</key><integer>12136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12177</integer>
+					<key>Track ID</key><integer>12182</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12199</integer>
+					<key>Track ID</key><integer>12204</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12453</integer>
+					<key>Track ID</key><integer>12458</integer>
 				</dict>
 			</array>
 		</dict>

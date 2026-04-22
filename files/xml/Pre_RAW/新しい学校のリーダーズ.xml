@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-03-10T05:50:46Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5028</key>
+		<dict>
+			<key>Track ID</key><integer>5028</integer>
+			<key>Name</key><string>Fly High</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5988673</integer>
+			<key>Total Time</key><integer>183327</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3845281333</integer>
+			<key>Play Date UTC</key><date>2025-11-06T19:42:13Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6611</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>920E9601BF37200D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/01%20Fly%20High.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5032</key>
+		<dict>
+			<key>Track ID</key><integer>5032</integer>
+			<key>Name</key><string>Omakase</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5436966</integer>
+			<key>Total Time</key><integer>166086</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3847100900</integer>
+			<key>Play Date UTC</key><date>2025-11-27T21:08:20Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5127</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>733590119FF7A9CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/03%20Omakase.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5034</key>
+		<dict>
+			<key>Track ID</key><integer>5034</integer>
+			<key>Name</key><string>Maji Yoroshiku</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Angus Leslie, Jessie Lauryn, Joshua Tavares, Miguel Olivera, Robert Douglas-Sola, Samuel Cox, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4383715</integer>
+			<key>Total Time</key><integer>133172</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:58Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3855740472</integer>
+			<key>Play Date UTC</key><date>2026-03-07T21:01:12Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7928</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99E472476C42904A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/04%20Maji%20Yoroshiku.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5036</key>
+		<dict>
+			<key>Track ID</key><integer>5036</integer>
+			<key>Name</key><string>Essa Hoisa</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5728704</integer>
+			<key>Total Time</key><integer>175203</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-02-20T23:14:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842461048</integer>
+			<key>Play Date UTC</key><date>2025-10-05T03:17:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6395</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>277EF839CA79190D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/05%20Essa%20Hoisa.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5038</key>
+		<dict>
+			<key>Track ID</key><integer>5038</integer>
+			<key>Name</key><string>Drama</string>
+			<key>Artist</key><string>新しい学校のリーダーズ feat. MILLI</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Danupha Kanateerakul, Christina Galligan, Leelee, Louis Bartolini &#38; Stephanie Poetri</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5223818</integer>
+			<key>Total Time</key><integer>159425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-02-20T23:14:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853917767</integer>
+			<key>Play Date UTC</key><date>2026-02-14T18:42:47Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BA25D9215F6624FF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/06%20Drama.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5040</key>
+		<dict>
+			<key>Track ID</key><integer>5040</integer>
+			<key>Name</key><string>Superhuman</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6414157</integer>
+			<key>Total Time</key><integer>196623</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>178</integer>
+			<key>Date Modified</key><date>2026-02-20T23:14:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3847092783</integer>
+			<key>Play Date UTC</key><date>2025-11-27T18:53:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8811</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8ED796CEAF8758E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/07%20Superhuman.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5042</key>
+		<dict>
+			<key>Track ID</key><integer>5042</integer>
+			<key>Name</key><string>Forever Sisters</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7667204</integer>
+			<key>Total Time</key><integer>235781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-02-20T23:14:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846411773</integer>
+			<key>Play Date UTC</key><date>2025-11-19T21:42:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5916</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13981551620390F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/08%20Forever%20Sisters.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5044</key>
+		<dict>
+			<key>Track ID</key><integer>5044</integer>
+			<key>Name</key><string>Arigato</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5647617</integer>
+			<key>Total Time</key><integer>172669</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>137</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852392860</integer>
+			<key>Play Date UTC</key><date>2026-01-28T03:07:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-07-19T23:23:33Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7186</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41237F89B99EBBEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/09%20Arigato.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5046</key>
+		<dict>
+			<key>Track ID</key><integer>5046</integer>
+			<key>Name</key><string>Hero Show</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>AG! Calling</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6076446</integer>
+			<key>Total Time</key><integer>186070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-02-20T23:14:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3846776394</integer>
+			<key>Play Date UTC</key><date>2025-11-24T02:59:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>82605D004C92A942</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/10%20Hero%20Show.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5050</key>
+		<dict>
+			<key>Track ID</key><integer>5050</integer>
+			<key>Name</key><string>Free Your Mind (Spanish Version)</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Mark Ramos Nishita &#38; Denise Janelle Gutierrez Mendoza</string>
+			<key>Album</key><string>Free Your Mind (Spanish Version) - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6007078</integer>
+			<key>Total Time</key><integer>177580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-02-20T23:22:42Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3841211379</integer>
+			<key>Play Date UTC</key><date>2025-09-20T16:09:39Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-02-10T00:52:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5336</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>092820A641EDC2D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Free%20Your%20Mind%20(Spanish%20Version)%20-%20Singl/01%20Free%20Your%20Mind%20(Spanish%20Version).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5052</key>
+		<dict>
+			<key>Track ID</key><integer>5052</integer>
+			<key>Name</key><string>HANAKO</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ &#38; Mark Ramos Nishita</string>
+			<key>Album</key><string>HANAKO - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8336622</integer>
+			<key>Total Time</key><integer>221779</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>124</integer>
+			<key>Date Modified</key><date>2026-02-20T23:21:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847090049</integer>
+			<key>Play Date UTC</key><date>2025-11-27T18:07:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BA8D87BCF5C51BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HANAKO%20-%20Single/01%20HANAKO.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5054</key>
+		<dict>
+			<key>Track ID</key><integer>5054</integer>
+			<key>Name</key><string>HELLO (from The Tiger's Apprentice)</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Wendy Wei-Jo Wang, Fransisca Hall, Kevin Bard &#38; Louis Bartollini</string>
+			<key>Album</key><string>HELLO (from The Tiger's Apprentice) - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7641039</integer>
+			<key>Total Time</key><integer>153208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>161</integer>
+			<key>Date Modified</key><date>2026-02-20T23:20:50Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852354812</integer>
+			<key>Play Date UTC</key><date>2026-01-27T16:33:32Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8334</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>61187E73CCBF2924</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HELLO%20(from%20The%20Tiger's%20Apprentice)%20-%20Si/01%20HELLO%20(from%20The%20Tiger's%20Apprentic.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5056</key>
+		<dict>
+			<key>Track ID</key><integer>5056</integer>
+			<key>Name</key><string>じゃないんだよ</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>jon-YAKITORY</string>
+			<key>Album</key><string>一時帰国</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5831203</integer>
+			<key>Total Time</key><integer>179173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-02-20T23:12:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3845735080</integer>
+			<key>Play Date UTC</key><date>2025-11-12T01:44:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9222</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7783649722C3A97D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/01%20%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%82%88.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5058</key>
+		<dict>
+			<key>Track ID</key><integer>5058</integer>
+			<key>Name</key><string>青春を切り裂く波動</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>Kenta Matsukuma</string>
+			<key>Album</key><string>一時帰国</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6942152</integer>
+			<key>Total Time</key><integer>213890</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-02-20T23:12:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855120640</integer>
+			<key>Play Date UTC</key><date>2026-02-28T16:50:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>12637</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86C222B907DA8571</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/02%20%E9%9D%92%E6%98%A5%E3%82%92%E5%88%87%E3%82%8A%E8%A3%82%E3%81%8F%E6%B3%A2%E5%8B%95.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5060</key>
+		<dict>
+			<key>Track ID</key><integer>5060</integer>
+			<key>Name</key><string>Giri Giri</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>Yonkey</string>
+			<key>Album</key><string>一時帰国</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6024299</integer>
+			<key>Total Time</key><integer>185208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>134</integer>
+			<key>Date Modified</key><date>2026-02-20T23:12:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3848300301</integer>
+			<key>Play Date UTC</key><date>2025-12-11T18:18:21Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4925</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16C243AEF4FE0C40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/03%20Giri%20Giri.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5062</key>
+		<dict>
+			<key>Track ID</key><integer>5062</integer>
+			<key>Name</key><string>Suki Lie</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>Yonkey</string>
+			<key>Album</key><string>一時帰国</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6341947</integer>
+			<key>Total Time</key><integer>195134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>89</integer>
+			<key>Date Modified</key><date>2026-02-20T23:12:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3846911077</integer>
+			<key>Play Date UTC</key><date>2025-11-25T16:24:37Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6182</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C447254EA2FA56B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/04%20Suki%20Lie.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5070</key>
+		<dict>
+			<key>Track ID</key><integer>5070</integer>
+			<key>Name</key><string>恋の遮断機</string>
+			<key>Artist</key><string>新しい学校のリーダーズ feat. H ZETTRIO</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ feat. H ZETTRIO</string>
+			<key>Album</key><string>恋の遮断機 feat. H ZETTRIO - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8382733</integer>
+			<key>Total Time</key><integer>260440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-03-10T05:50:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3842458702</integer>
+			<key>Play Date UTC</key><date>2025-10-05T02:38:22Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4116</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE3373D82D45AA3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%20feat.%20H%20ZETTRIO/%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F%20feat.%20H%20ZETTRIO%20-%20Single/01%20%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5092</key>
+		<dict>
+			<key>Track ID</key><integer>5092</integer>
+			<key>Name</key><string>マ人間</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>jon-YAKITORY</string>
+			<key>Album</key><string>マ人間 - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6579583</integer>
+			<key>Total Time</key><integer>171676</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-02-20T23:13:54Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3850323864</integer>
+			<key>Play Date UTC</key><date>2026-01-04T04:24:24Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>15119</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>650E5D74F8E13764</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%83%9E%E4%BA%BA%E9%96%93%20-%20EP/01%20%E3%83%9E%E4%BA%BA%E9%96%93.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5102</key>
+		<dict>
+			<key>Track ID</key><integer>5102</integer>
+			<key>Name</key><string>NAINAINAI</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>Yonkey &#38; 新しい学校のリーダーズ</string>
+			<key>Album</key><string>NAINAINAI - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6276498</integer>
+			<key>Total Time</key><integer>193985</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>115</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:50Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3847184200</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:16:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2476</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A4116F152273379</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/NAINAINAI%20-%20Single/01%20NAINAINAI.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5106</key>
+		<dict>
+			<key>Track ID</key><integer>5106</integer>
+			<key>Name</key><string>オトナブルー</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>Yonkey</string>
+			<key>Album</key><string>オトナブルー - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6044206</integer>
+			<key>Total Time</key><integer>185652</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-02-20T23:10:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855389275</integer>
+			<key>Play Date UTC</key><date>2026-03-03T19:27:55Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4416</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B3391C959DB0C900</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC%20-%20Single/01%20%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5114</key>
+		<dict>
+			<key>Track ID</key><integer>5114</integer>
+			<key>Name</key><string>CANDY</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>TARASHII GAKKO! &#38; Mark Ramos Nishita</string>
+			<key>Album</key><string>SNACKTIME - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5394944</integer>
+			<key>Total Time</key><integer>165485</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2026-02-20T23:08:52Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3851159043</integer>
+			<key>Play Date UTC</key><date>2026-01-13T20:24:03Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3465</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>CANDY</string>
+			<key>Persistent ID</key><string>357D525BAD279C5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/03%20CANDY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5116</key>
+		<dict>
+			<key>Track ID</key><integer>5116</integer>
+			<key>Name</key><string>Fantastico</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ &#38; Mark Ramos Nishita</string>
+			<key>Album</key><string>SNACKTIME - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5654083</integer>
+			<key>Total Time</key><integer>173583</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-02-21T08:22:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:47:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3850591871</integer>
+			<key>Play Date UTC</key><date>2026-01-07T06:51:11Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>1961</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Fantastico</string>
+			<key>Persistent ID</key><string>49ED498BEFA42121</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/04%20Fantastico.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5120</key>
+		<dict>
+			<key>Track ID</key><integer>5120</integer>
+			<key>Name</key><string>The Edge</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Kayelee Ayers, Kianna Fleming, Louis Bartolini &#38; William Kevany</string>
+			<key>Album</key><string>The Edge - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5367433</integer>
+			<key>Total Time</key><integer>163892</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>168</integer>
+			<key>Date Modified</key><date>2026-02-20T23:18:49Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852059008</integer>
+			<key>Play Date UTC</key><date>2026-01-24T06:23:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6797</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Edge - Single</string>
+			<key>Sort Name</key><string>Edge</string>
+			<key>Persistent ID</key><string>CF45205199838EC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/The%20Edge%20-%20Single/01%20The%20Edge.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5122</key>
+		<dict>
+			<key>Track ID</key><integer>5122</integer>
+			<key>Name</key><string>Tokyo Calling</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>Tokyo Calling - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6278142</integer>
+			<key>Total Time</key><integer>191294</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>79</integer>
+			<key>Date Modified</key><date>2026-02-20T23:18:00Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855728003</integer>
+			<key>Play Date UTC</key><date>2026-03-07T17:33:23Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6111</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1342E5DFE5998B7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Tokyo%20Calling%20-%20Single/01%20Tokyo%20Calling.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5124</key>
+		<dict>
+			<key>Track ID</key><integer>5124</integer>
+			<key>Name</key><string>Toryanse</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ, Yonkey &#38; Yoshio Tamamura</string>
+			<key>Album</key><string>Toryanse - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8046321</integer>
+			<key>Total Time</key><integer>156682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-02-20T23:19:23Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3854903274</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:27:54Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5462</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CEA787047B5298F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Toryanse%20-%20Single/01%20Toryanse.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5132</key>
+		<dict>
+			<key>Track ID</key><integer>5132</integer>
+			<key>Name</key><string>恋ゲバ</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>H ZETT M &#38; Temma Matsunaga</string>
+			<key>Album</key><string>若気ガイタル</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8243061</integer>
+			<key>Total Time</key><integer>253544</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>101</integer>
+			<key>Date Modified</key><date>2026-02-20T23:05:25Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3850320916</integer>
+			<key>Play Date UTC</key><date>2026-01-04T03:35:16Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10682</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BED5FCC1037B78B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E8%8B%A5%E6%B0%97%E3%82%AC%E3%82%A4%E3%82%BF%E3%83%AB/04%20%E6%81%8B%E3%82%B2%E3%83%90.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5142</key>
+		<dict>
+			<key>Track ID</key><integer>5142</integer>
+			<key>Name</key><string>WOO! GO!</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ &#38; Yonkey</string>
+			<key>Album</key><string>WOO! GO! - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6598581</integer>
+			<key>Total Time</key><integer>199549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-02-20T23:22:02Z</date>
+			<key>Date Added</key><date>2024-09-26T20:48:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852097628</integer>
+			<key>Play Date UTC</key><date>2026-01-24T17:07:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3848</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E4586B363F73869</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/WOO!%20GO!%20-%20Single/01%20WOO!%20GO!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14744</key>
+		<dict>
+			<key>Track ID</key><integer>14744</integer>
+			<key>Name</key><string>恋文</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>恋文 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9873204</integer>
+			<key>Total Time</key><integer>240350</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-02-20T23:17:21Z</date>
+			<key>Date Added</key><date>2025-01-18T05:43:23Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855134984</integer>
+			<key>Play Date UTC</key><date>2026-02-28T20:49:44Z</date>
+			<key>Release Date</key><date>2020-05-22T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5105</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2BCD0BA8094D5979</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E6%81%8B%E6%96%87%20-%20Single/01%20%E6%81%8B%E6%96%87.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14746</key>
+		<dict>
+			<key>Track ID</key><integer>14746</integer>
+			<key>Name</key><string>Pineapple Kryptonite</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Composer</key><string>新しい学校のリーダーズ &#38; Mark Ramos Nishita</string>
+			<key>Album</key><string>Pineapple Kryptonite - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8054723</integer>
+			<key>Total Time</key><integer>195721</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>139</integer>
+			<key>Date Modified</key><date>2026-02-20T23:18:15Z</date>
+			<key>Date Added</key><date>2025-01-18T05:45:16Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3854903117</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:25:17Z</date>
+			<key>Release Date</key><date>2021-09-21T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4414</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4F369360C1AAEB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Pineapple%20Kryptonite%20-%20Single/01%20Pineapple%20Kryptonite.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>14748</key>
+		<dict>
+			<key>Track ID</key><integer>14748</integer>
+			<key>Name</key><string>Change</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>Change - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7959078</integer>
+			<key>Total Time</key><integer>191263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>158</integer>
+			<key>Date Modified</key><date>2026-02-20T23:21:26Z</date>
+			<key>Date Added</key><date>2025-01-18T05:47:47Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3854284518</integer>
+			<key>Play Date UTC</key><date>2026-02-19T00:35:18Z</date>
+			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4405</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E33338B1ACA509E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Change%20-%20Single/01%20Change.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>27724</key>
+		<dict>
+			<key>Track ID</key><integer>27724</integer>
+			<key>Name</key><string>Narani Narani</string>
+			<key>Artist</key><string>Balming Tiger feat. 新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>Balming Tiger feat. 新しい学校のリーダーズ</string>
+			<key>Album</key><string>Narani Narani - Single</string>
+			<key>Genre</key><string>K-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7250922</integer>
+			<key>Total Time</key><integer>224417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-02-20T23:20:03Z</date>
+			<key>Date Added</key><date>2025-06-28T08:50:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851944769</integer>
+			<key>Play Date UTC</key><date>2026-01-22T22:39:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6708</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65039628A9C28514</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Balming%20Tiger%20feat.%20%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Narani%20Narani%20-%20Single/01%20Narani%20Narani.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33130</key>
+		<dict>
+			<key>Track ID</key><integer>33130</integer>
+			<key>Name</key><string>Go Wild</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>Go Wild - Miyao - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6794249</integer>
+			<key>Total Time</key><integer>164274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>149</integer>
+			<key>Date Modified</key><date>2026-02-20T23:16:11Z</date>
+			<key>Date Added</key><date>2025-12-08T16:11:52Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3855043873</integer>
+			<key>Play Date UTC</key><date>2026-02-27T19:31:13Z</date>
+			<key>Release Date</key><date>2025-12-05T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7682</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>864E6AA73349E139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Go%20Wild%20-%20Miyao%20-%20Single/01%20Go%20Wild.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33284</key>
+		<dict>
+			<key>Track ID</key><integer>33284</integer>
+			<key>Name</key><string>Sailor, Sail On</string>
+			<key>Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
+			<key>Album</key><string>Sailor, Sail On - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>54911626</integer>
+			<key>Total Time</key><integer>248136</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>158</integer>
+			<key>Date Modified</key><date>2026-02-20T23:21:48Z</date>
+			<key>Date Added</key><date>2025-12-22T17:34:58Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3850572961</integer>
+			<key>Play Date UTC</key><date>2026-01-07T01:36:01Z</date>
+			<key>Release Date</key><date>2025-12-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4869</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7BC75316ED21D8DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Sailor,%20Sail%20On%20-%20Single/01%20Sailor,%20Sail%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>新しい学校のリーダーズ</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>114996</integer>
+			<key>Playlist Persistent ID</key><string>77D1CCE83E309BEC</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3pTTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABZlsDBXMERbZmghMG4w6jD8MMAw/DC6AAAAGQAAAQAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO
+			AEUAcwAgAGwAaQB2AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAACAwAAAgAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgBGAHIAbwBtACAAVABo
+			AGUAIABGAGkAcgBzAHQAIABUAGEAawBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBu
+			AHMAdAByAHUAbQBlAG4AdABhAGwAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIAByAGUAcABlAHQAaQBkAGEAAAAOAwAAAgAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBFAHMAIABU
+			AFYAIABWAGUAcg==
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5070</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5060</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5062</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5054</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5038</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5044</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5050</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>27724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33284</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-01-22T05:18:09Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-03-10T05:46:33Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4527</key>
+		<key>4552</key>
 		<dict>
-			<key>Track ID</key><integer>4527</integer>
+			<key>Track ID</key><integer>4552</integer>
 			<key>Name</key><string>'good guy'</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3850556966</integer>
-			<key>Play Date UTC</key><date>2026-01-06T21:09:26Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3852135753</integer>
+			<key>Play Date UTC</key><date>2026-01-25T03:42:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -45,13 +45,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9093C84040942D2C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/'good%20guy'%20-%20Single/01%20'good%20guy'.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/'good%20guy'%20-%20Single/01%20'good%20guy'.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4533</key>
+		<key>4558</key>
 		<dict>
-			<key>Track ID</key><integer>4533</integer>
+			<key>Track ID</key><integer>4558</integer>
 			<key>Name</key><string>blindfolded</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -72,9 +72,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3843135042</integer>
-			<key>Play Date UTC</key><date>2025-10-12T22:30:42Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3855725903</integer>
+			<key>Play Date UTC</key><date>2026-03-07T16:58:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -82,13 +82,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F24CFC7F5C967491</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/blindfolded%20-%20Single/01%20blindfolded.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/blindfolded%20-%20Single/01%20blindfolded.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4535</key>
+		<key>4560</key>
 		<dict>
-			<key>Track ID</key><integer>4535</integer>
+			<key>Track ID</key><integer>4560</integer>
 			<key>Name</key><string>that won't save us</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -112,20 +112,21 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3845702407</integer>
 			<key>Play Date UTC</key><date>2025-11-11T16:40:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-12T06:36:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7592</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>967CDCD199FF2446</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/01%20that%20won't%20save%20us.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/01%20that%20won't%20save%20us.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4539</key>
+		<key>4564</key>
 		<dict>
-			<key>Track ID</key><integer>4539</integer>
+			<key>Track ID</key><integer>4564</integer>
 			<key>Name</key><string>jump</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -151,18 +152,17 @@
 			<key>Play Date UTC</key><date>2025-10-02T04:02:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7236</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5E2B17CE2B821D44</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/04%20jump.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/04%20jump.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4545</key>
+		<key>4570</key>
 		<dict>
-			<key>Track ID</key><integer>4545</integer>
+			<key>Track ID</key><integer>4570</integer>
 			<key>Name</key><string>lullaby</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -188,18 +188,17 @@
 			<key>Play Date UTC</key><date>2025-11-11T17:41:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5728</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CCBD9CC5C989569E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/07%20lullaby.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/fever/07%20lullaby.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4559</key>
+		<key>4584</key>
 		<dict>
-			<key>Track ID</key><integer>4559</integer>
+			<key>Track ID</key><integer>4584</integer>
 			<key>Name</key><string>Gravity</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -225,17 +224,16 @@
 			<key>Play Date UTC</key><date>2025-10-18T00:19:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6696</integer>
 			<key>Persistent ID</key><string>4326044C24EFF692</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/01%20Gravity.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/01%20Gravity.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4563</key>
+		<key>4588</key>
 		<dict>
-			<key>Track ID</key><integer>4563</integer>
+			<key>Track ID</key><integer>4588</integer>
 			<key>Name</key><string>Paralyzed</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -261,18 +259,17 @@
 			<key>Play Date UTC</key><date>2026-01-17T04:55:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10355</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A7737DEA6B18D794</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/04%20Paralyzed.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/04%20Paralyzed.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4565</key>
+		<key>4590</key>
 		<dict>
-			<key>Track ID</key><integer>4565</integer>
+			<key>Track ID</key><integer>4590</integer>
 			<key>Name</key><string>Fireproof</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -293,23 +290,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3847113951</integer>
-			<key>Play Date UTC</key><date>2025-11-28T00:45:51Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852570205</integer>
+			<key>Play Date UTC</key><date>2026-01-30T04:23:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12680</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>70E4E7AC6F09E734</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/05%20Fireproof.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/05%20Fireproof.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4567</key>
+		<key>4592</key>
 		<dict>
-			<key>Track ID</key><integer>4567</integer>
+			<key>Track ID</key><integer>4592</integer>
 			<key>Name</key><string>Brighter</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -335,18 +331,17 @@
 			<key>Play Date UTC</key><date>2026-01-06T23:37:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6251</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AF4A01C21F0413F1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/06%20Brighter.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/06%20Brighter.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4569</key>
+		<key>4594</key>
 		<dict>
-			<key>Track ID</key><integer>4569</integer>
+			<key>Track ID</key><integer>4594</integer>
 			<key>Name</key><string>Running with the Wild Things</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -367,23 +362,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3823261431</integer>
-			<key>Play Date UTC</key><date>2025-02-24T23:03:51Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851963163</integer>
+			<key>Play Date UTC</key><date>2026-01-23T03:46:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13140</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FC76FA08D4059720</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/01%20Running%20with%20the%20Wild%20Things.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/01%20Running%20with%20the%20Wild%20Things.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4571</key>
+		<key>4596</key>
 		<dict>
-			<key>Track ID</key><integer>4571</integer>
+			<key>Track ID</key><integer>4596</integer>
 			<key>Name</key><string>Forget Me Now</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -404,23 +398,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3843150083</integer>
-			<key>Play Date UTC</key><date>2025-10-13T02:41:23Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855741995</integer>
+			<key>Play Date UTC</key><date>2026-03-07T21:26:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12321</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5316B5DE837F82B9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/02%20Forget%20Me%20Now.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/02%20Forget%20Me%20Now.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4573</key>
+		<key>4598</key>
 		<dict>
-			<key>Track ID</key><integer>4573</integer>
+			<key>Track ID</key><integer>4598</integer>
 			<key>Name</key><string>Chasing Ghosts</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -446,18 +439,17 @@
 			<key>Play Date UTC</key><date>2026-01-05T22:16:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7816</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A0C92CED8D1F967C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/03%20Chasing%20Ghosts.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/03%20Chasing%20Ghosts.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4575</key>
+		<key>4600</key>
 		<dict>
-			<key>Track ID</key><integer>4575</integer>
+			<key>Track ID</key><integer>4600</integer>
 			<key>Name</key><string>One More Weekend</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -478,23 +470,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3845704288</integer>
-			<key>Play Date UTC</key><date>2025-11-11T17:11:28Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852060911</integer>
+			<key>Play Date UTC</key><date>2026-01-24T06:55:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11867</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>90D65B1BB8F43472</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/04%20One%20More%20Weekend.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/04%20One%20More%20Weekend.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4579</key>
+		<key>4604</key>
 		<dict>
-			<key>Track ID</key><integer>4579</integer>
+			<key>Track ID</key><integer>4604</integer>
 			<key>Name</key><string>Young &#38; Relentless</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -520,18 +511,17 @@
 			<key>Play Date UTC</key><date>2025-09-21T18:34:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11777</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3A3CFA80DDC306DD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/06%20Young%20&#38;%20Relentless.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/06%20Young%20&#38;%20Relentless.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4581</key>
+		<key>4606</key>
 		<dict>
-			<key>Track ID</key><integer>4581</integer>
+			<key>Track ID</key><integer>4606</integer>
 			<key>Name</key><string>Runaway</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -552,23 +542,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3838842552</integer>
-			<key>Play Date UTC</key><date>2025-08-24T06:09:12Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3854902129</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:08:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13437</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B1D6430CD87DBFA6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/07%20Runaway.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/07%20Runaway.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4585</key>
+		<key>4610</key>
 		<dict>
-			<key>Track ID</key><integer>4585</integer>
+			<key>Track ID</key><integer>4610</integer>
 			<key>Name</key><string>Wasteland</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -589,23 +578,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3834830351</integer>
-			<key>Play Date UTC</key><date>2025-07-08T19:39:11Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855389089</integer>
+			<key>Play Date UTC</key><date>2026-03-03T19:24:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10059</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DD2EAB1CC652397B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/09%20Wasteland.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/09%20Wasteland.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4587</key>
+		<key>4612</key>
 		<dict>
-			<key>Track ID</key><integer>4587</integer>
+			<key>Track ID</key><integer>4612</integer>
 			<key>Name</key><string>Blood Like Gasoline</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -626,23 +614,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850557159</integer>
-			<key>Play Date UTC</key><date>2026-01-06T21:12:39Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3854292376</integer>
+			<key>Play Date UTC</key><date>2026-02-19T02:46:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12246</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0A1F172992BE44F1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/10%20Blood%20Like%20Gasoline.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/In%20Our%20Bones/10%20Blood%20Like%20Gasoline.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4603</key>
+		<key>4628</key>
 		<dict>
-			<key>Track ID</key><integer>4603</integer>
+			<key>Track ID</key><integer>4628</integer>
 			<key>Name</key><string>Infinity</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -663,22 +650,21 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3827295301</integer>
-			<key>Play Date UTC</key><date>2025-04-12T14:35:01Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853921094</integer>
+			<key>Play Date UTC</key><date>2026-02-14T19:38:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13762</integer>
 			<key>Persistent ID</key><string>692E9130BC15B8A1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Infinity%20-%20EP/01%20Infinity.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Infinity%20-%20EP/01%20Infinity.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4609</key>
+		<key>4634</key>
 		<dict>
-			<key>Track ID</key><integer>4609</integer>
+			<key>Track ID</key><integer>4634</integer>
 			<key>Name</key><string>Another You (Another Way)</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -699,23 +685,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3849186864</integer>
-			<key>Play Date UTC</key><date>2025-12-22T00:34:24Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3854277892</integer>
+			<key>Play Date UTC</key><date>2026-02-18T22:44:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13666</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>501FFF842A07DE56</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Infinity%20-%20EP/04%20Another%20You%20(Another%20Way).mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Infinity%20-%20EP/04%20Another%20You%20(Another%20Way).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4613</key>
+		<key>4638</key>
 		<dict>
-			<key>Track ID</key><integer>4613</integer>
+			<key>Track ID</key><integer>4638</integer>
 			<key>Name</key><string>Strangers Again</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -741,18 +726,17 @@
 			<key>Play Date UTC</key><date>2025-09-09T05:03:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5607</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>819AE41489A9CF45</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/01%20Strangers%20Again.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/01%20Strangers%20Again.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4615</key>
+		<key>4640</key>
 		<dict>
-			<key>Track ID</key><integer>4615</integer>
+			<key>Track ID</key><integer>4640</integer>
 			<key>Name</key><string>The Fuss</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -773,24 +757,23 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850584419</integer>
-			<key>Play Date UTC</key><date>2026-01-07T04:46:59Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3852489511</integer>
+			<key>Play Date UTC</key><date>2026-01-29T05:58:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4661</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Fuss</string>
 			<key>Persistent ID</key><string>93F38F433701EB93</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/02%20The%20Fuss.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/02%20The%20Fuss.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4621</key>
+		<key>4646</key>
 		<dict>
-			<key>Track ID</key><integer>4621</integer>
+			<key>Track ID</key><integer>4646</integer>
 			<key>Name</key><string>Voices</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -816,18 +799,17 @@
 			<key>Play Date UTC</key><date>2026-01-06T21:03:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6868</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>00F3DC12F13A6040</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/05%20Voices.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/05%20Voices.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4623</key>
+		<key>4648</key>
 		<dict>
-			<key>Track ID</key><integer>4623</integer>
+			<key>Track ID</key><integer>4648</integer>
 			<key>Name</key><string>Scream</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -848,23 +830,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850556762</integer>
-			<key>Play Date UTC</key><date>2026-01-06T21:06:02Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3851945101</integer>
+			<key>Play Date UTC</key><date>2026-01-22T22:45:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3695</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>08498F8B0A904657</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/06%20Scream.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/06%20Scream.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4627</key>
+		<key>4652</key>
 		<dict>
-			<key>Track ID</key><integer>4627</integer>
+			<key>Track ID</key><integer>4652</integer>
 			<key>Name</key><string>P.A.T.T.</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -885,12 +866,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3850558295</integer>
-			<key>Play Date UTC</key><date>2026-01-06T21:31:35Z</date>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3853831141</integer>
+			<key>Play Date UTC</key><date>2026-02-13T18:39:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6431</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Past Lives</string>
@@ -898,13 +878,13 @@
 			<key>Sort Name</key><string>P.A.T.T.</string>
 			<key>Persistent ID</key><string>4B03437C3E9E3B3F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/08%20P.A.T.T..mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/08%20P.A.T.T..mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4631</key>
+		<key>4656</key>
 		<dict>
-			<key>Track ID</key><integer>4631</integer>
+			<key>Track ID</key><integer>4656</integer>
 			<key>Name</key><string>Come Alive</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -930,18 +910,17 @@
 			<key>Play Date UTC</key><date>2025-11-28T01:38:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6640</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C88229AA54F6444F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/10%20Come%20Alive.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/10%20Come%20Alive.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4633</key>
+		<key>4658</key>
 		<dict>
-			<key>Track ID</key><integer>4633</integer>
+			<key>Track ID</key><integer>4658</integer>
 			<key>Name</key><string>Sweet Surrender</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -967,18 +946,17 @@
 			<key>Play Date UTC</key><date>2026-01-07T02:10:24Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5473</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>24E42C5AE6924432</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/11%20Sweet%20Surrender.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Past%20Lives/11%20Sweet%20Surrender.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4635</key>
+		<key>4660</key>
 		<dict>
-			<key>Track ID</key><integer>4635</integer>
+			<key>Track ID</key><integer>4660</integer>
 			<key>Name</key><string>silent stranger</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1009,13 +987,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6210F8F281F9650C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/silent%20stranger%20-%20Single/01%20silent%20stranger.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/silent%20stranger%20-%20Single/01%20silent%20stranger.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4641</key>
+		<key>4666</key>
 		<dict>
-			<key>Track ID</key><integer>4641</integer>
+			<key>Track ID</key><integer>4666</integer>
 			<key>Name</key><string>weapon</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1036,9 +1014,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3848303508</integer>
-			<key>Play Date UTC</key><date>2025-12-11T19:11:48Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3852297417</integer>
+			<key>Play Date UTC</key><date>2026-01-27T00:36:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1046,13 +1024,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F07246AB84990709</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/weapon%20-%20Single/01%20weapon.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/weapon%20-%20Single/01%20weapon.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4643</key>
+		<key>4668</key>
 		<dict>
-			<key>Track ID</key><integer>4643</integer>
+			<key>Track ID</key><integer>4668</integer>
 			<key>Name</key><string>Wildfire</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1073,12 +1051,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3843572484</integer>
-			<key>Play Date UTC</key><date>2025-10-18T00:01:24Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852126259</integer>
+			<key>Play Date UTC</key><date>2026-01-25T01:04:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6575</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Wildfire - Single</string>
@@ -1086,13 +1063,13 @@
 			<key>Sort Name</key><string>Wildfire</string>
 			<key>Persistent ID</key><string>4584A3AB5783E950</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Wildfire%20-%20Single/01%20Wildfire.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Wildfire%20-%20Single/01%20Wildfire.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4649</key>
+		<key>4674</key>
 		<dict>
-			<key>Track ID</key><integer>4649</integer>
+			<key>Track ID</key><integer>4674</integer>
 			<key>Name</key><string>Dreaming Alone</string>
 			<key>Artist</key><string>Against The Current &#38; Taka</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1113,25 +1090,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3825358637</integer>
-			<key>Play Date UTC</key><date>2025-03-21T05:37:17Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852023050</integer>
+			<key>Play Date UTC</key><date>2026-01-23T20:24:10Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-08-24T07:08:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3898</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E717040508E017BF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/03%20Dreaming%20Alone.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Gravity%20-%20EP/03%20Dreaming%20Alone.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7565</key>
+		<key>7590</key>
 		<dict>
-			<key>Track ID</key><integer>7565</integer>
+			<key>Track ID</key><integer>7590</integer>
 			<key>Name</key><string>Legends Never Die</string>
 			<key>Artist</key><string>League of Legends &#38; Against The Current</string>
 			<key>Album Artist</key><string>League of Legends &#38; Against The Current</string>
@@ -1162,13 +1138,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C6A4F0A6A51B113E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/League%20of%20Legends%20&#38;%20Against%20The%20Current/Legends%20Never%20Die%20-%20Single/01%20Legends%20Never%20Die.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/League%20of%20Legends%20&#38;%20Against%20The%20Current/Legends%20Never%20Die%20-%20Single/01%20Legends%20Never%20Die.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10869</key>
+		<key>10894</key>
 		<dict>
-			<key>Track ID</key><integer>10869</integer>
+			<key>Track ID</key><integer>10894</integer>
 			<key>Name</key><string>Teenagers</string>
 			<key>Artist</key><string>The Summer Set &#38; Against The Current</string>
 			<key>Album Artist</key><string>The Summer Set &#38; Against The Current</string>
@@ -1201,13 +1177,13 @@
 			<key>Sort Artist</key><string>Summer Set &#38; Against The Current</string>
 			<key>Persistent ID</key><string>63381B72BAD28B16</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/The%20Summer%20Set%20&#38;%20Against%20The%20Current/Teenagers%20-%20Single/01%20Teenagers.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/The%20Summer%20Set%20&#38;%20Against%20The%20Current/Teenagers%20-%20Single/01%20Teenagers.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11559</key>
+		<key>11584</key>
 		<dict>
-			<key>Track ID</key><integer>11559</integer>
+			<key>Track ID</key><integer>11584</integer>
 			<key>Name</key><string>Caught It</string>
 			<key>Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
@@ -1238,13 +1214,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1C8BE9B4A3408DBA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/VOIL%C3%80,%20Chrissy%20Costanza%20&#38;%20Against%20The%20Cu/Caught%20It%20-%20Single/01%20Caught%20It.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/VOIL%C3%80,%20Chrissy%20Costanza%20&#38;%20Against%20The%20Cu/Caught%20It%20-%20Single/01%20Caught%20It.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12113</key>
+		<key>12138</key>
 		<dict>
-			<key>Track ID</key><integer>12113</integer>
+			<key>Track ID</key><integer>12138</integer>
 			<key>Name</key><string>SUICIDAL THOUGHTS (NO ONE'S HOME)</string>
 			<key>Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
@@ -1264,9 +1240,9 @@
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3844170789</integer>
-			<key>Play Date UTC</key><date>2025-10-24T22:13:09Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855738345</integer>
+			<key>Play Date UTC</key><date>2026-03-07T20:25:45Z</date>
 			<key>Release Date</key><date>2024-11-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1275,13 +1251,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>590B0BBA7711E401</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Ryan%20Oakes,%20Chrissy%20Costanza%20&#38;%20Against%20T/SUICIDAL%20THOUGHTS%20(NO%20ONE'S%20HOME)%20-%20Sing/01%20SUICIDAL%20THOUGHTS%20(NO%20ONE'S%20HOME).m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ryan%20Oakes,%20Chrissy%20Costanza%20&#38;%20Against%20T/SUICIDAL%20THOUGHTS%20(NO%20ONE'S%20HOME)%20-%20Sing/01%20SUICIDAL%20THOUGHTS%20(NO%20ONE'S%20HOME).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14833</key>
+		<key>14750</key>
 		<dict>
-			<key>Track ID</key><integer>14833</integer>
+			<key>Track ID</key><integer>14750</integer>
 			<key>Name</key><string>Outsiders</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1301,9 +1277,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3834330849</integer>
-			<key>Play Date UTC</key><date>2025-07-03T00:54:09Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852378449</integer>
+			<key>Play Date UTC</key><date>2026-01-27T23:07:29Z</date>
 			<key>Release Date</key><date>2015-10-02T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1312,13 +1288,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>98FBAF40975F7C80</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Outsiders%20-%20Single/01%20Outsiders.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Outsiders%20-%20Single/01%20Outsiders.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14839</key>
+		<key>14756</key>
 		<dict>
-			<key>Track ID</key><integer>14839</integer>
+			<key>Track ID</key><integer>14756</integer>
 			<key>Name</key><string>Out Of Your Mind</string>
 			<key>Artist</key><string>MisterWives, Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>MisterWives</string>
@@ -1350,13 +1326,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FA5560BB390EB702</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/MisterWives/Nosebleeds-%20Encore/1-02%20Out%20Of%20Your%20Mind.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/MisterWives/Nosebleeds-%20Encore/1-02%20Out%20Of%20Your%20Mind.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14841</key>
+		<key>14758</key>
 		<dict>
-			<key>Track ID</key><integer>14841</integer>
+			<key>Track ID</key><integer>14758</integer>
 			<key>Name</key><string>Barely Breathing</string>
 			<key>Artist</key><string>From Ashes to New feat. Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>From Ashes to New</string>
@@ -1376,9 +1352,9 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3846401766</integer>
-			<key>Play Date UTC</key><date>2025-11-19T18:56:06Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3855640734</integer>
+			<key>Play Date UTC</key><date>2026-03-06T17:18:54Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-06-23T23:13:41Z</date>
 			<key>Release Date</key><date>2023-07-28T12:00:00Z</date>
@@ -1389,13 +1365,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B5E91EA563A0BCE4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/From%20Ashes%20to%20New/Barely%20Breathing%20-%20Single/01%20Barely%20Breathing.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/From%20Ashes%20to%20New/Barely%20Breathing%20-%20Single/01%20Barely%20Breathing.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14845</key>
+		<key>14762</key>
 		<dict>
-			<key>Track ID</key><integer>14845</integer>
+			<key>Track ID</key><integer>14762</integer>
 			<key>Name</key><string>Romantic Disaster</string>
 			<key>Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
 			<key>Album Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
@@ -1427,13 +1403,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B88B2A6FB142240D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/LiL%20Lotus%20&#38;%20Against%20The%20Current%20feat.%20Ch/ERR%C3%98R%20B%C3%98Y/02%20Romantic%20Disaster.m4a</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/LiL%20Lotus%20&#38;%20Against%20The%20Current%20feat.%20Ch/ERR%C3%98R%20B%C3%98Y/02%20Romantic%20Disaster.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28041</key>
+		<key>27872</key>
 		<dict>
-			<key>Track ID</key><integer>28041</integer>
+			<key>Track ID</key><integer>27872</integer>
 			<key>Name</key><string>NIJI</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1453,17 +1429,16 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3851168970</integer>
-			<key>Play Date UTC</key><date>2026-01-13T23:09:30Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3852793978</integer>
+			<key>Play Date UTC</key><date>2026-02-01T18:32:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7909</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BB8CC81D04A1B9DD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Bonus%20Tracks%20-%20EP/04%20NIJI.mp3</string>
+			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Bonus%20Tracks%20-%20EP/04%20NIJI.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1473,7 +1448,7 @@
 		<dict>
 			<key>Name</key><string>Against The Current</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>100797</integer>
+			<key>Playlist ID</key><integer>113185</integer>
 			<key>Playlist Persistent ID</key><string>8A096985B4F1A72D</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1496,7 +1471,7 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAj5TTHN0AAEAAQAAAAUAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuJTTHN0AAEAAQAAAAcAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1505,128 +1480,131 @@
 			AAAAAAAAAGQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBlAHMAIABsAGkAdgBl
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgBFAHMAIABsAGkAdgBl
 			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-			ABAARQBzACAAcgBlAG0AaQB4
+			ABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBlAG4AdABhAGwAAAAO
+			AwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBF
+			AHMAIAByAGUAcABlAHQAaQBkAGE=
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>4603</integer>
+					<key>Track ID</key><integer>4628</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4609</integer>
+					<key>Track ID</key><integer>4634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4559</integer>
+					<key>Track ID</key><integer>4584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4649</integer>
+					<key>Track ID</key><integer>4674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4563</integer>
+					<key>Track ID</key><integer>4588</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4565</integer>
+					<key>Track ID</key><integer>4590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4567</integer>
+					<key>Track ID</key><integer>4592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14833</integer>
+					<key>Track ID</key><integer>14750</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4569</integer>
+					<key>Track ID</key><integer>4594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4581</integer>
+					<key>Track ID</key><integer>4606</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4585</integer>
+					<key>Track ID</key><integer>4610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4571</integer>
+					<key>Track ID</key><integer>4596</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4573</integer>
+					<key>Track ID</key><integer>4598</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4579</integer>
+					<key>Track ID</key><integer>4604</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4575</integer>
+					<key>Track ID</key><integer>4600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4587</integer>
+					<key>Track ID</key><integer>4612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7565</integer>
+					<key>Track ID</key><integer>7590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4613</integer>
+					<key>Track ID</key><integer>4638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4615</integer>
+					<key>Track ID</key><integer>4640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4621</integer>
+					<key>Track ID</key><integer>4646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4623</integer>
+					<key>Track ID</key><integer>4648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4631</integer>
+					<key>Track ID</key><integer>4656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4627</integer>
+					<key>Track ID</key><integer>4652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4633</integer>
+					<key>Track ID</key><integer>4658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4641</integer>
+					<key>Track ID</key><integer>4666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4535</integer>
+					<key>Track ID</key><integer>4560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4539</integer>
+					<key>Track ID</key><integer>4564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4545</integer>
+					<key>Track ID</key><integer>4570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4643</integer>
+					<key>Track ID</key><integer>4668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4527</integer>
+					<key>Track ID</key><integer>4552</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4533</integer>
+					<key>Track ID</key><integer>4558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10869</integer>
+					<key>Track ID</key><integer>10894</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4635</integer>
+					<key>Track ID</key><integer>4660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11559</integer>
+					<key>Track ID</key><integer>11584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14839</integer>
+					<key>Track ID</key><integer>14756</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12113</integer>
+					<key>Track ID</key><integer>12138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14841</integer>
+					<key>Track ID</key><integer>14758</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14845</integer>
+					<key>Track ID</key><integer>14762</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28041</integer>
+					<key>Track ID</key><integer>27872</integer>
 				</dict>
 			</array>
 		</dict>
