@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:48:35Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:24:20Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7572</key>
+		<key>8054</key>
 		<dict>
-			<key>Track ID</key><integer>7572</integer>
+			<key>Track ID</key><integer>8054</integer>
 			<key>Name</key><string>MALVAS</string>
 			<key>Artist</key><string>Leo Rizzi &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Leo Rizzi &#38; Paty Cantú</string>
@@ -44,13 +44,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DCCD2526EA2C50CF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Leo%20Rizzi%20&#38;%20Paty%20Cant%C3%BA/MALVAS%20-%20Single/01%20MALVAS.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Leo%20Rizzi%20&#38;%20Paty%20Cant%C3%BA/MALVAS%20-%20Single/01%20MALVAS.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8098</key>
+		<key>8580</key>
 		<dict>
-			<key>Track ID</key><integer>8098</integer>
+			<key>Track ID</key><integer>8580</integer>
 			<key>Name</key><string>En El Alma</string>
 			<key>Artist</key><string>Motel &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Motel &#38; Paty Cantú</string>
@@ -80,13 +80,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9A0B5AE6B624D1A0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Motel%20&#38;%20Paty%20Cant%C3%BA/En%20el%20Alma%20-%20Single/01%20En%20El%20Alma.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Motel%20&#38;%20Paty%20Cant%C3%BA/En%20el%20Alma%20-%20Single/01%20En%20El%20Alma.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8984</key>
+		<key>9466</key>
 		<dict>
-			<key>Track ID</key><integer>8984</integer>
+			<key>Track ID</key><integer>9466</integer>
 			<key>Name</key><string>Vete</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -118,13 +118,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BB10BF243195B525</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/04%20Vete.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/04%20Vete.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8986</key>
+		<key>9468</key>
 		<dict>
-			<key>Track ID</key><integer>8986</integer>
+			<key>Track ID</key><integer>9468</integer>
 			<key>Name</key><string>Vuelve A Respirar</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -145,22 +145,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3850591489</integer>
-			<key>Play Date UTC</key><date>2026-01-07T06:44:49Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3859034858</integer>
+			<key>Play Date UTC</key><date>2026-04-14T23:07:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4323</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E6EFE26C70B27B10</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/05%20Vuelve%20A%20Respirar.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/05%20Vuelve%20A%20Respirar.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8994</key>
+		<key>9476</key>
 		<dict>
-			<key>Track ID</key><integer>8994</integer>
+			<key>Track ID</key><integer>9476</integer>
 			<key>Name</key><string>Cuervo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -181,22 +181,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852097429</integer>
-			<key>Play Date UTC</key><date>2026-01-24T17:03:49Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859215392</integer>
+			<key>Play Date UTC</key><date>2026-04-17T01:16:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7801</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F6DE186CF62B3EED</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/09%20Cuervo.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/%23333%20(Edici%C3%B3n%20Deluxe)/09%20Cuervo.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9024</key>
+		<key>9506</key>
 		<dict>
-			<key>Track ID</key><integer>9024</integer>
+			<key>Track ID</key><integer>9506</integer>
 			<key>Name</key><string>Afortunadamente No Eres Tú</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -226,13 +226,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>270E3C34150113C3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/01%20Afortunadamente%20No%20Eres%20T%C3%BA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/01%20Afortunadamente%20No%20Eres%20T%C3%BA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9026</key>
+		<key>9508</key>
 		<dict>
-			<key>Track ID</key><integer>9026</integer>
+			<key>Track ID</key><integer>9508</integer>
 			<key>Name</key><string>Goma de Mascar</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -262,13 +262,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9C91AAE59D7DF15E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/02%20Goma%20de%20Mascar.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/02%20Goma%20de%20Mascar.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9028</key>
+		<key>9510</key>
 		<dict>
-			<key>Track ID</key><integer>9028</integer>
+			<key>Track ID</key><integer>9510</integer>
 			<key>Name</key><string>Clavo Que Saca Otro Clavo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -298,13 +298,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>17E547123EAD564E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/03%20Clavo%20Que%20Saca%20Otro%20Clavo.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/03%20Clavo%20Que%20Saca%20Otro%20Clavo.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9030</key>
+		<key>9512</key>
 		<dict>
-			<key>Track ID</key><integer>9030</integer>
+			<key>Track ID</key><integer>9512</integer>
 			<key>Name</key><string>Se Desintegra el Amor</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -325,22 +325,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3845984561</integer>
-			<key>Play Date UTC</key><date>2025-11-14T23:02:41Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3856772306</integer>
+			<key>Play Date UTC</key><date>2026-03-19T19:38:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>1445</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B25842EEC1FBB8B3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/04%20Se%20Desintegra%20el%20Amor.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/04%20Se%20Desintegra%20el%20Amor.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9032</key>
+		<key>9514</key>
 		<dict>
-			<key>Track ID</key><integer>9032</integer>
+			<key>Track ID</key><integer>9514</integer>
 			<key>Name</key><string>Vuelve a Amarme</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -370,13 +370,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>703F644C5BC5B62B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/05%20Vuelve%20a%20Amarme.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/05%20Vuelve%20a%20Amarme.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9050</key>
+		<key>9532</key>
 		<dict>
-			<key>Track ID</key><integer>9050</integer>
+			<key>Track ID</key><integer>9532</integer>
 			<key>Name</key><string>Se Desintegra el Amor</string>
 			<key>Artist</key><string>Paty Cantú feat. Benny Ibarra</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -405,13 +405,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1E5C0BB6A624C4A1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/14%20Se%20Desintegra%20el%20Amor.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Afortunadamente%20No%20Eres%20T%C3%BA%20(Edici%C3%B3n%20Espe/14%20Se%20Desintegra%20el%20Amor.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9058</key>
+		<key>9540</key>
 		<dict>
-			<key>Track ID</key><integer>9058</integer>
+			<key>Track ID</key><integer>9540</integer>
 			<key>Name</key><string>Bancarrota (Soundtrack Cindy La Regia- La Serie)</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -432,9 +432,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3842121163</integer>
-			<key>Play Date UTC</key><date>2025-10-01T04:52:43Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859531465</integer>
+			<key>Play Date UTC</key><date>2026-04-20T17:04:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -442,13 +442,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>612453CC3A709653</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bancarrota%20(Soundtrack%20Cindy%20La%20Regia-%20L/01%20Bancarrota%20(Soundtrack%20Cindy%20La%20R.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bancarrota%20(Soundtrack%20Cindy%20La%20Regia-%20L/01%20Bancarrota%20(Soundtrack%20Cindy%20La%20R.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9060</key>
+		<key>9542</key>
 		<dict>
-			<key>Track ID</key><integer>9060</integer>
+			<key>Track ID</key><integer>9542</integer>
 			<key>Name</key><string>Corazón Bipolar</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -474,18 +474,17 @@
 			<key>Play Date UTC</key><date>2025-10-12T22:01:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5912</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B7C50DF60E4B4BF0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/01%20Coraz%C3%B3n%20Bipolar.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/01%20Coraz%C3%B3n%20Bipolar.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9062</key>
+		<key>9544</key>
 		<dict>
-			<key>Track ID</key><integer>9062</integer>
+			<key>Track ID</key><integer>9544</integer>
 			<key>Name</key><string>Quiero X 2</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -506,23 +505,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3846787122</integer>
-			<key>Play Date UTC</key><date>2025-11-24T05:58:42Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3854439941</integer>
+			<key>Play Date UTC</key><date>2026-02-20T19:45:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6187</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F6241694A69A68A5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/02%20Quiero%20X%202.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/02%20Quiero%20X%202.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9066</key>
+		<key>9548</key>
 		<dict>
-			<key>Track ID</key><integer>9066</integer>
+			<key>Track ID</key><integer>9548</integer>
 			<key>Name</key><string>Manual</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -543,23 +541,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3837186660</integer>
-			<key>Play Date UTC</key><date>2025-08-05T02:11:00Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855022059</integer>
+			<key>Play Date UTC</key><date>2026-02-27T13:27:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4520</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61EF93C23CC0EBAD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/04%20Manual.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/04%20Manual.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9068</key>
+		<key>9550</key>
 		<dict>
-			<key>Track ID</key><integer>9068</integer>
+			<key>Track ID</key><integer>9550</integer>
 			<key>Name</key><string>Hechos No Palabras!</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -585,18 +582,17 @@
 			<key>Play Date UTC</key><date>2026-01-13T22:47:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6933</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6AABFC47F48652A7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/05%20Hechos%20No%20Palabras!.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/05%20Hechos%20No%20Palabras!.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9074</key>
+		<key>9556</key>
 		<dict>
-			<key>Track ID</key><integer>9074</integer>
+			<key>Track ID</key><integer>9556</integer>
 			<key>Name</key><string>Suerte</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -622,18 +618,17 @@
 			<key>Play Date UTC</key><date>2026-01-28T03:16:56Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4966</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>94EC0BBF94DA1516</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/08%20Suerte.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/08%20Suerte.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9078</key>
+		<key>9560</key>
 		<dict>
-			<key>Track ID</key><integer>9078</integer>
+			<key>Track ID</key><integer>9560</integer>
 			<key>Name</key><string>El Sexo Y El Amor</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -659,19 +654,18 @@
 			<key>Play Date UTC</key><date>2025-11-09T21:53:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3867</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Sexo Y El Amor</string>
 			<key>Persistent ID</key><string>82F4A0C7E05C6AAD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/10%20El%20Sexo%20Y%20El%20Amor.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Coraz%C3%B3n%20Bipolar%20(Edici%C3%B3n%20Especial)/10%20El%20Sexo%20Y%20El%20Amor.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9148</key>
+		<key>9630</key>
 		<dict>
-			<key>Track ID</key><integer>9148</integer>
+			<key>Track ID</key><integer>9630</integer>
 			<key>Name</key><string>Funeral 2.0</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -692,9 +686,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3850465021</integer>
-			<key>Play Date UTC</key><date>2026-01-05T19:37:01Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857893720</integer>
+			<key>Play Date UTC</key><date>2026-04-01T19:08:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -702,13 +696,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C0A7A5B3763F4B64</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Funeral%202.0%20-%20Single/01%20Funeral%202.0.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Funeral%202.0%20-%20Single/01%20Funeral%202.0.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9154</key>
+		<key>9636</key>
 		<dict>
-			<key>Track ID</key><integer>9154</integer>
+			<key>Track ID</key><integer>9636</integer>
 			<key>Name</key><string>Hoy No</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -728,9 +722,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3844003225</integer>
-			<key>Play Date UTC</key><date>2025-10-22T23:40:25Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859195093</integer>
+			<key>Play Date UTC</key><date>2026-04-16T19:38:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7013</integer>
@@ -738,13 +732,13 @@
 			<key>Sort Album</key><string>Mexicana</string>
 			<key>Persistent ID</key><string>6EC71C07A988BE7E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/04%20Hoy%20No.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/04%20Hoy%20No.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9158</key>
+		<key>9640</key>
 		<dict>
-			<key>Track ID</key><integer>9158</integer>
+			<key>Track ID</key><integer>9640</integer>
 			<key>Name</key><string>Ansiedad</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -774,13 +768,13 @@
 			<key>Sort Album</key><string>Mexicana</string>
 			<key>Persistent ID</key><string>BE54C0E8C51ABAD8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/07%20Ansiedad.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/07%20Ansiedad.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9162</key>
+		<key>9644</key>
 		<dict>
-			<key>Track ID</key><integer>9162</integer>
+			<key>Track ID</key><integer>9644</integer>
 			<key>Name</key><string>La Otra</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -800,9 +794,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3850407202</integer>
-			<key>Play Date UTC</key><date>2026-01-05T03:33:22Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857223220</integer>
+			<key>Play Date UTC</key><date>2026-03-25T00:53:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -812,13 +806,13 @@
 			<key>Sort Name</key><string>Otra</string>
 			<key>Persistent ID</key><string>989A18F859D1C957</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Otra%20-%20Single/01%20La%20Otra.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Otra%20-%20Single/01%20La%20Otra.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9164</key>
+		<key>9646</key>
 		<dict>
-			<key>Track ID</key><integer>9164</integer>
+			<key>Track ID</key><integer>9646</integer>
 			<key>Name</key><string>Lo Que No Quieres Saber</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -839,9 +833,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3847198233</integer>
-			<key>Play Date UTC</key><date>2025-11-29T00:10:33Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857152231</integer>
+			<key>Play Date UTC</key><date>2026-03-24T05:10:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -852,13 +846,13 @@
 			<key>Sort Name</key><string>Lo Que No Quieres Saber</string>
 			<key>Persistent ID</key><string>457D955CA08B1455</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Lo%20Que%20No%20Quieres%20Saber%20-%20Single/01%20Lo%20Que%20No%20Quieres%20Saber.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Lo%20Que%20No%20Quieres%20Saber%20-%20Single/01%20Lo%20Que%20No%20Quieres%20Saber.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9168</key>
+		<key>9650</key>
 		<dict>
-			<key>Track ID</key><integer>9168</integer>
+			<key>Track ID</key><integer>9650</integer>
 			<key>Name</key><string>No Fue Suficiente</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -884,18 +878,17 @@
 			<key>Play Date UTC</key><date>2025-10-18T21:45:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3926</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A9127E7C3830ABA9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/02%20No%20Fue%20Suficiente.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/02%20No%20Fue%20Suficiente.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9170</key>
+		<key>9652</key>
 		<dict>
-			<key>Track ID</key><integer>9170</integer>
+			<key>Track ID</key><integer>9652</integer>
 			<key>Name</key><string>Déjame Ir</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -921,18 +914,17 @@
 			<key>Play Date UTC</key><date>2025-11-12T01:58:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4368</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F965406487CD33EB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/03%20D%C3%A9jame%20Ir.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/03%20D%C3%A9jame%20Ir.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9176</key>
+		<key>9658</key>
 		<dict>
-			<key>Track ID</key><integer>9176</integer>
+			<key>Track ID</key><integer>9658</integer>
 			<key>Name</key><string>Me Quedo Sola</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -953,23 +945,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852042765</integer>
-			<key>Play Date UTC</key><date>2026-01-24T01:52:45Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856357838</integer>
+			<key>Play Date UTC</key><date>2026-03-15T00:30:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3846</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2DD0BA45C7B8A64E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/06%20Me%20Quedo%20Sola.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Me%20Quedo%20Sola/06%20Me%20Quedo%20Sola.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9192</key>
+		<key>9674</key>
 		<dict>
-			<key>Track ID</key><integer>9192</integer>
+			<key>Track ID</key><integer>9674</integer>
 			<key>Name</key><string>Tal Vez</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1000,13 +991,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A30D006B59904F05</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Tal%20Vez%20-%20Single/01%20Tal%20Vez.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Tal%20Vez%20-%20Single/01%20Tal%20Vez.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9196</key>
+		<key>9678</key>
 		<dict>
-			<key>Track ID</key><integer>9196</integer>
+			<key>Track ID</key><integer>9678</integer>
 			<key>Name</key><string>No lo Sé</string>
 			<key>Artist</key><string>Paty Cantú &#38; Arkano</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1027,9 +1018,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3842282019</integer>
-			<key>Play Date UTC</key><date>2025-10-03T01:33:39Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857136367</integer>
+			<key>Play Date UTC</key><date>2026-03-24T00:46:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2938</integer>
@@ -1039,13 +1030,13 @@
 			<key>Sort Name</key><string>No lo Sé</string>
 			<key>Persistent ID</key><string>32AB93FE9CBC74D2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/08%20No%20lo%20S%C3%A9.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/08%20No%20lo%20S%C3%A9.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9204</key>
+		<key>9686</key>
 		<dict>
-			<key>Track ID</key><integer>9204</integer>
+			<key>Track ID</key><integer>9686</integer>
 			<key>Name</key><string>Mírame</string>
 			<key>Artist</key><string>Paty Cantú &#38; Josh Radnor</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1075,13 +1066,13 @@
 			<key>Sort Album</key><string>Mexicana</string>
 			<key>Persistent ID</key><string>5DEB881B68F8124A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/09%20M%C3%ADrame.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/09%20M%C3%ADrame.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9214</key>
+		<key>9696</key>
 		<dict>
-			<key>Track ID</key><integer>9214</integer>
+			<key>Track ID</key><integer>9696</integer>
 			<key>Name</key><string>A Las 3</string>
 			<key>Artist</key><string>Paty Cantú &#38; Leon Leiden</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Leon Leiden</string>
@@ -1112,13 +1103,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E8262A0EBD4EE5F6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Leon%20Leiden/A%20Las%203%20-%20Single/01%20A%20Las%203.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Leon%20Leiden/A%20Las%203%20-%20Single/01%20A%20Las%203.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9216</key>
+		<key>9698</key>
 		<dict>
-			<key>Track ID</key><integer>9216</integer>
+			<key>Track ID</key><integer>9698</integer>
 			<key>Name</key><string>Si Yo Fuera Tú</string>
 			<key>Artist</key><string>Paty Cantú &#38; Maria Becerra</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Maria Becerra</string>
@@ -1147,13 +1138,13 @@
 			<key>Normalization</key><integer>5794</integer>
 			<key>Persistent ID</key><string>F4DBF1C2FD1C3094</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Maria%20Becerra/Si%20Yo%20Fuera%20T%C3%BA%20-%20Single/01%20Si%20Yo%20Fuera%20T%C3%BA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Maria%20Becerra/Si%20Yo%20Fuera%20T%C3%BA%20-%20Single/01%20Si%20Yo%20Fuera%20T%C3%BA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9222</key>
+		<key>9704</key>
 		<dict>
-			<key>Track ID</key><integer>9222</integer>
+			<key>Track ID</key><integer>9704</integer>
 			<key>Name</key><string>Que Pasaría</string>
 			<key>Artist</key><string>Paty Cantú &#38; VADHIR</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; VADHIR</string>
@@ -1173,9 +1164,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3852351016</integer>
-			<key>Play Date UTC</key><date>2026-01-27T15:30:16Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855380193</integer>
+			<key>Play Date UTC</key><date>2026-03-03T16:56:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1183,13 +1174,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D34E062986AC7F3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20VADHIR/Que%20Pasar%C3%ADa%20-%20Single/01%20Que%20Pasar%C3%ADa.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20VADHIR/Que%20Pasar%C3%ADa%20-%20Single/01%20Que%20Pasar%C3%ADa.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9226</key>
+		<key>9708</key>
 		<dict>
-			<key>Track ID</key><integer>9226</integer>
+			<key>Track ID</key><integer>9708</integer>
 			<key>Name</key><string>¿Te Ha Pasado?</string>
 			<key>Artist</key><string>Paty Cantú, Pitizion &#38; Camila Fernández</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1221,13 +1212,13 @@
 			<key>Sort Name</key><string>Te Ha Pasado?</string>
 			<key>Persistent ID</key><string>E5E025FBDA970A43</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/05%20%C2%BFTe%20Ha%20Pasado_.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/La%20Mexicana/05%20%C2%BFTe%20Ha%20Pasado_.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9844</key>
+		<key>10326</key>
 		<dict>
-			<key>Track ID</key><integer>9844</integer>
+			<key>Track ID</key><integer>10326</integer>
 			<key>Name</key><string>Bailando</string>
 			<key>Artist</key><string>Safree &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Safree &#38; Paty Cantú</string>
@@ -1248,9 +1239,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3850469933</integer>
-			<key>Play Date UTC</key><date>2026-01-05T20:58:53Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3855382580</integer>
+			<key>Play Date UTC</key><date>2026-03-03T17:36:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1258,13 +1249,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BD341EAF04241AD7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Safree%20&#38;%20Paty%20Cant%C3%BA/Bailando%20-%20Single/01%20Bailando.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Safree%20&#38;%20Paty%20Cant%C3%BA/Bailando%20-%20Single/01%20Bailando.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12088</key>
+		<key>12570</key>
 		<dict>
-			<key>Track ID</key><integer>12088</integer>
+			<key>Track ID</key><integer>12570</integer>
 			<key>Name</key><string>Al Infiel</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1296,13 +1287,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>56CB9C7BB1E1771B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Al%20Infiel%20-%20Single/01%20Al%20Infiel.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Al%20Infiel%20-%20Single/01%20Al%20Infiel.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12092</key>
+		<key>12574</key>
 		<dict>
-			<key>Track ID</key><integer>12092</integer>
+			<key>Track ID</key><integer>12574</integer>
 			<key>Name</key><string>Chiquita</string>
 			<key>Artist</key><string>Kaia Lana &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Kaia Lana &#38; Paty Cantú</string>
@@ -1325,6 +1316,8 @@
 			<key>Play Count</key><integer>7</integer>
 			<key>Play Date</key><integer>3850455514</integer>
 			<key>Play Date UTC</key><date>2026-01-05T16:58:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-18T22:58:29Z</date>
 			<key>Release Date</key><date>2024-10-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1333,13 +1326,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>818F2D8B07814F75</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kaia%20Lana%20&#38;%20Paty%20Cant%C3%BA/Chiquita%20-%20Single/01%20Chiquita.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Kaia%20Lana%20&#38;%20Paty%20Cant%C3%BA/Chiquita%20-%20Single/01%20Chiquita.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13870</key>
+		<key>14244</key>
 		<dict>
-			<key>Track ID</key><integer>13870</integer>
+			<key>Track ID</key><integer>14244</integer>
 			<key>Name</key><string>El Reloj del Corazón</string>
 			<key>Artist</key><string>Gera MX &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Gera MX &#38; Paty Cantú</string>
@@ -1359,9 +1352,9 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3843120791</integer>
-			<key>Play Date UTC</key><date>2025-10-12T18:33:11Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859036003</integer>
+			<key>Play Date UTC</key><date>2026-04-14T23:26:43Z</date>
 			<key>Release Date</key><date>2024-07-26T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1372,13 +1365,13 @@
 			<key>Sort Name</key><string>Reloj del Corazón</string>
 			<key>Persistent ID</key><string>B84EF9FE70DE09D1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Gera%20MX%20&#38;%20Paty%20Cant%C3%BA/El%20Reloj%20del%20Coraz%C3%B3n%20-%20Single/01%20El%20Reloj%20del%20Coraz%C3%B3n.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Gera%20MX%20&#38;%20Paty%20Cant%C3%BA/El%20Reloj%20del%20Coraz%C3%B3n%20-%20Single/01%20El%20Reloj%20del%20Coraz%C3%B3n.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15506</key>
+		<key>15880</key>
 		<dict>
-			<key>Track ID</key><integer>15506</integer>
+			<key>Track ID</key><integer>15880</integer>
 			<key>Name</key><string>Al Mali (TQM, BB)</string>
 			<key>Artist</key><string>Paty Cantú &#38; El Malilla</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; El Malilla</string>
@@ -1409,13 +1402,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CE033B28B5D0C634</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20El%20Malilla/Al%20Mali%20(TQM,%20BB)%20-%20Single/01%20Al%20Mali%20(TQM,%20BB).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20El%20Malilla/Al%20Mali%20(TQM,%20BB)%20-%20Single/01%20Al%20Mali%20(TQM,%20BB).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18544</key>
+		<key>18918</key>
 		<dict>
-			<key>Track ID</key><integer>18544</integer>
+			<key>Track ID</key><integer>18918</integer>
 			<key>Name</key><string>Libre</string>
 			<key>Artist</key><string>Alvaro Soler feat. Paty Cantú</string>
 			<key>Album Artist</key><string>Alvaro Soler</string>
@@ -1436,9 +1429,9 @@
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3847111726</integer>
-			<key>Play Date UTC</key><date>2025-11-28T00:08:46Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3853268796</integer>
+			<key>Play Date UTC</key><date>2026-02-07T06:26:36Z</date>
 			<key>Release Date</key><date>2016-07-15T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1447,13 +1440,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5BA79B9571628281</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Alvaro%20Soler/Eterno%20Agosto/03%20Libre.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Alvaro%20Soler/Eterno%20Agosto/03%20Libre.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24270</key>
+		<key>24558</key>
 		<dict>
-			<key>Track ID</key><integer>24270</integer>
+			<key>Track ID</key><integer>24558</integer>
 			<key>Name</key><string>Valiente</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1484,13 +1477,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F27BEFDD9C4EB9BE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Valiente%20(Deluxe)%20-%20EP/01%20Valiente.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Valiente%20(Deluxe)%20-%20EP/01%20Valiente.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24280</key>
+		<key>24568</key>
 		<dict>
-			<key>Track ID</key><integer>24280</integer>
+			<key>Track ID</key><integer>24568</integer>
 			<key>Name</key><string>#Natural</string>
 			<key>Artist</key><string>Paty Cantú &#38; Juhn</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Juhn</string>
@@ -1522,13 +1515,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>70DDBD2210613546</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Juhn/%23Natural%20-%20Single/01%20%23Natural.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Juhn/%23Natural%20-%20Single/01%20%23Natural.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24284</key>
+		<key>24572</key>
 		<dict>
-			<key>Track ID</key><integer>24284</integer>
+			<key>Track ID</key><integer>24572</integer>
 			<key>Name</key><string>A Mí Me Gusta</string>
 			<key>Artist</key><string>El Freaky, De La Ghetto &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>El Freaky, De La Ghetto &#38; Paty Cantú</string>
@@ -1549,9 +1542,9 @@
 			<key>Bit Rate</key><integer>338</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3850320662</integer>
-			<key>Play Date UTC</key><date>2026-01-04T03:31:02Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3857135118</integer>
+			<key>Play Date UTC</key><date>2026-03-24T00:25:18Z</date>
 			<key>Release Date</key><date>2019-05-03T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1564,13 +1557,13 @@
 			<key>Sort Name</key><string>Mí Me Gusta</string>
 			<key>Persistent ID</key><string>830C03667F7093AF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/El%20Freaky,%20De%20La%20Ghetto%20&#38;%20Paty%20Cant%C3%BA/A%20M%C3%AD%20Me%20Gusta%20-%20Single/01%20A%20M%C3%AD%20Me%20Gusta.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/El%20Freaky,%20De%20La%20Ghetto%20&#38;%20Paty%20Cant%C3%BA/A%20M%C3%AD%20Me%20Gusta%20-%20Single/01%20A%20M%C3%AD%20Me%20Gusta.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24290</key>
+		<key>24578</key>
 		<dict>
-			<key>Track ID</key><integer>24290</integer>
+			<key>Track ID</key><integer>24578</integer>
 			<key>Name</key><string>Amor, Amor, Amor</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1602,13 +1595,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E3DDEEAF4BB23D18</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Amor,%20Amor,%20Amor%20-%20Single/01%20Amor,%20Amor,%20Amor.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Amor,%20Amor,%20Amor%20-%20Single/01%20Amor,%20Amor,%20Amor.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24294</key>
+		<key>24582</key>
 		<dict>
-			<key>Track ID</key><integer>24294</integer>
+			<key>Track ID</key><integer>24582</integer>
 			<key>Name</key><string>Bailo Sola</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1629,9 +1622,9 @@
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851357640</integer>
-			<key>Play Date UTC</key><date>2026-01-16T03:34:00Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859312143</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:09:03Z</date>
 			<key>Release Date</key><date>2022-06-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1640,13 +1633,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CE585297E37AEA00</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bailo%20Sola%20-%20Single/01%20Bailo%20Sola.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Bailo%20Sola%20-%20Single/01%20Bailo%20Sola.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24296</key>
+		<key>24584</key>
 		<dict>
-			<key>Track ID</key><integer>24296</integer>
+			<key>Track ID</key><integer>24584</integer>
 			<key>Name</key><string>Conocerte</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1667,11 +1660,11 @@
 			<key>Bit Rate</key><integer>329</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852354444</integer>
-			<key>Play Date UTC</key><date>2026-01-27T16:27:24Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2025-03-21T00:19:01Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857234635</integer>
+			<key>Play Date UTC</key><date>2026-03-25T04:03:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-03-14T20:59:12Z</date>
 			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1680,13 +1673,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>10574053EC6478C6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Conocerte%20-%20Single/01%20Conocerte.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Conocerte%20-%20Single/01%20Conocerte.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24302</key>
+		<key>24590</key>
 		<dict>
-			<key>Track ID</key><integer>24302</integer>
+			<key>Track ID</key><integer>24590</integer>
 			<key>Name</key><string>Cuando Vuelvas</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -1718,13 +1711,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>58E2084A6BE58781</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Cuando%20Vuelvas%20-%20Single/01%20Cuando%20Vuelvas.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Cuando%20Vuelvas%20-%20Single/01%20Cuando%20Vuelvas.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24304</key>
+		<key>24592</key>
 		<dict>
-			<key>Track ID</key><integer>24304</integer>
+			<key>Track ID</key><integer>24592</integer>
 			<key>Name</key><string>Cuenta Pendiente</string>
 			<key>Artist</key><string>Paty Cantú feat. Alejandro Sanz</string>
 			<key>Album Artist</key><string>Paty Cantú feat. Alejandro Sanz</string>
@@ -1756,13 +1749,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FBDC92D0AEC96438</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20feat.%20Alejandro%20Sanz/Cuenta%20Pendiente%20-%20Single/01%20Cuenta%20Pendiente.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20feat.%20Alejandro%20Sanz/Cuenta%20Pendiente%20-%20Single/01%20Cuenta%20Pendiente.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24310</key>
+		<key>24598</key>
 		<dict>
-			<key>Track ID</key><integer>24310</integer>
+			<key>Track ID</key><integer>24598</integer>
 			<key>Name</key><string>Déjame Ir</string>
 			<key>Artist</key><string>Paty Cantú &#38; Pablo López</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Pablo López</string>
@@ -1793,13 +1786,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A7B26E5CB5D84359</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Pablo%20L%C3%B3pez/D%C3%A9jame%20Ir%20-%20Single/01%20D%C3%A9jame%20Ir.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Pablo%20L%C3%B3pez/D%C3%A9jame%20Ir%20-%20Single/01%20D%C3%A9jame%20Ir.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24314</key>
+		<key>24602</key>
 		<dict>
-			<key>Track ID</key><integer>24314</integer>
+			<key>Track ID</key><integer>24602</integer>
 			<key>Name</key><string>En Mis Tacones</string>
 			<key>Artist</key><string>Fanny Lu, Paty Cantú &#38; Melanie Pfirrman</string>
 			<key>Album Artist</key><string>Fanny Lu, Paty Cantú &#38; Melanie Pfirrman</string>
@@ -1820,9 +1813,9 @@
 			<key>Bit Rate</key><integer>331</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3843663872</integer>
-			<key>Play Date UTC</key><date>2025-10-19T01:24:32Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857155831</integer>
+			<key>Play Date UTC</key><date>2026-03-24T06:10:31Z</date>
 			<key>Release Date</key><date>2020-07-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1831,13 +1824,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>81CFF8E87BF6CA4D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Fanny%20Lu,%20Paty%20Cant%C3%BA%20&#38;%20Melanie%20Pfirrman/En%20Mis%20Tacones%20-%20Single/01%20En%20Mis%20Tacones.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Fanny%20Lu,%20Paty%20Cant%C3%BA%20&#38;%20Melanie%20Pfirrman/En%20Mis%20Tacones%20-%20Single/01%20En%20Mis%20Tacones.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24316</key>
+		<key>24604</key>
 		<dict>
-			<key>Track ID</key><integer>24316</integer>
+			<key>Track ID</key><integer>24604</integer>
 			<key>Name</key><string>Feliz Breakup</string>
 			<key>Artist</key><string>Paty Cantú, Ximena Sariñana &#38; zzoilo</string>
 			<key>Album Artist</key><string>Paty Cantú, Ximena Sariñana &#38; zzoilo</string>
@@ -1868,13 +1861,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>86127DD14B82AFCF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Ximena%20Sari%C3%B1ana%20&#38;%20zzoilo/Feliz%20Breakup%20-%20Single/01%20Feliz%20Breakup.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Ximena%20Sari%C3%B1ana%20&#38;%20zzoilo/Feliz%20Breakup%20-%20Single/01%20Feliz%20Breakup.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24320</key>
+		<key>24608</key>
 		<dict>
-			<key>Track ID</key><integer>24320</integer>
+			<key>Track ID</key><integer>24608</integer>
 			<key>Name</key><string>Guadalajara</string>
 			<key>Artist</key><string>Paty Cantú, Neto Peña &#38; Gera MX</string>
 			<key>Album Artist</key><string>Paty Cantú, Neto Peña &#38; Gera MX</string>
@@ -1894,9 +1887,9 @@
 			<key>Bit Rate</key><integer>335</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3850592724</integer>
-			<key>Play Date UTC</key><date>2026-01-07T07:05:24Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855390817</integer>
+			<key>Play Date UTC</key><date>2026-03-03T19:53:37Z</date>
 			<key>Release Date</key><date>2022-07-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1905,13 +1898,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E4678F2E7CD758DE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Neto%20Pe%C3%B1a%20&#38;%20Gera%20MX/Guadalajara%20-%20Single/01%20Guadalajara.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA,%20Neto%20Pe%C3%B1a%20&#38;%20Gera%20MX/Guadalajara%20-%20Single/01%20Guadalajara.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24324</key>
+		<key>24612</key>
 		<dict>
-			<key>Track ID</key><integer>24324</integer>
+			<key>Track ID</key><integer>24612</integer>
 			<key>Name</key><string>La Mentirosa</string>
 			<key>Artist</key><string>Luis Fonsi &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Luis Fonsi &#38; Paty Cantú</string>
@@ -1932,9 +1925,11 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3846402836</integer>
-			<key>Play Date UTC</key><date>2025-11-19T19:13:56Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855023727</integer>
+			<key>Play Date UTC</key><date>2026-02-27T13:55:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-19T21:21:01Z</date>
 			<key>Release Date</key><date>2020-08-25T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1945,13 +1940,13 @@
 			<key>Sort Name</key><string>Mentirosa</string>
 			<key>Persistent ID</key><string>88B5F640F6313578</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Luis%20Fonsi%20&#38;%20Paty%20Cant%C3%BA/La%20Mentirosa%20-%20Single/01%20La%20Mentirosa.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Luis%20Fonsi%20&#38;%20Paty%20Cant%C3%BA/La%20Mentirosa%20-%20Single/01%20La%20Mentirosa.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24326</key>
+		<key>24614</key>
 		<dict>
-			<key>Track ID</key><integer>24326</integer>
+			<key>Track ID</key><integer>24614</integer>
 			<key>Name</key><string>La Mexicana</string>
 			<key>Artist</key><string>Paty Cantú &#38; Hispana</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Hispana</string>
@@ -1985,13 +1980,13 @@
 			<key>Sort Name</key><string>Mexicana</string>
 			<key>Persistent ID</key><string>2812A9EFFCB6F16D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Hispana/La%20Mexicana%20-%20Single/01%20La%20Mexicana.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Hispana/La%20Mexicana%20-%20Single/01%20La%20Mexicana.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24328</key>
+		<key>24616</key>
 		<dict>
-			<key>Track ID</key><integer>24328</integer>
+			<key>Track ID</key><integer>24616</integer>
 			<key>Name</key><string>Llévame Contigo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2011,9 +2006,9 @@
 			<key>Bit Rate</key><integer>316</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3844096238</integer>
-			<key>Play Date UTC</key><date>2025-10-24T01:30:38Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859200219</integer>
+			<key>Play Date UTC</key><date>2026-04-16T21:03:39Z</date>
 			<key>Release Date</key><date>2020-04-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2022,13 +2017,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AD0867C392DCCB8E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Ll%C3%A9vame%20Contigo%20-%20Single/01%20Ll%C3%A9vame%20Contigo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Ll%C3%A9vame%20Contigo%20-%20Single/01%20Ll%C3%A9vame%20Contigo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24330</key>
+		<key>24618</key>
 		<dict>
-			<key>Track ID</key><integer>24330</integer>
+			<key>Track ID</key><integer>24618</integer>
 			<key>Name</key><string>Mariposas</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2049,9 +2044,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3852554967</integer>
-			<key>Play Date UTC</key><date>2026-01-30T00:09:27Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859035798</integer>
+			<key>Play Date UTC</key><date>2026-04-14T23:23:18Z</date>
 			<key>Release Date</key><date>2018-05-25T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2060,13 +2055,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>20FE16439D0CE497</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mariposas%20-%20Single/01%20Mariposas.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mariposas%20-%20Single/01%20Mariposas.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24332</key>
+		<key>24620</key>
 		<dict>
-			<key>Track ID</key><integer>24332</integer>
+			<key>Track ID</key><integer>24620</integer>
 			<key>Name</key><string>Mi Película</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2098,13 +2093,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E488BD316841A971</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mi%20Pel%C3%ADcula%20-%20Single/01%20Mi%20Pel%C3%ADcula.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Mi%20Pel%C3%ADcula%20-%20Single/01%20Mi%20Pel%C3%ADcula.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24334</key>
+		<key>24622</key>
 		<dict>
-			<key>Track ID</key><integer>24334</integer>
+			<key>Track ID</key><integer>24622</integer>
 			<key>Name</key><string>Miento</string>
 			<key>Artist</key><string>Paty Cantú &#38; Jesse Baez</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Jesse Baez</string>
@@ -2125,9 +2120,9 @@
 			<key>Bit Rate</key><integer>333</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851969856</integer>
-			<key>Play Date UTC</key><date>2026-01-23T05:37:36Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855728188</integer>
+			<key>Play Date UTC</key><date>2026-03-07T17:36:28Z</date>
 			<key>Release Date</key><date>2018-03-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2136,13 +2131,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AB83CF873DC85FC9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Jesse%20Baez/Miento%20-%20Single/01%20Miento.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Jesse%20Baez/Miento%20-%20Single/01%20Miento.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24338</key>
+		<key>24626</key>
 		<dict>
-			<key>Track ID</key><integer>24338</integer>
+			<key>Track ID</key><integer>24626</integer>
 			<key>Name</key><string>No Hacemos Nada</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2163,9 +2158,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3850335204</integer>
-			<key>Play Date UTC</key><date>2026-01-04T07:33:24Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3857122394</integer>
+			<key>Play Date UTC</key><date>2026-03-23T20:53:14Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-03-06T22:23:37Z</date>
 			<key>Release Date</key><date>2020-06-12T12:00:00Z</date>
@@ -2176,13 +2171,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5B682F8BBDCEC897</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/No%20Hacemos%20Nada%20-%20Single/01%20No%20Hacemos%20Nada.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/No%20Hacemos%20Nada%20-%20Single/01%20No%20Hacemos%20Nada.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24340</key>
+		<key>24628</key>
 		<dict>
-			<key>Track ID</key><integer>24340</integer>
+			<key>Track ID</key><integer>24628</integer>
 			<key>Name</key><string>Odiarte</string>
 			<key>Artist</key><string>Paty Cantú &#38; Lasso</string>
 			<key>Album Artist</key><string>Paty Cantú &#38; Lasso</string>
@@ -2214,13 +2209,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A2EEE043ACB0BB85</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Lasso/Odiarte%20-%20Single/01%20Odiarte.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA%20&#38;%20Lasso/Odiarte%20-%20Single/01%20Odiarte.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24344</key>
+		<key>24632</key>
 		<dict>
-			<key>Track ID</key><integer>24344</integer>
+			<key>Track ID</key><integer>24632</integer>
 			<key>Name</key><string>Rompo Contigo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2252,13 +2247,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>73466F01CBF97B38</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Rompo%20Contigo%20-%20Single/01%20Rompo%20Contigo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Rompo%20Contigo%20-%20Single/01%20Rompo%20Contigo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24346</key>
+		<key>24634</key>
 		<dict>
-			<key>Track ID</key><integer>24346</integer>
+			<key>Track ID</key><integer>24634</integer>
 			<key>Name</key><string>Sueños Lastimados</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2289,13 +2284,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4E70657BF1A5DCEE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sue%C3%B1os%20Lastimados%20-%20Single/01%20Sue%C3%B1os%20Lastimados.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sue%C3%B1os%20Lastimados%20-%20Single/01%20Sue%C3%B1os%20Lastimados.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24806</key>
+		<key>25094</key>
 		<dict>
-			<key>Track ID</key><integer>24806</integer>
+			<key>Track ID</key><integer>25094</integer>
 			<key>Name</key><string>A la de Lu</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2326,13 +2321,13 @@
 			<key>Sort Name</key><string>la de Lu</string>
 			<key>Persistent ID</key><string>809D3F1A7D75DE5F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/01%20A%20la%20de%20Lu.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/01%20A%20la%20de%20Lu.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24810</key>
+		<key>25098</key>
 		<dict>
-			<key>Track ID</key><integer>24810</integer>
+			<key>Track ID</key><integer>25098</integer>
 			<key>Name</key><string>Al Voluntario</string>
 			<key>Artist</key><string>Paty Cantú &#38; José Madero</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2352,9 +2347,9 @@
 			<key>Bit Rate</key><integer>335</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3852360878</integer>
-			<key>Play Date UTC</key><date>2026-01-27T18:14:38Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3857404415</integer>
+			<key>Play Date UTC</key><date>2026-03-27T03:13:35Z</date>
 			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2362,13 +2357,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DB744BC22E7999BA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/03%20Al%20Voluntario.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/03%20Al%20Voluntario.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24814</key>
+		<key>25102</key>
 		<dict>
-			<key>Track ID</key><integer>24814</integer>
+			<key>Track ID</key><integer>25102</integer>
 			<key>Name</key><string>Mudo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2398,13 +2393,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3BA3838297A24C7F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/05%20Mudo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/05%20Mudo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24818</key>
+		<key>25106</key>
 		<dict>
-			<key>Track ID</key><integer>24818</integer>
+			<key>Track ID</key><integer>25106</integer>
 			<key>Name</key><string>Contra El Mundo</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2434,13 +2429,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2707A4232E7A745A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/07%20Contra%20El%20Mundo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/07%20Contra%20El%20Mundo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24828</key>
+		<key>25116</key>
 		<dict>
-			<key>Track ID</key><integer>24828</integer>
+			<key>Track ID</key><integer>25116</integer>
 			<key>Name</key><string>Manifiesto</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2470,13 +2465,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2C634C8DDC4F48F5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/12%20Manifiesto.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/12%20Manifiesto.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24830</key>
+		<key>25118</key>
 		<dict>
-			<key>Track ID</key><integer>24830</integer>
+			<key>Track ID</key><integer>25118</integer>
 			<key>Name</key><string>Ojitos de Mil Colores (A Mi Mami)</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2496,9 +2491,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3845296478</integer>
-			<key>Play Date UTC</key><date>2025-11-06T23:54:38Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858601902</integer>
+			<key>Play Date UTC</key><date>2026-04-09T22:51:42Z</date>
 			<key>Release Date</key><date>2025-03-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2506,13 +2501,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C5C8CAD12698DC45</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/13%20Ojitos%20de%20Mil%20Colores%20(A%20Mi%20Mami).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/Sagitario/13%20Ojitos%20de%20Mil%20Colores%20(A%20Mi%20Mami).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26680</key>
+		<key>26968</key>
 		<dict>
-			<key>Track ID</key><integer>26680</integer>
+			<key>Track ID</key><integer>26968</integer>
 			<key>Name</key><string>Sí, Pero No</string>
 			<key>Artist</key><string>Paty Cantú</string>
 			<key>Album Artist</key><string>Paty Cantú</string>
@@ -2542,13 +2537,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F295927ED292862B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/S%C3%AD,%20Pero%20No%20-%20Single/01%20S%C3%AD,%20Pero%20No.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Paty%20Cant%C3%BA/S%C3%AD,%20Pero%20No%20-%20Single/01%20S%C3%AD,%20Pero%20No.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33116</key>
+		<key>33398</key>
 		<dict>
-			<key>Track ID</key><integer>33116</integer>
+			<key>Track ID</key><integer>33398</integer>
 			<key>Name</key><string>No Te Atreves A Odiarme</string>
 			<key>Artist</key><string>Dimitri y las brujas &#38; Paty Cantú</string>
 			<key>Album Artist</key><string>Dimitri y las brujas</string>
@@ -2568,9 +2563,9 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850593794</integer>
-			<key>Play Date UTC</key><date>2026-01-07T07:23:14Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857823307</integer>
+			<key>Play Date UTC</key><date>2026-03-31T23:35:07Z</date>
 			<key>Release Date</key><date>2025-10-31T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2579,7 +2574,45 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A47DFB152A5E8D8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dimitri%20y%20las%20brujas/ENTREPUERTAS/07%20No%20Te%20Atreves%20A%20Odiarme.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dimitri%20y%20las%20brujas/ENTREPUERTAS/07%20No%20Te%20Atreves%20A%20Odiarme.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37872</key>
+		<dict>
+			<key>Track ID</key><integer>37872</integer>
+			<key>Name</key><string>Entre tu boca y la mía</string>
+			<key>Artist</key><string>Alex Ubago feat Paty Cantú</string>
+			<key>Album Artist</key><string>Alex Ubago feat Paty Cantú</string>
+			<key>Composer</key><string>Alejandro Martinez de Ubago &#38; C. Brant</string>
+			<key>Album</key><string>Entre tu boca y la mía EP</string>
+			<key>Genre</key><string>Latin pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>57015400</integer>
+			<key>Total Time</key><integer>256523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-03-20T03:58:59Z</date>
+			<key>Date Added</key><date>2026-03-12T05:44:57Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857140950</integer>
+			<key>Play Date UTC</key><date>2026-03-24T02:02:30Z</date>
+			<key>Release Date</key><date>2017-11-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4413</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3963222D0F1F4D36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Alex%20Ubago%20feat%20Paty%20Cant%C3%BA/Entre%20tu%20boca%20y%20la%20m%C3%ADa%20EP/02%20Entre%20tu%20boca%20y%20la%20m%C3%ADa.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -2589,7 +2622,7 @@
 		<dict>
 			<key>Name</key><string>Paty Cantú</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101913</integer>
+			<key>Playlist ID</key><integer>125757</integer>
 			<key>Playlist Persistent ID</key><string>3C08FFAA7BB0CB0C</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -2631,211 +2664,214 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>9168</integer>
+					<key>Track ID</key><integer>9650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9170</integer>
+					<key>Track ID</key><integer>9652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9176</integer>
+					<key>Track ID</key><integer>9658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9024</integer>
+					<key>Track ID</key><integer>9506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9026</integer>
+					<key>Track ID</key><integer>9508</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9028</integer>
+					<key>Track ID</key><integer>9510</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9030</integer>
+					<key>Track ID</key><integer>9512</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9032</integer>
+					<key>Track ID</key><integer>9514</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9050</integer>
+					<key>Track ID</key><integer>9532</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9060</integer>
+					<key>Track ID</key><integer>9542</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9062</integer>
+					<key>Track ID</key><integer>9544</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9066</integer>
+					<key>Track ID</key><integer>9548</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9068</integer>
+					<key>Track ID</key><integer>9550</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9074</integer>
+					<key>Track ID</key><integer>9556</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9078</integer>
+					<key>Track ID</key><integer>9560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24270</integer>
+					<key>Track ID</key><integer>24558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24290</integer>
+					<key>Track ID</key><integer>24578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24344</integer>
+					<key>Track ID</key><integer>24632</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24346</integer>
+					<key>Track ID</key><integer>24634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24280</integer>
+					<key>Track ID</key><integer>24568</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24334</integer>
+					<key>Track ID</key><integer>24622</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24330</integer>
+					<key>Track ID</key><integer>24618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24310</integer>
+					<key>Track ID</key><integer>24598</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24304</integer>
+					<key>Track ID</key><integer>24592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8984</integer>
+					<key>Track ID</key><integer>9466</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8986</integer>
+					<key>Track ID</key><integer>9468</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8994</integer>
+					<key>Track ID</key><integer>9476</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24284</integer>
+					<key>Track ID</key><integer>24572</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24302</integer>
+					<key>Track ID</key><integer>24590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24328</integer>
+					<key>Track ID</key><integer>24616</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24338</integer>
+					<key>Track ID</key><integer>24626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24326</integer>
+					<key>Track ID</key><integer>24614</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24314</integer>
+					<key>Track ID</key><integer>24602</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24324</integer>
+					<key>Track ID</key><integer>24612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24296</integer>
+					<key>Track ID</key><integer>24584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9844</integer>
+					<key>Track ID</key><integer>10326</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24340</integer>
+					<key>Track ID</key><integer>24628</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9154</integer>
+					<key>Track ID</key><integer>9636</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9226</integer>
+					<key>Track ID</key><integer>9708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9158</integer>
+					<key>Track ID</key><integer>9640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9196</integer>
+					<key>Track ID</key><integer>9678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9204</integer>
+					<key>Track ID</key><integer>9686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9216</integer>
+					<key>Track ID</key><integer>9698</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24294</integer>
+					<key>Track ID</key><integer>24582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24320</integer>
+					<key>Track ID</key><integer>24608</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24332</integer>
+					<key>Track ID</key><integer>24620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9222</integer>
+					<key>Track ID</key><integer>9704</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8098</integer>
+					<key>Track ID</key><integer>8580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24316</integer>
+					<key>Track ID</key><integer>24604</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9214</integer>
+					<key>Track ID</key><integer>9696</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9162</integer>
+					<key>Track ID</key><integer>9644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9164</integer>
+					<key>Track ID</key><integer>9646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9058</integer>
+					<key>Track ID</key><integer>9540</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7572</integer>
+					<key>Track ID</key><integer>8054</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9148</integer>
+					<key>Track ID</key><integer>9630</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9192</integer>
+					<key>Track ID</key><integer>9674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13870</integer>
+					<key>Track ID</key><integer>14244</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12092</integer>
+					<key>Track ID</key><integer>12574</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12088</integer>
+					<key>Track ID</key><integer>12570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15506</integer>
+					<key>Track ID</key><integer>15880</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24806</integer>
+					<key>Track ID</key><integer>25094</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24810</integer>
+					<key>Track ID</key><integer>25098</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24814</integer>
+					<key>Track ID</key><integer>25102</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24818</integer>
+					<key>Track ID</key><integer>25106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24828</integer>
+					<key>Track ID</key><integer>25116</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24830</integer>
+					<key>Track ID</key><integer>25118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26680</integer>
+					<key>Track ID</key><integer>26968</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18544</integer>
+					<key>Track ID</key><integer>18918</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33116</integer>
+					<key>Track ID</key><integer>33398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37872</integer>
 				</dict>
 			</array>
 		</dict>

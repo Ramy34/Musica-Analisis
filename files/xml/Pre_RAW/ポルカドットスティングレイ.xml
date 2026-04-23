@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-04-23T00:26:34Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12392</key>
+		<dict>
+			<key>Track ID</key><integer>12392</integer>
+			<key>Name</key><string>キメラ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>キメラ</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7625649</integer>
+			<key>Total Time</key><integer>186070</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-03-23T22:25:03Z</date>
+			<key>Date Added</key><date>2025-01-15T21:39:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856961128</integer>
+			<key>Play Date UTC</key><date>2026-03-22T00:05:28Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5460</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>462E85E1546DE5A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%82%AD%E3%83%A1%E3%83%A9/01%20%E3%82%AD%E3%83%A1%E3%83%A9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12478</key>
+		<dict>
+			<key>Track ID</key><integer>12478</integer>
+			<key>Name</key><string>ゴーストダイブ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>ゴーストダイブ</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8061809</integer>
+			<key>Total Time</key><integer>198060</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>129</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:59Z</date>
+			<key>Date Added</key><date>2025-01-16T00:00:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3850476528</integer>
+			<key>Play Date UTC</key><date>2026-01-05T22:48:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5622</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CE65D50C2C536BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%80%E3%82%A4%E3%83%96/01%20%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%80%E3%82%A4%E3%83%96.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12506</key>
+		<dict>
+			<key>Track ID</key><integer>12506</integer>
+			<key>Name</key><string>アウト</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>アウト</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8152236</integer>
+			<key>Total Time</key><integer>199053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-03-23T22:25:02Z</date>
+			<key>Date Added</key><date>2025-01-16T00:09:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857227791</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:09:51Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15701</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19F7AD68B4B522B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%82%A2%E3%82%A6%E3%83%88/01%20%E3%82%A2%E3%82%A6%E3%83%88.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13314</key>
+		<dict>
+			<key>Track ID</key><integer>13314</integer>
+			<key>Name</key><string>テレキャスター・ストライプ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>テレキャスター・ストライプ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9711824</integer>
+			<key>Total Time</key><integer>233175</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:32Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:39Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856936227</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:10:27Z</date>
+			<key>Release Date</key><date>2016-03-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10534</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F52F77125A88F069</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%86%E3%83%AC%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97%20-%20Single/01%20%E3%83%86%E3%83%AC%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%97.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13318</key>
+		<dict>
+			<key>Track ID</key><integer>13318</integer>
+			<key>Name</key><string>ポルカドット・スティングレイ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>極彩 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10749340</integer>
+			<key>Total Time</key><integer>260110</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:28Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:39Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857404879</integer>
+			<key>Play Date UTC</key><date>2026-03-27T03:21:19Z</date>
+			<key>Release Date</key><date>2015-06-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10271</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3AE01FD648A9F888</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%A5%B5%E5%BD%A9%20-%20Single/01%20%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13328</key>
+		<dict>
+			<key>Track ID</key><integer>13328</integer>
+			<key>Name</key><string>黄昏サイキック</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>極彩 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10459392</integer>
+			<key>Total Time</key><integer>251008</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:29Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:39Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856935788</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:03:08Z</date>
+			<key>Release Date</key><date>2015-06-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6781</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7ABF211CBD4A0FF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%A5%B5%E5%BD%A9%20-%20Single/02%20%E9%BB%84%E6%98%8F%E3%82%B5%E3%82%A4%E3%82%AD%E3%83%83%E3%82%AF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13338</key>
+		<dict>
+			<key>Track ID</key><integer>13338</integer>
+			<key>Name</key><string>夜明けのオレンジ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>極彩 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8540980</integer>
+			<key>Total Time</key><integer>205357</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>83</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:30Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856935993</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:06:33Z</date>
+			<key>Release Date</key><date>2015-06-13T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5738</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7895DFF78AE034E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%A5%B5%E5%BD%A9%20-%20Single/03%20%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%AE%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13358</key>
+		<dict>
+			<key>Track ID</key><integer>13358</integer>
+			<key>Name</key><string>リスミー</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>有頂天</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>13926703</integer>
+			<key>Total Time</key><integer>343632</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>82</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:42Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856949279</integer>
+			<key>Play Date UTC</key><date>2026-03-21T20:47:59Z</date>
+			<key>Release Date</key><date>2018-05-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4447</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D691E500C1E7C14B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%9C%89%E9%A0%82%E5%A4%A9/06%20%E3%83%AA%E3%82%B9%E3%83%9F%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13366</key>
+		<dict>
+			<key>Track ID</key><integer>13366</integer>
+			<key>Name</key><string>大脱走</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>有頂天</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9725783</integer>
+			<key>Total Time</key><integer>237308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:44Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858592498</integer>
+			<key>Play Date UTC</key><date>2026-04-09T20:14:58Z</date>
+			<key>Release Date</key><date>2019-02-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8074</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F66C6130DBE90F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%9C%89%E9%A0%82%E5%A4%A9/07%20%E5%A4%A7%E8%84%B1%E8%B5%B0.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13370</key>
+		<dict>
+			<key>Track ID</key><integer>13370</integer>
+			<key>Name</key><string>SURF</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>踊る様に</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8038691</integer>
+			<key>Total Time</key><integer>196626</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>175</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:56Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856959299</integer>
+			<key>Play Date UTC</key><date>2026-03-21T23:34:59Z</date>
+			<key>Release Date</key><date>2022-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4986</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>643401545F063F11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E8%B8%8A%E3%82%8B%E6%A7%98%E3%81%AB/07%20SURF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13374</key>
+		<dict>
+			<key>Track ID</key><integer>13374</integer>
+			<key>Name</key><string>顔も覚えてない</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>全知全能</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8008616</integer>
+			<key>Total Time</key><integer>196441</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>102</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:39Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856938982</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:56:22Z</date>
+			<key>Release Date</key><date>2017-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10753</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91977E1F19D4F55B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%85%A8%E7%9F%A5%E5%85%A8%E8%83%BD/08%20%E9%A1%94%E3%82%82%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%AA%E3%81%84.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13380</key>
+		<dict>
+			<key>Track ID</key><integer>13380</integer>
+			<key>Name</key><string>7</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>有頂天</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9631639</integer>
+			<key>Total Time</key><integer>231549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:45Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>328</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856950041</integer>
+			<key>Play Date UTC</key><date>2026-03-21T21:00:41Z</date>
+			<key>Release Date</key><date>2019-02-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4883</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>59D42F9E655847DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%9C%89%E9%A0%82%E5%A4%A9/09%207.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13390</key>
+		<dict>
+			<key>Track ID</key><integer>13390</integer>
+			<key>Name</key><string>ストップ・モーション</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>何者</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8367920</integer>
+			<key>Total Time</key><integer>199645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:52Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856957015</integer>
+			<key>Play Date UTC</key><date>2026-03-21T22:56:55Z</date>
+			<key>Release Date</key><date>2020-12-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4624</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F797F05242F846CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E4%BD%95%E8%80%85/10%20%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13410</key>
+		<dict>
+			<key>Track ID</key><integer>13410</integer>
+			<key>Name</key><string>リドー</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>踊る様に</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9083942</integer>
+			<key>Total Time</key><integer>221263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>180</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:57Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857223587</integer>
+			<key>Play Date UTC</key><date>2026-03-25T00:59:47Z</date>
+			<key>Release Date</key><date>2022-08-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8139</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A399E89436B366C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E8%B8%8A%E3%82%8B%E6%A7%98%E3%81%AB/12%20%E3%83%AA%E3%83%89%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13412</key>
+		<dict>
+			<key>Track ID</key><integer>13412</integer>
+			<key>Name</key><string>何者</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>何者</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10981941</integer>
+			<key>Total Time</key><integer>271743</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:53Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3856957288</integer>
+			<key>Play Date UTC</key><date>2026-03-21T23:01:28Z</date>
+			<key>Release Date</key><date>2020-12-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5266</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1A6A1CCAC2575681</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E4%BD%95%E8%80%85/13%20%E4%BD%95%E8%80%85.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13420</key>
+		<dict>
+			<key>Track ID</key><integer>13420</integer>
+			<key>Name</key><string>odoru yo-ni</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>踊る様に</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6972685</integer>
+			<key>Total Time</key><integer>168000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:58Z</date>
+			<key>Date Added</key><date>2025-01-17T03:29:40Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857229677</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:41:17Z</date>
+			<key>Release Date</key><date>2022-09-07T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1519</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E3D0FE06170347D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E8%B8%8A%E3%82%8B%E6%A7%98%E3%81%AB/14%20odoru%20yo-ni.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13426</key>
+		<dict>
+			<key>Track ID</key><integer>13426</integer>
+			<key>Name</key><string>エレクトリック・パブリック</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>大正義 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8972865</integer>
+			<key>Total Time</key><integer>216085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:35Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3856937191</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:26:31Z</date>
+			<key>Release Date</key><date>2017-04-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9871</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3901E7F11E563307</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%A4%A7%E6%AD%A3%E7%BE%A9%20-%20EP/01%20%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13428</key>
+		<dict>
+			<key>Track ID</key><integer>13428</integer>
+			<key>Name</key><string>ミドリ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>大正義 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10099502</integer>
+			<key>Total Time</key><integer>243438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:36Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856937434</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:30:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-21T02:07:47Z</date>
+			<key>Release Date</key><date>2017-04-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8275</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DE890DE9DCE15604</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%A4%A7%E6%AD%A3%E7%BE%A9%20-%20EP/02%20%E3%83%9F%E3%83%89%E3%83%AA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13430</key>
+		<dict>
+			<key>Track ID</key><integer>13430</integer>
+			<key>Name</key><string>心ここに在らず</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>骨抜き E.P.</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>12249440</integer>
+			<key>Total Time</key><integer>299769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:33Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856936759</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:19:19Z</date>
+			<key>Release Date</key><date>2016-11-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7515</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B9D29B369EF1C00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%AA%A8%E6%8A%9C%E3%81%8D%20E.P_/02%20%E5%BF%83%E3%81%93%E3%81%93%E3%81%AB%E5%9C%A8%E3%82%89%E3%81%9A.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13432</key>
+		<dict>
+			<key>Track ID</key><integer>13432</integer>
+			<key>Name</key><string>シンクロニシカ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>大正義 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11420442</integer>
+			<key>Total Time</key><integer>278105</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:37Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856937712</integer>
+			<key>Play Date UTC</key><date>2026-03-21T17:35:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-21T02:00:20Z</date>
+			<key>Release Date</key><date>2017-04-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9828</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>005CC3976CFB3882</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%A4%A7%E6%AD%A3%E7%BE%A9%20-%20EP/03%20%E3%82%B7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%B7%E3%82%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13434</key>
+		<dict>
+			<key>Track ID</key><integer>13434</integer>
+			<key>Name</key><string>人魚</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>骨抜き E.P.</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8945564</integer>
+			<key>Total Time</key><integer>215481</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:34Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857401531</integer>
+			<key>Play Date UTC</key><date>2026-03-27T02:25:31Z</date>
+			<key>Release Date</key><date>2016-11-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8526</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F93309CCC7D5677</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%AA%A8%E6%8A%9C%E3%81%8D%20E.P_/03%20%E4%BA%BA%E9%AD%9A.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13436</key>
+		<dict>
+			<key>Track ID</key><integer>13436</integer>
+			<key>Name</key><string>ベニクラゲ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>大正義 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8816527</integer>
+			<key>Total Time</key><integer>217919</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>BPM</key><integer>66</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:38Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:04Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859197710</integer>
+			<key>Play Date UTC</key><date>2026-04-16T20:21:50Z</date>
+			<key>Release Date</key><date>2017-04-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7294</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C37E60370DCD2DA8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%A4%A7%E6%AD%A3%E7%BE%A9%20-%20EP/04%20%E3%83%99%E3%83%8B%E3%82%AF%E3%83%A9%E3%82%B2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13442</key>
+		<dict>
+			<key>Track ID</key><integer>13442</integer>
+			<key>Name</key><string>トゲめくスピカ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>トゲめくスピカ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11330642</integer>
+			<key>Total Time</key><integer>279591</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:49Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:05Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856955218</integer>
+			<key>Play Date UTC</key><date>2026-03-21T22:26:58Z</date>
+			<key>Release Date</key><date>2020-12-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>6884</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B6B0D774372AF0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%88%E3%82%B2%E3%82%81%E3%81%8F%E3%82%B9%E3%83%94%E3%82%AB%20-%20Single/01%20%E3%83%88%E3%82%B2%E3%82%81%E3%81%8F%E3%82%B9%E3%83%94%E3%82%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13446</key>
+		<dict>
+			<key>Track ID</key><integer>13446</integer>
+			<key>Name</key><string>女神</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>女神 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9575909</integer>
+			<key>Total Time</key><integer>235264</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:48Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858251838</integer>
+			<key>Play Date UTC</key><date>2026-04-05T21:37:18Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7651</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34C5172CF54941F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%A5%B3%E7%A5%9E%20-%20Single/01%20%E5%A5%B3%E7%A5%9E.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13450</key>
+		<dict>
+			<key>Track ID</key><integer>13450</integer>
+			<key>Name</key><string>バケノカワ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>バケノカワ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8738991</integer>
+			<key>Total Time</key><integer>213763</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:46Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:05Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856951066</integer>
+			<key>Play Date UTC</key><date>2026-03-21T21:17:46Z</date>
+			<key>Release Date</key><date>2019-06-09T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15630</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBBF8A435732DF5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%90%E3%82%B1%E3%83%8E%E3%82%AB%E3%83%AF%20-%20Single/01%20%E3%83%90%E3%82%B1%E3%83%8E%E3%82%AB%E3%83%AF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13456</key>
+		<dict>
+			<key>Track ID</key><integer>13456</integer>
+			<key>Name</key><string>化身</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>化身 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8028245</integer>
+			<key>Total Time</key><integer>195907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:51Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:06Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856956256</integer>
+			<key>Play Date UTC</key><date>2026-03-21T22:44:16Z</date>
+			<key>Release Date</key><date>2020-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12098</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>18A0F6E875C56B61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E5%8C%96%E8%BA%AB%20-%20Single/01%20%E5%8C%96%E8%BA%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13458</key>
+		<dict>
+			<key>Track ID</key><integer>13458</integer>
+			<key>Name</key><string>ヒミツ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>ヒミツ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9517716</integer>
+			<key>Total Time</key><integer>233685</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>165</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:41Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:06Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856948238</integer>
+			<key>Play Date UTC</key><date>2026-03-21T20:30:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-18T01:30:55Z</date>
+			<key>Release Date</key><date>2018-10-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11210</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4F3B04B62772DDAA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%92%E3%83%9F%E3%83%84%20-%20Single/01%20%E3%83%92%E3%83%9F%E3%83%84.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13478</key>
+		<dict>
+			<key>Track ID</key><integer>13478</integer>
+			<key>Name</key><string>Sp813</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>紫雫</string>
+			<key>Album</key><string>新世紀 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6963953</integer>
+			<key>Total Time</key><integer>175000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>80</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:50Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:07Z</date>
+			<key>Bit Rate</key><integer>312</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856955602</integer>
+			<key>Play Date UTC</key><date>2026-03-21T22:33:22Z</date>
+			<key>Release Date</key><date>2020-01-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8801</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BCB2CDC0027D28ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E6%96%B0%E4%B8%96%E7%B4%80%20-%20EP/02%20Sp813.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13490</key>
+		<dict>
+			<key>Track ID</key><integer>13490</integer>
+			<key>Name</key><string>阿吽</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>ハイパークラクション - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10530889</integer>
+			<key>Total Time</key><integer>258508</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>175</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:47Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:07Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3859300442</integer>
+			<key>Play Date UTC</key><date>2026-04-18T00:54:02Z</date>
+			<key>Release Date</key><date>2019-09-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12189</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE913D0AD1CED18C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20-%20EP/04%20%E9%98%BF%E5%90%BD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13498</key>
+		<dict>
+			<key>Track ID</key><integer>13498</integer>
+			<key>Name</key><string>ICHIDAIJI</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>Shizuku</string>
+			<key>Album</key><string>一大事 - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10768709</integer>
+			<key>Total Time</key><integer>261596</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>142</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:40Z</date>
+			<key>Date Added</key><date>2025-01-17T03:51:07Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856948004</integer>
+			<key>Play Date UTC</key><date>2026-03-21T20:26:44Z</date>
+			<key>Release Date</key><date>2018-04-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12295</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42FBF8D07636F403</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E4%B8%80%E5%A4%A7%E4%BA%8B%20-%20EP/05%20ICHIDAIJI.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13502</key>
+		<dict>
+			<key>Track ID</key><integer>13502</integer>
+			<key>Name</key><string>ツキカゲ</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>ツキカゲ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7857670</integer>
+			<key>Total Time</key><integer>190403</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>74</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:55Z</date>
+			<key>Date Added</key><date>2025-01-17T03:58:11Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856958916</integer>
+			<key>Play Date UTC</key><date>2026-03-21T23:28:36Z</date>
+			<key>Release Date</key><date>2022-08-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1943</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B0A7B07C45492CB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E3%83%84%E3%82%AD%E3%82%AB%E3%82%B2%20-%20Single/01%20%E3%83%84%E3%82%AD%E3%82%AB%E3%82%B2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13508</key>
+		<dict>
+			<key>Track ID</key><integer>13508</integer>
+			<key>Name</key><string>hide and seek</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Composer</key><string>雫</string>
+			<key>Album</key><string>hide and seek - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>5116122</integer>
+			<key>Total Time</key><integer>124000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-03-23T22:24:54Z</date>
+			<key>Date Added</key><date>2025-01-17T03:58:11Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856958537</integer>
+			<key>Play Date UTC</key><date>2026-03-21T23:22:17Z</date>
+			<key>Release Date</key><date>2022-03-19T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5385</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7295B9571EE635E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/hide%20and%20seek%20-%20Single/01%20hide%20and%20seek.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26152</key>
+		<dict>
+			<key>Track ID</key><integer>26152</integer>
+			<key>Name</key><string>魔物</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>魔物 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6048331</integer>
+			<key>Total Time</key><integer>186122</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2026-03-23T22:25:04Z</date>
+			<key>Date Added</key><date>2025-05-12T15:42:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857051136</integer>
+			<key>Play Date UTC</key><date>2026-03-23T01:05:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4263</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>790D86F201C4E3A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%AD%94%E7%89%A9%20-%20Single/01%20%E9%AD%94%E7%89%A9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33742</key>
+		<dict>
+			<key>Track ID</key><integer>33742</integer>
+			<key>Name</key><string>キラーレコード</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>逆鱗</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>49757924</integer>
+			<key>Total Time</key><integer>211000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>143</integer>
+			<key>Date Modified</key><date>2026-03-23T22:25:10Z</date>
+			<key>Date Added</key><date>2025-12-22T17:34:58Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3857052078</integer>
+			<key>Play Date UTC</key><date>2026-03-23T01:21:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>14392</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8400F5477B6CFA6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%80%86%E9%B1%97/09%20%E3%82%AD%E3%83%A9%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>33770</key>
+		<dict>
+			<key>Track ID</key><integer>33770</integer>
+			<key>Name</key><string>Boy Boy</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>逆鱗</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>44756188</integer>
+			<key>Total Time</key><integer>189630</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>133</integer>
+			<key>Date Modified</key><date>2026-03-23T22:25:05Z</date>
+			<key>Date Added</key><date>2025-12-27T00:02:42Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857227592</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:06:32Z</date>
+			<key>Release Date</key><date>2025-12-24T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10484</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2A81771A10984E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%80%86%E9%B1%97/07%20Boy%20Boy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38128</key>
+		<dict>
+			<key>Track ID</key><integer>38128</integer>
+			<key>Name</key><string>天誅</string>
+			<key>Artist</key><string>緑仙 feat. ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>緑仙</string>
+			<key>Album</key><string>パラグラム - EP</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>56126934</integer>
+			<key>Total Time</key><integer>247066</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-03-24T18:54:34Z</date>
+			<key>Date Added</key><date>2026-03-23T21:25:08Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3857126117</integer>
+			<key>Play Date UTC</key><date>2026-03-23T21:55:17Z</date>
+			<key>Release Date</key><date>2023-10-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7104</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0135C1F8346A3C58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E7%B7%91%E4%BB%99/%E3%83%91%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%A0%20-%20EP/03%20%E5%A4%A9%E8%AA%85.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38372</key>
+		<dict>
+			<key>Track ID</key><integer>38372</integer>
+			<key>Name</key><string>逆様</string>
+			<key>Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
+			<key>Album</key><string>逆様 - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>40728127</integer>
+			<key>Total Time</key><integer>171000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-04-09T20:28:40Z</date>
+			<key>Date Added</key><date>2026-04-09T20:13:54Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859210206</integer>
+			<key>Play Date UTC</key><date>2026-04-16T23:50:06Z</date>
+			<key>Release Date</key><date>2026-04-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15940</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A30E71B5FCE740D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9D%E3%83%AB%E3%82%AB%E3%83%89%E3%83%83%E3%83%88%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%AC%E3%82%A4/%E9%80%86%E6%A7%98%20-%20Single/01%20%E9%80%86%E6%A7%98.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ポルカドットスティングレイ</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>126457</integer>
+			<key>Playlist Persistent ID</key><string>A81F6F1F5B33541B</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA35TTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABow3TDrMKswyTDDMMgwuTDGMKMw8zCwMOwwpAAAABkAAAEAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAGQAAAAA
+			AAAAAAAAAAAAAAABAAAAAAAAAG0AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAADgBFAHMAIABsAGkAdgBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABYARQBzACAAYQBjAPoAcwB0AGkAYwBvAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYARgByAG8AbQAg
+			AFQAaABlACAARgBpAHIAcwB0ACAAVABhAGsAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAEUAcwAgAFQAVgAgAFYAZQByAAAADgMA
+			AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABYARQBz
+			ACAAcgBlAHAAZQB0AGkAZABhAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4AAAADgMAAAIAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4ARQBzACAAaQBuAHMAdABy
+			AHUAbQBlAG4AdABhAGw=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13426</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13436</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13366</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13442</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>33742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38372</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

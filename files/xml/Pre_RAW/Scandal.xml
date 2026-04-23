@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-12T05:31:11Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:24:47Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>10039</key>
+		<key>10518</key>
 		<dict>
-			<key>Track ID</key><integer>10039</integer>
+			<key>Track ID</key><integer>10518</integer>
 			<key>Name</key><string>BURN</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -44,13 +44,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0F789B38D7BF2979</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BABY%20ACTION/05%20BURN.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BABY%20ACTION/05%20BURN.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10041</key>
+		<key>10520</key>
 		<dict>
-			<key>Track ID</key><integer>10041</integer>
+			<key>Track ID</key><integer>10520</integer>
 			<key>Name</key><string>アップルたちの伝言</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -80,13 +80,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>664EF5CC6CA0A7D7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BABY%20ACTION/06%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%AE%E4%BC%9D%E8%A8%80.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BABY%20ACTION/06%20%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%81%9F%E3%81%A1%E3%81%AE%E4%BC%9D%E8%A8%80.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10055</key>
+		<key>10534</key>
 		<dict>
-			<key>Track ID</key><integer>10055</integer>
+			<key>Track ID</key><integer>10534</integer>
 			<key>Name</key><string>SCANDAL BABY</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -107,23 +107,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3848051104</integer>
-			<key>Play Date UTC</key><date>2025-12-08T21:05:04Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859288009</integer>
+			<key>Play Date UTC</key><date>2026-04-17T21:26:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13717</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>08341309135C2360</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/01%20SCANDAL%20BABY.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/01%20SCANDAL%20BABY.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10065</key>
+		<key>10544</key>
 		<dict>
-			<key>Track ID</key><integer>10065</integer>
+			<key>Track ID</key><integer>10544</integer>
 			<key>Name</key><string>アナタガマワル</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -144,23 +143,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851172106</integer>
-			<key>Play Date UTC</key><date>2026-01-14T00:01:46Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3857227164</integer>
+			<key>Play Date UTC</key><date>2026-03-25T01:59:24Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11267</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F1F206765341A436</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/06%20%E3%82%A2%E3%83%8A%E3%82%BF%E3%82%AC%E3%83%9E%E3%83%AF%E3%83%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/06%20%E3%82%A2%E3%83%8A%E3%82%BF%E3%82%AC%E3%83%9E%E3%83%AF%E3%83%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10071</key>
+		<key>10550</key>
 		<dict>
-			<key>Track ID</key><integer>10071</integer>
+			<key>Track ID</key><integer>10550</integer>
 			<key>Name</key><string>マボロシナイト</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -186,18 +184,17 @@
 			<key>Play Date UTC</key><date>2026-01-27T04:21:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13515</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>13DFE41EE640EE63</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/09%20%E3%83%9E%E3%83%9C%E3%83%AD%E3%82%B7%E3%83%8A%E3%82%A4%E3%83%88.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/09%20%E3%83%9E%E3%83%9C%E3%83%AD%E3%82%B7%E3%83%8A%E3%82%A4%E3%83%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10075</key>
+		<key>10554</key>
 		<dict>
-			<key>Track ID</key><integer>10075</integer>
+			<key>Track ID</key><integer>10554</integer>
 			<key>Name</key><string>ひとつだけ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -218,23 +215,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853318881</integer>
-			<key>Play Date UTC</key><date>2026-02-07T20:21:21Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855045522</integer>
+			<key>Play Date UTC</key><date>2026-02-27T19:58:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>18114</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EB7D3DCF8042D890</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/11%20%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%A0%E3%81%91.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/11%20%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%A0%E3%81%91.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10079</key>
+		<key>10558</key>
 		<dict>
-			<key>Track ID</key><integer>10079</integer>
+			<key>Track ID</key><integer>10558</integer>
 			<key>Name</key><string>カゲロウ-album mix-</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -255,26 +251,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3853658562</integer>
-			<key>Play Date UTC</key><date>2026-02-11T18:42:42Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859307851</integer>
+			<key>Play Date UTC</key><date>2026-04-18T02:57:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14269</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C79B9B762EABDE56</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/13%20%E3%82%AB%E3%82%B2%E3%83%AD%E3%82%A6-album%20mix-.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/BEST%E2%98%85SCANDAL/13%20%E3%82%AB%E3%82%B2%E3%83%AD%E3%82%A6-album%20mix-.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10081</key>
+		<key>10560</key>
 		<dict>
-			<key>Track ID</key><integer>10081</integer>
+			<key>Track ID</key><integer>10560</integer>
 			<key>Name</key><string>Runners high</string>
 			<key>Artist</key><string>SCANDAL</string>
-			<key>Album Artist</key><string>Various Artists</string>
 			<key>Composer</key><string>Yuichi Tajika</string>
 			<key>Album</key><string>Count ZERO  Runners high 〜戦国BASARA4 EP〜</string>
 			<key>Genre</key><string>J-Pop</string>
@@ -287,7 +281,7 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2014</integer>
 			<key>BPM</key><integer>84</integer>
-			<key>Date Modified</key><date>2026-01-07T18:32:05Z</date>
+			<key>Date Modified</key><date>2026-04-09T21:02:10Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -303,13 +297,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9AD7561D4C269561</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Compilations/Count%20ZERO%20%20Runners%20high%20%E3%80%9C%E6%88%A6%E5%9B%BDBASARA4%20EP%E3%80%9C/02%20Runners%20high.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Compilations/Count%20ZERO%20%20Runners%20high%20%E3%80%9C%E6%88%A6%E5%9B%BDBASARA4%20EP%E3%80%9C/02%20Runners%20high.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10085</key>
+		<key>10564</key>
 		<dict>
-			<key>Track ID</key><integer>10085</integer>
+			<key>Track ID</key><integer>10564</integer>
 			<key>Name</key><string>Departure</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -330,9 +324,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851162016</integer>
-			<key>Play Date UTC</key><date>2026-01-13T21:13:36Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857896571</integer>
+			<key>Play Date UTC</key><date>2026-04-01T19:56:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -340,13 +334,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7E96A7E09391D885</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Departure%20-%20Single/01%20Departure.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Departure%20-%20Single/01%20Departure.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10087</key>
+		<key>10566</key>
 		<dict>
-			<key>Track ID</key><integer>10087</integer>
+			<key>Track ID</key><integer>10566</integer>
 			<key>Name</key><string>Rainy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -377,13 +371,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4FDA7CEBE1B6D447</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Departure%20-%20Single/02%20Rainy.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Departure%20-%20Single/02%20Rainy.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10101</key>
+		<key>10580</key>
 		<dict>
-			<key>Track ID</key><integer>10101</integer>
+			<key>Track ID</key><integer>10580</integer>
 			<key>Name</key><string>星の降る夜に</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -403,23 +397,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3837890066</integer>
-			<key>Play Date UTC</key><date>2025-08-13T05:34:26Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853744604</integer>
+			<key>Play Date UTC</key><date>2026-02-12T18:36:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-20T18:26:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15830</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4D4B9C91C60B94A9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/ENCORE%20SHOW/06%20%E6%98%9F%E3%81%AE%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/ENCORE%20SHOW/06%20%E6%98%9F%E3%81%AE%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10121</key>
+		<key>10600</key>
 		<dict>
-			<key>Track ID</key><integer>10121</integer>
+			<key>Track ID</key><integer>10600</integer>
 			<key>Name</key><string>ハッピーコレクター</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -439,23 +434,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850574634</integer>
-			<key>Play Date UTC</key><date>2026-01-07T02:03:54Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855122042</integer>
+			<key>Play Date UTC</key><date>2026-02-28T17:14:02Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14406</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FD3A1C0CC1D59CA5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/ENCORE%20SHOW/16%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/ENCORE%20SHOW/16%20%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10133</key>
+		<key>10612</key>
 		<dict>
-			<key>Track ID</key><integer>10133</integer>
+			<key>Track ID</key><integer>10612</integer>
 			<key>Name</key><string>Graduation</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -476,23 +470,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3852538079</integer>
-			<key>Play Date UTC</key><date>2026-01-29T19:27:59Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855123157</integer>
+			<key>Play Date UTC</key><date>2026-02-28T17:32:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4933</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F7E27FE4A4902B6C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/05%20Graduation.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/05%20Graduation.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10137</key>
+		<key>10616</key>
 		<dict>
-			<key>Track ID</key><integer>10137</integer>
+			<key>Track ID</key><integer>10616</integer>
 			<key>Name</key><string>お願いナビゲーション</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -518,18 +511,17 @@
 			<key>Play Date UTC</key><date>2026-02-11T07:28:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7064</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D41C7AFE469666C3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/07%20%E3%81%8A%E9%A1%98%E3%81%84%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HELLO%20WORLD/07%20%E3%81%8A%E9%A1%98%E3%81%84%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10151</key>
+		<key>10630</key>
 		<dict>
-			<key>Track ID</key><integer>10151</integer>
+			<key>Track ID</key><integer>10630</integer>
 			<key>Name</key><string>プラットホームシンドローム</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -550,23 +542,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3837848936</integer>
-			<key>Play Date UTC</key><date>2025-08-12T18:08:56Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3854450560</integer>
+			<key>Play Date UTC</key><date>2026-02-20T22:42:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>19966</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>60E86BF6FF25CE25</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/01%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/01%20%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10153</key>
+		<key>10632</key>
 		<dict>
-			<key>Track ID</key><integer>10153</integer>
+			<key>Track ID</key><integer>10632</integer>
 			<key>Name</key><string>OVER</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -587,25 +578,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3846910691</integer>
-			<key>Play Date UTC</key><date>2025-11-25T16:18:11Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3859193830</integer>
+			<key>Play Date UTC</key><date>2026-04-16T19:17:10Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-09-05T23:35:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>18443</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8365760383EAD882</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/02%20OVER.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/02%20OVER.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10167</key>
+		<key>10646</key>
 		<dict>
-			<key>Track ID</key><integer>10167</integer>
+			<key>Track ID</key><integer>10646</integer>
 			<key>Name</key><string>エレクトリックガール</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -626,25 +616,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3847261377</integer>
-			<key>Play Date UTC</key><date>2025-11-29T17:42:57Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859195317</integer>
+			<key>Play Date UTC</key><date>2026-04-16T19:41:57Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-06T22:35:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>18359</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2F384E81C6B719D1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/09%20%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HONEY/09%20%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AC%E3%83%BC%E3%83%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10171</key>
+		<key>10650</key>
 		<dict>
-			<key>Track ID</key><integer>10171</integer>
+			<key>Track ID</key><integer>10650</integer>
 			<key>Name</key><string>Tonight</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -670,18 +659,17 @@
 			<key>Play Date UTC</key><date>2026-01-06T23:02:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8874</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>60F36E015E6DEE77</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/01%20Tonight.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/01%20Tonight.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10181</key>
+		<key>10660</key>
 		<dict>
-			<key>Track ID</key><integer>10181</integer>
+			<key>Track ID</key><integer>10660</integer>
 			<key>Name</key><string>NEON TOWN ESCAPE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -702,24 +690,23 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852440529</integer>
-			<key>Play Date UTC</key><date>2026-01-28T16:22:09Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857542566</integer>
+			<key>Play Date UTC</key><date>2026-03-28T17:36:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6769</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>56709F5B972E28CA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/06%20NEON%20TOWN%20ESCAPE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/06%20NEON%20TOWN%20ESCAPE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10183</key>
+		<key>10662</key>
 		<dict>
-			<key>Track ID</key><integer>10183</integer>
-			<key>Name</key><string>Ceramic Blue</string>
+			<key>Track ID</key><integer>10662</integer>
+			<key>Name</key><string>セラミックブルー</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
 			<key>Composer</key><string>MAMI</string>
@@ -734,7 +721,7 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2020</integer>
 			<key>BPM</key><integer>93</integer>
-			<key>Date Modified</key><date>2026-01-07T16:59:52Z</date>
+			<key>Date Modified</key><date>2026-02-28T04:31:39Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -744,18 +731,17 @@
 			<key>Play Date UTC</key><date>2026-02-07T21:12:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9575</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F723871CBF18505</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/07%20Ceramic%20Blue.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/07%20%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%83%96%E3%83%AB%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10189</key>
+		<key>10668</key>
 		<dict>
-			<key>Track ID</key><integer>10189</integer>
+			<key>Track ID</key><integer>10668</integer>
 			<key>Name</key><string>A.M.D.K.J.</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -781,18 +767,17 @@
 			<key>Play Date UTC</key><date>2026-01-16T04:38:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14703</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>35D5CE44C17CB66A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/10%20A.M.D.K.J..mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/10%20A.M.D.K.J..mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10191</key>
+		<key>10670</key>
 		<dict>
-			<key>Track ID</key><integer>10191</integer>
+			<key>Track ID</key><integer>10670</integer>
 			<key>Name</key><string>月</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -818,18 +803,17 @@
 			<key>Play Date UTC</key><date>2026-01-25T03:53:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4605</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>04C6EFFDB9E8A923</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/11%20%E6%9C%88.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Kiss%20from%20the%20darkness/11%20%E6%9C%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10193</key>
+		<key>10672</key>
 		<dict>
-			<key>Track ID</key><integer>10193</integer>
+			<key>Track ID</key><integer>10672</integer>
 			<key>Name</key><string>Line of Sight</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -850,9 +834,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851880358</integer>
-			<key>Play Date UTC</key><date>2026-01-22T04:45:58Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859210431</integer>
+			<key>Play Date UTC</key><date>2026-04-16T23:53:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -860,13 +844,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>742038B6F65A0D1C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Line%20of%20Sight%20-%20Single/01%20Line%20of%20Sight.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Line%20of%20Sight%20-%20Single/01%20Line%20of%20Sight.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10195</key>
+		<key>10674</key>
 		<dict>
-			<key>Track ID</key><integer>10195</integer>
+			<key>Track ID</key><integer>10674</integer>
 			<key>Name</key><string>Vision</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -897,13 +881,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E6C6F0048413849B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Line%20of%20Sight%20-%20Single/02%20Vision.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Line%20of%20Sight%20-%20Single/02%20Vision.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10197</key>
+		<key>10676</key>
 		<dict>
-			<key>Track ID</key><integer>10197</integer>
+			<key>Track ID</key><integer>10676</integer>
 			<key>Name</key><string>LOVE SURVIVE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -924,22 +908,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3844169267</integer>
-			<key>Play Date UTC</key><date>2025-10-24T21:47:47Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859222386</integer>
+			<key>Play Date UTC</key><date>2026-04-17T03:13:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>12035</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>70E49F6C6095E647</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LOVE%20SURVIVE%20-%20EP/01%20LOVE%20SURVIVE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/LOVE%20SURVIVE%20-%20EP/01%20LOVE%20SURVIVE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10199</key>
+		<key>10678</key>
 		<dict>
-			<key>Track ID</key><integer>10199</integer>
+			<key>Track ID</key><integer>10678</integer>
 			<key>Name</key><string>君に嫉妬中</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -960,22 +944,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852119985</integer>
-			<key>Play Date UTC</key><date>2026-01-24T23:19:45Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858316116</integer>
+			<key>Play Date UTC</key><date>2026-04-06T15:28:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>9119</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4B38223A292E7267</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LOVE%20SURVIVE%20-%20EP/02%20%E5%90%9B%E3%81%AB%E5%AB%89%E5%A6%AC%E4%B8%AD.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/LOVE%20SURVIVE%20-%20EP/02%20%E5%90%9B%E3%81%AB%E5%AB%89%E5%A6%AC%E4%B8%AD.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10205</key>
+		<key>10684</key>
 		<dict>
-			<key>Track ID</key><integer>10205</integer>
+			<key>Track ID</key><integer>10684</integer>
 			<key>Name</key><string>群青pleats</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -996,22 +980,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3844074695</integer>
-			<key>Play Date UTC</key><date>2025-10-23T19:31:35Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3856767657</integer>
+			<key>Play Date UTC</key><date>2026-03-19T18:20:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5194</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1F4566A5A882B80A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/01%20%E7%BE%A4%E9%9D%92pleats.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/01%20%E7%BE%A4%E9%9D%92pleats.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10209</key>
+		<key>10688</key>
 		<dict>
-			<key>Track ID</key><integer>10209</integer>
+			<key>Track ID</key><integer>10688</integer>
 			<key>Name</key><string>私たち</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1032,22 +1016,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850567860</integer>
-			<key>Play Date UTC</key><date>2026-01-07T00:11:00Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3854278696</integer>
+			<key>Play Date UTC</key><date>2026-02-18T22:58:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>8481</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6C7D3152D8275C33</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/03%20%E7%A7%81%E3%81%9F%E3%81%A1.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/03%20%E7%A7%81%E3%81%9F%E3%81%A1.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10221</key>
+		<key>10700</key>
 		<dict>
-			<key>Track ID</key><integer>10221</integer>
+			<key>Track ID</key><integer>10700</integer>
 			<key>Name</key><string>あなたへ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1068,22 +1052,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3847182745</integer>
-			<key>Play Date UTC</key><date>2025-11-28T19:52:25Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857138594</integer>
+			<key>Play Date UTC</key><date>2026-03-24T01:23:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>8591</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>271395010D42F0FA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/09%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/LUMINOUS/09%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10249</key>
+		<key>10728</key>
 		<dict>
-			<key>Track ID</key><integer>10249</integer>
+			<key>Track ID</key><integer>10728</integer>
 			<key>Name</key><string>SCANDAL IN THE HOUSE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1111,18 +1095,17 @@
 			<key>Skip Date</key><date>2026-01-23T05:04:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9258</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9160F06BDEEAEE9B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/OVER%20DRIVE%20-%20Single/02%20SCANDAL%20IN%20THE%20HOUSE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/OVER%20DRIVE%20-%20Single/02%20SCANDAL%20IN%20THE%20HOUSE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10253</key>
+		<key>10732</key>
 		<dict>
-			<key>Track ID</key><integer>10253</integer>
+			<key>Track ID</key><integer>10732</integer>
 			<key>Name</key><string>Pride</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1143,23 +1126,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3841223001</integer>
-			<key>Play Date UTC</key><date>2025-09-20T19:23:21Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858582793</integer>
+			<key>Play Date UTC</key><date>2026-04-09T17:33:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17814</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BC39682B196EF844</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Pride%20-%20EP/01%20Pride.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Pride%20-%20EP/01%20Pride.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10257</key>
+		<key>10736</key>
 		<dict>
-			<key>Track ID</key><integer>10257</integer>
+			<key>Track ID</key><integer>10736</integer>
 			<key>Name</key><string>Emotion</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1185,18 +1167,17 @@
 			<key>Play Date UTC</key><date>2025-12-11T19:08:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13404</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>79C7DC387073E252</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Pride%20-%20EP/03%20Emotion.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Pride%20-%20EP/03%20Emotion.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10267</key>
+		<key>10746</key>
 		<dict>
-			<key>Track ID</key><integer>10267</integer>
+			<key>Track ID</key><integer>10746</integer>
 			<key>Name</key><string>Rock'n Roll</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1217,22 +1198,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3839943203</integer>
-			<key>Play Date UTC</key><date>2025-09-05T23:53:23Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3859302891</integer>
+			<key>Play Date UTC</key><date>2026-04-18T01:34:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>20729</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FBEAA3DA0D291553</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Queens%20are%20trumps%20-%E5%88%87%E3%82%8A%E6%9C%AD%E3%81%AF%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3-/04%20Rock'n%20Roll.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Queens%20are%20trumps%20-%E5%88%87%E3%82%8A%E6%9C%AD%E3%81%AF%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3-/04%20Rock'n%20Roll.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10275</key>
+		<key>10754</key>
 		<dict>
-			<key>Track ID</key><integer>10275</integer>
+			<key>Track ID</key><integer>10754</integer>
 			<key>Name</key><string>Rising Star</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1262,13 +1243,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AAD89207A419207A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Queens%20are%20trumps%20-%E5%88%87%E3%82%8A%E6%9C%AD%E3%81%AF%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3-/08%20Rising%20Star.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Queens%20are%20trumps%20-%E5%88%87%E3%82%8A%E6%9C%AD%E3%81%AF%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3-/08%20Rising%20Star.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10285</key>
+		<key>10764</key>
 		<dict>
-			<key>Track ID</key><integer>10285</integer>
+			<key>Track ID</key><integer>10764</integer>
 			<key>Name</key><string>六本木心中</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1289,24 +1270,23 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852361921</integer>
-			<key>Play Date UTC</key><date>2026-01-27T18:32:01Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3858592261</integer>
+			<key>Play Date UTC</key><date>2026-04-09T20:11:01Z</date>
 			<key>Release Date</key><date>2010-11-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14021</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5A61559E888FD10A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/R-GIRL's%20ROCK!/01%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E5%BF%83%E4%B8%AD.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/R-GIRL's%20ROCK!/01%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E5%BF%83%E4%B8%AD.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10297</key>
+		<key>10776</key>
 		<dict>
-			<key>Track ID</key><integer>10297</integer>
+			<key>Track ID</key><integer>10776</integer>
 			<key>Name</key><string>secret base〜君がくれたもの〜</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1327,24 +1307,23 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3846500493</integer>
-			<key>Play Date UTC</key><date>2025-11-20T22:21:33Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3855738179</integer>
+			<key>Play Date UTC</key><date>2026-03-07T20:22:59Z</date>
 			<key>Release Date</key><date>2010-11-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10861</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D17741CD3CFB228C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/R-GIRL's%20ROCK!/07%20secret%20base%E3%80%9C%E5%90%9B%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%80%9C.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/R-GIRL's%20ROCK!/07%20secret%20base%E3%80%9C%E5%90%9B%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE%E3%80%9C.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10333</key>
+		<key>10812</key>
 		<dict>
-			<key>Track ID</key><integer>10333</integer>
+			<key>Track ID</key><integer>10812</integer>
 			<key>Name</key><string>FREEDOM FIGHTERS</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1365,22 +1344,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3852121155</integer>
-			<key>Play Date UTC</key><date>2026-01-24T23:39:15Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855689325</integer>
+			<key>Play Date UTC</key><date>2026-03-07T06:48:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>14744</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A8322E2E32E20235</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/SCANDAL/18%20FREEDOM%20FIGHTERS.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/SCANDAL/18%20FREEDOM%20FIGHTERS.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10403</key>
+		<key>10882</key>
 		<dict>
-			<key>Track ID</key><integer>10403</integer>
+			<key>Track ID</key><integer>10882</integer>
 			<key>Name</key><string>Spice</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1401,9 +1380,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3853308935</integer>
-			<key>Play Date UTC</key><date>2026-02-07T17:35:35Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857137234</integer>
+			<key>Play Date UTC</key><date>2026-03-24T01:00:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1411,13 +1390,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F4D1383B65C2E6E4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Spice%20-%20Single/01%20Spice.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Spice%20-%20Single/01%20Spice.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10407</key>
+		<key>10886</key>
 		<dict>
-			<key>Track ID</key><integer>10407</integer>
+			<key>Track ID</key><integer>10886</integer>
 			<key>Name</key><string>Flashback No.5</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1438,23 +1417,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3853656861</integer>
-			<key>Play Date UTC</key><date>2026-02-11T18:14:21Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858197524</integer>
+			<key>Play Date UTC</key><date>2026-04-05T07:32:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16726</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9D4234A604D675A2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Stamp!%20-%20Single/02%20Flashback%20No.5.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Stamp!%20-%20Single/02%20Flashback%20No.5.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10411</key>
+		<key>10890</key>
 		<dict>
-			<key>Track ID</key><integer>10411</integer>
+			<key>Track ID</key><integer>10890</integer>
 			<key>Name</key><string>Brand new wave</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1475,25 +1453,24 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3843134230</integer>
-			<key>Play Date UTC</key><date>2025-10-12T22:17:10Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857124702</integer>
+			<key>Play Date UTC</key><date>2026-03-23T21:31:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11054</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>SCANDAL</string>
 			<key>Sort Name</key><string>Brand new wave</string>
 			<key>Persistent ID</key><string>2D01BD86BDD91198</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/01%20Brand%20new%20wave.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/01%20Brand%20new%20wave.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10419</key>
+		<key>10898</key>
 		<dict>
-			<key>Track ID</key><integer>10419</integer>
+			<key>Track ID</key><integer>10898</integer>
 			<key>Name</key><string>メトロノーム</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1519,20 +1496,19 @@
 			<key>Play Date UTC</key><date>2026-01-24T21:44:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17783</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>SCANDAL</string>
 			<key>Sort Name</key><string>メトロノーム</string>
 			<key>Persistent ID</key><string>8B32F4CD6E5E78A6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/05%20%E3%83%A1%E3%83%88%E3%83%AD%E3%83%8E%E3%83%BC%E3%83%A0.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/05%20%E3%83%A1%E3%83%88%E3%83%AD%E3%83%8E%E3%83%BC%E3%83%A0.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10423</key>
+		<key>10902</key>
 		<dict>
-			<key>Track ID</key><integer>10423</integer>
+			<key>Track ID</key><integer>10902</integer>
 			<key>Name</key><string>8月</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1558,25 +1534,24 @@
 			<key>Play Date UTC</key><date>2026-01-07T05:29:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11853</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Artist</key><string>SCANDAL</string>
 			<key>Sort Name</key><string>8月</string>
 			<key>Persistent ID</key><string>0E66243F350B2343</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/07%208%E6%9C%88.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/STANDARD/07%208%E6%9C%88.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10437</key>
+		<key>10916</key>
 		<dict>
-			<key>Track ID</key><integer>10437</integer>
-			<key>Name</key><string>Take Me Out</string>
+			<key>Track ID</key><integer>10916</integer>
+			<key>Name</key><string>テイクミーアウト</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
 			<key>Composer</key><string>Mami</string>
-			<key>Album</key><string>Take Me Out - Single</string>
+			<key>Album</key><string>テイクミーアウト - Single</string>
 			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>7294943</integer>
@@ -1587,7 +1562,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2009</integer>
 			<key>BPM</key><integer>75</integer>
-			<key>Date Modified</key><date>2026-01-07T19:21:57Z</date>
+			<key>Date Modified</key><date>2026-02-17T02:50:15Z</date>
 			<key>Date Added</key><date>2024-09-26T21:01:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -1597,18 +1572,17 @@
 			<key>Play Date UTC</key><date>2025-10-02T03:11:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>22346</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5D77EB42DB7AEA6D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Take%20Me%20Out%20-%20Single/01%20Take%20Me%20Out.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%20-%20Single/01%20%E3%83%86%E3%82%A4%E3%82%AF%E3%83%9F%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10443</key>
+		<key>10922</key>
 		<dict>
-			<key>Track ID</key><integer>10443</integer>
+			<key>Track ID</key><integer>10922</integer>
 			<key>Name</key><string>EVERYBODY SAY YEAH</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1634,18 +1608,17 @@
 			<key>Play Date UTC</key><date>2025-11-06T21:52:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13560</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>93B22F3D25AFCC2F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/TEMPTATION%20BOX/01%20EVERYBODY%20SAY%20YEAH.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/TEMPTATION%20BOX/01%20EVERYBODY%20SAY%20YEAH.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10459</key>
+		<key>10938</key>
 		<dict>
-			<key>Track ID</key><integer>10459</integer>
+			<key>Track ID</key><integer>10938</integer>
 			<key>Name</key><string>プレイボーイPart II</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1666,23 +1639,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3843143890</integer>
-			<key>Play Date UTC</key><date>2025-10-13T00:58:10Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3855305874</integer>
+			<key>Play Date UTC</key><date>2026-03-02T20:17:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>18538</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>75E5445AD7B107A5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/TEMPTATION%20BOX/09%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%A4Part%20II.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/TEMPTATION%20BOX/09%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%9C%E3%83%BC%E3%82%A4Part%20II.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10471</key>
+		<key>10950</key>
 		<dict>
-			<key>Track ID</key><integer>10471</integer>
+			<key>Track ID</key><integer>10950</integer>
 			<key>Name</key><string>LOVE ME DO</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1703,23 +1675,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3840725382</integer>
-			<key>Play Date UTC</key><date>2025-09-15T01:09:42Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3858584175</integer>
+			<key>Play Date UTC</key><date>2026-04-09T17:56:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9562</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6F89F1EAA92568FF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/YELLOW/03%20LOVE%20ME%20DO.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/YELLOW/03%20LOVE%20ME%20DO.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10481</key>
+		<key>10960</key>
 		<dict>
-			<key>Track ID</key><integer>10481</integer>
+			<key>Track ID</key><integer>10960</integer>
 			<key>Name</key><string>SUKI-SUKI</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1745,18 +1716,17 @@
 			<key>Play Date UTC</key><date>2026-01-27T00:11:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15453</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>15E74DDB3B604C96</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/YELLOW/08%20SUKI-SUKI.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/YELLOW/08%20SUKI-SUKI.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10495</key>
+		<key>10974</key>
 		<dict>
-			<key>Track ID</key><integer>10495</integer>
+			<key>Track ID</key><integer>10974</integer>
 			<key>Name</key><string>キミと未来と完全同期</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1777,23 +1747,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3841861832</integer>
-			<key>Play Date UTC</key><date>2025-09-28T04:50:32Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858590181</integer>
+			<key>Play Date UTC</key><date>2026-04-09T19:36:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16300</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FAD8D2066EA19EF6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%B8%8B%E5%BC%A6%E3%81%AE%E6%9C%88%20-%20Single/02%20%E3%82%AD%E3%83%9F%E3%81%A8%E6%9C%AA%E6%9D%A5%E3%81%A8%E5%AE%8C%E5%85%A8%E5%90%8C%E6%9C%9F.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%B8%8B%E5%BC%A6%E3%81%AE%E6%9C%88%20-%20Single/02%20%E3%82%AD%E3%83%9F%E3%81%A8%E6%9C%AA%E6%9D%A5%E3%81%A8%E5%AE%8C%E5%85%A8%E5%90%8C%E6%9C%9F.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10499</key>
+		<key>10978</key>
 		<dict>
-			<key>Track ID</key><integer>10499</integer>
+			<key>Track ID</key><integer>10978</integer>
 			<key>Name</key><string>会わないつもりの、元気でね</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1814,23 +1783,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3841482893</integer>
-			<key>Play Date UTC</key><date>2025-09-23T19:34:53Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859358885</integer>
+			<key>Play Date UTC</key><date>2026-04-18T17:08:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12407</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1AF07C87AA653FDA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD%20-%20Single/01%20%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD%20-%20Single/01%20%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10501</key>
+		<key>10980</key>
 		<dict>
-			<key>Track ID</key><integer>10501</integer>
+			<key>Track ID</key><integer>10980</integer>
 			<key>Name</key><string>24時間プラスの夜明け前</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1851,23 +1819,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850463443</integer>
-			<key>Play Date UTC</key><date>2026-01-05T19:10:43Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3856344639</integer>
+			<key>Play Date UTC</key><date>2026-03-14T20:50:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11089</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>40F14B7553078A2D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD%20-%20Single/02%2024%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E4%BC%9A%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AE%E3%80%81%E5%85%83%E6%B0%97%E3%81%A7%E3%81%AD%20-%20Single/02%2024%E6%99%82%E9%96%93%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>10505</key>
+		<key>10984</key>
 		<dict>
-			<key>Track ID</key><integer>10505</integer>
+			<key>Track ID</key><integer>10984</integer>
 			<key>Name</key><string>涙のリグレット</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1893,18 +1860,17 @@
 			<key>Play Date UTC</key><date>2025-11-15T00:32:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14679</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>97A64082722995CD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E6%B6%99%E3%81%AE%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88%20-%20EP/01%20%E6%B6%99%E3%81%AE%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E6%B6%99%E3%81%AE%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88%20-%20EP/01%20%E6%B6%99%E3%81%AE%E3%83%AA%E3%82%B0%E3%83%AC%E3%83%83%E3%83%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14577</key>
+		<key>15056</key>
 		<dict>
-			<key>Track ID</key><integer>14577</integer>
+			<key>Track ID</key><integer>15056</integer>
 			<key>Name</key><string>SAKURAグッバイ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1931,18 +1897,17 @@
 			<key>Release Date</key><date>2009-03-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16700</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2503CE27EFBB65A8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/SAKURA%20%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%20-%20Single/01%20SAKURA%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/SAKURA%20%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4%20-%20Single/01%20SAKURA%E3%82%B0%E3%83%83%E3%83%90%E3%82%A4.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14579</key>
+		<key>15058</key>
 		<dict>
-			<key>Track ID</key><integer>14579</integer>
+			<key>Track ID</key><integer>15058</integer>
 			<key>Name</key><string>Terra Boy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -1973,13 +1938,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>83E92EB170DFFC37</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Terra%20Boy%20-%20Single/01%20Terra%20Boy.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Terra%20Boy%20-%20Single/01%20Terra%20Boy.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14581</key>
+		<key>15060</key>
 		<dict>
-			<key>Track ID</key><integer>14581</integer>
+			<key>Track ID</key><integer>15060</integer>
 			<key>Name</key><string>ハイライトの中で僕らずっと</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2006,18 +1971,17 @@
 			<key>Release Date</key><date>2023-08-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7636</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3C36C15BD14A1814</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8%20-%20Single/01%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8%20-%20Single/01%20%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%AE%E4%B8%AD%E3%81%A7%E5%83%95%E3%82%89%E3%81%9A%E3%81%A3%E3%81%A8.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14595</key>
+		<key>15074</key>
 		<dict>
-			<key>Track ID</key><integer>14595</integer>
+			<key>Track ID</key><integer>15074</integer>
 			<key>Name</key><string>少女S</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2038,24 +2002,23 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3841340519</integer>
-			<key>Play Date UTC</key><date>2025-09-22T04:01:59Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3858585026</integer>
+			<key>Play Date UTC</key><date>2026-04-09T18:10:26Z</date>
 			<key>Release Date</key><date>2009-06-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9971</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>86AD9A62F22EAA76</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%B0%91%E5%A5%B3S%5B%E5%88%9D%E5%9B%9E%E7%9B%A4A%5D%20-%20EP/01%20%E5%B0%91%E5%A5%B3S.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%B0%91%E5%A5%B3S%5B%E5%88%9D%E5%9B%9E%E7%9B%A4A%5D%20-%20EP/01%20%E5%B0%91%E5%A5%B3S.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14609</key>
+		<key>15088</key>
 		<dict>
-			<key>Track ID</key><integer>14609</integer>
+			<key>Track ID</key><integer>15088</integer>
 			<key>Name</key><string>DAYDREAM</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2076,24 +2039,23 @@
 			<key>Bit Rate</key><integer>313</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3851320261</integer>
-			<key>Play Date UTC</key><date>2026-01-15T17:11:01Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3859361875</integer>
+			<key>Play Date UTC</key><date>2026-04-18T17:57:55Z</date>
 			<key>Release Date</key><date>2009-10-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7239</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C0D8AF258944F25D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%A2%E8%A6%8B%E3%82%8B%E3%81%A4%E3%81%B0%E3%81%95%20-%20EP/03%20DAYDREAM.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%A2%E8%A6%8B%E3%82%8B%E3%81%A4%E3%81%B0%E3%81%95%20-%20EP/03%20DAYDREAM.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14611</key>
+		<key>15090</key>
 		<dict>
-			<key>Track ID</key><integer>14611</integer>
+			<key>Track ID</key><integer>15090</integer>
 			<key>Name</key><string>瞬間センチメンタル</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2120,18 +2082,17 @@
 			<key>Release Date</key><date>2010-02-03T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9046</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C0B7D0ACEF6B2D8C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%20-%20EP/01%20%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%20-%20EP/01%20%E7%9E%AC%E9%96%93%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14625</key>
+		<key>15104</key>
 		<dict>
-			<key>Track ID</key><integer>14625</integer>
+			<key>Track ID</key><integer>15104</integer>
 			<key>Name</key><string>スキャンダルなんかブッ飛ばせ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2158,18 +2119,17 @@
 			<key>Release Date</key><date>2010-10-06T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>19976</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>84ADD37A8E6CE5FA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E3%83%96%E3%83%83%E9%A3%9B%E3%81%B0%E3%81%9B%20-%20Single/01%20%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E3%83%96%E3%83%83%E9%A3%9B%E3%81%B0%E3%81%9B.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E3%83%96%E3%83%83%E9%A3%9B%E3%81%B0%E3%81%9B%20-%20Single/01%20%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%AB%E3%81%AA%E3%82%93%E3%81%8B%E3%83%96%E3%83%83%E9%A3%9B%E3%81%B0%E3%81%9B.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14633</key>
+		<key>15112</key>
 		<dict>
-			<key>Track ID</key><integer>14633</integer>
+			<key>Track ID</key><integer>15112</integer>
 			<key>Name</key><string>How crazy</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>YUI Tribute</string>
@@ -2200,13 +2160,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3F33C74217B8411F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/YUI%20Tribute/SHE%20LOVES%20YOU/01%20How%20crazy.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/YUI%20Tribute/SHE%20LOVES%20YOU/01%20How%20crazy.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14635</key>
+		<key>15114</key>
 		<dict>
-			<key>Track ID</key><integer>14635</integer>
+			<key>Track ID</key><integer>15114</integer>
 			<key>Name</key><string>ハルカ</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2233,18 +2193,17 @@
 			<key>Release Date</key><date>2011-04-20T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8815</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1F553CC082DAEC6B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%8F%E3%83%AB%E3%82%AB%20-%20EP/01%20%E3%83%8F%E3%83%AB%E3%82%AB.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%83%8F%E3%83%AB%E3%82%AB%20-%20EP/01%20%E3%83%8F%E3%83%AB%E3%82%AB.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14639</key>
+		<key>15118</key>
 		<dict>
-			<key>Track ID</key><integer>14639</integer>
+			<key>Track ID</key><integer>15118</integer>
 			<key>Name</key><string>HARUKAZE</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2265,9 +2224,9 @@
 			<key>Bit Rate</key><integer>316</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3840282986</integer>
-			<key>Play Date UTC</key><date>2025-09-09T22:16:26Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856190624</integer>
+			<key>Play Date UTC</key><date>2026-03-13T02:03:44Z</date>
 			<key>Release Date</key><date>2012-02-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2275,13 +2234,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0D3BED75D0C1A8F1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/HARUKAZE%5B%E5%88%9D%E5%9B%9E%E7%9B%A4B%5D%20-%20Single/01%20HARUKAZE.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/HARUKAZE%5B%E5%88%9D%E5%9B%9E%E7%9B%A4B%5D%20-%20Single/01%20HARUKAZE.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14641</key>
+		<key>15120</key>
 		<dict>
-			<key>Track ID</key><integer>14641</integer>
+			<key>Track ID</key><integer>15120</integer>
 			<key>Name</key><string>太陽スキャンダラス</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2302,24 +2261,23 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850497072</integer>
-			<key>Play Date UTC</key><date>2026-01-06T04:31:12Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857540678</integer>
+			<key>Play Date UTC</key><date>2026-03-28T17:04:38Z</date>
 			<key>Release Date</key><date>2009-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13353</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FFB3854C2A65BF9E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9%5B%E5%88%9D%E5%9B%9E%E7%9B%A4A%5D%20-%20Single/01%20%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9%5B%E5%88%9D%E5%9B%9E%E7%9B%A4A%5D%20-%20Single/01%20%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14657</key>
+		<key>15136</key>
 		<dict>
-			<key>Track ID</key><integer>14657</integer>
+			<key>Track ID</key><integer>15136</integer>
 			<key>Name</key><string>Welcome home</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2346,18 +2304,17 @@
 			<key>Release Date</key><date>2012-07-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17372</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>28D649EE7D5DB713</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9%5B%E9%80%9A%E5%B8%B8%E7%9B%A4%5D%20-%20Single/02%20Welcome%20home.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E5%A4%AA%E9%99%BD%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%80%E3%83%A9%E3%82%B9%5B%E9%80%9A%E5%B8%B8%E7%9B%A4%5D%20-%20Single/02%20Welcome%20home.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14659</key>
+		<key>15138</key>
 		<dict>
-			<key>Track ID</key><integer>14659</integer>
+			<key>Track ID</key><integer>15138</integer>
 			<key>Name</key><string>恋するユニバース</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2378,24 +2335,23 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851870152</integer>
-			<key>Play Date UTC</key><date>2026-01-22T01:55:52Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857543559</integer>
+			<key>Play Date UTC</key><date>2026-03-28T17:52:39Z</date>
 			<key>Release Date</key><date>2017-10-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11778</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B32C13C03C5B24EA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E6%81%8B%E3%81%99%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9%20-%20EP/01%20%E6%81%8B%E3%81%99%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E6%81%8B%E3%81%99%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9%20-%20EP/01%20%E6%81%8B%E3%81%99%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17389</key>
+		<key>17868</key>
 		<dict>
-			<key>Track ID</key><integer>17389</integer>
+			<key>Track ID</key><integer>17868</integer>
 			<key>Name</key><string>どうかしてるって</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2426,13 +2382,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D2EC35D3D381D480</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%20-%20Single/01%20%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6%20-%20Single/01%20%E3%81%A9%E3%81%86%E3%81%8B%E3%81%97%E3%81%A6%E3%82%8B%E3%81%A3%E3%81%A6.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34899</key>
+		<key>35372</key>
 		<dict>
-			<key>Track ID</key><integer>34899</integer>
+			<key>Track ID</key><integer>35372</integer>
 			<key>Name</key><string>Girl is Ghost</string>
 			<key>Artist</key><string>SCANDAL</string>
 			<key>Album Artist</key><string>SCANDAL</string>
@@ -2447,7 +2403,7 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2026</integer>
 			<key>BPM</key><integer>134</integer>
-			<key>Date Modified</key><date>2026-01-22T01:58:19Z</date>
+			<key>Date Modified</key><date>2026-04-22T00:57:45Z</date>
 			<key>Date Added</key><date>2026-01-21T19:24:05Z</date>
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -2462,7 +2418,80 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9CA184F6A5AF51C6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/SCANDAL/Girl%20is%20Ghost%20-%20Single/01%20Girl%20is%20Ghost.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/SCANDAL/Girl%20is%20Ghost%20-%20Single/01%20Girl%20is%20Ghost.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35706</key>
+		<dict>
+			<key>Track ID</key><integer>35706</integer>
+			<key>Name</key><string>STORY</string>
+			<key>Artist</key><string>鈴木愛理 feat. SCANDAL</string>
+			<key>Album Artist</key><string>鈴木愛理</string>
+			<key>Album</key><string>Do me a favor</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>53811769</integer>
+			<key>Total Time</key><integer>221889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-03-09T20:59:10Z</date>
+			<key>Date Added</key><date>2026-03-09T18:58:10Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857052756</integer>
+			<key>Play Date UTC</key><date>2026-03-23T01:32:36Z</date>
+			<key>Release Date</key><date>2018-06-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>13037</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54C28F6EA5BF2B11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E9%88%B4%E6%9C%A8%E6%84%9B%E7%90%86/Do%20me%20a%20favor/1-06%20STORY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37994</key>
+		<dict>
+			<key>Track ID</key><integer>37994</integer>
+			<key>Name</key><string>大阪LOVER</string>
+			<key>Artist</key><string>SCANDAL</string>
+			<key>Album</key><string>私とドリカム －DREAMS COME TRUE 25th ANNIVERSARY BEST COVERS－</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>67523339</integer>
+			<key>Total Time</key><integer>282400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-04-09T20:51:37Z</date>
+			<key>Date Added</key><date>2026-03-14T06:19:45Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856333311</integer>
+			<key>Play Date UTC</key><date>2026-03-14T17:41:51Z</date>
+			<key>Release Date</key><date>2014-03-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8742</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>590E5440902214F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Compilations/%E7%A7%81%E3%81%A8%E3%83%89%E3%83%AA%E3%82%AB%E3%83%A0%20%EF%BC%8DDREAMS%20COME%20TRUE%2025th%20ANNIVERSAR/07%20%E5%A4%A7%E9%98%AALOVER.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -2472,7 +2501,7 @@
 		<dict>
 			<key>Name</key><string>Scandal</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>109405</integer>
+			<key>Playlist ID</key><integer>125904</integer>
 			<key>Playlist Persistent ID</key><string>391B149C323E7CE2</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -2517,202 +2546,208 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>10285</integer>
+					<key>Track ID</key><integer>10764</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14577</integer>
+					<key>Track ID</key><integer>15056</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14595</integer>
+					<key>Track ID</key><integer>15074</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14609</integer>
+					<key>Track ID</key><integer>15088</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10055</integer>
+					<key>Track ID</key><integer>10534</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10065</integer>
+					<key>Track ID</key><integer>10544</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10071</integer>
+					<key>Track ID</key><integer>10550</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10075</integer>
+					<key>Track ID</key><integer>10554</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10079</integer>
+					<key>Track ID</key><integer>10558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14611</integer>
+					<key>Track ID</key><integer>15090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10505</integer>
+					<key>Track ID</key><integer>10984</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14633</integer>
+					<key>Track ID</key><integer>15112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10443</integer>
+					<key>Track ID</key><integer>10922</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10459</integer>
+					<key>Track ID</key><integer>10938</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14625</integer>
+					<key>Track ID</key><integer>15104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10253</integer>
+					<key>Track ID</key><integer>10732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10257</integer>
+					<key>Track ID</key><integer>10736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14635</integer>
+					<key>Track ID</key><integer>15114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10197</integer>
+					<key>Track ID</key><integer>10676</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10199</integer>
+					<key>Track ID</key><integer>10678</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10039</integer>
+					<key>Track ID</key><integer>10518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10041</integer>
+					<key>Track ID</key><integer>10520</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14639</integer>
+					<key>Track ID</key><integer>15118</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14641</integer>
+					<key>Track ID</key><integer>15120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14657</integer>
+					<key>Track ID</key><integer>15136</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10267</integer>
+					<key>Track ID</key><integer>10746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10275</integer>
+					<key>Track ID</key><integer>10754</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10101</integer>
+					<key>Track ID</key><integer>10580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10121</integer>
+					<key>Track ID</key><integer>10600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10499</integer>
+					<key>Track ID</key><integer>10978</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10501</integer>
+					<key>Track ID</key><integer>10980</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10249</integer>
+					<key>Track ID</key><integer>10728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10411</integer>
+					<key>Track ID</key><integer>10890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10419</integer>
+					<key>Track ID</key><integer>10898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10423</integer>
+					<key>Track ID</key><integer>10902</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10495</integer>
+					<key>Track ID</key><integer>10974</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10081</integer>
+					<key>Track ID</key><integer>10560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10085</integer>
+					<key>Track ID</key><integer>10564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10087</integer>
+					<key>Track ID</key><integer>10566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10133</integer>
+					<key>Track ID</key><integer>10612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10137</integer>
+					<key>Track ID</key><integer>10616</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10407</integer>
+					<key>Track ID</key><integer>10886</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10481</integer>
+					<key>Track ID</key><integer>10960</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10471</integer>
+					<key>Track ID</key><integer>10950</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10437</integer>
+					<key>Track ID</key><integer>10916</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10333</integer>
+					<key>Track ID</key><integer>10812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14659</integer>
+					<key>Track ID</key><integer>15138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10151</integer>
+					<key>Track ID</key><integer>10630</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10153</integer>
+					<key>Track ID</key><integer>10632</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10189</integer>
+					<key>Track ID</key><integer>10668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10171</integer>
+					<key>Track ID</key><integer>10650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10181</integer>
+					<key>Track ID</key><integer>10660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10183</integer>
+					<key>Track ID</key><integer>10662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10191</integer>
+					<key>Track ID</key><integer>10670</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10403</integer>
+					<key>Track ID</key><integer>10882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10193</integer>
+					<key>Track ID</key><integer>10672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10195</integer>
+					<key>Track ID</key><integer>10674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14581</integer>
+					<key>Track ID</key><integer>15060</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14579</integer>
+					<key>Track ID</key><integer>15058</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17389</integer>
+					<key>Track ID</key><integer>17868</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10205</integer>
+					<key>Track ID</key><integer>10684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10209</integer>
+					<key>Track ID</key><integer>10688</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10221</integer>
+					<key>Track ID</key><integer>10700</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10167</integer>
+					<key>Track ID</key><integer>10646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34899</integer>
+					<key>Track ID</key><integer>35372</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>10297</integer>
+					<key>Track ID</key><integer>10776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35706</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37994</integer>
 				</dict>
 			</array>
 		</dict>

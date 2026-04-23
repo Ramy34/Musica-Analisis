@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-04-23T00:26:14Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>12608</key>
+		<dict>
+			<key>Track ID</key><integer>12608</integer>
+			<key>Name</key><string>ゾクゾク</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>ゾクゾク - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11449180</integer>
+			<key>Total Time</key><integer>281565</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>123</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857895796</integer>
+			<key>Play Date UTC</key><date>2026-04-01T19:43:16Z</date>
+			<key>Release Date</key><date>2024-10-25T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20905AA003B83751</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E3%82%BE%E3%82%AF%E3%82%BE%E3%82%AF%20-%20Single/01%20%E3%82%BE%E3%82%AF%E3%82%BE%E3%82%AF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12814</key>
+		<dict>
+			<key>Track ID</key><integer>12814</integer>
+			<key>Name</key><string>HANAGATAMI</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>少女の日の思い出</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11052381</integer>
+			<key>Total Time</key><integer>274065</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>112</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:37Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:25Z</date>
+			<key>Bit Rate</key><integer>316</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859206917</integer>
+			<key>Play Date UTC</key><date>2026-04-16T22:55:17Z</date>
+			<key>Release Date</key><date>2024-10-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>8498</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9FFF560E6C688EEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E5%B0%91%E5%A5%B3%E3%81%AE%E6%97%A5%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA/06%20HANAGATAMI.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15258</key>
+		<dict>
+			<key>Track ID</key><integer>15258</integer>
+			<key>Name</key><string>乙女心中</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>乙女心中 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7128804</integer>
+			<key>Total Time</key><integer>172000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2025-01-18T07:06:23Z</date>
+			<key>Bit Rate</key><integer>323</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852054116</integer>
+			<key>Play Date UTC</key><date>2026-01-24T05:01:56Z</date>
+			<key>Release Date</key><date>2024-10-10T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5206</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EA7CAC415966A92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E4%B9%99%E5%A5%B3%E5%BF%83%E4%B8%AD%20-%20Single/01%20%E4%B9%99%E5%A5%B3%E5%BF%83%E4%B8%AD.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15260</key>
+		<dict>
+			<key>Track ID</key><integer>15260</integer>
+			<key>Name</key><string>魔性少女</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>魔性少女 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8245611</integer>
+			<key>Total Time</key><integer>198484</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2025-01-18T07:06:23Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852120625</integer>
+			<key>Play Date UTC</key><date>2026-01-24T23:30:25Z</date>
+			<key>Release Date</key><date>2024-08-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C2EBEDE5040FCDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E9%AD%94%E6%80%A7%E5%B0%91%E5%A5%B3%20-%20Single/01%20%E9%AD%94%E6%80%A7%E5%B0%91%E5%A5%B3.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15262</key>
+		<dict>
+			<key>Track ID</key><integer>15262</integer>
+			<key>Name</key><string>花喰み</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>花喰み - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6761897</integer>
+			<key>Total Time</key><integer>163000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>172</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2025-01-18T07:06:23Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853657204</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:20:04Z</date>
+			<key>Release Date</key><date>2024-09-27T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9146</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16320CF6D13F3D17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E8%8A%B1%E5%96%B0%E3%81%BF%20-%20Single/01%20%E8%8A%B1%E5%96%B0%E3%81%BF.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15264</key>
+		<dict>
+			<key>Track ID</key><integer>15264</integer>
+			<key>Name</key><string>キミと××××したいだけ</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>キミと××××したいだけ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8508925</integer>
+			<key>Total Time</key><integer>205287</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:37Z</date>
+			<key>Date Added</key><date>2025-01-18T07:06:23Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855932841</integer>
+			<key>Play Date UTC</key><date>2026-03-10T02:27:21Z</date>
+			<key>Release Date</key><date>2024-07-31T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>12518</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>440A627D6FDE8AF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E3%82%AD%E3%83%9F%E3%81%A8%C3%97%C3%97%C3%97%C3%97%E3%81%97%E3%81%9F%E3%81%84%E3%81%A0%E3%81%91%20-%20Single/01%20%E3%82%AD%E3%83%9F%E3%81%A8%C3%97%C3%97%C3%97%C3%97%E3%81%97%E3%81%9F%E3%81%84%E3%81%A0%E3%81%91.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>15266</key>
+		<dict>
+			<key>Track ID</key><integer>15266</integer>
+			<key>Name</key><string>おともだち</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Composer</key><string>koharu</string>
+			<key>Album</key><string>おともだち - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8022891</integer>
+			<key>Total Time</key><integer>194699</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>164</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:37Z</date>
+			<key>Date Added</key><date>2025-01-18T07:06:23Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3849187059</integer>
+			<key>Play Date UTC</key><date>2025-12-22T00:37:39Z</date>
+			<key>Release Date</key><date>2024-06-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8125</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26B43E6F55481D58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E3%81%8A%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1%20-%20Single/01%20%E3%81%8A%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>26150</key>
+		<dict>
+			<key>Track ID</key><integer>26150</integer>
+			<key>Name</key><string>すき、きらい</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>すき、きらい - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8568164</integer>
+			<key>Total Time</key><integer>265534</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>87</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:37Z</date>
+			<key>Date Added</key><date>2025-05-12T15:42:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856776795</integer>
+			<key>Play Date UTC</key><date>2026-03-19T20:53:15Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>11170</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E1784CCEED74D76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E3%81%99%E3%81%8D%E3%80%81%E3%81%8D%E3%82%89%E3%81%84%20-%20Single/01%20%E3%81%99%E3%81%8D%E3%80%81%E3%81%8D%E3%82%89%E3%81%84.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>28314</key>
+		<dict>
+			<key>Track ID</key><integer>28314</integer>
+			<key>Name</key><string>そっくりさん</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>すき、きらい - EP</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5745788</integer>
+			<key>Total Time</key><integer>177057</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>88</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2025-07-12T05:17:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3846784586</integer>
+			<key>Play Date UTC</key><date>2025-11-24T05:16:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>15258</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BD2108D290C72DC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E3%81%99%E3%81%8D%E3%80%81%E3%81%8D%E3%82%89%E3%81%84%20-%20EP/02%20%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%95%E3%82%93.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>35412</key>
+		<dict>
+			<key>Track ID</key><integer>35412</integer>
+			<key>Name</key><string>薔薇色の月</string>
+			<key>Artist</key><string>ファントムシータ</string>
+			<key>Album Artist</key><string>ファントムシータ</string>
+			<key>Album</key><string>薔薇色の月 - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>31528484</integer>
+			<key>Total Time</key><integer>222795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>78</integer>
+			<key>Date Modified</key><date>2026-02-23T05:43:38Z</date>
+			<key>Date Added</key><date>2026-01-31T15:06:02Z</date>
+			<key>Bit Rate</key><integer>1536</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3855293326</integer>
+			<key>Play Date UTC</key><date>2026-03-02T16:48:46Z</date>
+			<key>Release Date</key><date>2026-01-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>15726</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D1F2C1C828AD1A9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%82%BF/%E8%96%94%E8%96%87%E8%89%B2%E3%81%AE%E6%9C%88%20-%20Single/01%20%E8%96%94%E8%96%87%E8%89%B2%E3%81%AE%E6%9C%88.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ファントムシータ</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>126400</integer>
+			<key>Playlist Persistent ID</key><string>7180571B4C711492</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAypTTHN0AAEAAQAAAAgAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABAw1TChMPMwyDDgMLcw/DC/AAAAGQAAAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAZAAAAAAAAAAAAAAAAAAA
+			AAEAAAAAAAAAbQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4DAAAC
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAEUAcwAg
+			AGwAaQB2AGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAFgBFAHMAIABhAGMA+gBzAHQAaQBjAG8AAAAOAwAAAgAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBFAHMAIAByAGUAcABlAHQAaQBk
+			AGEAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAJgBGAHIAbwBtACAAVABoAGUAIABGAGkAcgBzAHQAIABUAGEAawBlAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBl
+			AG0AaQB4AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAB4ARQBzACAAaQBuAHMAdAByAHUAbQBlAG4AdABhAGw=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15266</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>28314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>26150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15258</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35412</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

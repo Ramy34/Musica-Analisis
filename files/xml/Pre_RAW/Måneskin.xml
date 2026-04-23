@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:42:26Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:23:51Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7840</key>
+		<key>8322</key>
 		<dict>
-			<key>Track ID</key><integer>7840</integer>
+			<key>Track ID</key><integer>8322</integer>
 			<key>Name</key><string>VALENTINE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -35,22 +35,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3845734644</integer>
-			<key>Play Date UTC</key><date>2025-11-12T01:37:24Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857229258</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:34:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7778</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7FF4269D9C03D8C6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/02%20VALENTINE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/02%20VALENTINE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7842</key>
+		<key>8324</key>
 		<dict>
-			<key>Track ID</key><integer>7842</integer>
+			<key>Track ID</key><integer>8324</integer>
 			<key>Name</key><string>OFF MY FACE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -71,22 +71,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3850536499</integer>
-			<key>Play Date UTC</key><date>2026-01-06T15:28:19Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3858320517</integer>
+			<key>Play Date UTC</key><date>2026-04-06T16:41:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-28T20:40:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7697</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>616EC9750A1E9140</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/03%20OFF%20MY%20FACE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/03%20OFF%20MY%20FACE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7844</key>
+		<key>8326</key>
 		<dict>
-			<key>Track ID</key><integer>7844</integer>
+			<key>Track ID</key><integer>8326</integer>
 			<key>Name</key><string>THE DRIVER</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -117,13 +119,13 @@
 			<key>Sort Name</key><string>DRIVER</string>
 			<key>Persistent ID</key><string>3EECF06CE9E88A20</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/04%20THE%20DRIVER.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/04%20THE%20DRIVER.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7846</key>
+		<key>8328</key>
 		<dict>
-			<key>Track ID</key><integer>7846</integer>
+			<key>Track ID</key><integer>8328</integer>
 			<key>Name</key><string>TRASTEVERE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -153,13 +155,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9A11265DF267322D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/05%20TRASTEVERE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/05%20TRASTEVERE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7848</key>
+		<key>8330</key>
 		<dict>
-			<key>Track ID</key><integer>7848</integer>
+			<key>Track ID</key><integer>8330</integer>
 			<key>Name</key><string>OWN MY MIND</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -189,13 +191,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F3F79FFA181BC1E9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/06%20OWN%20MY%20MIND.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/06%20OWN%20MY%20MIND.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7850</key>
+		<key>8332</key>
 		<dict>
-			<key>Track ID</key><integer>7850</integer>
+			<key>Track ID</key><integer>8332</integer>
 			<key>Name</key><string>GOSSIP</string>
 			<key>Artist</key><string>Måneskin feat. Tom Morello</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -225,13 +227,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C993727F6F8DFDE1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/07%20GOSSIP.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/07%20GOSSIP.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7852</key>
+		<key>8334</key>
 		<dict>
-			<key>Track ID</key><integer>7852</integer>
+			<key>Track ID</key><integer>8334</integer>
 			<key>Name</key><string>TIMEZONE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -252,22 +254,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851881841</integer>
-			<key>Play Date UTC</key><date>2026-01-22T05:10:41Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853921273</integer>
+			<key>Play Date UTC</key><date>2026-02-14T19:41:13Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>8408</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5526848B6CC5A10C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/08%20TIMEZONE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/08%20TIMEZONE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7854</key>
+		<key>8336</key>
 		<dict>
-			<key>Track ID</key><integer>7854</integer>
+			<key>Track ID</key><integer>8336</integer>
 			<key>Name</key><string>BLA BLA BLA</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -288,22 +290,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3838652708</integer>
-			<key>Play Date UTC</key><date>2025-08-22T01:25:08Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3854902545</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:15:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-07T17:50:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>8006</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7E42420B53F640B2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/09%20BLA%20BLA%20BLA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/09%20BLA%20BLA%20BLA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7856</key>
+		<key>8338</key>
 		<dict>
-			<key>Track ID</key><integer>7856</integer>
+			<key>Track ID</key><integer>8338</integer>
 			<key>Name</key><string>BABY SAID</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -333,13 +337,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F44B3675D11CFB06</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/10%20BABY%20SAID.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/10%20BABY%20SAID.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7858</key>
+		<key>8340</key>
 		<dict>
-			<key>Track ID</key><integer>7858</integer>
+			<key>Track ID</key><integer>8340</integer>
 			<key>Name</key><string>GASOLINE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -369,13 +373,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>30AD999D87F7A2EF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/11%20GASOLINE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/11%20GASOLINE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7860</key>
+		<key>8342</key>
 		<dict>
-			<key>Track ID</key><integer>7860</integer>
+			<key>Track ID</key><integer>8342</integer>
 			<key>Name</key><string>FEEL</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -407,13 +411,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B6B894F0D0FA68FD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/12%20FEEL.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/12%20FEEL.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7862</key>
+		<key>8344</key>
 		<dict>
-			<key>Track ID</key><integer>7862</integer>
+			<key>Track ID</key><integer>8344</integer>
 			<key>Name</key><string>DON'T WANNA SLEEP</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -445,13 +449,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BA89EAB12C02BA6E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/13%20DON'T%20WANNA%20SLEEP.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/13%20DON'T%20WANNA%20SLEEP.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7870</key>
+		<key>8352</key>
 		<dict>
-			<key>Track ID</key><integer>7870</integer>
+			<key>Track ID</key><integer>8352</integer>
 			<key>Name</key><string>MARK CHAPMAN</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -472,22 +476,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3851318899</integer>
-			<key>Play Date UTC</key><date>2026-01-15T16:48:19Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3852980193</integer>
+			<key>Play Date UTC</key><date>2026-02-03T22:16:33Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>12459</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>895D8C3AFE3E8390</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/17%20MARK%20CHAPMAN.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/RUSH!%20(ARE%20U%20COMING%20)/17%20MARK%20CHAPMAN.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7888</key>
+		<key>8370</key>
 		<dict>
-			<key>Track ID</key><integer>7888</integer>
+			<key>Track ID</key><integer>8370</integer>
 			<key>Name</key><string>I WANNA BE YOUR SLAVE</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -513,18 +517,17 @@
 			<key>Play Date UTC</key><date>2025-11-28T20:27:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6767</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5386663C440701E2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Teatro%20d'Ira%20-%20Vol.%20I/04%20I%20WANNA%20BE%20YOUR%20SLAVE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Teatro%20d'Ira%20-%20Vol.%20I/04%20I%20WANNA%20BE%20YOUR%20SLAVE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28346</key>
+		<key>28634</key>
 		<dict>
-			<key>Track ID</key><integer>28346</integer>
+			<key>Track ID</key><integer>28634</integer>
 			<key>Name</key><string>Beggin'</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -545,23 +548,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3838488375</integer>
-			<key>Play Date UTC</key><date>2025-08-20T03:46:15Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3854454111</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:41:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5597</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>86EE700575949FBD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/04%20Beggin'.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/04%20Beggin'.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28350</key>
+		<key>28638</key>
 		<dict>
-			<key>Track ID</key><integer>28350</integer>
+			<key>Track ID</key><integer>28638</integer>
 			<key>Name</key><string>Fear for Nobody</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -582,23 +584,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3838643229</integer>
-			<key>Play Date UTC</key><date>2025-08-21T22:47:09Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3854901917</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:05:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8110</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>721050B468306C8E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/05%20Fear%20for%20Nobody.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/05%20Fear%20for%20Nobody.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28352</key>
+		<key>28640</key>
 		<dict>
-			<key>Track ID</key><integer>28352</integer>
+			<key>Track ID</key><integer>28640</integer>
 			<key>Name</key><string>Let's Get It Started</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -624,18 +625,17 @@
 			<key>Play Date UTC</key><date>2025-10-19T01:55:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7227</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EBE284272DBB9D7F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/05%20Let's%20Get%20It%20Started.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen/05%20Let's%20Get%20It%20Started.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28356</key>
+		<key>28644</key>
 		<dict>
-			<key>Track ID</key><integer>28356</integer>
+			<key>Track ID</key><integer>28644</integer>
 			<key>Name</key><string>New Song</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -659,20 +659,21 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3844250376</integer>
 			<key>Play Date UTC</key><date>2025-10-25T20:19:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T03:13:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10561</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>005DC227779DBF2C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/01%20New%20Song.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Il%20ballo%20della%20vita/01%20New%20Song.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28358</key>
+		<key>28646</key>
 		<dict>
-			<key>Track ID</key><integer>28358</integer>
+			<key>Track ID</key><integer>28646</integer>
 			<key>Name</key><string>SUPERMODEL</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -693,9 +694,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3838650179</integer>
-			<key>Play Date UTC</key><date>2025-08-22T00:42:59Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3854902921</integer>
+			<key>Play Date UTC</key><date>2026-02-26T04:22:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -703,13 +704,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0BEA58E14CCD699C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/SUPERMODEL%20-%20Single/01%20SUPERMODEL.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/SUPERMODEL%20-%20Single/01%20SUPERMODEL.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28368</key>
+		<key>28656</key>
 		<dict>
-			<key>Track ID</key><integer>28368</integer>
+			<key>Track ID</key><integer>28656</integer>
 			<key>Name</key><string>ZITTI E BUONI</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -730,9 +731,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3842292915</integer>
-			<key>Play Date UTC</key><date>2025-10-03T04:35:15Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853657047</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:17:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -740,13 +741,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>868F5BDAC08098D1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/ZITTI%20E%20BUONI%20-%20Single/01%20ZITTI%20E%20BUONI.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/ZITTI%20E%20BUONI%20-%20Single/01%20ZITTI%20E%20BUONI.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28370</key>
+		<key>28658</key>
 		<dict>
-			<key>Track ID</key><integer>28370</integer>
+			<key>Track ID</key><integer>28658</integer>
 			<key>Name</key><string>Chosen</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -777,13 +778,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1420DF08A1549243</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen%20-%20Single/01%20Chosen.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/Chosen%20-%20Single/01%20Chosen.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28374</key>
+		<key>28662</key>
 		<dict>
-			<key>Track ID</key><integer>28374</integer>
+			<key>Track ID</key><integer>28662</integer>
 			<key>Name</key><string>HONEY (ARE U COMING )</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -814,13 +815,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D109DBBAB3BBA34</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/HONEY%20(ARE%20U%20COMING%20)%20-%20Single/01%20HONEY%20(ARE%20U%20COMING%20).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/HONEY%20(ARE%20U%20COMING%20)%20-%20Single/01%20HONEY%20(ARE%20U%20COMING%20).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28378</key>
+		<key>28666</key>
 		<dict>
-			<key>Track ID</key><integer>28378</integer>
+			<key>Track ID</key><integer>28666</integer>
 			<key>Name</key><string>MAMMAMIA</string>
 			<key>Artist</key><string>Måneskin</string>
 			<key>Album Artist</key><string>Måneskin</string>
@@ -841,9 +842,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846908305</integer>
-			<key>Play Date UTC</key><date>2025-11-25T15:38:25Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3855385793</integer>
+			<key>Play Date UTC</key><date>2026-03-03T18:29:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -851,7 +852,45 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A606133CEBAD3652</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/MAMMAMIA%20-%20Single/01%20MAMMAMIA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/M%C3%A5neskin/MAMMAMIA%20-%20Single/01%20MAMMAMIA.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>37784</key>
+		<dict>
+			<key>Track ID</key><integer>37784</integer>
+			<key>Name</key><string>Jolene</string>
+			<key>Artist</key><string>Dolly Parton feat. Måneskin</string>
+			<key>Album Artist</key><string>Dolly Parton</string>
+			<key>Composer</key><string>Dolly Parton</string>
+			<key>Album</key><string>Rockstar (Deluxe)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>44423488</integer>
+			<key>Total Time</key><integer>192005</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>35</integer>
+			<key>Track Count</key><integer>39</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>111</integer>
+			<key>Date Modified</key><date>2026-03-14T07:20:56Z</date>
+			<key>Date Added</key><date>2026-03-12T03:56:37Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856175334</integer>
+			<key>Play Date UTC</key><date>2026-03-12T21:48:54Z</date>
+			<key>Release Date</key><date>2024-01-18T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17EC3EAB60305236</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dolly%20Parton/Rockstar%20(Deluxe)/35%20Jolene.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -861,7 +900,7 @@
 		<dict>
 			<key>Name</key><string>Måneskin</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101716</integer>
+			<key>Playlist ID</key><integer>125559</integer>
 			<key>Playlist Persistent ID</key><string>6F19118D01100199</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -904,73 +943,76 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>28370</integer>
+					<key>Track ID</key><integer>28658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28346</integer>
+					<key>Track ID</key><integer>28634</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28352</integer>
+					<key>Track ID</key><integer>28640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28356</integer>
+					<key>Track ID</key><integer>28644</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28350</integer>
+					<key>Track ID</key><integer>28638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28368</integer>
+					<key>Track ID</key><integer>28656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7888</integer>
+					<key>Track ID</key><integer>8370</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28378</integer>
+					<key>Track ID</key><integer>28666</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28358</integer>
+					<key>Track ID</key><integer>28646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28374</integer>
+					<key>Track ID</key><integer>28662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7840</integer>
+					<key>Track ID</key><integer>8322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7842</integer>
+					<key>Track ID</key><integer>8324</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7844</integer>
+					<key>Track ID</key><integer>8326</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7846</integer>
+					<key>Track ID</key><integer>8328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7848</integer>
+					<key>Track ID</key><integer>8330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7850</integer>
+					<key>Track ID</key><integer>8332</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7852</integer>
+					<key>Track ID</key><integer>8334</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7854</integer>
+					<key>Track ID</key><integer>8336</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7856</integer>
+					<key>Track ID</key><integer>8338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7858</integer>
+					<key>Track ID</key><integer>8340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7860</integer>
+					<key>Track ID</key><integer>8342</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7862</integer>
+					<key>Track ID</key><integer>8344</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7870</integer>
+					<key>Track ID</key><integer>8352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37784</integer>
 				</dict>
 			</array>
 		</dict>

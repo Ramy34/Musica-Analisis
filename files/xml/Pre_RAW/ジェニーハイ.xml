@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2026-04-23T00:25:58Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7076</key>
+		<dict>
+			<key>Track ID</key><integer>7076</integer>
+			<key>Name</key><string>クラシックハイ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8232147</integer>
+			<key>Total Time</key><integer>253936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3857136226</integer>
+			<key>Play Date UTC</key><date>2026-03-24T00:43:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10031</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36B838801802C61B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20classic/02%20%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF%E3%83%8F%E3%82%A4.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7080</key>
+		<dict>
+			<key>Track ID</key><integer>7080</integer>
+			<key>Name</key><string>GDGD</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6253520</integer>
+			<key>Total Time</key><integer>192104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3854452370</integer>
+			<key>Play Date UTC</key><date>2026-02-20T23:12:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-01-17T08:08:26Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5889</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D9A29006BF54A79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20classic/04%20GDGD.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7090</key>
+		<dict>
+			<key>Track ID</key><integer>7090</integer>
+			<key>Name</key><string>ジェニーガールクラッシュ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6290313</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3853658146</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:35:46Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3905</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>060BB764E8E68279</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20classic/09%20%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7092</key>
+		<dict>
+			<key>Track ID</key><integer>7092</integer>
+			<key>Name</key><string>声雫</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie classic</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7392884</integer>
+			<key>Total Time</key><integer>227709</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859220817</integer>
+			<key>Play Date UTC</key><date>2026-04-17T02:46:57Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>10895</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F110FB2ED1CD4FB4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20classic/10%20%E5%A3%B0%E9%9B%AB.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7100</key>
+		<dict>
+			<key>Track ID</key><integer>7100</integer>
+			<key>Name</key><string>ダイエッター典子</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8871935</integer>
+			<key>Total Time</key><integer>274782</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3858583068</integer>
+			<key>Play Date UTC</key><date>2026-04-09T17:37:48Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>9525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1457B480ECE42D6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Story/02%20%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%82%BF%E3%83%BC%E5%85%B8%E5%AD%90.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7102</key>
+		<dict>
+			<key>Track ID</key><integer>7102</integer>
+			<key>Name</key><string>不便な可愛げ</string>
+			<key>Artist</key><string>ジェニーハイ feat. アイナ・ジ・エンド</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7868856</integer>
+			<key>Total Time</key><integer>243435</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-03-11T19:07:35Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3853659726</integer>
+			<key>Play Date UTC</key><date>2026-02-11T19:02:06Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7267</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C0C28BC2DF21BADF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Story/03%20%E4%B8%8D%E4%BE%BF%E3%81%AA%E5%8F%AF%E6%84%9B%E3%81%92.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7106</key>
+		<dict>
+			<key>Track ID</key><integer>7106</integer>
+			<key>Name</key><string>プリマドンナ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8762426</integer>
+			<key>Total Time</key><integer>271360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852537605</integer>
+			<key>Play Date UTC</key><date>2026-01-29T19:20:05Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5855</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B3E3ADCC0ECEFED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Story/05%20%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%B3%E3%83%8A.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7110</key>
+		<dict>
+			<key>Track ID</key><integer>7110</integer>
+			<key>Name</key><string>グータラ節</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8527536</integer>
+			<key>Total Time</key><integer>264019</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3847095856</integer>
+			<key>Play Date UTC</key><date>2025-11-27T19:44:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-03T18:52:35Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7360</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64D2B3563AE6D85A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Story/07%20%E3%82%B0%E3%83%BC%E3%82%BF%E3%83%A9%E7%AF%80.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7114</key>
+		<dict>
+			<key>Track ID</key><integer>7114</integer>
+			<key>Name</key><string>バレンタイン泥棒</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High Story</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5840062</integer>
+			<key>Total Time</key><integer>180035</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3852981002</integer>
+			<key>Play Date UTC</key><date>2026-02-03T22:30:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4292</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B2BFD68C4B8BFA37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Story/09%20%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%E6%B3%A5%E6%A3%92.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7120</key>
+		<dict>
+			<key>Track ID</key><integer>7120</integer>
+			<key>Name</key><string>夏嵐</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6427100</integer>
+			<key>Total Time</key><integer>196884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>85</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855136920</integer>
+			<key>Play Date UTC</key><date>2026-02-28T21:22:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E0B05CC5AFA6CA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/02%20%E5%A4%8F%E5%B5%90.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7122</key>
+		<dict>
+			<key>Track ID</key><integer>7122</integer>
+			<key>Name</key><string>バイトリーダー典子</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6856769</integer>
+			<key>Total Time</key><integer>210311</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>155</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858591591</integer>
+			<key>Play Date UTC</key><date>2026-04-09T19:59:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-16T23:06:14Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>7392</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>507506DC170FD496</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/03%20%E3%83%90%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E5%85%B8%E5%AD%90.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7124</key>
+		<dict>
+			<key>Track ID</key><integer>7124</integer>
+			<key>Name</key><string>BABY LADY</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6844222</integer>
+			<key>Total Time</key><integer>209920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857222399</integer>
+			<key>Play Date UTC</key><date>2026-03-25T00:39:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-03-03T19:20:40Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2804</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3C2504FB01400D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/04%20BABY%20LADY.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7128</key>
+		<dict>
+			<key>Track ID</key><integer>7128</integer>
+			<key>Name</key><string>良いんだって</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>4756097</integer>
+			<key>Total Time</key><integer>144666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3846335205</integer>
+			<key>Play Date UTC</key><date>2025-11-19T00:26:45Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E4B0B25B68D9B32F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/06%20%E8%89%AF%E3%81%84%E3%82%93%E3%81%A0%E3%81%A3%E3%81%A6.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7130</key>
+		<dict>
+			<key>Track ID</key><integer>7130</integer>
+			<key>Name</key><string>ルービックラブ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7163543</integer>
+			<key>Total Time</key><integer>219898</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>136</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3855687325</integer>
+			<key>Play Date UTC</key><date>2026-03-07T06:15:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-19T21:21:08Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>3929</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C52E9DA9BF1FC34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/07%20%E3%83%AB%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF%E3%83%A9%E3%83%96.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7132</key>
+		<dict>
+			<key>Track ID</key><integer>7132</integer>
+			<key>Name</key><string>ジェニーハイボックス</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>5265176</integer>
+			<key>Total Time</key><integer>160574</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>65</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858253705</integer>
+			<key>Play Date UTC</key><date>2026-04-05T22:08:25Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2555</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C08BD7A920FB3C72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/08%20%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7134</key>
+		<dict>
+			<key>Track ID</key><integer>7134</integer>
+			<key>Name</key><string>卓球モンキー</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7330730</integer>
+			<key>Total Time</key><integer>225123</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>92</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3842198249</integer>
+			<key>Play Date UTC</key><date>2025-10-02T02:17:29Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>459E10CEEE6E5354</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/09%20%E5%8D%93%E7%90%83%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7138</key>
+		<dict>
+			<key>Track ID</key><integer>7138</integer>
+			<key>Name</key><string>ジェニースター</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>geniestar</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>7237104</integer>
+			<key>Total Time</key><integer>222197</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>122</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856784478</integer>
+			<key>Play Date UTC</key><date>2026-03-19T23:01:18Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2143</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA27902C3DD2E28A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/geniestar/11%20%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7142</key>
+		<dict>
+			<key>Track ID</key><integer>7142</integer>
+			<key>Name</key><string>モンスター</string>
+			<key>Artist</key><string>ジェニーハイ feat. yama</string>
+			<key>Album Artist</key><string>ジェニーハイ feat. yama</string>
+			<key>Album</key><string>モンスター - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>8523853</integer>
+			<key>Total Time</key><integer>263549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>BPM</key><integer>130</integer>
+			<key>Date Modified</key><date>2026-02-21T03:59:30Z</date>
+			<key>Date Added</key><date>2024-09-26T20:50:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3858315631</integer>
+			<key>Play Date UTC</key><date>2026-04-06T15:20:31Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9542</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8320EA164C8AB13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%20feat.%20yama/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%20-%20Single/01%20%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>12556</key>
+		<dict>
+			<key>Track ID</key><integer>12556</integer>
+			<key>Name</key><string>超最悪</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>超最悪 - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>7292231</integer>
+			<key>Total Time</key><integer>178000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>146</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-01-16T03:54:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3850483681</integer>
+			<key>Play Date UTC</key><date>2026-01-06T00:48:01Z</date>
+			<key>Release Date</key><date>2022-11-30T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>579C44D3EFBAAF0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/%E8%B6%85%E6%9C%80%E6%82%AA%20-%20Single/01%20%E8%B6%85%E6%9C%80%E6%82%AA.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13702</key>
+		<dict>
+			<key>Track ID</key><integer>13702</integer>
+			<key>Name</key><string>PEAKY</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>PEAKY - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9313252</integer>
+			<key>Total Time</key><integer>225907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-01-17T06:03:37Z</date>
+			<key>Bit Rate</key><integer>324</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3853830801</integer>
+			<key>Play Date UTC</key><date>2026-02-13T18:33:21Z</date>
+			<key>Release Date</key><date>2022-11-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10512</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8E854A2E14954F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/PEAKY%20-%20Single/01%20PEAKY.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>13722</key>
+		<dict>
+			<key>Track ID</key><integer>13722</integer>
+			<key>Name</key><string>ノーメイクスター</string>
+			<key>Artist</key><string>ジェニーハイ feat. Utaha</string>
+			<key>Album Artist</key><string>ジェニーハイ feat. Utaha</string>
+			<key>Album</key><string>ノーメイクスター - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10173494</integer>
+			<key>Total Time</key><integer>244645</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>118</integer>
+			<key>Date Modified</key><date>2026-02-21T03:59:14Z</date>
+			<key>Date Added</key><date>2025-01-17T06:03:41Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852383842</integer>
+			<key>Play Date UTC</key><date>2026-01-28T00:37:22Z</date>
+			<key>Release Date</key><date>2024-09-04T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17146</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3F7113626590FB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%20feat.%20Utaha/%E3%83%8E%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%20-%20Single/01%20%E3%83%8E%E3%83%BC%E3%83%A1%E3%82%A4%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24476</key>
+		<dict>
+			<key>Track ID</key><integer>24476</integer>
+			<key>Name</key><string>片目で異常に恋してる</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>片目で異常に恋してる - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10697790</integer>
+			<key>Total Time</key><integer>257370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-03-03T05:39:51Z</date>
+			<key>Bit Rate</key><integer>327</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3853860949</integer>
+			<key>Play Date UTC</key><date>2026-02-14T02:55:49Z</date>
+			<key>Release Date</key><date>2018-03-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>57B547BBF141DC0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/%E7%89%87%E7%9B%AE%E3%81%A7%E7%95%B0%E5%B8%B8%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B%20-%20Single/01%20%E7%89%87%E7%9B%AE%E3%81%A7%E7%95%B0%E5%B8%B8%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24478</key>
+		<dict>
+			<key>Track ID</key><integer>24478</integer>
+			<key>Name</key><string>ランデブーに逃避行</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9393482</integer>
+			<key>Total Time</key><integer>231851</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>176</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2025-03-03T05:39:51Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3852368397</integer>
+			<key>Play Date UTC</key><date>2026-01-27T20:19:57Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>5563</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>746458ABCAA80C42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20-%20EP/02%20%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC%E3%81%AB%E9%80%83%E9%81%BF%E8%A1%8C.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24492</key>
+		<dict>
+			<key>Track ID</key><integer>24492</integer>
+			<key>Name</key><string>Genie High Rhapsody</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie High Rhapsody - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8633809</integer>
+			<key>Total Time</key><integer>202524</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>336</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3852981711</integer>
+			<key>Play Date UTC</key><date>2026-02-03T22:41:51Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3433</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02FB68667D383EA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Rhapsody%20-%20Single/01%20Genie%20High%20Rhapsody.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24494</key>
+		<dict>
+			<key>Track ID</key><integer>24494</integer>
+			<key>Name</key><string>ジェニーハイのテーマ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10797425</integer>
+			<key>Total Time</key><integer>255675</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>73</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>333</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859311988</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:06:28Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>2712</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53BA45CA4A80965C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20-%20EP/05%20%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24496</key>
+		<dict>
+			<key>Track ID</key><integer>24496</integer>
+			<key>Name</key><string>東京は雨</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>Genie High - EP</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>10516564</integer>
+			<key>Total Time</key><integer>257347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2025-03-03T05:47:04Z</date>
+			<key>Bit Rate</key><integer>322</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3847186708</integer>
+			<key>Play Date UTC</key><date>2025-11-28T20:58:28Z</date>
+			<key>Release Date</key><date>2018-10-17T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Normalization</key><integer>4960</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B165AD87DC11A4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20-%20EP/06%20%E6%9D%B1%E4%BA%AC%E3%81%AF%E9%9B%A8.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24498</key>
+		<dict>
+			<key>Track ID</key><integer>24498</integer>
+			<key>Name</key><string>シャミナミ</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>シャミナミ - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>9137916</integer>
+			<key>Total Time</key><integer>225558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>BPM</key><integer>147</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-03-03T05:48:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3844085476</integer>
+			<key>Play Date UTC</key><date>2025-10-23T22:31:16Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>092F73F24CA84A50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/%E3%82%B7%E3%83%A3%E3%83%9F%E3%83%8A%E3%83%9F%20-%20Single/01%20%E3%82%B7%E3%83%A3%E3%83%9F%E3%83%8A%E3%83%9F.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24500</key>
+		<dict>
+			<key>Track ID</key><integer>24500</integer>
+			<key>Name</key><string>Genie High Wash</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Genie High Wash - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>6462587</integer>
+			<key>Total Time</key><integer>153925</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>BPM</key><integer>65</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-03-03T05:48:27Z</date>
+			<key>Bit Rate</key><integer>329</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3847107335</integer>
+			<key>Play Date UTC</key><date>2025-11-27T22:55:35Z</date>
+			<key>Release Date</key><date>2020-05-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4138</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E7A75523559C7C3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Genie%20High%20Wash%20-%20Single/01%20Genie%20High%20Wash.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24504</key>
+		<dict>
+			<key>Track ID</key><integer>24504</integer>
+			<key>Name</key><string>コクーンさん</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Composer</key><string>Enon Kawatani</string>
+			<key>Album</key><string>コクーンさん - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8998258</integer>
+			<key>Total Time</key><integer>221658</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>321</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3844249480</integer>
+			<key>Play Date UTC</key><date>2025-10-25T20:04:40Z</date>
+			<key>Release Date</key><date>2021-07-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>497337B035D74A57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/%E3%82%B3%E3%82%AF%E3%83%BC%E3%83%B3%E3%81%95%E3%82%93%20-%20Single/01%20%E3%82%B3%E3%82%AF%E3%83%BC%E3%83%B3%E3%81%95%E3%82%93.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24506</key>
+		<dict>
+			<key>Track ID</key><integer>24506</integer>
+			<key>Name</key><string>エクレール</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>Eclair - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>8812699</integer>
+			<key>Total Time</key><integer>212811</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>BPM</key><integer>170</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:21Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>326</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3851931002</integer>
+			<key>Play Date UTC</key><date>2026-01-22T18:50:02Z</date>
+			<key>Release Date</key><date>2022-05-20T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>7087</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34859FDD19343C67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/Eclair%20-%20Single/01%20%E3%82%A8%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%AB.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>24508</key>
+		<dict>
+			<key>Track ID</key><integer>24508</integer>
+			<key>Name</key><string>華奢なリップ</string>
+			<key>Artist</key><string>ジェニーハイ feat. CHANMINA</string>
+			<key>Album Artist</key><string>ジェニーハイ feat. CHANMINA</string>
+			<key>Album</key><string>Kyashana Lip - Single</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>Archivo de audio AAC</string>
+			<key>Size</key><integer>11115675</integer>
+			<key>Total Time</key><integer>268817</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:48Z</date>
+			<key>Date Added</key><date>2025-03-03T05:51:47Z</date>
+			<key>Bit Rate</key><integer>325</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3857888652</integer>
+			<key>Play Date UTC</key><date>2026-04-01T17:44:12Z</date>
+			<key>Release Date</key><date>2021-07-28T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4910</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>933B1EB9AC55586A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4%20feat.%20CHANMINA/Kyashana%20Lip%20-%20Single/01%20%E8%8F%AF%E5%A5%A2%E3%81%AA%E3%83%AA%E3%83%83%E3%83%97.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>29058</key>
+		<dict>
+			<key>Track ID</key><integer>29058</integer>
+			<key>Name</key><string>あの夏が癖になっていく</string>
+			<key>Artist</key><string>ジェニーハイ</string>
+			<key>Album Artist</key><string>ジェニーハイ</string>
+			<key>Album</key><string>あの夏が癖になっていく - Single</string>
+			<key>Genre</key><string>J-pop</string>
+			<key>Kind</key><string>Archivo de audio MPEG</string>
+			<key>Size</key><integer>6582995</integer>
+			<key>Total Time</key><integer>203232</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>126</integer>
+			<key>Date Modified</key><date>2026-02-21T03:58:22Z</date>
+			<key>Date Added</key><date>2025-09-03T06:20:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853832730</integer>
+			<key>Play Date UTC</key><date>2026-02-13T19:05:30Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9247</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93C9DDEE86621A0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%8F%E3%82%A4/%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%8C%E7%99%96%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%8F%20-%20Single/01%20%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%8C%E7%99%96%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%8F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ジェニーハイ</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>126289</integer>
+			<key>Playlist Persistent ID</key><string>10CD090098673AF6</string>
+			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3BTTHN0AAEAAQAAAAkAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAwwuDCnMMsw/DDPMKQAAAAZAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAABkAAAAAAAAAAAAAAAAAAAAAQAA
+			AAAAAABtAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgMAAAIAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ARQBzACAAbABp
+			AHYAZQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAWAEUAcwAgAGEAYwD6AHMAdABpAGMAbwAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmAEYAcgBvAG0AIABUAGgAZQAgAEYAaQBy
+			AHMAdAAgAFQAYQBrAGUAAAAOAwAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAEgBFAHMAIABUAFYAIABWAGUAcgAAAA4DAAACAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAEUAcwAgAHIAZQBwAGUAdABp
+			AGQAYQAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAQAEUAcwAgAHIAZQBtAGkAeAAAAA4DAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAEUAcwAgAGkAbgBzAHQAcgB1AG0AZQBuAHQAYQBs
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>24476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24492</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12556</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29058</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

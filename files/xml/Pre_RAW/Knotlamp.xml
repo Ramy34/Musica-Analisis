@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:34:17Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:23:12Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12090</key>
+		<key>12572</key>
 		<dict>
-			<key>Track ID</key><integer>12090</integer>
+			<key>Track ID</key><integer>12572</integer>
 			<key>Name</key><string>Blaze drops</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -35,24 +35,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850836913</integer>
-			<key>Play Date UTC</key><date>2026-01-10T02:55:13Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855387109</integer>
+			<key>Play Date UTC</key><date>2026-03-03T18:51:49Z</date>
 			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15865</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2C04FECD74E45DFC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/01%20Blaze%20drops.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/01%20Blaze%20drops.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12102</key>
+		<key>12584</key>
 		<dict>
-			<key>Track ID</key><integer>12102</integer>
+			<key>Track ID</key><integer>12584</integer>
 			<key>Name</key><string>Innocent days</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -76,21 +75,22 @@
 			<key>Play Count</key><integer>7</integer>
 			<key>Play Date</key><integer>3851343012</integer>
 			<key>Play Date UTC</key><date>2026-01-15T23:30:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-01T01:10:56Z</date>
 			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17869</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D38FA70B259155E7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/01%20Innocent%20days.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/01%20Innocent%20days.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12136</key>
+		<key>12618</key>
 		<dict>
-			<key>Track ID</key><integer>12136</integer>
+			<key>Track ID</key><integer>12618</integer>
 			<key>Name</key><string>時の行方</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -121,13 +121,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9B016808D7F14952</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/01%20%E6%99%82%E3%81%AE%E8%A1%8C%E6%96%B9.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/01%20%E6%99%82%E3%81%AE%E8%A1%8C%E6%96%B9.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12156</key>
+		<key>12638</key>
 		<dict>
-			<key>Track ID</key><integer>12156</integer>
+			<key>Track ID</key><integer>12638</integer>
 			<key>Name</key><string>Holy moments</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -148,24 +148,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851953532</integer>
-			<key>Play Date UTC</key><date>2026-01-23T01:05:32Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3853269027</integer>
+			<key>Play Date UTC</key><date>2026-02-07T06:30:27Z</date>
 			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9928</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>41B71BB0CFED5BC3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/02%20Holy%20moments.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/02%20Holy%20moments.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12164</key>
+		<key>12646</key>
 		<dict>
-			<key>Track ID</key><integer>12164</integer>
+			<key>Track ID</key><integer>12646</integer>
 			<key>Name</key><string>Libra</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -192,18 +191,17 @@
 			<key>Release Date</key><date>2010-09-07T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17624</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9F5AA775CC403C75</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/02%20Libra.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/02%20Libra.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12182</key>
+		<key>12664</key>
 		<dict>
-			<key>Track ID</key><integer>12182</integer>
+			<key>Track ID</key><integer>12664</integer>
 			<key>Name</key><string>ずっと何処かに</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -224,9 +222,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850832322</integer>
-			<key>Play Date UTC</key><date>2026-01-10T01:38:42Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3856344869</integer>
+			<key>Play Date UTC</key><date>2026-03-14T20:54:29Z</date>
 			<key>Release Date</key><date>2009-03-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -234,13 +232,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7A01FA6145950FCC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/02%20%E3%81%9A%E3%81%A3%E3%81%A8%E4%BD%95%E5%87%A6%E3%81%8B%E3%81%AB.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/02%20%E3%81%9A%E3%81%A3%E3%81%A8%E4%BD%95%E5%87%A6%E3%81%8B%E3%81%AB.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12204</key>
+		<key>12686</key>
 		<dict>
-			<key>Track ID</key><integer>12204</integer>
+			<key>Track ID</key><integer>12686</integer>
 			<key>Name</key><string>Not alone</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -271,13 +269,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BB73EA81905D7C7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/03%20Not%20alone.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/03%20Not%20alone.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12228</key>
+		<key>12710</key>
 		<dict>
-			<key>Track ID</key><integer>12228</integer>
+			<key>Track ID</key><integer>12710</integer>
 			<key>Name</key><string>遠くへ</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -304,18 +302,17 @@
 			<key>Release Date</key><date>2007-10-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13915</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9F39748955DEC222</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/03%20%E9%81%A0%E3%81%8F%E3%81%B8.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/03%20%E9%81%A0%E3%81%8F%E3%81%B8.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12242</key>
+		<key>12724</key>
 		<dict>
-			<key>Track ID</key><integer>12242</integer>
+			<key>Track ID</key><integer>12724</integer>
 			<key>Name</key><string>Flag</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -342,18 +339,17 @@
 			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14625</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>187E686F47DB9AE7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/04%20Flag.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/04%20Flag.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12260</key>
+		<key>12742</key>
 		<dict>
-			<key>Track ID</key><integer>12260</integer>
+			<key>Track ID</key><integer>12742</integer>
 			<key>Name</key><string>New dawn</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -374,24 +370,23 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850837903</integer>
-			<key>Play Date UTC</key><date>2026-01-10T03:11:43Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3853650128</integer>
+			<key>Play Date UTC</key><date>2026-02-11T16:22:08Z</date>
 			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8739</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BF674768C14DA5CD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/04%20New%20dawn.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/04%20New%20dawn.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12296</key>
+		<key>12778</key>
 		<dict>
-			<key>Track ID</key><integer>12296</integer>
+			<key>Track ID</key><integer>12778</integer>
 			<key>Name</key><string>Lost Anthology</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -412,24 +407,23 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850831250</integer>
-			<key>Play Date UTC</key><date>2026-01-10T01:20:50Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857400400</integer>
+			<key>Play Date UTC</key><date>2026-03-27T02:06:40Z</date>
 			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16714</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4456C0604E856A58</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/05%20Lost%20Anthology.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/05%20Lost%20Anthology.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12308</key>
+		<key>12790</key>
 		<dict>
-			<key>Track ID</key><integer>12308</integer>
+			<key>Track ID</key><integer>12790</integer>
 			<key>Name</key><string>Siren</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -450,24 +444,23 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850838133</integer>
-			<key>Play Date UTC</key><date>2026-01-10T03:15:33Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859532901</integer>
+			<key>Play Date UTC</key><date>2026-04-20T17:28:21Z</date>
 			<key>Release Date</key><date>2011-09-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10831</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CDD63D5FEA961D79</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/05%20Siren.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Bridges%20We've%20Dreamed%20-%20EP/05%20Siren.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12310</key>
+		<key>12792</key>
 		<dict>
-			<key>Track ID</key><integer>12310</integer>
+			<key>Track ID</key><integer>12792</integer>
 			<key>Name</key><string>The Limited World</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -494,19 +487,18 @@
 			<key>Release Date</key><date>2007-10-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15056</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Name</key><string>Limited World</string>
 			<key>Persistent ID</key><string>04DD618814CDF20F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/05%20The%20Limited%20World.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Blind%20Side/05%20The%20Limited%20World.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12398</key>
+		<key>12880</key>
 		<dict>
-			<key>Track ID</key><integer>12398</integer>
+			<key>Track ID</key><integer>12880</integer>
 			<key>Name</key><string>夜空</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -527,24 +519,23 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850831620</integer>
-			<key>Play Date UTC</key><date>2026-01-10T01:27:00Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858596522</integer>
+			<key>Play Date UTC</key><date>2026-04-09T21:22:02Z</date>
 			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17663</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6CF4C923A9D89BF9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/07%20%E5%A4%9C%E7%A9%BA.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/07%20%E5%A4%9C%E7%A9%BA.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12400</key>
+		<key>12882</key>
 		<dict>
-			<key>Track ID</key><integer>12400</integer>
+			<key>Track ID</key><integer>12882</integer>
 			<key>Name</key><string>Across the sea</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -571,18 +562,17 @@
 			<key>Release Date</key><date>2008-06-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16346</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A6C0CD5283E8143</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/08%20Across%20the%20sea.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Ghost%20of%20the%20freedom/08%20Across%20the%20sea.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12440</key>
+		<key>12922</key>
 		<dict>
-			<key>Track ID</key><integer>12440</integer>
+			<key>Track ID</key><integer>12922</integer>
 			<key>Name</key><string>Coda</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -603,24 +593,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850836204</integer>
-			<key>Play Date UTC</key><date>2026-01-10T02:43:24Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859213357</integer>
+			<key>Play Date UTC</key><date>2026-04-17T00:42:37Z</date>
 			<key>Release Date</key><date>2010-09-07T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>15992</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F8A01EC36AD41EF9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/09%20Coda.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Dot%20of%20the%20Galaxy/09%20Coda.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12458</key>
+		<key>12940</key>
 		<dict>
-			<key>Track ID</key><integer>12458</integer>
+			<key>Track ID</key><integer>12940</integer>
 			<key>Name</key><string>Time matters</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -651,13 +640,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>548B7DAE868A9F40</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/09%20Time%20matters.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/Sing%20against%20the%20stream/09%20Time%20matters.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34392</key>
+		<key>34672</key>
 		<dict>
-			<key>Track ID</key><integer>34392</integer>
+			<key>Track ID</key><integer>34672</integer>
 			<key>Name</key><string>LAST TRAIN -新しい朝-</string>
 			<key>Artist</key><string>knotlamp</string>
 			<key>Album Artist</key><string>knotlamp</string>
@@ -673,7 +662,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>BPM</key><integer>95</integer>
-			<key>Date Modified</key><date>2026-01-10T03:18:56Z</date>
+			<key>Date Modified</key><date>2026-01-13T04:05:19Z</date>
 			<key>Date Added</key><date>2026-01-07T15:40:00Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -684,12 +673,11 @@
 			<key>Release Date</key><date>2008-10-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>16007</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>77FA4D580B29C1C2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/knotlamp/LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-%20-%20Single/01%20LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/knotlamp/LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-%20-%20Single/01%20LAST%20TRAIN%20-%E6%96%B0%E3%81%97%E3%81%84%E6%9C%9D-.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -699,7 +687,7 @@
 		<dict>
 			<key>Name</key><string>Knotlamp</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101513</integer>
+			<key>Playlist ID</key><integer>125407</integer>
 			<key>Playlist Persistent ID</key><string>782F845BAD1641F9</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -744,58 +732,58 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>12228</integer>
+					<key>Track ID</key><integer>12710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12310</integer>
+					<key>Track ID</key><integer>12792</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12090</integer>
+					<key>Track ID</key><integer>12572</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12156</integer>
+					<key>Track ID</key><integer>12638</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12260</integer>
+					<key>Track ID</key><integer>12742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12308</integer>
+					<key>Track ID</key><integer>12790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12164</integer>
+					<key>Track ID</key><integer>12646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12440</integer>
+					<key>Track ID</key><integer>12922</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12102</integer>
+					<key>Track ID</key><integer>12584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12242</integer>
+					<key>Track ID</key><integer>12724</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12296</integer>
+					<key>Track ID</key><integer>12778</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12398</integer>
+					<key>Track ID</key><integer>12880</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12400</integer>
+					<key>Track ID</key><integer>12882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34392</integer>
+					<key>Track ID</key><integer>34672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12136</integer>
+					<key>Track ID</key><integer>12618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12182</integer>
+					<key>Track ID</key><integer>12664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12204</integer>
+					<key>Track ID</key><integer>12686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12458</integer>
+					<key>Track ID</key><integer>12940</integer>
 				</dict>
 			</array>
 		</dict>

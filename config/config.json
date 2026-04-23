@@ -6,7 +6,7 @@
   },
   "paths": {
     "windows": {
-      "music_folder" : "E:/iTunes/iTunes Media/Music",
+      "music_folder" : "D:/iTunes/iTunes Media/Music",
       "csv_metadata_output": "D:/Códigos/Musica-Analisis/files/csv/RAW/Metadata.csv",
       "input_folder": "D:/Códigos/Musica-Analisis/files/xml",
       "output_folder": "D:/Códigos/Musica-Analisis/files/csv"
@@ -21,6 +21,6 @@
   "general": {
     "log_level": "INFO",
     "threads": 4,
-    "procesar_todo": false
+    "procesar_todo": true
   }
 }

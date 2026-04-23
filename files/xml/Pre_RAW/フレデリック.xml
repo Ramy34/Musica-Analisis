@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:25:12Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:26:26Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6528</key>
+		<key>7010</key>
 		<dict>
-			<key>Track ID</key><integer>6528</integer>
+			<key>Track ID</key><integer>7010</integer>
 			<key>Name</key><string>Future Ice Cream</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -34,9 +34,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3847102042</integer>
-			<key>Play Date UTC</key><date>2025-11-27T21:27:22Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3858253007</integer>
+			<key>Play Date UTC</key><date>2026-04-05T21:56:47Z</date>
 			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -45,13 +45,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>431284E8A372B70D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/01%20Future%20Ice%20Cream.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/01%20Future%20Ice%20Cream.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6530</key>
+		<key>7012</key>
 		<dict>
-			<key>Track ID</key><integer>6530</integer>
+			<key>Track ID</key><integer>7012</integer>
 			<key>Name</key><string>For You Ufo</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -71,9 +71,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>14</integer>
-			<key>Play Date</key><integer>3851317163</integer>
-			<key>Play Date UTC</key><date>2026-01-15T16:19:23Z</date>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3859299843</integer>
+			<key>Play Date UTC</key><date>2026-04-18T00:44:03Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-16T04:30:56Z</date>
 			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
@@ -84,13 +84,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>617BF64A7372C77D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/02%20For%20You%20Ufo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/02%20For%20You%20Ufo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6536</key>
+		<key>7018</key>
 		<dict>
-			<key>Track ID</key><integer>6536</integer>
+			<key>Track ID</key><integer>7018</integer>
 			<key>Name</key><string>Uso</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -110,9 +110,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3846150989</integer>
-			<key>Play Date UTC</key><date>2025-11-16T21:16:29Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3857728356</integer>
+			<key>Play Date UTC</key><date>2026-03-30T21:12:36Z</date>
 			<key>Release Date</key><date>2015-11-25T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -121,14 +121,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>489AB2F423E9CB27</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/05%20Uso.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Ototune/05%20Uso.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6544</key>
+		<key>7026</key>
 		<dict>
-			<key>Track ID</key><integer>6544</integer>
-			<key>Name</key><string>Owarase Night</string>
+			<key>Track ID</key><integer>7026</integer>
+			<key>Name</key><string>オワラセナイト</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
 			<key>Composer</key><string>三原 康司</string>
@@ -143,14 +143,14 @@
 			<key>Track Count</key><integer>7</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>BPM</key><integer>150</integer>
-			<key>Date Modified</key><date>2026-01-07T19:34:17Z</date>
+			<key>Date Modified</key><date>2026-02-17T01:28:18Z</date>
 			<key>Date Added</key><date>2024-09-26T20:50:44Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850336441</integer>
-			<key>Play Date UTC</key><date>2026-01-04T07:54:01Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3856351244</integer>
+			<key>Play Date UTC</key><date>2026-03-14T22:40:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -158,13 +158,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>751552DAFE40C535</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/01%20Owarase%20Night.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/01%20%E3%82%AA%E3%83%AF%E3%83%A9%E3%82%BB%E3%83%8A%E3%82%A4%E3%83%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6546</key>
+		<key>7028</key>
 		<dict>
-			<key>Track ID</key><integer>6546</integer>
+			<key>Track ID</key><integer>7028</integer>
 			<key>Name</key><string>DNA Desu</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -195,13 +195,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E3977B91B0C0FB08</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/02%20DNA%20Desu.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/02%20DNA%20Desu.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6552</key>
+		<key>7034</key>
 		<dict>
-			<key>Track ID</key><integer>6552</integer>
+			<key>Track ID</key><integer>7034</integer>
 			<key>Name</key><string>Sweater Wo Nugasanaide</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -222,9 +222,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851964111</integer>
-			<key>Play Date UTC</key><date>2026-01-23T04:01:51Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853652732</integer>
+			<key>Play Date UTC</key><date>2026-02-11T17:05:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -232,13 +232,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EF2C1926872ECBD9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/05%20Sweater%20Wo%20Nugasanaide.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/05%20Sweater%20Wo%20Nugasanaide.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6554</key>
+		<key>7036</key>
 		<dict>
-			<key>Track ID</key><integer>6554</integer>
+			<key>Track ID</key><integer>7036</integer>
 			<key>Name</key><string>Ai No Meiwaku</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -259,9 +259,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3841831173</integer>
-			<key>Play Date UTC</key><date>2025-09-27T20:19:33Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859220134</integer>
+			<key>Play Date UTC</key><date>2026-04-17T02:35:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -269,13 +269,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FCB5E4DEC4207F7C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/06%20Ai%20No%20Meiwaku.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/06%20Ai%20No%20Meiwaku.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6556</key>
+		<key>7038</key>
 		<dict>
-			<key>Track ID</key><integer>6556</integer>
+			<key>Track ID</key><integer>7038</integer>
 			<key>Name</key><string>Sayonara Curtain</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -296,9 +296,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3841474786</integer>
-			<key>Play Date UTC</key><date>2025-09-23T17:19:46Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3856358690</integer>
+			<key>Play Date UTC</key><date>2026-03-15T00:44:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -306,13 +306,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A0CE266B0C8AED39</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/07%20Sayonara%20Curtain.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Owarase%20Night/07%20Sayonara%20Curtain.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6558</key>
+		<key>7040</key>
 		<dict>
-			<key>Track ID</key><integer>6558</integer>
+			<key>Track ID</key><integer>7040</integer>
 			<key>Name</key><string>Peppermint Gum</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -332,9 +332,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3847097737</integer>
-			<key>Play Date UTC</key><date>2025-11-27T20:15:37Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857136598</integer>
+			<key>Play Date UTC</key><date>2026-03-24T00:49:58Z</date>
 			<key>Release Date</key><date>2023-11-08T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -343,13 +343,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F2E45302B8FE7FAF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Peppermint%20Gum%20-%20Single/01%20Peppermint%20Gum.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Peppermint%20Gum%20-%20Single/01%20Peppermint%20Gum.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6560</key>
+		<key>7042</key>
 		<dict>
-			<key>Track ID</key><integer>6560</integer>
+			<key>Track ID</key><integer>7042</integer>
 			<key>Name</key><string>Sparkle Dancer</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -369,9 +369,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3840620741</integer>
-			<key>Play Date UTC</key><date>2025-09-13T20:05:41Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857887374</integer>
+			<key>Play Date UTC</key><date>2026-04-01T17:22:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -379,13 +379,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CD19967785F83D81</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Sparkle%20Dancer%20-%20Single/01%20Sparkle%20Dancer.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Sparkle%20Dancer%20-%20Single/01%20Sparkle%20Dancer.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6562</key>
+		<key>7044</key>
 		<dict>
-			<key>Track ID</key><integer>6562</integer>
+			<key>Track ID</key><integer>7044</integer>
 			<key>Name</key><string>Togenkyo</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -405,9 +405,9 @@
 			<key>Bit Rate</key><integer>317</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3850564989</integer>
-			<key>Play Date UTC</key><date>2026-01-06T23:23:09Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3855044350</integer>
+			<key>Play Date UTC</key><date>2026-02-27T19:39:10Z</date>
 			<key>Release Date</key><date>2017-10-06T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -416,13 +416,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5472BAFA62EBAA84</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/01%20Togenkyo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/01%20Togenkyo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6564</key>
+		<key>7046</key>
 		<dict>
-			<key>Track ID</key><integer>6564</integer>
+			<key>Track ID</key><integer>7046</integer>
 			<key>Name</key><string>Slowly Dance</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -443,9 +443,9 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3850497337</integer>
-			<key>Play Date UTC</key><date>2026-01-06T04:35:37Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3856789281</integer>
+			<key>Play Date UTC</key><date>2026-03-20T00:21:21Z</date>
 			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -454,13 +454,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8CC2D171B86863D3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/02%20Slowly%20Dance.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/02%20Slowly%20Dance.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6568</key>
+		<key>7050</key>
 		<dict>
-			<key>Track ID</key><integer>6568</integer>
+			<key>Track ID</key><integer>7050</integer>
 			<key>Name</key><string>Tarinaieye</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -481,9 +481,9 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3844248265</integer>
-			<key>Play Date UTC</key><date>2025-10-25T19:44:25Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853269295</integer>
+			<key>Play Date UTC</key><date>2026-02-07T06:34:55Z</date>
 			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -492,13 +492,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9F6909930F5800C8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/04%20Tarinaieye.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/04%20Tarinaieye.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6570</key>
+		<key>7052</key>
 		<dict>
-			<key>Track ID</key><integer>6570</integer>
+			<key>Track ID</key><integer>7052</integer>
 			<key>Name</key><string>Midnight Glider</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -519,9 +519,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3852136833</integer>
-			<key>Play Date UTC</key><date>2026-01-25T04:00:33Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859034586</integer>
+			<key>Play Date UTC</key><date>2026-04-14T23:03:06Z</date>
 			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -530,13 +530,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B59F0F076119D3E9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/05%20Midnight%20Glider.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Togenkyo/05%20Midnight%20Glider.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6582</key>
+		<key>7064</key>
 		<dict>
-			<key>Track ID</key><integer>6582</integer>
+			<key>Track ID</key><integer>7064</integer>
 			<key>Name</key><string>Midnight Creative Drive</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -557,23 +557,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3850319501</integer>
-			<key>Play Date UTC</key><date>2026-01-04T03:11:41Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855020415</integer>
+			<key>Play Date UTC</key><date>2026-02-27T13:00:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4052</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1800BDD5794BE387</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Yuyukaneikaiyuroku/04%20Midnight%20Creative%20Drive.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/Yuyukaneikaiyuroku/04%20Midnight%20Creative%20Drive.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6590</key>
+		<key>7072</key>
 		<dict>
-			<key>Track ID</key><integer>6590</integer>
+			<key>Track ID</key><integer>7072</integer>
 			<key>Name</key><string>瞳のランデヴー</string>
 			<key>Artist</key><string>Fujifabric &#38; フレデリック</string>
 			<key>Album Artist</key><string>Fujifabric &#38; フレデリック</string>
@@ -603,13 +602,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A1986EA27B5947FB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Fujifabric%20&#38;%20%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC%20-%20Single/01%20%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Fujifabric%20&#38;%20%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC%20-%20Single/01%20%E7%9E%B3%E3%81%AE%E3%83%A9%E3%83%B3%E3%83%87%E3%83%B4%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11682</key>
+		<key>12164</key>
 		<dict>
-			<key>Track ID</key><integer>11682</integer>
+			<key>Track ID</key><integer>12164</integer>
 			<key>Name</key><string>ANSWER</string>
 			<key>Artist</key><string>フレデリック×須田景凪</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -629,9 +628,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3845447119</integer>
-			<key>Play Date UTC</key><date>2025-11-08T17:45:19Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859529131</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:25:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -640,13 +639,13 @@
 			<key>Persistent ID</key><string>8ED0C05F1D1FA97B</string>
 			<key>Track Type</key><string>File</string>
 			<key>Matched</key><true/>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/01%20ANSWER.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/01%20ANSWER.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11684</key>
+		<key>12166</key>
 		<dict>
-			<key>Track ID</key><integer>11684</integer>
+			<key>Track ID</key><integer>12166</integer>
 			<key>Name</key><string>TOMOSHI BEAT</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -667,9 +666,9 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3852790012</integer>
-			<key>Play Date UTC</key><date>2026-02-01T17:26:52Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3858314288</integer>
+			<key>Play Date UTC</key><date>2026-04-06T14:58:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -677,13 +676,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2BD632989983F8D5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/02%20TOMOSHI%20BEAT.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/ANSWER/02%20TOMOSHI%20BEAT.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11692</key>
+		<key>12174</key>
 		<dict>
-			<key>Track ID</key><integer>11692</integer>
+			<key>Track ID</key><integer>12174</integer>
 			<key>Name</key><string>オドループ</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -704,9 +703,9 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3837353897</integer>
-			<key>Play Date UTC</key><date>2025-08-07T00:38:17Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3853231784</integer>
+			<key>Play Date UTC</key><date>2026-02-06T20:09:44Z</date>
 			<key>Release Date</key><date>2014-09-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -715,13 +714,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>89346436F6B7DED9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/oddloop/01%20%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/oddloop/01%20%E3%82%AA%E3%83%89%E3%83%AB%E3%83%BC%E3%83%97.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11706</key>
+		<key>12188</key>
 		<dict>
-			<key>Track ID</key><integer>11706</integer>
+			<key>Track ID</key><integer>12188</integer>
 			<key>Name</key><string>PEEK A BOO</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -751,13 +750,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E2856B12E21A47A4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/PEEK%20A%20BOO/01%20PEEK%20A%20BOO.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/PEEK%20A%20BOO/01%20PEEK%20A%20BOO.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11724</key>
+		<key>12206</key>
 		<dict>
-			<key>Track ID</key><integer>11724</integer>
+			<key>Track ID</key><integer>12206</integer>
 			<key>Name</key><string>ほねのふね</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -778,9 +777,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850474393</integer>
-			<key>Play Date UTC</key><date>2026-01-05T22:13:13Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859309025</integer>
+			<key>Play Date UTC</key><date>2026-04-18T03:17:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -788,13 +787,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2EBA72DE0447DDA6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%86%E3%81%A1%E3%82%85%E3%81%86%E3%81%AB%E3%82%80%E3%81%A1%E3%82%85%E3%81%86/06%20%E3%81%BB%E3%81%AD%E3%81%AE%E3%81%B5%E3%81%AD.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%86%E3%81%A1%E3%82%85%E3%81%86%E3%81%AB%E3%82%80%E3%81%A1%E3%82%85%E3%81%86/06%20%E3%81%BB%E3%81%AD%E3%81%AE%E3%81%B5%E3%81%AD.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11726</key>
+		<key>12208</key>
 		<dict>
-			<key>Track ID</key><integer>11726</integer>
+			<key>Track ID</key><integer>12208</integer>
 			<key>Name</key><string>かなしいうれしい</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -825,13 +824,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F88520AC03AA33D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/01%20%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/01%20%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11730</key>
+		<key>12212</key>
 		<dict>
-			<key>Track ID</key><integer>11730</integer>
+			<key>Track ID</key><integer>12212</integer>
 			<key>Name</key><string>まちがいさがしの国</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -852,9 +851,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3846154555</integer>
-			<key>Play Date UTC</key><date>2025-11-16T22:15:55Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859204840</integer>
+			<key>Play Date UTC</key><date>2026-04-16T22:20:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -862,13 +861,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>346431EF15CCF0FB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/03%20%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%84%E3%81%95%E3%81%8C%E3%81%97%E3%81%AE%E5%9B%BD.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%81%8B%E3%81%AA%E3%81%97%E3%81%84%E3%81%86%E3%82%8C%E3%81%97%E3%81%84/03%20%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%84%E3%81%95%E3%81%8C%E3%81%97%E3%81%AE%E5%9B%BD.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11732</key>
+		<key>12214</key>
 		<dict>
-			<key>Track ID</key><integer>11732</integer>
+			<key>Track ID</key><integer>12214</integer>
 			<key>Name</key><string>オンリーワンダー</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -889,23 +888,22 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3841310820</integer>
-			<key>Play Date UTC</key><date>2025-09-21T19:47:00Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3858583740</integer>
+			<key>Play Date UTC</key><date>2026-04-09T17:49:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8200</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>620CA8F2933CD93C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC/01%20%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC/01%20%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11742</key>
+		<key>12224</key>
 		<dict>
-			<key>Track ID</key><integer>11742</integer>
+			<key>Track ID</key><integer>12224</integer>
 			<key>Name</key><string>サイカ</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -925,9 +923,11 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3837783251</integer>
-			<key>Play Date UTC</key><date>2025-08-11T23:54:11Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859203560</integer>
+			<key>Play Date UTC</key><date>2026-04-16T21:59:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-01T01:10:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -935,13 +935,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AA7AE82783A5582F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%B5%E3%82%A4%E3%82%AB/01%20%E3%82%B5%E3%82%A4%E3%82%AB.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%82%B5%E3%82%A4%E3%82%AB/01%20%E3%82%B5%E3%82%A4%E3%82%AB.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11746</key>
+		<key>12228</key>
 		<dict>
-			<key>Track ID</key><integer>11746</integer>
+			<key>Track ID</key><integer>12228</integer>
 			<key>Name</key><string>リリリピート</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -962,24 +962,23 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3844159047</integer>
-			<key>Play Date UTC</key><date>2025-10-24T18:57:27Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857150972</integer>
+			<key>Play Date UTC</key><date>2026-03-24T04:49:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9657</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CA12C832FC338878</string>
 			<key>Track Type</key><string>File</string>
 			<key>Matched</key><true/>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/02%20%E3%83%AA%E3%83%AA%E3%83%AA%E3%83%94%E3%83%BC%E3%83%88.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/02%20%E3%83%AA%E3%83%AA%E3%83%AA%E3%83%94%E3%83%BC%E3%83%88.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11750</key>
+		<key>12232</key>
 		<dict>
-			<key>Track ID</key><integer>11750</integer>
+			<key>Track ID</key><integer>12232</integer>
 			<key>Name</key><string>KITAKU BEATS</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1000,24 +999,23 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3852488280</integer>
-			<key>Play Date UTC</key><date>2026-01-29T05:38:00Z</date>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3859201191</integer>
+			<key>Play Date UTC</key><date>2026-04-16T21:19:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7703</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C6C63FBEEF1CF224</string>
 			<key>Track Type</key><string>File</string>
 			<key>Matched</key><true/>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/04%20KITAKU%20BEATS.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/04%20KITAKU%20BEATS.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11758</key>
+		<key>12240</key>
 		<dict>
-			<key>Track ID</key><integer>11758</integer>
+			<key>Track ID</key><integer>12240</integer>
 			<key>Name</key><string>ナイトステップ</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1038,23 +1036,24 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>23</integer>
-			<key>Play Date</key><integer>3852702289</integer>
-			<key>Play Date UTC</key><date>2026-01-31T17:04:49Z</date>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3858248565</integer>
+			<key>Play Date UTC</key><date>2026-04-05T20:42:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-07T06:27:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7196</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3B68C56A216EFA8D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/08%20%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/08%20%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B9%E3%83%86%E3%83%83%E3%83%97.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11768</key>
+		<key>12250</key>
 		<dict>
-			<key>Track ID</key><integer>11768</integer>
+			<key>Track ID</key><integer>12250</integer>
 			<key>Name</key><string>音楽という名前の服</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1075,24 +1074,23 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3852793684</integer>
-			<key>Play Date UTC</key><date>2026-02-01T18:28:04Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3859308823</integer>
+			<key>Play Date UTC</key><date>2026-04-18T03:13:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7114</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B53AA03E12116A2C</string>
 			<key>Track Type</key><string>File</string>
 			<key>Matched</key><true/>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/13%20%E9%9F%B3%E6%A5%BD%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E5%89%8D%E3%81%AE%E6%9C%8D.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0/13%20%E9%9F%B3%E6%A5%BD%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E5%89%8D%E3%81%AE%E6%9C%8D.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11778</key>
+		<key>12260</key>
 		<dict>
-			<key>Track ID</key><integer>11778</integer>
+			<key>Track ID</key><integer>12260</integer>
 			<key>Name</key><string>Endless Mayday</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1112,23 +1110,22 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3837266566</integer>
-			<key>Play Date UTC</key><date>2025-08-06T00:22:46Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857233363</integer>
+			<key>Play Date UTC</key><date>2026-03-25T03:42:43Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14172</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>522B5735AF098402</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/03%20Endless%20Mayday.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/03%20Endless%20Mayday.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11782</key>
+		<key>12264</key>
 		<dict>
-			<key>Track ID</key><integer>11782</integer>
+			<key>Track ID</key><integer>12264</integer>
 			<key>Name</key><string>Touhikou</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1149,23 +1146,22 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3852489340</integer>
-			<key>Play Date UTC</key><date>2026-01-29T05:55:40Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3853505757</integer>
+			<key>Play Date UTC</key><date>2026-02-10T00:15:57Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10031</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DDBF85BB482F7BA3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/05%20Touhikou.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/05%20Touhikou.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11784</key>
+		<key>12266</key>
 		<dict>
-			<key>Track ID</key><integer>11784</integer>
+			<key>Track ID</key><integer>12266</integer>
 			<key>Name</key><string>Sukiraism</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1193,18 +1189,17 @@
 			<key>Skip Date</key><date>2025-11-20T18:36:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11992</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>10EA56DEE62AA288</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/06%20Sukiraism.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/06%20Sukiraism.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11786</key>
+		<key>12268</key>
 		<dict>
-			<key>Track ID</key><integer>11786</integer>
+			<key>Track ID</key><integer>12268</integer>
 			<key>Name</key><string>Yoso no Piranha</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1229,18 +1224,17 @@
 			<key>Play Date UTC</key><date>2026-01-16T03:21:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6707</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2B138DBFE39F9DA7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/07%20Yoso%20no%20Piranha.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%202/07%20Yoso%20no%20Piranha.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11800</key>
+		<key>12282</key>
 		<dict>
-			<key>Track ID</key><integer>11800</integer>
+			<key>Track ID</key><integer>12282</integer>
 			<key>Name</key><string>ジャンキー</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1270,13 +1264,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>89D81E374D5EEBB5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/01%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AD%E3%83%BC.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/01%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AD%E3%83%BC.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11820</key>
+		<key>12302</key>
 		<dict>
-			<key>Track ID</key><integer>11820</integer>
+			<key>Track ID</key><integer>12302</integer>
 			<key>Name</key><string>YOU RAY</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1297,22 +1291,22 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3843123614</integer>
-			<key>Play Date UTC</key><date>2025-10-12T19:20:14Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857829807</integer>
+			<key>Play Date UTC</key><date>2026-04-01T01:23:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2015</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>ACCDFFA53ED6E6B5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/11%20YOU%20RAY.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/11%20YOU%20RAY.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11822</key>
+		<key>12304</key>
 		<dict>
-			<key>Track ID</key><integer>11822</integer>
+			<key>Track ID</key><integer>12304</integer>
 			<key>Name</key><string>蜃気楼</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1342,13 +1336,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DD1F1231A06407A8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/12%20%E8%9C%83%E6%B0%97%E6%A5%BC.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%82%BA%E3%83%A0%203/12%20%E8%9C%83%E6%B0%97%E6%A5%BC.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11828</key>
+		<key>12310</key>
 		<dict>
-			<key>Track ID</key><integer>11828</integer>
+			<key>Track ID</key><integer>12310</integer>
 			<key>Name</key><string>飄々とエモーション</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1374,18 +1368,17 @@
 			<key>Play Date UTC</key><date>2026-01-24T17:52:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9901</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>807CAD39A4B04DD7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/01%20%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/01%20%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11830</key>
+		<key>12312</key>
 		<dict>
-			<key>Track ID</key><integer>11830</integer>
+			<key>Track ID</key><integer>12312</integer>
 			<key>Name</key><string>シンセンス</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1411,18 +1404,17 @@
 			<key>Play Date UTC</key><date>2026-01-27T18:55:30Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8082</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8C3F3A348DD049F9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/02%20%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/%E9%A3%84%E3%80%85%E3%81%A8%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/02%20%E3%82%B7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11894</key>
+		<key>12376</key>
 		<dict>
-			<key>Track ID</key><integer>11894</integer>
+			<key>Track ID</key><integer>12376</integer>
 			<key>Name</key><string>煌舟</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1449,18 +1441,17 @@
 			<key>Skip Date</key><date>2025-01-15T22:20:26Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11237</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>88511EEC528DF3B7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/CITRUS%20CURIO%20CITY/02%20%E7%85%8C%E8%88%9F.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/CITRUS%20CURIO%20CITY/02%20%E7%85%8C%E8%88%9F.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14776</key>
+		<key>15150</key>
 		<dict>
-			<key>Track ID</key><integer>14776</integer>
+			<key>Track ID</key><integer>15150</integer>
 			<key>Name</key><string>Yona Yona Dance (Frederhythm Ver.)</string>
 			<key>Artist</key><string>フレデリック</string>
 			<key>Album Artist</key><string>フレデリック</string>
@@ -1480,9 +1471,9 @@
 			<key>Bit Rate</key><integer>331</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852379155</integer>
-			<key>Play Date UTC</key><date>2026-01-27T23:19:15Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857400867</integer>
+			<key>Play Date UTC</key><date>2026-03-27T02:14:27Z</date>
 			<key>Release Date</key><date>2022-01-19T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1491,13 +1482,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C5ACB116C095E37E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/YONA%20YONA%20DANCE%20(Frederhythm%20Ver.)%20-%20Sin/01%20Yona%20Yona%20Dance%20(Frederhythm%20Ver..m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF/YONA%20YONA%20DANCE%20(Frederhythm%20Ver.)%20-%20Sin/01%20Yona%20Yona%20Dance%20(Frederhythm%20Ver..m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16972</key>
+		<key>17346</key>
 		<dict>
-			<key>Track ID</key><integer>16972</integer>
+			<key>Track ID</key><integer>17346</integer>
 			<key>Name</key><string>KANPAI FUNK</string>
 			<key>Artist</key><string>meiyo feat. フレデリック</string>
 			<key>Album Artist</key><string>meiyo</string>
@@ -1528,7 +1519,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3B631D45025C6924</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/meiyo/POP%20SOS/09%20KANPAI%20FUNK.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/meiyo/POP%20SOS/09%20KANPAI%20FUNK.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1538,7 +1529,7 @@
 		<dict>
 			<key>Name</key><string>フレデリック</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102517</integer>
+			<key>Playlist ID</key><integer>126413</integer>
 			<key>Playlist Persistent ID</key><string>D2B23EF0EDAD6254</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1582,127 +1573,127 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>11724</integer>
+					<key>Track ID</key><integer>12206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11732</integer>
+					<key>Track ID</key><integer>12214</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11726</integer>
+					<key>Track ID</key><integer>12208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11730</integer>
+					<key>Track ID</key><integer>12212</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11828</integer>
+					<key>Track ID</key><integer>12310</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11830</integer>
+					<key>Track ID</key><integer>12312</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11742</integer>
+					<key>Track ID</key><integer>12224</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11682</integer>
+					<key>Track ID</key><integer>12164</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11684</integer>
+					<key>Track ID</key><integer>12166</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14776</integer>
+					<key>Track ID</key><integer>15150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11800</integer>
+					<key>Track ID</key><integer>12282</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6560</integer>
+					<key>Track ID</key><integer>7042</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6558</integer>
+					<key>Track ID</key><integer>7040</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11692</integer>
+					<key>Track ID</key><integer>12174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6544</integer>
+					<key>Track ID</key><integer>7026</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6546</integer>
+					<key>Track ID</key><integer>7028</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6552</integer>
+					<key>Track ID</key><integer>7034</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6554</integer>
+					<key>Track ID</key><integer>7036</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6556</integer>
+					<key>Track ID</key><integer>7038</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6528</integer>
+					<key>Track ID</key><integer>7010</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6530</integer>
+					<key>Track ID</key><integer>7012</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6536</integer>
+					<key>Track ID</key><integer>7018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11746</integer>
+					<key>Track ID</key><integer>12228</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11750</integer>
+					<key>Track ID</key><integer>12232</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11758</integer>
+					<key>Track ID</key><integer>12240</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11768</integer>
+					<key>Track ID</key><integer>12250</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6562</integer>
+					<key>Track ID</key><integer>7044</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6564</integer>
+					<key>Track ID</key><integer>7046</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6568</integer>
+					<key>Track ID</key><integer>7050</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6570</integer>
+					<key>Track ID</key><integer>7052</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11778</integer>
+					<key>Track ID</key><integer>12260</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11782</integer>
+					<key>Track ID</key><integer>12264</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11784</integer>
+					<key>Track ID</key><integer>12266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11786</integer>
+					<key>Track ID</key><integer>12268</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11820</integer>
+					<key>Track ID</key><integer>12302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11822</integer>
+					<key>Track ID</key><integer>12304</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6582</integer>
+					<key>Track ID</key><integer>7064</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11706</integer>
+					<key>Track ID</key><integer>12188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11894</integer>
+					<key>Track ID</key><integer>12376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6590</integer>
+					<key>Track ID</key><integer>7072</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16972</integer>
+					<key>Track ID</key><integer>17346</integer>
 				</dict>
 			</array>
 		</dict>

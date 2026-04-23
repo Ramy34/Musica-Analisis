@@ -4,18 +4,18 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-13T19:22:08Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:24:36Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>9888</key>
+		<key>10366</key>
 		<dict>
-			<key>Track ID</key><integer>9888</integer>
-			<key>Name</key><string>Caravan</string>
+			<key>Track ID</key><integer>10366</integer>
+			<key>Name</key><string>キャラバン</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Album</key><string>Adapt</string>
@@ -29,7 +29,7 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2022</integer>
 			<key>BPM</key><integer>90</integer>
-			<key>Date Modified</key><date>2026-01-07T21:19:31Z</date>
+			<key>Date Modified</key><date>2026-02-23T05:57:47Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -45,14 +45,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F28A6E9BA218D294</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Adapt/02%20Caravan.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Adapt/02%20%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%90%E3%83%B3.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9890</key>
+		<key>10368</key>
 		<dict>
-			<key>Track ID</key><integer>9890</integer>
-			<key>Name</key><string>Tsuki No Wan</string>
+			<key>Track ID</key><integer>10368</integer>
+			<key>Name</key><string>月の椀</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>sakanaction &#38; Yamaguchi Ichiro</string>
@@ -67,32 +67,32 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2022</integer>
 			<key>BPM</key><integer>132</integer>
-			<key>Date Modified</key><date>2026-01-07T20:45:59Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:12:34Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3843571045</integer>
-			<key>Play Date UTC</key><date>2025-10-17T23:37:25Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856270163</integer>
+			<key>Play Date UTC</key><date>2026-03-14T00:09:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5064</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>337BFD89AAED6656</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Adapt/03%20Tsuki%20No%20Wan.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Adapt/03%20%E6%9C%88%E3%81%AE%E6%A4%80.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9902</key>
+		<key>10380</key>
 		<dict>
-			<key>Track ID</key><integer>9902</integer>
-			<key>Name</key><string>Good-Bye</string>
+			<key>Track ID</key><integer>10380</integer>
+			<key>Name</key><string>グッドバイ</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口　一郎</string>
-			<key>Album</key><string>Good-Bye - Eureka - Single</string>
+			<key>Album</key><string>グッドバイ - ユリイカ - Single</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>9044147</integer>
@@ -103,32 +103,32 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2014</integer>
 			<key>BPM</key><integer>152</integer>
-			<key>Date Modified</key><date>2026-01-07T20:06:21Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:00:36Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850466747</integer>
-			<key>Play Date UTC</key><date>2026-01-05T20:05:47Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3856266162</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:02:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>8688</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61BF680486E370F4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Good-Bye%20-%20Eureka%20-%20Single/01%20Good-Bye.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4%20-%20%E3%83%A6%E3%83%AA%E3%82%A4%E3%82%AB%20-%20Single/01%20%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9904</key>
+		<key>10382</key>
 		<dict>
-			<key>Track ID</key><integer>9904</integer>
-			<key>Name</key><string>Eureka</string>
+			<key>Track ID</key><integer>10382</integer>
+			<key>Name</key><string>ユリイカ</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口　一郎</string>
-			<key>Album</key><string>Good-Bye - Eureka - Single</string>
+			<key>Album</key><string>グッドバイ - ユリイカ - Single</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>10708458</integer>
@@ -139,31 +139,31 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2014</integer>
 			<key>BPM</key><integer>124</integer>
-			<key>Date Modified</key><date>2026-01-07T20:52:29Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:00:29Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3840191158</integer>
-			<key>Play Date UTC</key><date>2025-09-08T20:45:58Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3856189699</integer>
+			<key>Play Date UTC</key><date>2026-03-13T01:48:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3729</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9EEDE345F4539DBA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Good-Bye%20-%20Eureka%20-%20Single/02%20Eureka.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%82%B0%E3%83%83%E3%83%89%E3%83%90%E3%82%A4%20-%20%E3%83%A6%E3%83%AA%E3%82%A4%E3%82%AB%20-%20Single/02%20%E3%83%A6%E3%83%AA%E3%82%A4%E3%82%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9908</key>
+		<key>10386</key>
 		<dict>
-			<key>Track ID</key><integer>9908</integer>
-			<key>Name</key><string>Plateau</string>
+			<key>Track ID</key><integer>10386</integer>
+			<key>Name</key><string>プラトー</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
-			<key>Album</key><string>Plateau - Single</string>
+			<key>Album</key><string>プラトー - Single</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>8520229</integer>
@@ -174,14 +174,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2021</integer>
 			<key>BPM</key><integer>81</integer>
-			<key>Date Modified</key><date>2026-01-07T21:40:21Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:05:50Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:03Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3848298329</integer>
-			<key>Play Date UTC</key><date>2025-12-11T17:45:29Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859530595</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:49:55Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-08-04T20:41:59Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -191,14 +191,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1CF818EDE9C17E5B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Plateau%20-%20Single/01%20Plateau.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%83%97%E3%83%A9%E3%83%88%E3%83%BC%20-%20Single/01%20%E3%83%97%E3%83%A9%E3%83%88%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9918</key>
+		<key>10396</key>
 		<dict>
-			<key>Track ID</key><integer>9918</integer>
-			<key>Name</key><string>Nantettatte Haru</string>
+			<key>Track ID</key><integer>10396</integer>
+			<key>Name</key><string>なんてったって春</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>Yamaguchi Ichiro</string>
@@ -213,27 +213,27 @@
 			<key>Track Count</key><integer>14</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>BPM</key><integer>126</integer>
-			<key>Date Modified</key><date>2026-01-07T18:46:58Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:33:36Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:05Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3847262391</integer>
-			<key>Play Date UTC</key><date>2025-11-29T17:59:51Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856265265</integer>
+			<key>Play Date UTC</key><date>2026-03-13T22:47:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>1671</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DBD9F8E74970B4BF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/05%20Nantettatte%20Haru.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/05%20%E3%81%AA%E3%82%93%E3%81%A6%E3%81%A3%E3%81%9F%E3%81%A3%E3%81%A6%E6%98%A5.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9922</key>
+		<key>10400</key>
 		<dict>
-			<key>Track ID</key><integer>9922</integer>
+			<key>Track ID</key><integer>10400</integer>
 			<key>Name</key><string>M</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
@@ -254,22 +254,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3841339434</integer>
-			<key>Play Date UTC</key><date>2025-09-22T03:43:54Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856267176</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:19:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2673</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CBAE6D73523444FF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/07%20M.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/07%20M.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9924</key>
+		<key>10402</key>
 		<dict>
-			<key>Track ID</key><integer>9924</integer>
+			<key>Track ID</key><integer>10402</integer>
 			<key>Name</key><string>Aoi</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
@@ -290,27 +290,27 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3839675303</integer>
-			<key>Play Date UTC</key><date>2025-09-02T21:28:23Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853839767</integer>
+			<key>Play Date UTC</key><date>2026-02-13T21:02:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>9192</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EE9ED61A1A11397E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/08%20Aoi.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Sakanaction/08%20Aoi.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9938</key>
+		<key>10416</key>
 		<dict>
-			<key>Track ID</key><integer>9938</integer>
-			<key>Name</key><string>Shin Takara Jima</string>
+			<key>Track ID</key><integer>10416</integer>
+			<key>Name</key><string>新宝島</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>Yamaguchi Ichiro</string>
-			<key>Album</key><string>Shin Takara Jima - EP</string>
+			<key>Album</key><string>新宝島 - EP</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>9890739</integer>
@@ -321,32 +321,32 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>BPM</key><integer>158</integer>
-			<key>Date Modified</key><date>2026-01-07T19:56:40Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:10:22Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:07Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853319638</integer>
-			<key>Play Date UTC</key><date>2026-02-07T20:33:58Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857553406</integer>
+			<key>Play Date UTC</key><date>2026-03-28T20:36:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>11504</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>238023DC092E17AA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Shin%20Takara%20Jima%20-%20EP/01%20Shin%20Takara%20Jima.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E6%96%B0%E5%AE%9D%E5%B3%B6%20-%20EP/01%20%E6%96%B0%E5%AE%9D%E5%B3%B6.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9940</key>
+		<key>10418</key>
 		<dict>
-			<key>Track ID</key><integer>9940</integer>
-			<key>Name</key><string>'Kikitakatta Dance Music Liquidroom Ni'</string>
+			<key>Track ID</key><integer>10418</integer>
+			<key>Name</key><string>「聴きたかったダンスミュージック、リキッドルームに」</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口　一郎</string>
-			<key>Album</key><string>Shin Takara Jima - EP</string>
+			<key>Album</key><string>新宝島 - EP</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>7780904</integer>
@@ -357,31 +357,32 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>BPM</key><integer>120</integer>
-			<key>Date Modified</key><date>2026-01-07T17:07:46Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:37:16Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:07Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853662972</integer>
-			<key>Play Date UTC</key><date>2026-02-11T19:56:12Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856269861</integer>
+			<key>Play Date UTC</key><date>2026-03-14T00:04:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2579</integer>
 			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>聴きたかったダンスミュージック、リキッドルームに」</string>
 			<key>Persistent ID</key><string>0CC5786BB919720B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Shin%20Takara%20Jima%20-%20EP/02%20'Kikitakatta%20Dance%20Music%20Liquidro.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E6%96%B0%E5%AE%9D%E5%B3%B6%20-%20EP/02%20%E3%80%8C%E8%81%B4%E3%81%8D%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%83%80%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%80%81%E3%83%AA%E3%82%AD%E3%83%83%E3%83%89%E3%83%AB%E3%83%BC%E3%83%A0%E3%81%AB%E3%80%8D.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>9946</key>
+		<key>10424</key>
 		<dict>
-			<key>Track ID</key><integer>9946</integer>
-			<key>Name</key><string>Shock!</string>
+			<key>Track ID</key><integer>10424</integer>
+			<key>Name</key><string>ショック！</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
-			<key>Album</key><string>Shock! - Single</string>
+			<key>Album</key><string>ショック！ - Single</string>
 			<key>Genre</key><string>J-Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>9849086</integer>
@@ -392,14 +393,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2022</integer>
 			<key>BPM</key><integer>136</integer>
-			<key>Date Modified</key><date>2026-01-07T17:49:24Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:11:08Z</date>
 			<key>Date Added</key><date>2024-09-26T21:00:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3839667863</integer>
-			<key>Play Date UTC</key><date>2025-09-02T19:24:23Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856270468</integer>
+			<key>Play Date UTC</key><date>2026-03-14T00:14:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -407,18 +408,18 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D1EBE3E5B65EB607</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Shock!%20-%20Single/01%20Shock!.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%EF%BC%81%20-%20Single/01%20%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%EF%BC%81.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27926</key>
+		<key>28398</key>
 		<dict>
-			<key>Track ID</key><integer>27926</integer>
+			<key>Track ID</key><integer>28398</integer>
 			<key>Name</key><string>Ame(A)</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口 一郎</string>
-			<key>Album</key><string>1000 &#38; 0 - Single</string>
+			<key>Album</key><string>セントレイ - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>6728883</integer>
@@ -429,7 +430,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2008</integer>
 			<key>BPM</key><integer>134</integer>
-			<key>Date Modified</key><date>2026-01-07T19:27:49Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:16:51Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -440,24 +441,24 @@
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-07-31T07:39:19Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4930</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AD6DCF5C9C941659</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/1000%20&#38;%200%20-%20Single/02%20Ame(A).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%82%A4%20-%20Single/02%20Ame(A).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27936</key>
+		<key>28408</key>
 		<dict>
-			<key>Track ID</key><integer>27936</integer>
-			<key>Name</key><string>Boku To Hana</string>
+			<key>Track ID</key><integer>28408</integer>
+			<key>Name</key><string>僕と花</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口 一郎</string>
-			<key>Album</key><string>Boku To Hana - Single</string>
+			<key>Album</key><string>僕と花 - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>7459236</integer>
@@ -468,29 +469,29 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>BPM</key><integer>130</integer>
-			<key>Date Modified</key><date>2026-01-07T20:40:47Z</date>
+			<key>Date Modified</key><date>2026-02-23T05:57:06Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3842123131</integer>
-			<key>Play Date UTC</key><date>2025-10-01T05:25:31Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3858769578</integer>
+			<key>Play Date UTC</key><date>2026-04-11T21:26:18Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5727</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EBDDA974B5532CA3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Boku%20To%20Hana%20-%20Single/01%20Boku%20To%20Hana.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E5%83%95%E3%81%A8%E8%8A%B1%20-%20Single/01%20%E5%83%95%E3%81%A8%E8%8A%B1.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27966</key>
+		<key>28438</key>
 		<dict>
-			<key>Track ID</key><integer>27966</integer>
-			<key>Name</key><string>Mikazuki Sunset</string>
+			<key>Track ID</key><integer>28438</integer>
+			<key>Name</key><string>三日月サンセット</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Album</key><string>Go to the Future</string>
@@ -504,31 +505,30 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>BPM</key><integer>122</integer>
-			<key>Date Modified</key><date>2026-01-07T17:05:38Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:30:28Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846781847</integer>
-			<key>Play Date UTC</key><date>2025-11-24T04:30:47Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3858963886</integer>
+			<key>Play Date UTC</key><date>2026-04-14T03:24:46Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-07-31T06:23:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4181</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>99D4B91E0CEA8C0D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/01%20Mikazuki%20Sunset.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/01%20%E4%B8%89%E6%97%A5%E6%9C%88%E3%82%B5%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27968</key>
+		<key>28440</key>
 		<dict>
-			<key>Track ID</key><integer>27968</integer>
-			<key>Name</key><string>Inner World</string>
+			<key>Track ID</key><integer>28440</integer>
+			<key>Name</key><string>インナーワールド</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>サカナクション</string>
@@ -543,29 +543,28 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>BPM</key><integer>126</integer>
-			<key>Date Modified</key><date>2026-01-07T18:17:19Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:20:36Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3845719502</integer>
-			<key>Play Date UTC</key><date>2025-11-11T21:25:02Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859360029</integer>
+			<key>Play Date UTC</key><date>2026-04-18T17:27:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2455</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>14C64BFC3F946108</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/02%20Inner%20World.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/02%20%E3%82%A4%E3%83%B3%E3%83%8A%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27980</key>
+		<key>28452</key>
 		<dict>
-			<key>Track ID</key><integer>27980</integer>
-			<key>Name</key><string>Yoru No Higashigawa</string>
+			<key>Track ID</key><integer>28452</integer>
+			<key>Name</key><string>夜の東側</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Album</key><string>Go to the Future</string>
@@ -579,38 +578,37 @@
 			<key>Track Count</key><integer>8</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>BPM</key><integer>124</integer>
-			<key>Date Modified</key><date>2026-01-07T17:22:52Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:32:26Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3848053041</integer>
-			<key>Play Date UTC</key><date>2025-12-08T21:37:21Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856266943</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:15:43Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-07-31T06:24:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2322</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>83BC32647B077C26</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/08%20Yoru%20No%20Higashigawa.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Go%20to%20the%20Future/08%20%E5%A4%9C%E3%81%AE%E6%9D%B1%E5%81%B4.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27984</key>
+		<key>28456</key>
 		<dict>
-			<key>Track ID</key><integer>27984</integer>
-			<key>Name</key><string>Identity</string>
+			<key>Track ID</key><integer>28456</integer>
+			<key>Name</key><string>アイデンティティ</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口 一郎</string>
-			<key>Album</key><string>Identity - Single</string>
+			<key>Album</key><string>アイデンティティ - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
-			<key>Size</key><integer>8182762</integer>
+			<key>Size</key><integer>8193005</integer>
 			<key>Total Time</key><integer>253283</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -618,33 +616,33 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>BPM</key><integer>140</integer>
-			<key>Date Modified</key><date>2026-01-07T17:05:28Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:20:12Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3841920597</integer>
-			<key>Play Date UTC</key><date>2025-09-28T21:09:57Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856266415</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:06:55Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14469</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6FC3EDB2DE9A3FBA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Identity%20-%20Single/01%20Identity.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3%20-%20Single/01%20%E3%82%A2%E3%82%A4%E3%83%87%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27990</key>
+		<key>28462</key>
 		<dict>
-			<key>Track ID</key><integer>27990</integer>
-			<key>Name</key><string>Kaiju</string>
+			<key>Track ID</key><integer>28462</integer>
+			<key>Name</key><string>怪獣</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>sakanaction</string>
-			<key>Album</key><string>Kaiju - Single</string>
+			<key>Album</key><string>怪獣 - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>8175764</integer>
@@ -655,14 +653,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>90</integer>
-			<key>Date Modified</key><date>2026-01-07T22:16:52Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:02:25Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3853144512</integer>
-			<key>Play Date UTC</key><date>2026-02-05T19:55:12Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856268043</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:34:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -670,13 +668,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F8937ACEFC69FB08</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Kaiju%20-%20Single/01%20Kaiju.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E6%80%AA%E7%8D%A3%20-%20Single/01%20%E6%80%AA%E7%8D%A3.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28000</key>
+		<key>28472</key>
 		<dict>
-			<key>Track ID</key><integer>28000</integer>
+			<key>Track ID</key><integer>28472</integer>
 			<key>Name</key><string>Klee</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
@@ -696,24 +694,25 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3847103390</integer>
-			<key>Play Date UTC</key><date>2025-11-27T21:49:50Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856266694</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:11:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-11T21:06:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12398</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>38F92ABEECAB6B98</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/kikUUiki/05%20Klee.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/kikUUiki/05%20Klee.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28010</key>
+		<key>28482</key>
 		<dict>
-			<key>Track ID</key><integer>28010</integer>
-			<key>Name</key><string>Omotesanndo 26-00</string>
+			<key>Track ID</key><integer>28482</integer>
+			<key>Name</key><string>表参道26時</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口一郎</string>
@@ -728,33 +727,32 @@
 			<key>Track Count</key><integer>12</integer>
 			<key>Year</key><integer>2010</integer>
 			<key>BPM</key><integer>138</integer>
-			<key>Date Modified</key><date>2026-01-07T19:06:43Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:47:05Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852100596</integer>
-			<key>Play Date UTC</key><date>2026-01-24T17:56:36Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856269532</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:58:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9176</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2CA38B4BB82E74AE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/kikUUiki/10%20Omotesanndo%2026-00.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/kikUUiki/10%20%E8%A1%A8%E5%8F%82%E9%81%9326%E6%99%82.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28016</key>
+		<key>28488</key>
 		<dict>
-			<key>Track ID</key><integer>28016</integer>
-			<key>Name</key><string>Music</string>
+			<key>Track ID</key><integer>28488</integer>
+			<key>Name</key><string>ミュージック</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口一郎</string>
-			<key>Album</key><string>Music - Single</string>
+			<key>Album</key><string>ミュージック - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>10385683</integer>
@@ -765,29 +763,29 @@
 			<key>Track Count</key><integer>2</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>BPM</key><integer>136</integer>
-			<key>Date Modified</key><date>2026-01-07T18:54:14Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:04:27Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852301041</integer>
-			<key>Play Date UTC</key><date>2026-01-27T01:37:21Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3856265846</integer>
+			<key>Play Date UTC</key><date>2026-03-13T22:57:26Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5616</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D883AD2467CB4027</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Music%20-%20Single/01%20Music.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%20-%20Single/01%20%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28020</key>
+		<key>28492</key>
 		<dict>
-			<key>Track ID</key><integer>28020</integer>
-			<key>Name</key><string>Word</string>
+			<key>Track ID</key><integer>28492</integer>
+			<key>Name</key><string>ワード</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口一郎</string>
@@ -802,33 +800,32 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2007</integer>
 			<key>BPM</key><integer>126</integer>
-			<key>Date Modified</key><date>2026-01-07T21:54:48Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:42:08Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3853142558</integer>
-			<key>Play Date UTC</key><date>2026-02-05T19:22:38Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857927395</integer>
+			<key>Play Date UTC</key><date>2026-04-02T04:29:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3988</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9B5D8322D081D5E8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Night%20Fishing/01%20Word.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/Night%20Fishing/01%20%E3%83%AF%E3%83%BC%E3%83%89.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28080</key>
+		<key>28552</key>
 		<dict>
-			<key>Track ID</key><integer>28080</integer>
-			<key>Name</key><string>Tabun Kaze</string>
+			<key>Track ID</key><integer>28552</integer>
+			<key>Name</key><string>多分、風。</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口一郎</string>
-			<key>Album</key><string>Tabun Kaze - Single</string>
+			<key>Album</key><string>多分、風。 - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>9529125</integer>
@@ -839,33 +836,33 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2016</integer>
 			<key>BPM</key><integer>139</integer>
-			<key>Date Modified</key><date>2026-01-07T21:34:49Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:12:14Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846779081</integer>
-			<key>Play Date UTC</key><date>2025-11-24T03:44:41Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856267472</integer>
+			<key>Play Date UTC</key><date>2026-03-13T23:24:32Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5787</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9A1B209F1D624FCB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Tabun%20Kaze%20-%20Single/01%20Tabun%20Kaze.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E5%A4%9A%E5%88%86%E3%80%81%E9%A2%A8%E3%80%82%20-%20Single/01%20%E5%A4%9A%E5%88%86%E3%80%81%E9%A2%A8%E3%80%82.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28088</key>
+		<key>28560</key>
 		<dict>
-			<key>Track ID</key><integer>28088</integer>
-			<key>Name</key><string>Moth</string>
+			<key>Track ID</key><integer>28560</integer>
+			<key>Name</key><string>モス</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>山口一郎</string>
-			<key>Album</key><string>Wasurerarenaino - Moth - EP</string>
+			<key>Album</key><string>忘れられないの - モス - EP</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>7927187</integer>
@@ -876,32 +873,32 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2019</integer>
 			<key>BPM</key><integer>158</integer>
-			<key>Date Modified</key><date>2026-01-07T21:28:02Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:13:05Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3844074434</integer>
-			<key>Play Date UTC</key><date>2025-10-23T19:27:14Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857729622</integer>
+			<key>Play Date UTC</key><date>2026-03-30T21:33:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>11095</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1887959C3B92C785</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Wasurerarenaino%20-%20Moth%20-%20EP/02%20Moth.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E5%BF%98%E3%82%8C%E3%82%89%E3%82%8C%E3%81%AA%E3%81%84%E3%81%AE%20-%20%E3%83%A2%E3%82%B9%20-%20EP/02%20%E3%83%A2%E3%82%B9.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28094</key>
+		<key>28566</key>
 		<dict>
-			<key>Track ID</key><integer>28094</integer>
-			<key>Name</key><string>Yoru No Odoriko</string>
+			<key>Track ID</key><integer>28566</integer>
+			<key>Name</key><string>夜の踊り子</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
 			<key>Composer</key><string>Yamaguchi Ichiro</string>
-			<key>Album</key><string>Yoru No Odoriko - Single</string>
+			<key>Album</key><string>夜の踊り子 - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>9744594</integer>
@@ -912,7 +909,7 @@
 			<key>Track Count</key><integer>3</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>BPM</key><integer>134</integer>
-			<key>Date Modified</key><date>2026-01-07T16:54:34Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:14:18Z</date>
 			<key>Date Added</key><date>2025-07-31T06:00:33Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -921,23 +918,23 @@
 			<key>Play Date</key><integer>3852957416</integer>
 			<key>Play Date UTC</key><date>2026-02-03T15:56:56Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>80</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6978</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>60A37850D8ABB666</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/Yoru%20No%20Odoriko%20-%20Single/01%20Yoru%20No%20Odoriko.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90%20-%20Single/01%20%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34968</key>
+		<key>35440</key>
 		<dict>
-			<key>Track ID</key><integer>34968</integer>
-			<key>Name</key><string>IRANAI</string>
+			<key>Track ID</key><integer>35440</integer>
+			<key>Name</key><string>いらない</string>
 			<key>Artist</key><string>sakanaction</string>
 			<key>Album Artist</key><string>sakanaction</string>
-			<key>Album</key><string>IRANAI - Single</string>
+			<key>Album</key><string>いらない - Single</string>
 			<key>Genre</key><string>Rock</string>
 			<key>Kind</key><string>Audio Apple Lossless</string>
 			<key>Size</key><integer>30732160</integer>
@@ -948,14 +945,16 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2026</integer>
 			<key>BPM</key><integer>78</integer>
-			<key>Date Modified</key><date>2026-02-13T19:21:39Z</date>
+			<key>Date Modified</key><date>2026-02-23T06:01:44Z</date>
 			<key>Date Added</key><date>2026-02-12T18:38:05Z</date>
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3853820767</integer>
-			<key>Play Date UTC</key><date>2026-02-13T15:46:07Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3858969220</integer>
+			<key>Play Date UTC</key><date>2026-04-14T04:53:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-16T15:53:35Z</date>
 			<key>Release Date</key><date>2026-02-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -964,7 +963,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2E8AEBA9FD80FE39</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/sakanaction/IRANAI%20-%20Single/01%20IRANAI.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/sakanaction/%E3%81%84%E3%82%89%E3%81%AA%E3%81%84%20-%20Single/01%20%E3%81%84%E3%82%89%E3%81%AA%E3%81%84.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -974,7 +973,7 @@
 		<dict>
 			<key>Name</key><string>Sakanaction</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>111681</integer>
+			<key>Playlist ID</key><integer>125875</integer>
 			<key>Playlist Persistent ID</key><string>3E93273E9B679E13</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1019,82 +1018,82 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>27966</integer>
+					<key>Track ID</key><integer>28438</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27968</integer>
+					<key>Track ID</key><integer>28440</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27980</integer>
+					<key>Track ID</key><integer>28452</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28020</integer>
+					<key>Track ID</key><integer>28492</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27926</integer>
+					<key>Track ID</key><integer>28398</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28000</integer>
+					<key>Track ID</key><integer>28472</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28010</integer>
+					<key>Track ID</key><integer>28482</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27984</integer>
+					<key>Track ID</key><integer>28456</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27936</integer>
+					<key>Track ID</key><integer>28408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28094</integer>
+					<key>Track ID</key><integer>28566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28016</integer>
+					<key>Track ID</key><integer>28488</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9918</integer>
+					<key>Track ID</key><integer>10396</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9922</integer>
+					<key>Track ID</key><integer>10400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9924</integer>
+					<key>Track ID</key><integer>10402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9902</integer>
+					<key>Track ID</key><integer>10380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9904</integer>
+					<key>Track ID</key><integer>10382</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9938</integer>
+					<key>Track ID</key><integer>10416</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9940</integer>
+					<key>Track ID</key><integer>10418</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28080</integer>
+					<key>Track ID</key><integer>28552</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28088</integer>
+					<key>Track ID</key><integer>28560</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9908</integer>
+					<key>Track ID</key><integer>10386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9946</integer>
+					<key>Track ID</key><integer>10424</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9888</integer>
+					<key>Track ID</key><integer>10366</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>9890</integer>
+					<key>Track ID</key><integer>10368</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27990</integer>
+					<key>Track ID</key><integer>28462</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34968</integer>
+					<key>Track ID</key><integer>35440</integer>
 				</dict>
 			</array>
 		</dict>

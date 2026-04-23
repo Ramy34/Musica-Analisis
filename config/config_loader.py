@@ -17,10 +17,12 @@ class Config:
 
     def _load_env(self):
         load_dotenv()
-        self.snowflake_credentials = {
-            "account": os.getenv("SNOWFLAKE_ACCOUNT"),
-            "user": os.getenv("SNOWFLAKE_USER"),
-            "password": os.getenv("SNOWFLAKE_PASSWORD")
+        self.postgresql_credentials = {
+            "host": os.getenv("POSTGRESQL_HOST"),
+            "user": os.getenv("POSTGRESQL_USER"),
+            "password": os.getenv("POSTGRESQL_PASSWORD"),
+            "base": os.getenv("POSTGRESQL_DATABASE"),
+            "port": os.getenv("POSTGRESQL_PORT")
         }
 
     def _resolve_paths_by_os(self):

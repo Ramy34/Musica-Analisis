@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:26:56Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:22:44Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>14374</key>
+		<key>14748</key>
 		<dict>
-			<key>Track ID</key><integer>14374</integer>
+			<key>Track ID</key><integer>14748</integer>
 			<key>Name</key><string>G.R.N.D.</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -34,9 +34,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851616345</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:25:45Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3854443553</integer>
+			<key>Play Date UTC</key><date>2026-02-20T20:45:53Z</date>
 			<key>Release Date</key><date>2018-03-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -44,13 +44,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F9049D1B8D637706</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/01%20G.R.N.D..m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/01%20G.R.N.D..m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14380</key>
+		<key>14754</key>
 		<dict>
-			<key>Track ID</key><integer>14380</integer>
+			<key>Track ID</key><integer>14754</integer>
 			<key>Name</key><string>Jesus</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -71,9 +71,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851616556</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:29:16Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3855390587</integer>
+			<key>Play Date UTC</key><date>2026-03-03T19:49:47Z</date>
 			<key>Release Date</key><date>2018-03-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -81,13 +81,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>02E8A6D4373836C3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/03%20Jesus.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/03%20Jesus.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14384</key>
+		<key>14758</key>
 		<dict>
-			<key>Track ID</key><integer>14384</integer>
+			<key>Track ID</key><integer>14758</integer>
 			<key>Name</key><string>Poppin'Trip -GARNiDELiA vs HEAVYGRINDER-</string>
 			<key>Artist</key><string>GARNiDELiA &#38; HEAVYGRINDER</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -118,13 +118,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CF7E64C1FDE598E8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/05%20Poppin'Trip%20-GARNiDELiA%20vs%20HEAVYG.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/05%20Poppin'Trip%20-GARNiDELiA%20vs%20HEAVYG.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14386</key>
+		<key>14760</key>
 		<dict>
-			<key>Track ID</key><integer>14386</integer>
+			<key>Track ID</key><integer>14760</integer>
 			<key>Name</key><string>最後の恋</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -148,8 +148,8 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3851618032</integer>
 			<key>Play Date UTC</key><date>2026-01-19T03:53:52Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2026-01-19T03:46:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-02-20T18:33:37Z</date>
 			<key>Release Date</key><date>2018-03-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -157,13 +157,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3DCCFBDC4B686278</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/13%20%E6%9C%80%E5%BE%8C%E3%81%AE%E6%81%8B.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/13%20%E6%9C%80%E5%BE%8C%E3%81%AE%E6%81%8B.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14390</key>
+		<key>14764</key>
 		<dict>
-			<key>Track ID</key><integer>14390</integer>
+			<key>Track ID</key><integer>14764</integer>
 			<key>Name</key><string>Arrow Of Love</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -184,24 +184,23 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3852956936</integer>
-			<key>Play Date UTC</key><date>2026-02-03T15:48:56Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3855726405</integer>
+			<key>Play Date UTC</key><date>2026-03-07T17:06:45Z</date>
 			<key>Release Date</key><date>2012-08-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>24789</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F26091D649BEB5B3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/02%20Arrow%20Of%20Love.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/02%20Arrow%20Of%20Love.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14396</key>
+		<key>14770</key>
 		<dict>
-			<key>Track ID</key><integer>14396</integer>
+			<key>Track ID</key><integer>14770</integer>
 			<key>Name</key><string>Asteroid</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -222,24 +221,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851453291</integer>
-			<key>Play Date UTC</key><date>2026-01-17T06:08:11Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3858316372</integer>
+			<key>Play Date UTC</key><date>2026-04-06T15:32:52Z</date>
 			<key>Release Date</key><date>2012-08-11T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>17536</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>260F4FC683D70AB8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/05%20Asteroid.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Pluslights%20-21248931-/05%20Asteroid.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14404</key>
+		<key>14778</key>
 		<dict>
-			<key>Track ID</key><integer>14404</integer>
+			<key>Track ID</key><integer>14778</integer>
 			<key>Name</key><string>桃源恋歌</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -272,13 +270,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>06666789352BD6C6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/07%20%E6%A1%83%E6%BA%90%E6%81%8B%E6%AD%8C.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/07%20%E6%A1%83%E6%BA%90%E6%81%8B%E6%AD%8C.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14408</key>
+		<key>14782</key>
 		<dict>
-			<key>Track ID</key><integer>14408</integer>
+			<key>Track ID</key><integer>14782</integer>
 			<key>Name</key><string>紅葉愛唄</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -299,9 +297,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3851617251</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:40:51Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857123090</integer>
+			<key>Play Date UTC</key><date>2026-03-23T21:04:50Z</date>
 			<key>Release Date</key><date>2018-03-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -309,13 +307,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C244BB8D54AB5F50</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/08%20%E7%B4%85%E8%91%89%E6%84%9B%E5%94%84.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/08%20%E7%B4%85%E8%91%89%E6%84%9B%E5%94%84.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14410</key>
+		<key>14784</key>
 		<dict>
-			<key>Track ID</key><integer>14410</integer>
+			<key>Track ID</key><integer>14784</integer>
 			<key>Name</key><string>Love Swing</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -348,13 +346,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AECCC8F74AD98666</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/09%20Love%20Swing.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/09%20Love%20Swing.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14412</key>
+		<key>14786</key>
 		<dict>
-			<key>Track ID</key><integer>14412</integer>
+			<key>Track ID</key><integer>14786</integer>
 			<key>Name</key><string>After glow</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -385,13 +383,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A5A9AB67AAB2D2BC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/10%20After%20glow.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/G.R.N.D_/10%20After%20glow.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18252</key>
+		<key>18626</key>
 		<dict>
-			<key>Track ID</key><integer>18252</integer>
+			<key>Track ID</key><integer>18626</integer>
 			<key>Name</key><string>EXXXTASY</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -418,22 +416,21 @@
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6821</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C9CA8D443E34857D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/01%20EXXXTASY.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/01%20EXXXTASY.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18282</key>
+		<key>18656</key>
 		<dict>
-			<key>Track ID</key><integer>18282</integer>
-			<key>Name</key><string>Kishikaisei</string>
+			<key>Track ID</key><integer>18656</integer>
+			<key>Name</key><string>起死回生</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
-			<key>Album</key><string>Kishikaisei</string>
+			<key>Album</key><string>起死回生</string>
 			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
 			<key>Size</key><integer>8645423</integer>
@@ -444,7 +441,7 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2020</integer>
 			<key>BPM</key><integer>93</integer>
-			<key>Date Modified</key><date>2026-01-19T15:25:00Z</date>
+			<key>Date Modified</key><date>2026-02-21T03:30:14Z</date>
 			<key>Date Added</key><date>2025-02-18T18:23:40Z</date>
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -452,21 +449,23 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3851874402</integer>
 			<key>Play Date UTC</key><date>2026-01-22T03:06:42Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-02-07T00:57:34Z</date>
 			<key>Release Date</key><date>2020-10-30T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9120</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>32FC9545F63EF834</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Kishikaisei/01%20Kishikaisei.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F/01%20%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18290</key>
+		<key>18664</key>
 		<dict>
-			<key>Track ID</key><integer>18290</integer>
+			<key>Track ID</key><integer>18664</integer>
 			<key>Name</key><string>Live On!</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -493,18 +492,17 @@
 			<key>Release Date</key><date>2021-11-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8831</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>20EE56D1D41F54B7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Duality%20Code/01%20Live%20On!.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Duality%20Code/01%20Live%20On!.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18330</key>
+		<key>18704</key>
 		<dict>
-			<key>Track ID</key><integer>18330</integer>
+			<key>Track ID</key><integer>18704</integer>
 			<key>Name</key><string>Secret Party</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -525,9 +523,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851619996</integer>
-			<key>Play Date UTC</key><date>2026-01-19T04:26:36Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857146868</integer>
+			<key>Play Date UTC</key><date>2026-03-24T03:41:08Z</date>
 			<key>Release Date</key><date>2020-09-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -536,13 +534,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F0F68529DC643934</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Secret%20Party%20-%20Single/01%20Secret%20Party.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Secret%20Party%20-%20Single/01%20Secret%20Party.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18376</key>
+		<key>18750</key>
 		<dict>
-			<key>Track ID</key><integer>18376</integer>
+			<key>Track ID</key><integer>18750</integer>
 			<key>Name</key><string>―TEN―</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -562,24 +560,25 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851677541</integer>
-			<key>Play Date UTC</key><date>2026-01-19T20:25:41Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3853828858</integer>
+			<key>Play Date UTC</key><date>2026-02-13T18:00:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T01:39:54Z</date>
 			<key>Release Date</key><date>2024-01-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3087</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0C3A5FB733B0BF59</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/TEN/01%20%E2%80%95TEN%E2%80%95.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/TEN/01%20%E2%80%95TEN%E2%80%95.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18396</key>
+		<key>18770</key>
 		<dict>
-			<key>Track ID</key><integer>18396</integer>
+			<key>Track ID</key><integer>18770</integer>
 			<key>Name</key><string>暁桜</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -600,9 +599,11 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851677358</integer>
-			<key>Play Date UTC</key><date>2026-01-19T20:22:38Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858151629</integer>
+			<key>Play Date UTC</key><date>2026-04-04T18:47:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-07T00:56:32Z</date>
 			<key>Release Date</key><date>2023-10-19T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -611,18 +612,18 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2AD680454E337FE9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%9A%81%E6%A1%9C%20-%20Single/01%20%E6%9A%81%E6%A1%9C.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%9A%81%E6%A1%9C%20-%20Single/01%20%E6%9A%81%E6%A1%9C.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18444</key>
+		<key>18818</key>
 		<dict>
-			<key>Track ID</key><integer>18444</integer>
+			<key>Track ID</key><integer>18818</integer>
 			<key>Name</key><string>IDENtity</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
 			<key>Composer</key><string>toku</string>
-			<key>Album</key><string>Kishikaisei</string>
+			<key>Album</key><string>起死回生</string>
 			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
 			<key>Size</key><integer>8188910</integer>
@@ -633,29 +634,29 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2020</integer>
 			<key>BPM</key><integer>85</integer>
-			<key>Date Modified</key><date>2026-01-19T15:25:03Z</date>
+			<key>Date Modified</key><date>2026-02-21T03:30:14Z</date>
 			<key>Date Added</key><date>2025-02-18T18:23:41Z</date>
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851620397</integer>
-			<key>Play Date UTC</key><date>2026-01-19T04:33:17Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3858595045</integer>
+			<key>Play Date UTC</key><date>2026-04-09T20:57:25Z</date>
 			<key>Release Date</key><date>2020-11-25T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>40</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7571</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>86DFCBB894CE7123</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Kishikaisei/02%20IDENtity.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E8%B5%B7%E6%AD%BB%E5%9B%9E%E7%94%9F/02%20IDENtity.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18468</key>
+		<key>18842</key>
 		<dict>
-			<key>Track ID</key><integer>18468</integer>
+			<key>Track ID</key><integer>18842</integer>
 			<key>Name</key><string>my code</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -676,24 +677,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851667066</integer>
-			<key>Play Date UTC</key><date>2026-01-19T17:31:06Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857131506</integer>
+			<key>Play Date UTC</key><date>2026-03-23T23:25:06Z</date>
 			<key>Release Date</key><date>2021-11-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7686</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C900B5EDC9C57F99</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Duality%20Code/02%20my%20code.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Duality%20Code/02%20my%20code.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18478</key>
+		<key>18852</key>
 		<dict>
-			<key>Track ID</key><integer>18478</integer>
+			<key>Track ID</key><integer>18852</integer>
 			<key>Name</key><string>Real</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -714,24 +714,23 @@
 			<key>Bit Rate</key><integer>315</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852790896</integer>
-			<key>Play Date UTC</key><date>2026-02-01T17:41:36Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857893996</integer>
+			<key>Play Date UTC</key><date>2026-04-01T19:13:16Z</date>
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8474</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>36E804ED8B35D65D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/02%20Real.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/02%20Real.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18742</key>
+		<key>19116</key>
 		<dict>
-			<key>Track ID</key><integer>18742</integer>
+			<key>Track ID</key><integer>19116</integer>
 			<key>Name</key><string>LIFE</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -752,24 +751,23 @@
 			<key>Bit Rate</key><integer>319</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851506980</integer>
-			<key>Play Date UTC</key><date>2026-01-17T21:03:00Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857228435</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:20:35Z</date>
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9142</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0E48E014F1270AFC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/05%20LIFE.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/05%20LIFE.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18868</key>
+		<key>19242</key>
 		<dict>
-			<key>Track ID</key><integer>18868</integer>
+			<key>Track ID</key><integer>19242</integer>
 			<key>Name</key><string>祈りの歌</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -796,18 +794,17 @@
 			<key>Release Date</key><date>2016-12-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4451</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B4A7B30545BD02EC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/06%20%E7%A5%88%E3%82%8A%E3%81%AE%E6%AD%8C.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Violet%20Cry/06%20%E7%A5%88%E3%82%8A%E3%81%AE%E6%AD%8C.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18890</key>
+		<key>19264</key>
 		<dict>
-			<key>Track ID</key><integer>18890</integer>
+			<key>Track ID</key><integer>19264</integer>
 			<key>Name</key><string>DEPARTURES</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -831,21 +828,22 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3851675378</integer>
 			<key>Play Date UTC</key><date>2026-01-19T19:49:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-04T05:23:40Z</date>
 			<key>Release Date</key><date>2023-03-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3812</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6630C92BBADA126B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/GARNiDELiA%20COVER%20COLLECTiON/07%20DEPARTURES.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/GARNiDELiA%20COVER%20COLLECTiON/07%20DEPARTURES.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19006</key>
+		<key>19380</key>
 		<dict>
-			<key>Track ID</key><integer>19006</integer>
+			<key>Track ID</key><integer>19380</integer>
 			<key>Name</key><string>Steps</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -866,9 +864,9 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851494790</integer>
-			<key>Play Date UTC</key><date>2026-01-17T17:39:50Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3854279995</integer>
+			<key>Play Date UTC</key><date>2026-02-18T23:19:55Z</date>
 			<key>Release Date</key><date>2015-01-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -876,13 +874,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8F7EA83A9618BB48</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/08%20Steps.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/08%20Steps.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19072</key>
+		<key>19446</key>
 		<dict>
-			<key>Track ID</key><integer>19072</integer>
+			<key>Track ID</key><integer>19446</integer>
 			<key>Name</key><string>Lamb.</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -913,14 +911,14 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D7607E7663F090E0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/09%20Lamb..m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/09%20Lamb..m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19114</key>
+		<key>19488</key>
 		<dict>
-			<key>Track ID</key><integer>19114</integer>
-			<key>Name</key><string>飾りじゃないのよ 涙は</string>
+			<key>Track ID</key><integer>19488</integer>
+			<key>Name</key><string>飾りじゃないのよ涙は</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
 			<key>Composer</key><string>Yosui Inoue</string>
@@ -935,29 +933,28 @@
 			<key>Track Count</key><integer>11</integer>
 			<key>Year</key><integer>2023</integer>
 			<key>BPM</key><integer>177</integer>
-			<key>Date Modified</key><date>2026-01-19T19:54:31Z</date>
+			<key>Date Modified</key><date>2026-02-21T06:26:33Z</date>
 			<key>Date Added</key><date>2025-02-18T18:23:44Z</date>
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851675925</integer>
-			<key>Play Date UTC</key><date>2026-01-19T19:58:45Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3855725704</integer>
+			<key>Play Date UTC</key><date>2026-03-07T16:55:04Z</date>
 			<key>Release Date</key><date>2023-03-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6725</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3B4B5BD2E090B7E0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/GARNiDELiA%20COVER%20COLLECTiON/09%20%E9%A3%BE%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%82%88%20%E6%B6%99%E3%81%AF.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/GARNiDELiA%20COVER%20COLLECTiON/09%20%E9%A3%BE%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%82%88%E6%B6%99%E3%81%AF.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19172</key>
+		<key>19546</key>
 		<dict>
-			<key>Track ID</key><integer>19172</integer>
+			<key>Track ID</key><integer>19546</integer>
 			<key>Name</key><string>オオカミ少女</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -990,13 +987,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>995EE944665424A1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/10%20%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E5%B0%91%E5%A5%B3.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Linkage%20Ring/10%20%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E5%B0%91%E5%A5%B3.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>19242</key>
+		<key>19616</key>
 		<dict>
-			<key>Track ID</key><integer>19242</integer>
+			<key>Track ID</key><integer>19616</integer>
 			<key>Name</key><string>一蓮托生</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1016,24 +1013,23 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851678986</integer>
-			<key>Play Date UTC</key><date>2026-01-19T20:49:46Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856784938</integer>
+			<key>Play Date UTC</key><date>2026-03-19T23:08:58Z</date>
 			<key>Release Date</key><date>2024-01-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9391</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>41AFE25085375952</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/TEN/11%20%E4%B8%80%E8%93%AE%E6%89%98%E7%94%9F.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/TEN/11%20%E4%B8%80%E8%93%AE%E6%89%98%E7%94%9F.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20820</key>
+		<key>21194</key>
 		<dict>
-			<key>Track ID</key><integer>20820</integer>
+			<key>Track ID</key><integer>21194</integer>
 			<key>Name</key><string>Error</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1054,23 +1050,22 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851615558</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:12:38Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853858040</integer>
+			<key>Play Date UTC</key><date>2026-02-14T02:07:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9373</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F9F301AE6352D64F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Error/01%20Error.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Error/01%20Error.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20822</key>
+		<key>21196</key>
 		<dict>
-			<key>Track ID</key><integer>20822</integer>
+			<key>Track ID</key><integer>21196</integer>
 			<key>Name</key><string>anymore</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1098,18 +1093,17 @@
 			<key>Skip Date</key><date>2026-01-19T03:12:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8535</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E9DBF24A36D1D20A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Error/02%20anymore.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Error/02%20anymore.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20830</key>
+		<key>21204</key>
 		<dict>
-			<key>Track ID</key><integer>20830</integer>
+			<key>Track ID</key><integer>21204</integer>
 			<key>Name</key><string>Desir</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1135,18 +1129,17 @@
 			<key>Play Date UTC</key><date>2026-01-24T20:01:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9929</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1C7B9ACF7CFC7F62</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Desir/01%20Desir.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Desir/01%20Desir.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20874</key>
+		<key>21248</key>
 		<dict>
-			<key>Track ID</key><integer>20874</integer>
+			<key>Track ID</key><integer>21248</integer>
 			<key>Name</key><string>響喜乱舞</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1167,23 +1160,22 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851618288</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:58:08Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855308605</integer>
+			<key>Play Date UTC</key><date>2026-03-02T21:03:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>13423</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EBA6CCA6168B3E18</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E/01%20%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E/01%20%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20876</key>
+		<key>21250</key>
 		<dict>
-			<key>Track ID</key><integer>20876</integer>
+			<key>Track ID</key><integer>21250</integer>
 			<key>Name</key><string>アブラカダブラ ～avra K'Davarah～</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1204,23 +1196,22 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851618507</integer>
-			<key>Play Date UTC</key><date>2026-01-19T04:01:47Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3858771598</integer>
+			<key>Play Date UTC</key><date>2026-04-11T21:59:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14019</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BF3E295AA454DF31</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E/02%20%E3%82%A2%E3%83%96%E3%83%A9%E3%82%AB%E3%83%80%E3%83%96%E3%83%A9%20%EF%BD%9Eavra%20K'Davarah%EF%BD%9E.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E9%9F%BF%E5%96%9C%E4%B9%B1%E8%88%9E/02%20%E3%82%A2%E3%83%96%E3%83%A9%E3%82%AB%E3%83%80%E3%83%96%E3%83%A9%20%EF%BD%9Eavra%20K'Davarah%EF%BD%9E.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>20906</key>
+		<key>21280</key>
 		<dict>
-			<key>Track ID</key><integer>20906</integer>
+			<key>Track ID</key><integer>21280</integer>
 			<key>Name</key><string>Hysteric Bullet</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1241,23 +1232,22 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851615014</integer>
-			<key>Play Date UTC</key><date>2026-01-19T03:03:34Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3856790739</integer>
+			<key>Play Date UTC</key><date>2026-03-20T00:45:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9235</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BEF7B80FA9469D1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90/02%20Hysteric%20Bullet.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%88%E3%83%90/02%20Hysteric%20Bullet.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29226</key>
+		<key>29514</key>
 		<dict>
-			<key>Track ID</key><integer>29226</integer>
+			<key>Track ID</key><integer>29514</integer>
 			<key>Name</key><string>春がきたよ</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1278,9 +1268,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851666415</integer>
-			<key>Play Date UTC</key><date>2026-01-19T17:20:15Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3853662376</integer>
+			<key>Play Date UTC</key><date>2026-02-11T19:46:16Z</date>
 			<key>Release Date</key><date>2021-09-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1289,13 +1279,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>87F8CD401A34DF69</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%98%A5%E3%81%8C%E3%81%8D%E3%81%9F%E3%82%88%20-%20Single/01%20%E6%98%A5%E3%81%8C%E3%81%8D%E3%81%9F%E3%82%88.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%98%A5%E3%81%8C%E3%81%8D%E3%81%9F%E3%82%88%20-%20Single/01%20%E6%98%A5%E3%81%8C%E3%81%8D%E3%81%9F%E3%82%88.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29230</key>
+		<key>29518</key>
 		<dict>
-			<key>Track ID</key><integer>29230</integer>
+			<key>Track ID</key><integer>29518</integer>
 			<key>Name</key><string>ambiguous</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1316,9 +1306,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851491440</integer>
-			<key>Play Date UTC</key><date>2026-01-17T16:44:00Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857554694</integer>
+			<key>Play Date UTC</key><date>2026-03-28T20:58:14Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-11-26T02:58:38Z</date>
 			<key>Release Date</key><date>2014-03-05T12:00:00Z</date>
@@ -1328,13 +1318,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9AE8557DEAE930EE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/ambiguous%20-%20EP/1-01%20ambiguous.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/ambiguous%20-%20EP/1-01%20ambiguous.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29238</key>
+		<key>29526</key>
 		<dict>
-			<key>Track ID</key><integer>29238</integer>
+			<key>Track ID</key><integer>29526</integer>
 			<key>Name</key><string>grilletto</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1361,18 +1351,17 @@
 			<key>Release Date</key><date>2014-07-30T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12593</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BCBAFB92AC879E4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/grilletto%20-%20EP/01%20grilletto.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/grilletto%20-%20EP/01%20grilletto.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29250</key>
+		<key>29538</key>
 		<dict>
-			<key>Track ID</key><integer>29250</integer>
+			<key>Track ID</key><integer>29538</integer>
 			<key>Name</key><string>BLAZING</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1393,24 +1382,23 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851492918</integer>
-			<key>Play Date UTC</key><date>2026-01-17T17:08:38Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859530331</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:45:31Z</date>
 			<key>Release Date</key><date>2014-10-29T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11352</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A1462C59DBFC34D5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/BLAZING%20-%20EP/01%20BLAZING.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/BLAZING%20-%20EP/01%20BLAZING.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29274</key>
+		<key>29562</key>
 		<dict>
-			<key>Track ID</key><integer>29274</integer>
+			<key>Track ID</key><integer>29562</integer>
 			<key>Name</key><string>Burning Soul</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1444,13 +1432,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4C842421D2C3AA3C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/Burning%20Soul%20-%20Single/01%20Burning%20Soul.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/Burning%20Soul%20-%20Single/01%20Burning%20Soul.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29276</key>
+		<key>29564</key>
 		<dict>
-			<key>Track ID</key><integer>29276</integer>
+			<key>Track ID</key><integer>29564</integer>
 			<key>Name</key><string>約束 -Promise code-</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1471,24 +1459,23 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851505414</integer>
-			<key>Play Date UTC</key><date>2026-01-17T20:36:54Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3858617450</integer>
+			<key>Play Date UTC</key><date>2026-04-10T03:10:50Z</date>
 			<key>Release Date</key><date>2016-08-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9177</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AE4A397FADAD78C8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E7%B4%84%E6%9D%9F%20-Promise%20code-%20-%20EP/01%20%E7%B4%84%E6%9D%9F%20-Promise%20code-.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E7%B4%84%E6%9D%9F%20-Promise%20code-%20-%20EP/01%20%E7%B4%84%E6%9D%9F%20-Promise%20code-.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29278</key>
+		<key>29566</key>
 		<dict>
-			<key>Track ID</key><integer>29278</integer>
+			<key>Track ID</key><integer>29566</integer>
 			<key>Name</key><string>極楽浄土</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1515,18 +1502,17 @@
 			<key>Release Date</key><date>2016-08-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6383</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>604C1A449D57F1C8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E7%B4%84%E6%9D%9F%20-Promise%20code-%20-%20EP/02%20%E6%A5%B5%E6%A5%BD%E6%B5%84%E5%9C%9F.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E7%B4%84%E6%9D%9F%20-Promise%20code-%20-%20EP/02%20%E6%A5%B5%E6%A5%BD%E6%B5%84%E5%9C%9F.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29284</key>
+		<key>29572</key>
 		<dict>
-			<key>Track ID</key><integer>29284</integer>
+			<key>Track ID</key><integer>29572</integer>
 			<key>Name</key><string>clever</string>
 			<key>Artist</key><string>ClariS &#38; GARNiDELiA</string>
 			<key>Album Artist</key><string>ClariS &#38; GARNiDELiA</string>
@@ -1547,24 +1533,23 @@
 			<key>Bit Rate</key><integer>318</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851506253</integer>
-			<key>Play Date UTC</key><date>2026-01-17T20:50:53Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858151188</integer>
+			<key>Play Date UTC</key><date>2026-04-04T18:39:48Z</date>
 			<key>Release Date</key><date>2016-09-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11443</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0AD06A6E52E399BC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/ClariS%20&#38;%20GARNiDELiA/clever%20-%20Single/01%20clever.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/ClariS%20&#38;%20GARNiDELiA/clever%20-%20Single/01%20clever.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29300</key>
+		<key>29588</key>
 		<dict>
-			<key>Track ID</key><integer>29300</integer>
+			<key>Track ID</key><integer>29588</integer>
 			<key>Name</key><string>廻廻奇譚 (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1596,13 +1581,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>330072C33E6B38C7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E5%BB%BB%E5%BB%BB%E5%A5%87%E8%AD%9A%20(Cover)%20-%20Single/01%20%E5%BB%BB%E5%BB%BB%E5%A5%87%E8%AD%9A%20(Cover).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E5%BB%BB%E5%BB%BB%E5%A5%87%E8%AD%9A%20(Cover)%20-%20Single/01%20%E5%BB%BB%E5%BB%BB%E5%A5%87%E8%AD%9A%20(Cover).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29302</key>
+		<key>29590</key>
 		<dict>
-			<key>Track ID</key><integer>29302</integer>
+			<key>Track ID</key><integer>29590</integer>
 			<key>Name</key><string>春よ、来い (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1625,6 +1610,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3851449856</integer>
 			<key>Play Date UTC</key><date>2026-01-17T05:10:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-02-20T18:29:06Z</date>
 			<key>Release Date</key><date>2022-04-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1633,13 +1620,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A4D68D06624A92F5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%98%A5%E3%82%88%E3%80%81%E6%9D%A5%E3%81%84%20(Cover)%20-%20Single/01%20%E6%98%A5%E3%82%88%E3%80%81%E6%9D%A5%E3%81%84%20(Cover).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E6%98%A5%E3%82%88%E3%80%81%E6%9D%A5%E3%81%84%20(Cover)%20-%20Single/01%20%E6%98%A5%E3%82%88%E3%80%81%E6%9D%A5%E3%81%84%20(Cover).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29304</key>
+		<key>29592</key>
 		<dict>
-			<key>Track ID</key><integer>29304</integer>
+			<key>Track ID</key><integer>29592</integer>
 			<key>Name</key><string>フレンズ (Cover)</string>
 			<key>Artist</key><string>GARNiDELiA</string>
 			<key>Album Artist</key><string>GARNiDELiA</string>
@@ -1670,7 +1657,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>471BCCD81F01ABE2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20(Cover)%20-%20Single/01%20%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20(Cover).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/GARNiDELiA/%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20(Cover)%20-%20Single/01%20%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA%20(Cover).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1680,7 +1667,7 @@
 		<dict>
 			<key>Name</key><string>Garnidelia</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101322</integer>
+			<key>Playlist ID</key><integer>125307</integer>
 			<key>Playlist Persistent ID</key><string>C6A4F0EBE6338127</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1725,136 +1712,136 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>29302</integer>
+					<key>Track ID</key><integer>29590</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14390</integer>
+					<key>Track ID</key><integer>14764</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14396</integer>
+					<key>Track ID</key><integer>14770</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29230</integer>
+					<key>Track ID</key><integer>29518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29238</integer>
+					<key>Track ID</key><integer>29526</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29250</integer>
+					<key>Track ID</key><integer>29538</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19006</integer>
+					<key>Track ID</key><integer>19380</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19072</integer>
+					<key>Track ID</key><integer>19446</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>19172</integer>
+					<key>Track ID</key><integer>19546</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29274</integer>
+					<key>Track ID</key><integer>29562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29276</integer>
+					<key>Track ID</key><integer>29564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29278</integer>
+					<key>Track ID</key><integer>29566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29284</integer>
+					<key>Track ID</key><integer>29572</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18252</integer>
+					<key>Track ID</key><integer>18626</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18478</integer>
+					<key>Track ID</key><integer>18852</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18742</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18868</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20830</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20906</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20820</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20822</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14374</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14380</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14384</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14404</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14408</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14410</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14412</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>14386</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20874</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>20876</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18330</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18282</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18444</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>29226</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18290</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18468</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>29300</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>29304</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18890</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>19114</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18396</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18376</integer>
+					<key>Track ID</key><integer>19116</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>19242</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14778</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14782</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14786</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21248</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21250</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19488</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19616</integer>
 				</dict>
 			</array>
 		</dict>

@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-03-10T05:50:46Z</date>
+	<key>Date</key><date>2026-04-23T00:26:55Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5028</key>
+		<key>5490</key>
 		<dict>
-			<key>Track ID</key><integer>5028</integer>
+			<key>Track ID</key><integer>5490</integer>
 			<key>Name</key><string>Fly High</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -44,13 +44,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>920E9601BF37200D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/01%20Fly%20High.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/01%20Fly%20High.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5032</key>
+		<key>5494</key>
 		<dict>
-			<key>Track ID</key><integer>5032</integer>
+			<key>Track ID</key><integer>5494</integer>
 			<key>Name</key><string>Omakase</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -80,13 +80,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>733590119FF7A9CD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/03%20Omakase.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/03%20Omakase.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5034</key>
+		<key>5496</key>
 		<dict>
-			<key>Track ID</key><integer>5034</integer>
+			<key>Track ID</key><integer>5496</integer>
 			<key>Name</key><string>Maji Yoroshiku</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -110,19 +110,21 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3855740472</integer>
 			<key>Play Date UTC</key><date>2026-03-07T21:01:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-17T16:39:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7928</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>99E472476C42904A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/04%20Maji%20Yoroshiku.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/04%20Maji%20Yoroshiku.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5036</key>
+		<key>5498</key>
 		<dict>
-			<key>Track ID</key><integer>5036</integer>
+			<key>Track ID</key><integer>5498</integer>
 			<key>Name</key><string>Essa Hoisa</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -151,13 +153,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>277EF839CA79190D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/05%20Essa%20Hoisa.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/05%20Essa%20Hoisa.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5038</key>
+		<key>5500</key>
 		<dict>
-			<key>Track ID</key><integer>5038</integer>
+			<key>Track ID</key><integer>5500</integer>
 			<key>Name</key><string>Drama</string>
 			<key>Artist</key><string>新しい学校のリーダーズ feat. MILLI</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -178,22 +180,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3853917767</integer>
-			<key>Play Date UTC</key><date>2026-02-14T18:42:47Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858593111</integer>
+			<key>Play Date UTC</key><date>2026-04-09T20:25:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7858</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BA25D9215F6624FF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/06%20Drama.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/06%20Drama.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5040</key>
+		<key>5502</key>
 		<dict>
-			<key>Track ID</key><integer>5040</integer>
+			<key>Track ID</key><integer>5502</integer>
 			<key>Name</key><string>Superhuman</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -222,13 +224,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8ED796CEAF8758E2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/07%20Superhuman.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/07%20Superhuman.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5042</key>
+		<key>5504</key>
 		<dict>
-			<key>Track ID</key><integer>5042</integer>
+			<key>Track ID</key><integer>5504</integer>
 			<key>Name</key><string>Forever Sisters</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -257,13 +259,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>13981551620390F8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/08%20Forever%20Sisters.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/08%20Forever%20Sisters.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5044</key>
+		<key>5506</key>
 		<dict>
-			<key>Track ID</key><integer>5044</integer>
+			<key>Track ID</key><integer>5506</integer>
 			<key>Name</key><string>Arigato</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -295,13 +297,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>41237F89B99EBBEC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/09%20Arigato.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/09%20Arigato.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5046</key>
+		<key>5508</key>
 		<dict>
-			<key>Track ID</key><integer>5046</integer>
+			<key>Track ID</key><integer>5508</integer>
 			<key>Name</key><string>Hero Show</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -321,22 +323,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3846776394</integer>
-			<key>Play Date UTC</key><date>2025-11-24T02:59:54Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858314675</integer>
+			<key>Play Date UTC</key><date>2026-04-06T15:04:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7216</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>82605D004C92A942</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/10%20Hero%20Show.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/AG!%20Calling/10%20Hero%20Show.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5050</key>
+		<key>5512</key>
 		<dict>
-			<key>Track ID</key><integer>5050</integer>
+			<key>Track ID</key><integer>5512</integer>
 			<key>Name</key><string>Free Your Mind (Spanish Version)</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -357,9 +359,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3841211379</integer>
-			<key>Play Date UTC</key><date>2025-09-20T16:09:39Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859531643</integer>
+			<key>Play Date UTC</key><date>2026-04-20T17:07:23Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2026-02-10T00:52:14Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -369,13 +371,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>092820A641EDC2D6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Free%20Your%20Mind%20(Spanish%20Version)%20-%20Singl/01%20Free%20Your%20Mind%20(Spanish%20Version).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Free%20Your%20Mind%20(Spanish%20Version)%20-%20Singl/01%20Free%20Your%20Mind%20(Spanish%20Version).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5052</key>
+		<key>5514</key>
 		<dict>
-			<key>Track ID</key><integer>5052</integer>
+			<key>Track ID</key><integer>5514</integer>
 			<key>Name</key><string>HANAKO</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -399,6 +401,8 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3847090049</integer>
 			<key>Play Date UTC</key><date>2025-11-27T18:07:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T02:16:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -406,13 +410,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8BA8D87BCF5C51BF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HANAKO%20-%20Single/01%20HANAKO.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HANAKO%20-%20Single/01%20HANAKO.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5054</key>
+		<key>5516</key>
 		<dict>
-			<key>Track ID</key><integer>5054</integer>
+			<key>Track ID</key><integer>5516</integer>
 			<key>Name</key><string>HELLO (from The Tiger's Apprentice)</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -433,9 +437,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852354812</integer>
-			<key>Play Date UTC</key><date>2026-01-27T16:33:32Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858252486</integer>
+			<key>Play Date UTC</key><date>2026-04-05T21:48:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -443,13 +447,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>61187E73CCBF2924</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HELLO%20(from%20The%20Tiger's%20Apprentice)%20-%20Si/01%20HELLO%20(from%20The%20Tiger's%20Apprentic.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/HELLO%20(from%20The%20Tiger's%20Apprentice)%20-%20Si/01%20HELLO%20(from%20The%20Tiger's%20Apprentic.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5056</key>
+		<key>5518</key>
 		<dict>
-			<key>Track ID</key><integer>5056</integer>
+			<key>Track ID</key><integer>5518</integer>
 			<key>Name</key><string>じゃないんだよ</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -470,22 +474,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3845735080</integer>
-			<key>Play Date UTC</key><date>2025-11-12T01:44:40Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859220590</integer>
+			<key>Play Date UTC</key><date>2026-04-17T02:43:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>9222</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7783649722C3A97D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/01%20%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%82%88.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/01%20%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%E3%82%88.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5058</key>
+		<key>5520</key>
 		<dict>
-			<key>Track ID</key><integer>5058</integer>
+			<key>Track ID</key><integer>5520</integer>
 			<key>Name</key><string>青春を切り裂く波動</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -515,13 +519,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>86C222B907DA8571</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/02%20%E9%9D%92%E6%98%A5%E3%82%92%E5%88%87%E3%82%8A%E8%A3%82%E3%81%8F%E6%B3%A2%E5%8B%95.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/02%20%E9%9D%92%E6%98%A5%E3%82%92%E5%88%87%E3%82%8A%E8%A3%82%E3%81%8F%E6%B3%A2%E5%8B%95.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5060</key>
+		<key>5522</key>
 		<dict>
-			<key>Track ID</key><integer>5060</integer>
+			<key>Track ID</key><integer>5522</integer>
 			<key>Name</key><string>Giri Giri</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -551,13 +555,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>16C243AEF4FE0C40</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/03%20Giri%20Giri.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/03%20Giri%20Giri.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5062</key>
+		<key>5524</key>
 		<dict>
-			<key>Track ID</key><integer>5062</integer>
+			<key>Track ID</key><integer>5524</integer>
 			<key>Name</key><string>Suki Lie</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -587,13 +591,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5C447254EA2FA56B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/04%20Suki%20Lie.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E4%B8%80%E6%99%82%E5%B8%B0%E5%9B%BD/04%20Suki%20Lie.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5070</key>
+		<key>5532</key>
 		<dict>
-			<key>Track ID</key><integer>5070</integer>
+			<key>Track ID</key><integer>5532</integer>
 			<key>Name</key><string>恋の遮断機</string>
 			<key>Artist</key><string>新しい学校のリーダーズ feat. H ZETTRIO</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ feat. H ZETTRIO</string>
@@ -623,13 +627,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EE3373D82D45AA3C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%20feat.%20H%20ZETTRIO/%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F%20feat.%20H%20ZETTRIO%20-%20Single/01%20%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA%20feat.%20H%20ZETTRIO/%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F%20feat.%20H%20ZETTRIO%20-%20Single/01%20%E6%81%8B%E3%81%AE%E9%81%AE%E6%96%AD%E6%A9%9F.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5092</key>
+		<key>5554</key>
 		<dict>
-			<key>Track ID</key><integer>5092</integer>
+			<key>Track ID</key><integer>5554</integer>
 			<key>Name</key><string>マ人間</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -650,22 +654,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3850323864</integer>
-			<key>Play Date UTC</key><date>2026-01-04T04:24:24Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859295974</integer>
+			<key>Play Date UTC</key><date>2026-04-17T23:39:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>15119</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>650E5D74F8E13764</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%83%9E%E4%BA%BA%E9%96%93%20-%20EP/01%20%E3%83%9E%E4%BA%BA%E9%96%93.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%83%9E%E4%BA%BA%E9%96%93%20-%20EP/01%20%E3%83%9E%E4%BA%BA%E9%96%93.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5102</key>
+		<key>5564</key>
 		<dict>
-			<key>Track ID</key><integer>5102</integer>
+			<key>Track ID</key><integer>5564</integer>
 			<key>Name</key><string>NAINAINAI</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -696,13 +700,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0A4116F152273379</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/NAINAINAI%20-%20Single/01%20NAINAINAI.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/NAINAINAI%20-%20Single/01%20NAINAINAI.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5106</key>
+		<key>5568</key>
 		<dict>
-			<key>Track ID</key><integer>5106</integer>
+			<key>Track ID</key><integer>5568</integer>
 			<key>Name</key><string>オトナブルー</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -733,13 +737,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B3391C959DB0C900</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC%20-%20Single/01%20%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC%20-%20Single/01%20%E3%82%AA%E3%83%88%E3%83%8A%E3%83%96%E3%83%AB%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5114</key>
+		<key>5576</key>
 		<dict>
-			<key>Track ID</key><integer>5114</integer>
+			<key>Track ID</key><integer>5576</integer>
 			<key>Name</key><string>CANDY</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -760,9 +764,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3851159043</integer>
-			<key>Play Date UTC</key><date>2026-01-13T20:24:03Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859313356</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:29:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3465</integer>
@@ -770,13 +774,13 @@
 			<key>Sort Name</key><string>CANDY</string>
 			<key>Persistent ID</key><string>357D525BAD279C5D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/03%20CANDY.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/03%20CANDY.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5116</key>
+		<key>5578</key>
 		<dict>
-			<key>Track ID</key><integer>5116</integer>
+			<key>Track ID</key><integer>5578</integer>
 			<key>Name</key><string>Fantastico</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -807,13 +811,13 @@
 			<key>Sort Name</key><string>Fantastico</string>
 			<key>Persistent ID</key><string>49ED498BEFA42121</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/04%20Fantastico.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/SNACKTIME%20-%20EP/04%20Fantastico.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5120</key>
+		<key>5582</key>
 		<dict>
-			<key>Track ID</key><integer>5120</integer>
+			<key>Track ID</key><integer>5582</integer>
 			<key>Name</key><string>The Edge</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -834,9 +838,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852059008</integer>
-			<key>Play Date UTC</key><date>2026-01-24T06:23:28Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857228769</integer>
+			<key>Play Date UTC</key><date>2026-03-25T02:26:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -846,13 +850,13 @@
 			<key>Sort Name</key><string>Edge</string>
 			<key>Persistent ID</key><string>CF45205199838EC7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/The%20Edge%20-%20Single/01%20The%20Edge.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/The%20Edge%20-%20Single/01%20The%20Edge.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5122</key>
+		<key>5584</key>
 		<dict>
-			<key>Track ID</key><integer>5122</integer>
+			<key>Track ID</key><integer>5584</integer>
 			<key>Name</key><string>Tokyo Calling</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -883,13 +887,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1342E5DFE5998B7C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Tokyo%20Calling%20-%20Single/01%20Tokyo%20Calling.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Tokyo%20Calling%20-%20Single/01%20Tokyo%20Calling.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5124</key>
+		<key>5586</key>
 		<dict>
-			<key>Track ID</key><integer>5124</integer>
+			<key>Track ID</key><integer>5586</integer>
 			<key>Name</key><string>Toryanse</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -910,9 +914,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3854903274</integer>
-			<key>Play Date UTC</key><date>2026-02-26T04:27:54Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857892538</integer>
+			<key>Play Date UTC</key><date>2026-04-01T18:48:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-14T22:40:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -920,13 +926,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5CEA787047B5298F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Toryanse%20-%20Single/01%20Toryanse.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Toryanse%20-%20Single/01%20Toryanse.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5132</key>
+		<key>5594</key>
 		<dict>
-			<key>Track ID</key><integer>5132</integer>
+			<key>Track ID</key><integer>5594</integer>
 			<key>Name</key><string>恋ゲバ</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -947,9 +953,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850320916</integer>
-			<key>Play Date UTC</key><date>2026-01-04T03:35:16Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857223031</integer>
+			<key>Play Date UTC</key><date>2026-03-25T00:50:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>20</integer>
 			<key>Album Rating Computed</key><true/>
@@ -957,13 +963,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BED5FCC1037B78B1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E8%8B%A5%E6%B0%97%E3%82%AC%E3%82%A4%E3%82%BF%E3%83%AB/04%20%E6%81%8B%E3%82%B2%E3%83%90.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E8%8B%A5%E6%B0%97%E3%82%AC%E3%82%A4%E3%82%BF%E3%83%AB/04%20%E6%81%8B%E3%82%B2%E3%83%90.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5142</key>
+		<key>5604</key>
 		<dict>
-			<key>Track ID</key><integer>5142</integer>
+			<key>Track ID</key><integer>5604</integer>
 			<key>Name</key><string>WOO! GO!</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -994,13 +1000,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7E4586B363F73869</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/WOO!%20GO!%20-%20Single/01%20WOO!%20GO!.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/WOO!%20GO!%20-%20Single/01%20WOO!%20GO!.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14744</key>
+		<key>15206</key>
 		<dict>
-			<key>Track ID</key><integer>14744</integer>
+			<key>Track ID</key><integer>15206</integer>
 			<key>Name</key><string>恋文</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -1020,9 +1026,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3855134984</integer>
-			<key>Play Date UTC</key><date>2026-02-28T20:49:44Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859193557</integer>
+			<key>Play Date UTC</key><date>2026-04-16T19:12:37Z</date>
 			<key>Release Date</key><date>2020-05-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1031,13 +1037,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2BCD0BA8094D5979</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E6%81%8B%E6%96%87%20-%20Single/01%20%E6%81%8B%E6%96%87.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/%E6%81%8B%E6%96%87%20-%20Single/01%20%E6%81%8B%E6%96%87.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14746</key>
+		<key>15208</key>
 		<dict>
-			<key>Track ID</key><integer>14746</integer>
+			<key>Track ID</key><integer>15208</integer>
 			<key>Name</key><string>Pineapple Kryptonite</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -1058,9 +1064,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3854903117</integer>
-			<key>Play Date UTC</key><date>2026-02-26T04:25:17Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859197906</integer>
+			<key>Play Date UTC</key><date>2026-04-16T20:25:06Z</date>
 			<key>Release Date</key><date>2021-09-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1069,13 +1075,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F4F369360C1AAEB4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Pineapple%20Kryptonite%20-%20Single/01%20Pineapple%20Kryptonite.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Pineapple%20Kryptonite%20-%20Single/01%20Pineapple%20Kryptonite.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14748</key>
+		<key>15210</key>
 		<dict>
-			<key>Track ID</key><integer>14748</integer>
+			<key>Track ID</key><integer>15210</integer>
 			<key>Name</key><string>Change</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -1106,13 +1112,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6E33338B1ACA509E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Change%20-%20Single/01%20Change.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Change%20-%20Single/01%20Change.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27724</key>
+		<key>28186</key>
 		<dict>
-			<key>Track ID</key><integer>27724</integer>
+			<key>Track ID</key><integer>28186</integer>
 			<key>Name</key><string>Narani Narani</string>
 			<key>Artist</key><string>Balming Tiger feat. 新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>Balming Tiger feat. 新しい学校のリーダーズ</string>
@@ -1142,13 +1148,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>65039628A9C28514</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Balming%20Tiger%20feat.%20%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Narani%20Narani%20-%20Single/01%20Narani%20Narani.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Balming%20Tiger%20feat.%20%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Narani%20Narani%20-%20Single/01%20Narani%20Narani.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33130</key>
+		<key>33592</key>
 		<dict>
-			<key>Track ID</key><integer>33130</integer>
+			<key>Track ID</key><integer>33592</integer>
 			<key>Name</key><string>Go Wild</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -1179,13 +1185,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>864E6AA73349E139</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Go%20Wild%20-%20Miyao%20-%20Single/01%20Go%20Wild.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Go%20Wild%20-%20Miyao%20-%20Single/01%20Go%20Wild.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33284</key>
+		<key>33746</key>
 		<dict>
-			<key>Track ID</key><integer>33284</integer>
+			<key>Track ID</key><integer>33746</integer>
 			<key>Name</key><string>Sailor, Sail On</string>
 			<key>Artist</key><string>新しい学校のリーダーズ</string>
 			<key>Album Artist</key><string>新しい学校のリーダーズ</string>
@@ -1216,7 +1222,44 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7BC75316ED21D8DD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Sailor,%20Sail%20On%20-%20Single/01%20Sailor,%20Sail%20On.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E6%96%B0%E3%81%97%E3%81%84%E5%AD%A6%E6%A0%A1%E3%81%AE%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%BA/Sailor,%20Sail%20On%20-%20Single/01%20Sailor,%20Sail%20On.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38642</key>
+		<dict>
+			<key>Track ID</key><integer>38642</integer>
+			<key>Name</key><string>ARMSTRONG</string>
+			<key>Artist</key><string>MILLI feat. 新しい学校のリーダーズ</string>
+			<key>Album Artist</key><string>香取慎吾</string>
+			<key>Album</key><string>HEAVYWEIGHT</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>49683005</integer>
+			<key>Total Time</key><integer>212860</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2025</integer>
+			<key>BPM</key><integer>125</integer>
+			<key>Date Modified</key><date>2026-04-15T00:42:42Z</date>
+			<key>Date Added</key><date>2026-04-10T02:55:55Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3858765745</integer>
+			<key>Play Date UTC</key><date>2026-04-11T20:22:25Z</date>
+			<key>Release Date</key><date>2025-07-11T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6064</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F2DB08CB18AB6973</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E9%A6%99%E5%8F%96%E6%85%8E%E5%90%BE/HEAVYWEIGHT/03%20ARMSTRONG.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1226,7 +1269,7 @@
 		<dict>
 			<key>Name</key><string>新しい学校のリーダーズ</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>114996</integer>
+			<key>Playlist ID</key><integer>126585</integer>
 			<key>Playlist Persistent ID</key><string>77D1CCE83E309BEC</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1271,103 +1314,106 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5070</integer>
+					<key>Track ID</key><integer>5532</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5132</integer>
+					<key>Track ID</key><integer>5594</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5106</integer>
+					<key>Track ID</key><integer>5568</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14744</integer>
+					<key>Track ID</key><integer>15206</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5102</integer>
+					<key>Track ID</key><integer>5564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14746</integer>
+					<key>Track ID</key><integer>15208</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5114</integer>
+					<key>Track ID</key><integer>5576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5116</integer>
+					<key>Track ID</key><integer>5578</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5142</integer>
+					<key>Track ID</key><integer>5604</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5052</integer>
+					<key>Track ID</key><integer>5514</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5120</integer>
+					<key>Track ID</key><integer>5582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5056</integer>
+					<key>Track ID</key><integer>5518</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5058</integer>
+					<key>Track ID</key><integer>5520</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5060</integer>
+					<key>Track ID</key><integer>5522</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5062</integer>
+					<key>Track ID</key><integer>5524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5092</integer>
+					<key>Track ID</key><integer>5554</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5122</integer>
+					<key>Track ID</key><integer>5584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5124</integer>
+					<key>Track ID</key><integer>5586</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5054</integer>
+					<key>Track ID</key><integer>5516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14748</integer>
+					<key>Track ID</key><integer>15210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5028</integer>
+					<key>Track ID</key><integer>5490</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5032</integer>
+					<key>Track ID</key><integer>5494</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5034</integer>
+					<key>Track ID</key><integer>5496</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5036</integer>
+					<key>Track ID</key><integer>5498</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5038</integer>
+					<key>Track ID</key><integer>5500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5040</integer>
+					<key>Track ID</key><integer>5502</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5042</integer>
+					<key>Track ID</key><integer>5504</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5044</integer>
+					<key>Track ID</key><integer>5506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5046</integer>
+					<key>Track ID</key><integer>5508</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5050</integer>
+					<key>Track ID</key><integer>5512</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27724</integer>
+					<key>Track ID</key><integer>28186</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33130</integer>
+					<key>Track ID</key><integer>33592</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33284</integer>
+					<key>Track ID</key><integer>33746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38642</integer>
 				</dict>
 			</array>
 		</dict>

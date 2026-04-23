@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:20:10Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:22:20Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6188</key>
+		<key>6670</key>
 		<dict>
-			<key>Track ID</key><integer>6188</integer>
+			<key>Track ID</key><integer>6670</integer>
 			<key>Name</key><string>Dance The Night (From Barbie The Album)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852353060</integer>
-			<key>Play Date UTC</key><date>2026-01-27T16:04:20Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857899805</integer>
+			<key>Play Date UTC</key><date>2026-04-01T20:50:05Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -45,13 +45,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>29B50CDE0E641CA6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dance%20The%20Night%20(From%20Barbie%20The%20Album)/01%20Dance%20The%20Night%20(From%20Barbie%20The.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dance%20The%20Night%20(From%20Barbie%20The%20Album)/01%20Dance%20The%20Night%20(From%20Barbie%20The.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6194</key>
+		<key>6676</key>
 		<dict>
-			<key>Track ID</key><integer>6194</integer>
+			<key>Track ID</key><integer>6676</integer>
 			<key>Name</key><string>Hotter Than Hell</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -77,18 +77,17 @@
 			<key>Play Date UTC</key><date>2026-01-07T06:10:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7606</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>19BCBEA1103AF9E5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/03%20Hotter%20Than%20Hell.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/03%20Hotter%20Than%20Hell.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6202</key>
+		<key>6684</key>
 		<dict>
-			<key>Track ID</key><integer>6202</integer>
+			<key>Track ID</key><integer>6684</integer>
 			<key>Name</key><string>Garden</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -114,18 +113,17 @@
 			<key>Play Date UTC</key><date>2025-10-18T16:58:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7604</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7AF1498E8474B521</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/07%20Garden.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/07%20Garden.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6204</key>
+		<key>6686</key>
 		<dict>
-			<key>Track ID</key><integer>6204</integer>
+			<key>Track ID</key><integer>6686</integer>
 			<key>Name</key><string>No Goodbyes</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -149,20 +147,21 @@
 			<key>Play Count</key><integer>3</integer>
 			<key>Play Date</key><integer>3852127293</integer>
 			<key>Play Date UTC</key><date>2026-01-25T01:21:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-04T18:54:51Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5187</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9B6D57647BAD1809</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/08%20No%20Goodbyes.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/08%20No%20Goodbyes.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6206</key>
+		<key>6688</key>
 		<dict>
-			<key>Track ID</key><integer>6206</integer>
+			<key>Track ID</key><integer>6688</integer>
 			<key>Name</key><string>Thinking 'Bout You</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -188,18 +187,17 @@
 			<key>Play Date UTC</key><date>2026-01-28T16:17:45Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4202</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>76B3DF6770F9B508</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/09%20Thinking%20'Bout%20You.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/09%20Thinking%20'Bout%20You.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6208</key>
+		<key>6690</key>
 		<dict>
-			<key>Track ID</key><integer>6208</integer>
+			<key>Track ID</key><integer>6690</integer>
 			<key>Name</key><string>New Rules</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -225,18 +223,17 @@
 			<key>Play Date UTC</key><date>2025-11-28T23:37:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>3483</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D58CD5FE24470E4E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/10%20New%20Rules.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/10%20New%20Rules.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6222</key>
+		<key>6704</key>
 		<dict>
-			<key>Track ID</key><integer>6222</integer>
+			<key>Track ID</key><integer>6704</integer>
 			<key>Name</key><string>Last Dance</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -257,23 +254,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3849286282</integer>
-			<key>Play Date UTC</key><date>2025-12-23T04:11:22Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858970236</integer>
+			<key>Play Date UTC</key><date>2026-04-14T05:10:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5062</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4334C4DB8B6D4936</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/17%20Last%20Dance.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Deluxe)/17%20Last%20Dance.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6228</key>
+		<key>6710</key>
 		<dict>
-			<key>Track ID</key><integer>6228</integer>
+			<key>Track ID</key><integer>6710</integer>
 			<key>Name</key><string>Cool</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -301,18 +297,17 @@
 			<key>Skip Date</key><date>2025-02-15T21:35:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6394</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2170737144DFF05E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/03%20Cool.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/03%20Cool.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6230</key>
+		<key>6712</key>
 		<dict>
-			<key>Track ID</key><integer>6230</integer>
+			<key>Track ID</key><integer>6712</integer>
 			<key>Name</key><string>Physical</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -333,23 +328,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850414769</integer>
-			<key>Play Date UTC</key><date>2026-01-05T05:39:29Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3856790181</integer>
+			<key>Play Date UTC</key><date>2026-03-20T00:36:21Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7813</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>32EDF911A6366D25</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/04%20Physical.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/04%20Physical.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6232</key>
+		<key>6714</key>
 		<dict>
-			<key>Track ID</key><integer>6232</integer>
+			<key>Track ID</key><integer>6714</integer>
 			<key>Name</key><string>Levitating</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -370,23 +364,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3842463724</integer>
-			<key>Play Date UTC</key><date>2025-10-05T04:02:04Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857127867</integer>
+			<key>Play Date UTC</key><date>2026-03-23T22:24:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9870</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>36492FF9B99587D3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/05%20Levitating.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/05%20Levitating.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6236</key>
+		<key>6718</key>
 		<dict>
-			<key>Track ID</key><integer>6236</integer>
+			<key>Track ID</key><integer>6718</integer>
 			<key>Name</key><string>Hallucinate</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -407,23 +400,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3840283800</integer>
-			<key>Play Date UTC</key><date>2025-09-09T22:30:00Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857399261</integer>
+			<key>Play Date UTC</key><date>2026-03-27T01:47:41Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6134</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4A5861BCD7019F77</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/07%20Hallucinate.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/07%20Hallucinate.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6238</key>
+		<key>6720</key>
 		<dict>
-			<key>Track ID</key><integer>6238</integer>
+			<key>Track ID</key><integer>6720</integer>
 			<key>Name</key><string>Love Again</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -449,18 +441,17 @@
 			<key>Play Date UTC</key><date>2025-10-24T19:06:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6125</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7D506E2F39647211</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/08%20Love%20Again.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/08%20Love%20Again.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6240</key>
+		<key>6722</key>
 		<dict>
-			<key>Track ID</key><integer>6240</integer>
+			<key>Track ID</key><integer>6722</integer>
 			<key>Name</key><string>Break My Heart</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -481,23 +472,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3850466105</integer>
-			<key>Play Date UTC</key><date>2026-01-05T19:55:05Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3854285382</integer>
+			<key>Play Date UTC</key><date>2026-02-19T00:49:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7933</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E4770A3556F86B23</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/09%20Break%20My%20Heart.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/09%20Break%20My%20Heart.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6248</key>
+		<key>6730</key>
 		<dict>
-			<key>Track ID</key><integer>6248</integer>
+			<key>Track ID</key><integer>6730</integer>
 			<key>Name</key><string>Houdini</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -528,13 +518,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>11ED624D33B7603F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Houdini%20-%20Single/01%20Houdini.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Houdini%20-%20Single/01%20Houdini.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6250</key>
+		<key>6732</key>
 		<dict>
-			<key>Track ID</key><integer>6250</integer>
+			<key>Track ID</key><integer>6732</integer>
 			<key>Name</key><string>Illusion</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -555,23 +545,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852384308</integer>
-			<key>Play Date UTC</key><date>2026-01-28T00:45:08Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859295607</integer>
+			<key>Play Date UTC</key><date>2026-04-17T23:33:27Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4975</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0A18FFC41FA98290</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Illusion%20-%20Single/01%20Illusion.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Illusion%20-%20Single/01%20Illusion.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6254</key>
+		<key>6736</key>
 		<dict>
-			<key>Track ID</key><integer>6254</integer>
+			<key>Track ID</key><integer>6736</integer>
 			<key>Name</key><string>End Of An Era</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -592,12 +581,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852485188</integer>
-			<key>Play Date UTC</key><date>2026-01-29T04:46:28Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855137117</integer>
+			<key>Play Date UTC</key><date>2026-02-28T21:25:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4927</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -605,13 +593,13 @@
 			<key>Sort Name</key><string>End Of An Era</string>
 			<key>Persistent ID</key><string>ABB5E59A06428C58</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/01%20End%20Of%20An%20Era.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/01%20End%20Of%20An%20Era.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6260</key>
+		<key>6742</key>
 		<dict>
-			<key>Track ID</key><integer>6260</integer>
+			<key>Track ID</key><integer>6742</integer>
 			<key>Name</key><string>These Walls</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -632,12 +620,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851969298</integer>
-			<key>Play Date UTC</key><date>2026-01-23T05:28:18Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3858614798</integer>
+			<key>Play Date UTC</key><date>2026-04-10T02:26:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4496</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -645,13 +632,13 @@
 			<key>Sort Name</key><string>These Walls</string>
 			<key>Persistent ID</key><string>1654323B95915B5C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/04%20These%20Walls.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/04%20These%20Walls.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6262</key>
+		<key>6744</key>
 		<dict>
-			<key>Track ID</key><integer>6262</integer>
+			<key>Track ID</key><integer>6744</integer>
 			<key>Name</key><string>Whatcha Doing</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -672,12 +659,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3844096670</integer>
-			<key>Play Date UTC</key><date>2025-10-24T01:37:50Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3858315368</integer>
+			<key>Play Date UTC</key><date>2026-04-06T15:16:08Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5895</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -685,13 +671,13 @@
 			<key>Sort Name</key><string>Whatcha Doing</string>
 			<key>Persistent ID</key><string>579EB66D003C0E1C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/05%20Whatcha%20Doing.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/05%20Whatcha%20Doing.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6268</key>
+		<key>6750</key>
 		<dict>
-			<key>Track ID</key><integer>6268</integer>
+			<key>Track ID</key><integer>6750</integer>
 			<key>Name</key><string>Falling Forever</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -712,12 +698,13 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3852367855</integer>
-			<key>Play Date UTC</key><date>2026-01-27T20:10:55Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857543049</integer>
+			<key>Play Date UTC</key><date>2026-03-28T17:44:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-28T17:37:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5021</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -725,13 +712,13 @@
 			<key>Sort Name</key><string>Falling Forever</string>
 			<key>Persistent ID</key><string>DECC2D95D08ABC81</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/08%20Falling%20Forever.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/08%20Falling%20Forever.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6272</key>
+		<key>6754</key>
 		<dict>
-			<key>Track ID</key><integer>6272</integer>
+			<key>Track ID</key><integer>6754</integer>
 			<key>Name</key><string>Maria</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -757,7 +744,6 @@
 			<key>Play Date UTC</key><date>2025-11-28T21:05:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2961</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -765,13 +751,13 @@
 			<key>Sort Name</key><string>Maria</string>
 			<key>Persistent ID</key><string>9F0E869830225B98</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/10%20Maria.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/10%20Maria.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6274</key>
+		<key>6756</key>
 		<dict>
-			<key>Track ID</key><integer>6274</integer>
+			<key>Track ID</key><integer>6756</integer>
 			<key>Name</key><string>Happy For You</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -792,12 +778,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852294245</integer>
-			<key>Play Date UTC</key><date>2026-01-26T23:44:05Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3853664695</integer>
+			<key>Play Date UTC</key><date>2026-02-11T20:24:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5239</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Radical Optimism</string>
@@ -805,13 +790,13 @@
 			<key>Sort Name</key><string>Happy For You</string>
 			<key>Persistent ID</key><string>D54D8240B6875888</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/11%20Happy%20For%20You.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Radical%20Optimism/11%20Happy%20For%20You.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6298</key>
+		<key>6780</key>
 		<dict>
-			<key>Track ID</key><integer>6298</integer>
+			<key>Track ID</key><integer>6780</integer>
 			<key>Name</key><string>Training Season</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -832,9 +817,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3842285299</integer>
-			<key>Play Date UTC</key><date>2025-10-03T02:28:19Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3856343902</integer>
+			<key>Play Date UTC</key><date>2026-03-14T20:38:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -842,13 +827,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E22DEE819BB481DB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Training%20Season%20-%20Single/01%20Training%20Season.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Training%20Season%20-%20Single/01%20Training%20Season.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6300</key>
+		<key>6782</key>
 		<dict>
-			<key>Track ID</key><integer>6300</integer>
+			<key>Track ID</key><integer>6782</integer>
 			<key>Name</key><string>Fever</string>
 			<key>Artist</key><string>Dua Lipa &#38; Angèle</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -869,23 +854,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3845547249</integer>
-			<key>Play Date UTC</key><date>2025-11-09T21:34:09Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3854435798</integer>
+			<key>Play Date UTC</key><date>2026-02-20T18:36:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>2133</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>816D41AC2DEB1818</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/13%20Fever.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia/13%20Fever.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12266</key>
+		<key>12748</key>
 		<dict>
-			<key>Track ID</key><integer>12266</integer>
+			<key>Track ID</key><integer>12748</integer>
 			<key>Name</key><string>Prisoner</string>
 			<key>Artist</key><string>Miley Cyrus feat. Dua Lipa</string>
 			<key>Album Artist</key><string>Miley Cyrus</string>
@@ -917,13 +901,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>48A9BA3F045FEA1C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Miley%20Cyrus/Plastic%20Hearts/04%20Prisoner.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Miley%20Cyrus/Plastic%20Hearts/04%20Prisoner.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17738</key>
+		<key>18112</key>
 		<dict>
-			<key>Track ID</key><integer>17738</integer>
+			<key>Track ID</key><integer>18112</integer>
 			<key>Name</key><string>Blow Your Mind (Mwah)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -955,13 +939,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A0DA2E21561F42DE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Blow%20Your%20Mind%20(Mwah)%20-%20Single/01%20Blow%20Your%20Mind%20(Mwah).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Blow%20Your%20Mind%20(Mwah)%20-%20Single/01%20Blow%20Your%20Mind%20(Mwah).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17746</key>
+		<key>18120</key>
 		<dict>
-			<key>Track ID</key><integer>17746</integer>
+			<key>Track ID</key><integer>18120</integer>
 			<key>Name</key><string>CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score)</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -993,13 +977,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>116682E8701903D4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20with%20orig/01%20CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20wi.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20with%20orig/01%20CAN%20THEY%20HEAR%20US%20(From%20_Gully_%20wi.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17756</key>
+		<key>18130</key>
 		<dict>
-			<key>Track ID</key><integer>17756</integer>
+			<key>Track ID</key><integer>18130</integer>
 			<key>Name</key><string>Cold Heart (PNAU Remix)</string>
 			<key>Artist</key><string>Elton John &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Elton John &#38; Dua Lipa</string>
@@ -1020,9 +1004,9 @@
 			<key>Bit Rate</key><integer>331</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852571053</integer>
-			<key>Play Date UTC</key><date>2026-01-30T04:37:33Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3858616613</integer>
+			<key>Play Date UTC</key><date>2026-04-10T02:56:53Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-08-16T17:47:02Z</date>
 			<key>Release Date</key><date>2021-08-13T12:00:00Z</date>
@@ -1033,13 +1017,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DC12445ABB2F7E92</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Elton%20John%20&#38;%20Dua%20Lipa/Cold%20Heart%20(PNAU%20Remix)%20-%20Single/01%20Cold%20Heart%20(PNAU%20Remix).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Elton%20John%20&#38;%20Dua%20Lipa/Cold%20Heart%20(PNAU%20Remix)%20-%20Single/01%20Cold%20Heart%20(PNAU%20Remix).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17766</key>
+		<key>18140</key>
 		<dict>
-			<key>Track ID</key><integer>17766</integer>
+			<key>Track ID</key><integer>18140</integer>
 			<key>Name</key><string>Don't Start Now</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1071,13 +1055,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8E54BD95AB2D377A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Don't%20Start%20Now%20-%20Single/01%20Don't%20Start%20Now.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Don't%20Start%20Now%20-%20Single/01%20Don't%20Start%20Now.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17780</key>
+		<key>18154</key>
 		<dict>
-			<key>Track ID</key><integer>17780</integer>
+			<key>Track ID</key><integer>18154</integer>
 			<key>Name</key><string>Future Nostalgia</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1098,9 +1082,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3847186018</integer>
-			<key>Play Date UTC</key><date>2025-11-28T20:46:58Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853843186</integer>
+			<key>Play Date UTC</key><date>2026-02-13T21:59:46Z</date>
 			<key>Release Date</key><date>2019-12-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1109,13 +1093,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>33364DD30C80A0BD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia%20-%20Single/01%20Future%20Nostalgia.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Future%20Nostalgia%20-%20Single/01%20Future%20Nostalgia.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17836</key>
+		<key>18210</key>
 		<dict>
-			<key>Track ID</key><integer>17836</integer>
+			<key>Track ID</key><integer>18210</integer>
 			<key>Name</key><string>One Kiss</string>
 			<key>Artist</key><string>Calvin Harris, Dua Lipa</string>
 			<key>Album Artist</key><string>Calvin Harris, Dua Lipa</string>
@@ -1147,13 +1131,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E370EF752080BB65</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Calvin%20Harris,%20Dua%20Lipa/One%20Kiss%20-%20Single/01%20One%20Kiss.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Calvin%20Harris,%20Dua%20Lipa/One%20Kiss%20-%20Single/01%20One%20Kiss.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17848</key>
+		<key>18222</key>
 		<dict>
-			<key>Track ID</key><integer>17848</integer>
+			<key>Track ID</key><integer>18222</integer>
 			<key>Name</key><string>Real Groove (Studio 2054 Remix)</string>
 			<key>Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Kylie Minogue &#38; Dua Lipa</string>
@@ -1185,13 +1169,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>79C7C7A85D1E0778</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Kylie%20Minogue%20&#38;%20Dua%20Lipa/Real%20Groove%20(Studio%202054%20Remix)%20-%20Single/01%20Real%20Groove%20(Studio%202054%20Remix).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Kylie%20Minogue%20&#38;%20Dua%20Lipa/Real%20Groove%20(Studio%202054%20Remix)%20-%20Single/01%20Real%20Groove%20(Studio%202054%20Remix).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17862</key>
+		<key>18236</key>
 		<dict>
-			<key>Track ID</key><integer>17862</integer>
+			<key>Track ID</key><integer>18236</integer>
 			<key>Name</key><string>Swan Song (From the Motion Picture 'Alita- Battle Angel')</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1212,9 +1196,9 @@
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>14</integer>
-			<key>Play Date</key><integer>3845548616</integer>
-			<key>Play Date UTC</key><date>2025-11-09T21:56:56Z</date>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3857233200</integer>
+			<key>Play Date UTC</key><date>2026-03-25T03:40:00Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-03-29T00:00:38Z</date>
 			<key>Release Date</key><date>2019-01-24T12:00:00Z</date>
@@ -1225,13 +1209,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BE7CF386DC7612DA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Swan%20Song%20(From%20the%20Motion%20Picture%20'Alit/01%20Swan%20Song%20(From%20the%20Motion%20Pictur%202.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Swan%20Song%20(From%20the%20Motion%20Picture%20'Alit/01%20Swan%20Song%20(From%20the%20Motion%20Pictur%202.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18166</key>
+		<key>18540</key>
 		<dict>
-			<key>Track ID</key><integer>18166</integer>
+			<key>Track ID</key><integer>18540</integer>
 			<key>Name</key><string>No Lie</string>
 			<key>Artist</key><string>Sean Paul feat. Dua Lipa</string>
 			<key>Album Artist</key><string>Sean Paul feat. Dua Lipa</string>
@@ -1252,9 +1236,9 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851173931</integer>
-			<key>Play Date UTC</key><date>2026-01-14T00:32:11Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3855640544</integer>
+			<key>Play Date UTC</key><date>2026-03-06T17:15:44Z</date>
 			<key>Release Date</key><date>2016-11-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1263,13 +1247,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0290FA0A8D8EB58E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Sean%20Paul%20feat.%20Dua%20Lipa/No%20Lie%20-%20Single/01%20No%20Lie.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Sean%20Paul%20feat.%20Dua%20Lipa/No%20Lie%20-%20Single/01%20No%20Lie.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18170</key>
+		<key>18544</key>
 		<dict>
-			<key>Track ID</key><integer>18170</integer>
+			<key>Track ID</key><integer>18544</integer>
 			<key>Name</key><string>Scared to Be Lonely</string>
 			<key>Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
 			<key>Album Artist</key><string>Martin Garrix &#38; Dua Lipa</string>
@@ -1290,9 +1274,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3852097849</integer>
-			<key>Play Date UTC</key><date>2026-01-24T17:10:49Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3852985562</integer>
+			<key>Play Date UTC</key><date>2026-02-03T23:46:02Z</date>
 			<key>Release Date</key><date>2017-01-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1301,13 +1285,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>971B3A6FB8039403</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Martin%20Garrix%20&#38;%20Dua%20Lipa/Scared%20To%20Be%20Lonely%20-%20Single/01%20Scared%20to%20Be%20Lonely.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Martin%20Garrix%20&#38;%20Dua%20Lipa/Scared%20To%20Be%20Lonely%20-%20Single/01%20Scared%20to%20Be%20Lonely.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18206</key>
+		<key>18580</key>
 		<dict>
-			<key>Track ID</key><integer>18206</integer>
+			<key>Track ID</key><integer>18580</integer>
 			<key>Name</key><string>Want To</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1328,24 +1312,23 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3845982605</integer>
-			<key>Play Date UTC</key><date>2025-11-14T22:30:05Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3858603970</integer>
+			<key>Play Date UTC</key><date>2026-04-09T23:26:10Z</date>
 			<key>Release Date</key><date>2018-09-07T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6059</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0F1DE47BA6D06292</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/18%20Want%20To.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/18%20Want%20To.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18208</key>
+		<key>18582</key>
 		<dict>
-			<key>Track ID</key><integer>18208</integer>
+			<key>Track ID</key><integer>18582</integer>
 			<key>Name</key><string>Running</string>
 			<key>Artist</key><string>Dua Lipa</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1366,24 +1349,23 @@
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850584637</integer>
-			<key>Play Date UTC</key><date>2026-01-07T04:50:37Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3853659942</integer>
+			<key>Play Date UTC</key><date>2026-02-11T19:05:42Z</date>
 			<key>Release Date</key><date>2017-06-02T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6852</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>730FA0176ABF56BA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/19%20Running.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/19%20Running.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>18210</key>
+		<key>18584</key>
 		<dict>
-			<key>Track ID</key><integer>18210</integer>
+			<key>Track ID</key><integer>18584</integer>
 			<key>Name</key><string>Kiss and Make Up</string>
 			<key>Artist</key><string>Dua Lipa &#38; BLACKPINK</string>
 			<key>Album Artist</key><string>Dua Lipa</string>
@@ -1410,12 +1392,49 @@
 			<key>Release Date</key><date>2018-10-19T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4792</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B2D8D6018E61C036</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/20%20Kiss%20and%20Make%20Up.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Dua%20Lipa/Dua%20Lipa%20(Complete%20Edition)/20%20Kiss%20and%20Make%20Up.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>36620</key>
+		<dict>
+			<key>Track ID</key><integer>36620</integer>
+			<key>Name</key><string>Demeanor</string>
+			<key>Artist</key><string>Pop Smoke feat Dua Lipa</string>
+			<key>Album Artist</key><string>Pop Smoke</string>
+			<key>Composer</key><string>Daniel Mizrahi / Bashar Jackson / Michael Gomes / Mantra / Dru De Caro / Dua Lipa</string>
+			<key>Album</key><string>Faith</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>41268160</integer>
+			<key>Total Time</key><integer>184800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>BPM</key><integer>100</integer>
+			<key>Date Modified</key><date>2026-03-14T04:30:28Z</date>
+			<key>Date Added</key><date>2026-03-10T06:47:31Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3856068588</integer>
+			<key>Play Date UTC</key><date>2026-03-11T16:09:48Z</date>
+			<key>Release Date</key><date>2021-07-16T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2968</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D700EA89EBC09D6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Pop%20Smoke/Faith/16%20Demeanor.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1425,7 +1444,7 @@
 		<dict>
 			<key>Name</key><string>Dua Lipa</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>101136</integer>
+			<key>Playlist ID</key><integer>125117</integer>
 			<key>Playlist Persistent ID</key><string>E84200D4B74DA227</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1466,115 +1485,118 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6222</integer>
+					<key>Track ID</key><integer>6704</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6194</integer>
+					<key>Track ID</key><integer>6676</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17738</integer>
+					<key>Track ID</key><integer>18112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18166</integer>
+					<key>Track ID</key><integer>18540</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6206</integer>
+					<key>Track ID</key><integer>6688</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>18170</integer>
+					<key>Track ID</key><integer>18544</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6202</integer>
+					<key>Track ID</key><integer>6684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6204</integer>
+					<key>Track ID</key><integer>6686</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6208</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>17836</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18206</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>18208</integer>
+					<key>Track ID</key><integer>6690</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>18210</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17862</integer>
+					<key>Track ID</key><integer>18580</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17766</integer>
+					<key>Track ID</key><integer>18582</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17780</integer>
+					<key>Track ID</key><integer>18584</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6230</integer>
+					<key>Track ID</key><integer>18236</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6240</integer>
+					<key>Track ID</key><integer>18140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6228</integer>
+					<key>Track ID</key><integer>18154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6232</integer>
+					<key>Track ID</key><integer>6712</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6236</integer>
+					<key>Track ID</key><integer>6722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6238</integer>
+					<key>Track ID</key><integer>6710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6300</integer>
+					<key>Track ID</key><integer>6714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17848</integer>
+					<key>Track ID</key><integer>6718</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17746</integer>
+					<key>Track ID</key><integer>6720</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17756</integer>
+					<key>Track ID</key><integer>6782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12266</integer>
+					<key>Track ID</key><integer>18222</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6188</integer>
+					<key>Track ID</key><integer>18120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6248</integer>
+					<key>Track ID</key><integer>18130</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6298</integer>
+					<key>Track ID</key><integer>12748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6250</integer>
+					<key>Track ID</key><integer>6670</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6254</integer>
+					<key>Track ID</key><integer>6730</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6260</integer>
+					<key>Track ID</key><integer>6780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6262</integer>
+					<key>Track ID</key><integer>6732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6268</integer>
+					<key>Track ID</key><integer>6736</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6272</integer>
+					<key>Track ID</key><integer>6742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6274</integer>
+					<key>Track ID</key><integer>6744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36620</integer>
 				</dict>
 			</array>
 		</dict>

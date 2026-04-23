@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-02-03T22:59:51Z</date>
-	<key>Application Version</key><string>12.13.9.1</string>
+	<key>Date</key><date>2026-04-23T00:25:26Z</date>
+	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/E:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>11074</key>
+		<key>11556</key>
 		<dict>
-			<key>Track ID</key><integer>11074</integer>
+			<key>Track ID</key><integer>11556</integer>
 			<key>Name</key><string>Fake &#38; True</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -45,13 +45,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7A4011FE40DCF20E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/02%20Fake%20&#38;%20True.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/02%20Fake%20&#38;%20True.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11080</key>
+		<key>11562</key>
 		<dict>
-			<key>Track ID</key><integer>11080</integer>
+			<key>Track ID</key><integer>11562</integer>
 			<key>Name</key><string>Changing!</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -72,9 +72,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850754338</integer>
-			<key>Play Date UTC</key><date>2026-01-09T03:58:58Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3853647642</integer>
+			<key>Play Date UTC</key><date>2026-02-11T15:40:42Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-01-09T04:02:02Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -84,13 +84,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7FD35F2DF3A9438C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/05%20Changing!.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/05%20Changing!.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11084</key>
+		<key>11566</key>
 		<dict>
-			<key>Track ID</key><integer>11084</integer>
+			<key>Track ID</key><integer>11566</integer>
 			<key>Name</key><string>What You Waiting For</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -111,9 +111,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850754654</integer>
-			<key>Play Date UTC</key><date>2026-01-09T04:04:14Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3859370125</integer>
+			<key>Play Date UTC</key><date>2026-04-18T20:15:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -121,13 +121,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>31DB6E859DFD3B2D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/07%20What%20You%20Waiting%20For.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/&#38;TWICE%20(Repackage)/07%20What%20You%20Waiting%20For.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11136</key>
+		<key>11618</key>
 		<dict>
-			<key>Track ID</key><integer>11136</integer>
+			<key>Track ID</key><integer>11618</integer>
 			<key>Name</key><string>Talk that Talk</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -148,9 +148,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3852486594</integer>
-			<key>Play Date UTC</key><date>2026-01-29T05:09:54Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855234942</integer>
+			<key>Play Date UTC</key><date>2026-03-02T00:35:42Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -158,13 +158,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>99CCF11C3BD89702</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/01%20Talk%20that%20Talk.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/01%20Talk%20that%20Talk.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11138</key>
+		<key>11620</key>
 		<dict>
-			<key>Track ID</key><integer>11138</integer>
+			<key>Track ID</key><integer>11620</integer>
 			<key>Name</key><string>Queen of Hearts</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -195,13 +195,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>907390E37983E31F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/02%20Queen%20of%20Hearts.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/02%20Queen%20of%20Hearts.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11142</key>
+		<key>11624</key>
 		<dict>
-			<key>Track ID</key><integer>11142</integer>
+			<key>Track ID</key><integer>11624</integer>
 			<key>Name</key><string>Trouble</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -222,9 +222,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850814341</integer>
-			<key>Play Date UTC</key><date>2026-01-09T20:39:01Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3857402327</integer>
+			<key>Play Date UTC</key><date>2026-03-27T02:38:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -232,13 +232,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>91C57C7DD5515741</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/04%20Trouble.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/BETWEEN%201&#38;2/04%20Trouble.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11154</key>
+		<key>11636</key>
 		<dict>
-			<key>Track ID</key><integer>11154</integer>
+			<key>Track ID</key><integer>11636</integer>
 			<key>Name</key><string>TICK TOCK</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -263,19 +263,19 @@
 			<key>Play Date</key><integer>3852126634</integer>
 			<key>Play Date UTC</key><date>2026-01-25T01:10:34Z</date>
 			<key>Rating</key><integer>100</integer>
-			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8736</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C7D0EA35379E81F8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Celebrate/03%20TICK%20TOCK.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Celebrate/03%20TICK%20TOCK.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11168</key>
+		<key>11650</key>
 		<dict>
-			<key>Track ID</key><integer>11168</integer>
+			<key>Track ID</key><integer>11650</integer>
 			<key>Name</key><string>I CAN'T STOP ME</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -306,13 +306,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8EE7AB297DFD9DB8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/01%20I%20CAN'T%20STOP%20ME.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/01%20I%20CAN'T%20STOP%20ME.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11170</key>
+		<key>11652</key>
 		<dict>
-			<key>Track ID</key><integer>11170</integer>
+			<key>Track ID</key><integer>11652</integer>
 			<key>Name</key><string>HELL IN HEAVEN</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -333,9 +333,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850796769</integer>
-			<key>Play Date UTC</key><date>2026-01-09T15:46:09Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855291998</integer>
+			<key>Play Date UTC</key><date>2026-03-02T16:26:38Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -343,13 +343,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3F7E1B64DBBDDBA1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/02%20HELL%20IN%20HEAVEN.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/02%20HELL%20IN%20HEAVEN.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11172</key>
+		<key>11654</key>
 		<dict>
-			<key>Track ID</key><integer>11172</integer>
+			<key>Track ID</key><integer>11654</integer>
 			<key>Name</key><string>UP NO MORE</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -370,9 +370,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850796986</integer>
-			<key>Play Date UTC</key><date>2026-01-09T15:49:46Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857899175</integer>
+			<key>Play Date UTC</key><date>2026-04-01T20:39:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -380,13 +380,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0A1DEC16E8525BD2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/03%20UP%20NO%20MORE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/03%20UP%20NO%20MORE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11176</key>
+		<key>11658</key>
 		<dict>
-			<key>Track ID</key><integer>11176</integer>
+			<key>Track ID</key><integer>11658</integer>
 			<key>Name</key><string>BRING IT BACK</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -407,9 +407,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850797372</integer>
-			<key>Play Date UTC</key><date>2026-01-09T15:56:12Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3858320365</integer>
+			<key>Play Date UTC</key><date>2026-04-06T16:39:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -417,13 +417,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>03114F0E604F0E6B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/05%20BRING%20IT%20BACK.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/05%20BRING%20IT%20BACK.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11178</key>
+		<key>11660</key>
 		<dict>
-			<key>Track ID</key><integer>11178</integer>
+			<key>Track ID</key><integer>11660</integer>
 			<key>Name</key><string>BELIEVER</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -447,6 +447,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3850797568</integer>
 			<key>Play Date UTC</key><date>2026-01-09T15:59:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T01:45:03Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -454,13 +456,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F4A57CEEB28A6D30</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/06%20BELIEVER.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/06%20BELIEVER.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11180</key>
+		<key>11662</key>
 		<dict>
-			<key>Track ID</key><integer>11180</integer>
+			<key>Track ID</key><integer>11662</integer>
 			<key>Name</key><string>QUEEN</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -481,9 +483,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850797761</integer>
-			<key>Play Date UTC</key><date>2026-01-09T16:02:41Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859208739</integer>
+			<key>Play Date UTC</key><date>2026-04-16T23:25:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -491,13 +493,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9EB4D1212437B5C9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/07%20QUEEN.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/07%20QUEEN.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11182</key>
+		<key>11664</key>
 		<dict>
-			<key>Track ID</key><integer>11182</integer>
+			<key>Track ID</key><integer>11664</integer>
 			<key>Name</key><string>GO HARD</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -528,13 +530,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>58A2C8F5A116D3CC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/08%20GO%20HARD.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/08%20GO%20HARD.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11186</key>
+		<key>11668</key>
 		<dict>
-			<key>Track ID</key><integer>11186</integer>
+			<key>Track ID</key><integer>11668</integer>
 			<key>Name</key><string>HANDLE IT</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -565,13 +567,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>52DF1EA366707E98</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/10%20HANDLE%20IT.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/10%20HANDLE%20IT.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11190</key>
+		<key>11672</key>
 		<dict>
-			<key>Track ID</key><integer>11190</integer>
+			<key>Track ID</key><integer>11672</integer>
 			<key>Name</key><string>SAY SOMETHING</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -592,9 +594,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3851888250</integer>
-			<key>Play Date UTC</key><date>2026-01-22T06:57:30Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857146600</integer>
+			<key>Play Date UTC</key><date>2026-03-24T03:36:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -602,13 +604,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A2DBEF0E85D86D4B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/12%20SAY%20SOMETHING.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/12%20SAY%20SOMETHING.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11192</key>
+		<key>11674</key>
 		<dict>
-			<key>Track ID</key><integer>11192</integer>
+			<key>Track ID</key><integer>11674</integer>
 			<key>Name</key><string>BEHIND THE MASK</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -639,13 +641,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CEE9F76678A2DE02</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/13%20BEHIND%20THE%20MASK.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Eyes%20wide%20open/13%20BEHIND%20THE%20MASK.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11194</key>
+		<key>11676</key>
 		<dict>
-			<key>Track ID</key><integer>11194</integer>
+			<key>Track ID</key><integer>11676</integer>
 			<key>Name</key><string>Feel Special</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -676,13 +678,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>067A9E055C538C56</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/01%20Feel%20Special.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/01%20Feel%20Special.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11198</key>
+		<key>11680</key>
 		<dict>
-			<key>Track ID</key><integer>11198</integer>
+			<key>Track ID</key><integer>11680</integer>
 			<key>Name</key><string>Get Loud</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -703,9 +705,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850756497</integer>
-			<key>Play Date UTC</key><date>2026-01-09T04:34:57Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856356382</integer>
+			<key>Play Date UTC</key><date>2026-03-15T00:06:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -713,13 +715,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>272665A9F5DC45BF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/03%20Get%20Loud.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/03%20Get%20Loud.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11202</key>
+		<key>11684</key>
 		<dict>
-			<key>Track ID</key><integer>11202</integer>
+			<key>Track ID</key><integer>11684</integer>
 			<key>Name</key><string>Love Foolish</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -750,13 +752,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>889DEE36E3495B14</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/05%20Love%20Foolish.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Feel%20Special/05%20Love%20Foolish.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11212</key>
+		<key>11694</key>
 		<dict>
-			<key>Track ID</key><integer>11212</integer>
+			<key>Track ID</key><integer>11694</integer>
 			<key>Name</key><string>ICON</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -777,23 +779,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3852487068</integer>
-			<key>Play Date UTC</key><date>2026-01-29T05:17:48Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3857144504</integer>
+			<key>Play Date UTC</key><date>2026-03-24T03:01:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6841</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B93253FB2AFDA629</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/03%20ICON.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/03%20ICON.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11214</key>
+		<key>11696</key>
 		<dict>
-			<key>Track ID</key><integer>11214</integer>
+			<key>Track ID</key><integer>11696</integer>
 			<key>Name</key><string>CRUEL</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -814,23 +815,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850809656</integer>
-			<key>Play Date UTC</key><date>2026-01-09T19:20:56Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859361002</integer>
+			<key>Play Date UTC</key><date>2026-04-18T17:43:22Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6374</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C2401570C50C7B4A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/04%20CRUEL.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/04%20CRUEL.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11218</key>
+		<key>11700</key>
 		<dict>
-			<key>Track ID</key><integer>11218</integer>
+			<key>Track ID</key><integer>11700</integer>
 			<key>Name</key><string>F.I.L.A (Fall In Love Again)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -851,23 +851,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850810035</integer>
-			<key>Play Date UTC</key><date>2026-01-09T19:27:15Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857891890</integer>
+			<key>Play Date UTC</key><date>2026-04-01T18:38:10Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7744</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>FB27D2121314B611</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/06%20F.I.L.A%20(Fall%20In%20Love%20Again).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/06%20F.I.L.A%20(Fall%20In%20Love%20Again).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11220</key>
+		<key>11702</key>
 		<dict>
-			<key>Track ID</key><integer>11220</integer>
+			<key>Track ID</key><integer>11702</integer>
 			<key>Name</key><string>LAST WALTZ</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -888,23 +887,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850810206</integer>
-			<key>Play Date UTC</key><date>2026-01-09T19:30:06Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859035209</integer>
+			<key>Play Date UTC</key><date>2026-04-14T23:13:29Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6983</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A2E37475D426750D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/07%20LAST%20WALTZ.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/07%20LAST%20WALTZ.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11224</key>
+		<key>11706</key>
 		<dict>
-			<key>Track ID</key><integer>11224</integer>
+			<key>Track ID</key><integer>11706</integer>
 			<key>Name</key><string>REWIND</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -930,18 +928,17 @@
 			<key>Play Date UTC</key><date>2026-01-29T19:43:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6548</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E419773AD72D82D9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/09%20REWIND.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/09%20REWIND.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11232</key>
+		<key>11714</key>
 		<dict>
-			<key>Track ID</key><integer>11232</integer>
+			<key>Track ID</key><integer>11714</integer>
 			<key>Name</key><string>1, 3, 2</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -967,18 +964,17 @@
 			<key>Play Date UTC</key><date>2026-01-09T19:49:39Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7994</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C5CB1D85F1F77AAF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/13%201,%203,%202.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Formula%20of%20Love-%20O+T=%203/13%201,%203,%202.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11298</key>
+		<key>11780</key>
 		<dict>
-			<key>Track ID</key><integer>11298</integer>
+			<key>Track ID</key><integer>11780</integer>
 			<key>Name</key><string>FIREWORK</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -999,9 +995,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850757932</integer>
-			<key>Play Date UTC</key><date>2026-01-09T04:58:52Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3859529804</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:36:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1009,13 +1005,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>56E032247AAD4CEB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/03%20FIREWORK.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/03%20FIREWORK.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11300</key>
+		<key>11782</key>
 		<dict>
-			<key>Track ID</key><integer>11300</integer>
+			<key>Track ID</key><integer>11782</integer>
 			<key>Name</key><string>MAKE ME GO</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1046,13 +1042,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2CCF07C076F579E6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/04%20MAKE%20ME%20GO.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/04%20MAKE%20ME%20GO.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11302</key>
+		<key>11784</key>
 		<dict>
-			<key>Track ID</key><integer>11302</integer>
+			<key>Track ID</key><integer>11784</integer>
 			<key>Name</key><string>SHADOW</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1073,9 +1069,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850795796</integer>
-			<key>Play Date UTC</key><date>2026-01-09T15:29:56Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856766668</integer>
+			<key>Play Date UTC</key><date>2026-03-19T18:04:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1083,13 +1079,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>41079FB7BF618B0C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/05%20SHADOW.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/05%20SHADOW.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11304</key>
+		<key>11786</key>
 		<dict>
-			<key>Track ID</key><integer>11304</integer>
+			<key>Track ID</key><integer>11786</integer>
 			<key>Name</key><string>DON'T CALL ME AGAIN</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1110,9 +1106,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850795970</integer>
-			<key>Play Date UTC</key><date>2026-01-09T15:32:50Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855134243</integer>
+			<key>Play Date UTC</key><date>2026-02-28T20:37:23Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1120,13 +1116,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D4BCF506F2C67AB7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/06%20DON'T%20CALL%20ME%20AGAIN.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/MORE%20&#38;%20MORE/06%20DON'T%20CALL%20ME%20AGAIN.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11320</key>
+		<key>11802</key>
 		<dict>
-			<key>Track ID</key><integer>11320</integer>
+			<key>Track ID</key><integer>11802</integer>
 			<key>Name</key><string>Perfect World</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1151,18 +1147,17 @@
 			<key>Play Date UTC</key><date>2026-01-09T17:47:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11634</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4C6489E7B97BD459</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Perfect%20World/01%20Perfect%20World.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Perfect%20World/01%20Perfect%20World.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11340</key>
+		<key>11822</key>
 		<dict>
-			<key>Track ID</key><integer>11340</integer>
+			<key>Track ID</key><integer>11822</integer>
 			<key>Name</key><string>SET ME FREE</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1183,9 +1178,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3852611272</integer>
-			<key>Play Date UTC</key><date>2026-01-30T15:47:52Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3858594590</integer>
+			<key>Play Date UTC</key><date>2026-04-09T20:49:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1193,13 +1188,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6D2B6DB12C37A1F1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/01%20SET%20ME%20FREE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/01%20SET%20ME%20FREE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11350</key>
+		<key>11832</key>
 		<dict>
-			<key>Track ID</key><integer>11350</integer>
+			<key>Track ID</key><integer>11832</integer>
 			<key>Name</key><string>CRAZY STUPID LOVE</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1220,9 +1215,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852611663</integer>
-			<key>Play Date UTC</key><date>2026-01-30T15:54:23Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857732658</integer>
+			<key>Play Date UTC</key><date>2026-03-30T22:24:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1230,13 +1225,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0C98C2D16AA4442B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/06%20CRAZY%20STUPID%20LOVE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/READY%20TO%20BE/06%20CRAZY%20STUPID%20LOVE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11374</key>
+		<key>11856</key>
 		<dict>
-			<key>Track ID</key><integer>11374</integer>
+			<key>Track ID</key><integer>11856</integer>
 			<key>Name</key><string>The Feels</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1257,25 +1252,24 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3852295423</integer>
-			<key>Play Date UTC</key><date>2026-01-27T00:03:43Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853842718</integer>
+			<key>Play Date UTC</key><date>2026-02-13T21:51:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10602</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Sort Album</key><string>Feels</string>
 			<key>Sort Name</key><string>Feels</string>
 			<key>Persistent ID</key><string>031C8ED5A7BF3FAC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/The%20Feels/02%20The%20Feels.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/The%20Feels/02%20The%20Feels.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11426</key>
+		<key>11908</key>
 		<dict>
-			<key>Track ID</key><integer>11426</integer>
+			<key>Track ID</key><integer>11908</integer>
 			<key>Name</key><string>LIKEY</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1296,9 +1290,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850712926</integer>
-			<key>Play Date UTC</key><date>2026-01-08T16:28:46Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859211524</integer>
+			<key>Play Date UTC</key><date>2026-04-17T00:12:04Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1306,13 +1300,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8D92140DAD386BBE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/01%20LIKEY.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/01%20LIKEY.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11440</key>
+		<key>11922</key>
 		<dict>
-			<key>Track ID</key><integer>11440</integer>
+			<key>Track ID</key><integer>11922</integer>
 			<key>Name</key><string>LOOK AT ME</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1343,13 +1337,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2400F70BE4CC1815</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/08%20LOOK%20AT%20ME.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Twicetagram/08%20LOOK%20AT%20ME.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11452</key>
+		<key>11934</key>
 		<dict>
-			<key>Track ID</key><integer>11452</integer>
+			<key>Track ID</key><integer>11934</integer>
 			<key>Name</key><string>YES or YES</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1380,13 +1374,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6F8D7242419FB9DF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/01%20YES%20or%20YES.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/01%20YES%20or%20YES.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11460</key>
+		<key>11942</key>
 		<dict>
-			<key>Track ID</key><integer>11460</integer>
+			<key>Track ID</key><integer>11942</integer>
 			<key>Name</key><string>SUNSET</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1417,13 +1411,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>407B6E67B453CD32</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/05%20SUNSET.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/YES%20or%20YES/05%20SUNSET.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13474</key>
+		<key>13954</key>
 		<dict>
-			<key>Track ID</key><integer>13474</integer>
+			<key>Track ID</key><integer>13954</integer>
 			<key>Name</key><string>CRY FOR ME</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1455,13 +1449,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>11912ACCF2CCCD10</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/CRY%20FOR%20ME%20-%20Single/01%20CRY%20FOR%20ME.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/CRY%20FOR%20ME%20-%20Single/01%20CRY%20FOR%20ME.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13476</key>
+		<key>13956</key>
 		<dict>
-			<key>Track ID</key><integer>13476</integer>
+			<key>Track ID</key><integer>13956</integer>
 			<key>Name</key><string>FANCY</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1482,9 +1476,9 @@
 			<key>Bit Rate</key><integer>328</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850745756</integer>
-			<key>Play Date UTC</key><date>2026-01-09T01:35:56Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859311405</integer>
+			<key>Play Date UTC</key><date>2026-04-18T03:56:45Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-08-12T19:37:39Z</date>
 			<key>Release Date</key><date>2019-04-22T12:00:00Z</date>
@@ -1495,13 +1489,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E31D74B422489AC8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/FANCY%20YOU%20-%20EP/01%20FANCY.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/FANCY%20YOU%20-%20EP/01%20FANCY.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13480</key>
+		<key>13960</key>
 		<dict>
-			<key>Track ID</key><integer>13480</integer>
+			<key>Track ID</key><integer>13960</integer>
 			<key>Name</key><string>Hare Hare</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1528,18 +1522,17 @@
 			<key>Release Date</key><date>2023-05-12T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6148</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>348B8FEE015E38E3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/01%20Hare%20Hare.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/01%20Hare%20Hare.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13488</key>
+		<key>13968</key>
 		<dict>
-			<key>Track ID</key><integer>13488</integer>
+			<key>Track ID</key><integer>13968</integer>
 			<key>Name</key><string>Catch a Wave</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1566,18 +1559,17 @@
 			<key>Release Date</key><date>2023-05-31T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8653</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>48C644A3C683DF76</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/02%20Catch%20a%20Wave.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Hare%20Hare%20-%20EP/02%20Catch%20a%20Wave.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15710</key>
+		<key>16084</key>
 		<dict>
-			<key>Track ID</key><integer>15710</integer>
+			<key>Track ID</key><integer>16084</integer>
 			<key>Name</key><string>What is Love </string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1598,9 +1590,11 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850737972</integer>
-			<key>Play Date UTC</key><date>2026-01-08T23:26:12Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3853846025</integer>
+			<key>Play Date UTC</key><date>2026-02-13T22:47:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-14T22:49:01Z</date>
 			<key>Release Date</key><date>2018-04-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1609,13 +1603,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E2C269FDB8BBB663</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/What%20is%20Love%20%20-%20EP/01%20What%20is%20Love.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/What%20is%20Love%20%20-%20EP/01%20What%20is%20Love.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15734</key>
+		<key>16108</key>
 		<dict>
-			<key>Track ID</key><integer>15734</integer>
+			<key>Track ID</key><integer>16108</integer>
 			<key>Name</key><string>TT</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1636,9 +1630,9 @@
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850708903</integer>
-			<key>Play Date UTC</key><date>2026-01-08T15:21:43Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859287705</integer>
+			<key>Play Date UTC</key><date>2026-04-17T21:21:45Z</date>
 			<key>Release Date</key><date>2016-10-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1647,13 +1641,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>305A1981DFECBDB3</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Twicecoaster-%20Lane%201/01%20TT.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Twicecoaster-%20Lane%201/01%20TT.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15738</key>
+		<key>16112</key>
 		<dict>
-			<key>Track ID</key><integer>15738</integer>
+			<key>Track ID</key><integer>16112</integer>
 			<key>Name</key><string>Scandal</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1685,13 +1679,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>04C07EF6E5040926</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Taste%20of%20Love%20-%20EP/03%20Scandal.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Taste%20of%20Love%20-%20EP/03%20Scandal.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28004</key>
+		<key>28292</key>
 		<dict>
-			<key>Track ID</key><integer>28004</integer>
+			<key>Track ID</key><integer>28292</integer>
 			<key>Name</key><string>TALK (NAYEON, JIHYO)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1722,13 +1716,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C440407240F2E6D8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/12%20TALK%20(NAYEON,%20JIHYO).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/12%20TALK%20(NAYEON,%20JIHYO).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28020</key>
+		<key>28308</key>
 		<dict>
-			<key>Track ID</key><integer>28020</integer>
+			<key>Track ID</key><integer>28308</integer>
 			<key>Name</key><string>MARS</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1749,9 +1743,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3850822645</integer>
-			<key>Play Date UTC</key><date>2026-01-09T22:57:25Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3853838051</integer>
+			<key>Play Date UTC</key><date>2026-02-13T20:34:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1759,13 +1753,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>78EEA2A8951B4346</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/04%20MARS.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/04%20MARS.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28032</key>
+		<key>28320</key>
 		<dict>
-			<key>Track ID</key><integer>28032</integer>
+			<key>Track ID</key><integer>28320</integer>
 			<key>Name</key><string>OPTIONS</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1796,13 +1790,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1378F871EDE42F45</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/03%20OPTIONS.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR/03%20OPTIONS.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28084</key>
+		<key>28372</key>
 		<dict>
-			<key>Track ID</key><integer>28084</integer>
+			<key>Track ID</key><integer>28372</integer>
 			<key>Name</key><string>TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) [from the Netflix film 'KPop Demon Hunters']</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1823,23 +1817,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850824487</integer>
-			<key>Play Date UTC</key><date>2026-01-09T23:28:07Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3854278891</integer>
+			<key>Play Date UTC</key><date>2026-02-18T23:01:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7123</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BEC9316A5C05D752</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR%20(DELUXE)/16%20TAKEDOWN%20(JEONGYEON,%20JIHYO,%20CHAEY.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/THIS%20IS%20FOR%20(DELUXE)/16%20TAKEDOWN%20(JEONGYEON,%20JIHYO,%20CHAEY.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28484</key>
+		<key>28772</key>
 		<dict>
-			<key>Track ID</key><integer>28484</integer>
+			<key>Track ID</key><integer>28772</integer>
 			<key>Name</key><string>ENEMY</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1859,9 +1852,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850824827</integer>
-			<key>Play Date UTC</key><date>2026-01-09T23:33:47Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3858615568</integer>
+			<key>Play Date UTC</key><date>2026-04-10T02:39:28Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1869,13 +1862,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A6CB131C298371F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/02%20ENEMY.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/02%20ENEMY.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28486</key>
+		<key>28774</key>
 		<dict>
-			<key>Track ID</key><integer>28486</integer>
+			<key>Track ID</key><integer>28774</integer>
 			<key>Name</key><string>FINE</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1906,13 +1899,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>DA38A30EE6849048</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/03%20FINE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/ENEMY/03%20FINE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29602</key>
+		<key>29890</key>
 		<dict>
-			<key>Track ID</key><integer>29602</integer>
+			<key>Track ID</key><integer>29890</integer>
 			<key>Name</key><string>ONE SPARK</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1933,24 +1926,23 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850816893</integer>
-			<key>Play Date UTC</key><date>2026-01-09T21:21:33Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857126813</integer>
+			<key>Play Date UTC</key><date>2026-03-23T22:06:53Z</date>
 			<key>Release Date</key><date>2024-02-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5739</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9DC08293DBAF6F5C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/02%20ONE%20SPARK.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/02%20ONE%20SPARK.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29608</key>
+		<key>29896</key>
 		<dict>
-			<key>Track ID</key><integer>29608</integer>
+			<key>Track ID</key><integer>29896</integer>
 			<key>Name</key><string>BLOOM</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -1971,24 +1963,23 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851952092</integer>
-			<key>Play Date UTC</key><date>2026-01-23T00:41:32Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3859300848</integer>
+			<key>Play Date UTC</key><date>2026-04-18T01:00:48Z</date>
 			<key>Release Date</key><date>2024-02-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6905</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4FCC94D70F081D05</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/05%20BLOOM.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/With%20YOU-th%20-%20EP/05%20BLOOM.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33064</key>
+		<key>33346</key>
 		<dict>
-			<key>Track ID</key><integer>33064</integer>
+			<key>Track ID</key><integer>33346</integer>
 			<key>Name</key><string>STONE COLD (MINA)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2009,9 +2000,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3850827448</integer>
-			<key>Play Date UTC</key><date>2026-01-10T00:17:28Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3853656320</integer>
+			<key>Play Date UTC</key><date>2026-02-11T18:05:20Z</date>
 			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2020,13 +2011,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>ED1B011355A9A946</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/07%20STONE%20COLD%20(MINA).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/07%20STONE%20COLD%20(MINA).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33070</key>
+		<key>33352</key>
 		<dict>
-			<key>Track ID</key><integer>33070</integer>
+			<key>Track ID</key><integer>33352</integer>
 			<key>Name</key><string>MOVE LIKE THAT (MOMO)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2047,9 +2038,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851174092</integer>
-			<key>Play Date UTC</key><date>2026-01-14T00:34:52Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857556260</integer>
+			<key>Play Date UTC</key><date>2026-03-28T21:24:20Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-10-23T18:06:17Z</date>
 			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
@@ -2060,13 +2051,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D12E28BBE57C0F69</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/04%20MOVE%20LIKE%20THAT%20(MOMO).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/04%20MOVE%20LIKE%20THAT%20(MOMO).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33072</key>
+		<key>33354</key>
 		<dict>
-			<key>Track ID</key><integer>33072</integer>
+			<key>Track ID</key><integer>33354</integer>
 			<key>Name</key><string>DECAFFEINATED (SANA)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2098,13 +2089,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>353E6308BA366547</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/05%20DECAFFEINATED%20(SANA).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/05%20DECAFFEINATED%20(SANA).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33074</key>
+		<key>33356</key>
 		<dict>
-			<key>Track ID</key><integer>33074</integer>
+			<key>Track ID</key><integer>33356</integer>
 			<key>Name</key><string>ATM (JIHYO)</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2125,9 +2116,9 @@
 			<key>Bit Rate</key><integer>328</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3850827283</integer>
-			<key>Play Date UTC</key><date>2026-01-10T00:14:43Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857829273</integer>
+			<key>Play Date UTC</key><date>2026-04-01T01:14:33Z</date>
 			<key>Release Date</key><date>2025-10-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2136,13 +2127,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EAD1374F1348380D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/06%20ATM%20(JIHYO).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/TEN-%20The%20Story%20Goes%20On/06%20ATM%20(JIHYO).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33774</key>
+		<key>34054</key>
 		<dict>
-			<key>Track ID</key><integer>33774</integer>
+			<key>Track ID</key><integer>34054</integer>
 			<key>Name</key><string>Signal</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2174,13 +2165,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>360F2E58EB35FDAF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Signal%20-%20EP/01%20Signal.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Signal%20-%20EP/01%20Signal.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33798</key>
+		<key>34078</key>
 		<dict>
-			<key>Track ID</key><integer>33798</integer>
+			<key>Track ID</key><integer>34078</integer>
 			<key>Name</key><string>LUV ME</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2201,24 +2192,23 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850712669</integer>
-			<key>Play Date UTC</key><date>2026-01-08T16:24:29Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3856773984</integer>
+			<key>Play Date UTC</key><date>2026-03-19T20:06:24Z</date>
 			<key>Release Date</key><date>2017-10-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6959</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5DA3BE1BC222CD40</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/One%20More%20Time%20-%20EP/02%20LUV%20ME.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/One%20More%20Time%20-%20EP/02%20LUV%20ME.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33820</key>
+		<key>34100</key>
 		<dict>
-			<key>Track ID</key><integer>33820</integer>
+			<key>Track ID</key><integer>34100</integer>
 			<key>Name</key><string>STAY BY MY SIDE</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2239,9 +2229,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850744085</integer>
-			<key>Play Date UTC</key><date>2026-01-09T01:08:05Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857888032</integer>
+			<key>Play Date UTC</key><date>2026-04-01T17:33:52Z</date>
 			<key>Release Date</key><date>2018-10-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2250,13 +2240,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BB04482B1A91CE97</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/STAY%20BY%20MY%20SIDE%20-%20Single/01%20STAY%20BY%20MY%20SIDE.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/STAY%20BY%20MY%20SIDE%20-%20Single/01%20STAY%20BY%20MY%20SIDE.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33834</key>
+		<key>34114</key>
 		<dict>
-			<key>Track ID</key><integer>33834</integer>
+			<key>Track ID</key><integer>34114</integer>
 			<key>Name</key><string>Breakthrough</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2272,29 +2262,28 @@
 			<key>Track Count</key><integer>4</integer>
 			<key>Year</key><integer>2019</integer>
 			<key>BPM</key><integer>112</integer>
-			<key>Date Modified</key><date>2026-01-09T20:12:26Z</date>
+			<key>Date Modified</key><date>2026-01-13T04:07:24Z</date>
 			<key>Date Added</key><date>2026-01-07T05:57:17Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850747089</integer>
-			<key>Play Date UTC</key><date>2026-01-09T01:58:09Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3855307550</integer>
+			<key>Play Date UTC</key><date>2026-03-02T20:45:50Z</date>
 			<key>Release Date</key><date>2019-06-12T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9381</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D5C492CBB2593D8D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Breakthrough%20-%20EP/01%20Breakthrough.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Breakthrough%20-%20EP/01%20Breakthrough.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33870</key>
+		<key>34150</key>
 		<dict>
-			<key>Track ID</key><integer>33870</integer>
+			<key>Track ID</key><integer>34150</integer>
 			<key>Name</key><string>BETTER</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2318,6 +2307,8 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3850799214</integer>
 			<key>Play Date UTC</key><date>2026-01-09T16:26:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-14T21:08:04Z</date>
 			<key>Release Date</key><date>2020-11-10T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -2326,13 +2317,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1B7AB4609D7381A9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/01%20BETTER.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/01%20BETTER.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33874</key>
+		<key>34154</key>
 		<dict>
-			<key>Track ID</key><integer>33874</integer>
+			<key>Track ID</key><integer>34154</integer>
 			<key>Name</key><string>Scorpion</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2364,13 +2355,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>15691D6D53AB994F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/02%20Scorpion.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/BETTER%20-%20EP/02%20Scorpion.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33882</key>
+		<key>34162</key>
 		<dict>
-			<key>Track ID</key><integer>33882</integer>
+			<key>Track ID</key><integer>34162</integer>
 			<key>Name</key><string>Kura Kura</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2391,24 +2382,23 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850799856</integer>
-			<key>Play Date UTC</key><date>2026-01-09T16:37:36Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3857889195</integer>
+			<key>Play Date UTC</key><date>2026-04-01T17:53:15Z</date>
 			<key>Release Date</key><date>2021-04-21T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7889</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>05866BC6ACEC2568</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Kura%20Kura%20-%20EP/01%20Kura%20Kura.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Kura%20Kura%20-%20EP/01%20Kura%20Kura.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33894</key>
+		<key>34174</key>
 		<dict>
-			<key>Track ID</key><integer>33894</integer>
+			<key>Track ID</key><integer>34174</integer>
 			<key>Name</key><string>Doughnut</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2440,13 +2430,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>44F700C7D06EE15B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/Doughnut%20-%20EP/01%20Doughnut.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/Doughnut%20-%20EP/01%20Doughnut.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33958</key>
+		<key>34238</key>
 		<dict>
-			<key>Track ID</key><integer>33958</integer>
+			<key>Track ID</key><integer>34238</integer>
 			<key>Name</key><string>I GOT YOU</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2473,18 +2463,17 @@
 			<key>Release Date</key><date>2024-02-02T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8857</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>015957910997F47E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/I%20GOT%20YOU%20-%20Single/01%20I%20GOT%20YOU.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/I%20GOT%20YOU%20-%20Single/01%20I%20GOT%20YOU.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33966</key>
+		<key>34246</key>
 		<dict>
-			<key>Track ID</key><integer>33966</integer>
+			<key>Track ID</key><integer>34246</integer>
 			<key>Name</key><string>Ocean Deep</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2505,24 +2494,61 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851948643</integer>
-			<key>Play Date UTC</key><date>2026-01-22T23:44:03Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3859314312</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:45:12Z</date>
 			<key>Release Date</key><date>2024-07-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8172</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2A1B6AC073FB05E9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/DIVE/03%20Ocean%20Deep.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/DIVE/03%20Ocean%20Deep.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33972</key>
+		<key>34248</key>
 		<dict>
-			<key>Track ID</key><integer>33972</integer>
+			<key>Track ID</key><integer>34248</integer>
+			<key>Name</key><string>Strategy</string>
+			<key>Artist</key><string>TWICE feat Megan Thee Stallion</string>
+			<key>Album Artist</key><string>TWICE</string>
+			<key>Composer</key><string>Boy Matthews</string>
+			<key>Album</key><string>STRATEGY</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>47930774</integer>
+			<key>Total Time</key><integer>201760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2024</integer>
+			<key>BPM</key><integer>110</integer>
+			<key>Date Modified</key><date>2026-03-10T05:45:04Z</date>
+			<key>Date Added</key><date>2026-01-07T06:49:48Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3855942833</integer>
+			<key>Play Date UTC</key><date>2026-03-10T05:13:53Z</date>
+			<key>Release Date</key><date>2024-12-06T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>10147</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>554EE7E9B7BFDB87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/STRATEGY/01%20Strategy.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>34252</key>
+		<dict>
+			<key>Track ID</key><integer>34252</integer>
 			<key>Name</key><string>LOVE WARNING</string>
 			<key>Artist</key><string>TWICE</string>
 			<key>Album Artist</key><string>TWICE</string>
@@ -2543,18 +2569,19 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3850819878</integer>
-			<key>Play Date UTC</key><date>2026-01-09T22:11:18Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3859358420</integer>
+			<key>Play Date UTC</key><date>2026-04-18T17:00:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T02:40:08Z</date>
 			<key>Release Date</key><date>2024-07-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>7759</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>25CD870238A825D7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/E:/iTunes/iTunes%20Media/Music/TWICE/DIVE/04%20LOVE%20WARNING.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/TWICE/DIVE/04%20LOVE%20WARNING.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -2564,7 +2591,7 @@
 		<dict>
 			<key>Name</key><string>Twice</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>102313</integer>
+			<key>Playlist ID</key><integer>126125</integer>
 			<key>Playlist Persistent ID</key><string>A05BB3D2DA7A371F</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -2587,7 +2614,7 @@
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
 			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAs5TTHN0AAEAAQAAAAcAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyRTTHN0AAEAAQAAAAgAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAABAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -2601,212 +2628,217 @@
 			AHQAIABUAGEAawBlAAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAABYARQBzACAAcgBlAHAAZQB0AGkAZABhAAAADgMAAAIAAAAAAAAAAAAA
 			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAARQBzACAAcgBlAG0AaQB4
+			AAAADgMAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AB4ARQBzACAAaQBuAHMAdAByAHUAbQBlAG4AdABhAGw=
 			</data>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15734</integer>
+					<key>Track ID</key><integer>16108</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33774</integer>
+					<key>Track ID</key><integer>34054</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33798</integer>
+					<key>Track ID</key><integer>34078</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11426</integer>
+					<key>Track ID</key><integer>11908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11440</integer>
+					<key>Track ID</key><integer>11922</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15710</integer>
+					<key>Track ID</key><integer>16084</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33820</integer>
+					<key>Track ID</key><integer>34100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11452</integer>
+					<key>Track ID</key><integer>11934</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11460</integer>
+					<key>Track ID</key><integer>11942</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13476</integer>
+					<key>Track ID</key><integer>13956</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33834</integer>
+					<key>Track ID</key><integer>34114</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11074</integer>
+					<key>Track ID</key><integer>11556</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11080</integer>
+					<key>Track ID</key><integer>11562</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11084</integer>
+					<key>Track ID</key><integer>11566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11194</integer>
+					<key>Track ID</key><integer>11676</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11198</integer>
+					<key>Track ID</key><integer>11680</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11202</integer>
+					<key>Track ID</key><integer>11684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11298</integer>
+					<key>Track ID</key><integer>11780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11300</integer>
+					<key>Track ID</key><integer>11782</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11302</integer>
+					<key>Track ID</key><integer>11784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11304</integer>
+					<key>Track ID</key><integer>11786</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11168</integer>
+					<key>Track ID</key><integer>11650</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11170</integer>
+					<key>Track ID</key><integer>11652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11172</integer>
+					<key>Track ID</key><integer>11654</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11176</integer>
+					<key>Track ID</key><integer>11658</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11178</integer>
+					<key>Track ID</key><integer>11660</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11180</integer>
+					<key>Track ID</key><integer>11662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11182</integer>
+					<key>Track ID</key><integer>11664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11186</integer>
+					<key>Track ID</key><integer>11668</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11190</integer>
+					<key>Track ID</key><integer>11672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11192</integer>
+					<key>Track ID</key><integer>11674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33870</integer>
+					<key>Track ID</key><integer>34150</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33874</integer>
+					<key>Track ID</key><integer>34154</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13474</integer>
+					<key>Track ID</key><integer>13954</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33882</integer>
+					<key>Track ID</key><integer>34162</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15738</integer>
+					<key>Track ID</key><integer>16112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11320</integer>
+					<key>Track ID</key><integer>11802</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11374</integer>
+					<key>Track ID</key><integer>11856</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11212</integer>
+					<key>Track ID</key><integer>11694</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11214</integer>
+					<key>Track ID</key><integer>11696</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11218</integer>
+					<key>Track ID</key><integer>11700</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11220</integer>
+					<key>Track ID</key><integer>11702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11224</integer>
+					<key>Track ID</key><integer>11706</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11232</integer>
+					<key>Track ID</key><integer>11714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33894</integer>
+					<key>Track ID</key><integer>34174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11154</integer>
+					<key>Track ID</key><integer>11636</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11136</integer>
+					<key>Track ID</key><integer>11618</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11138</integer>
+					<key>Track ID</key><integer>11620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11142</integer>
+					<key>Track ID</key><integer>11624</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11340</integer>
+					<key>Track ID</key><integer>11822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11350</integer>
+					<key>Track ID</key><integer>11832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13480</integer>
+					<key>Track ID</key><integer>13960</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13488</integer>
+					<key>Track ID</key><integer>13968</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33958</integer>
+					<key>Track ID</key><integer>34238</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29602</integer>
+					<key>Track ID</key><integer>29890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29608</integer>
+					<key>Track ID</key><integer>29896</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33966</integer>
+					<key>Track ID</key><integer>34246</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33972</integer>
+					<key>Track ID</key><integer>34252</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28032</integer>
+					<key>Track ID</key><integer>28320</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28020</integer>
+					<key>Track ID</key><integer>28308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28004</integer>
+					<key>Track ID</key><integer>28292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28084</integer>
+					<key>Track ID</key><integer>28372</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28484</integer>
+					<key>Track ID</key><integer>28772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28486</integer>
+					<key>Track ID</key><integer>28774</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33070</integer>
+					<key>Track ID</key><integer>33352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33072</integer>
+					<key>Track ID</key><integer>33354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33074</integer>
+					<key>Track ID</key><integer>33356</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33064</integer>
+					<key>Track ID</key><integer>33346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>34248</integer>
 				</dict>
 			</array>
 		</dict>

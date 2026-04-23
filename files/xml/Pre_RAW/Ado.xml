@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-03-10T05:46:25Z</date>
+	<key>Date</key><date>2026-04-23T00:18:23Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4526</key>
+		<key>4988</key>
 		<dict>
-			<key>Track ID</key><integer>4526</integer>
+			<key>Track ID</key><integer>4988</integer>
 			<key>Name</key><string>ドライフラワー</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -34,22 +34,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3855931763</integer>
-			<key>Play Date UTC</key><date>2026-03-10T02:09:23Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859528456</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:14:16Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6239</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>231AD0DF37853FD8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/01%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/01%20%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4528</key>
+		<key>4990</key>
 		<dict>
-			<key>Track ID</key><integer>4528</integer>
+			<key>Track ID</key><integer>4990</integer>
 			<key>Name</key><string>飾りじゃないのよ涙は</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -69,22 +69,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3851931426</integer>
-			<key>Play Date UTC</key><date>2026-01-22T18:57:06Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3859314565</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:49:25Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>9618</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1BE817E3E054AF4B</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/02%20%E9%A3%BE%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%82%88%E6%B6%99%E3%81%AF.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/02%20%E9%A3%BE%E3%82%8A%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%82%88%E6%B6%99%E3%81%AF.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4530</key>
+		<key>4992</key>
 		<dict>
-			<key>Track ID</key><integer>4530</integer>
+			<key>Track ID</key><integer>4992</integer>
 			<key>Name</key><string>愛して 愛して 愛して</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -108,19 +108,21 @@
 			<key>Play Count</key><integer>6</integer>
 			<key>Play Date</key><integer>3842283880</integer>
 			<key>Play Date UTC</key><date>2025-10-03T02:04:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-11T21:10:20Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>11299</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1677AC31F75FA944</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/03%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/03%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6%20%E6%84%9B%E3%81%97%E3%81%A6.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4534</key>
+		<key>4996</key>
 		<dict>
-			<key>Track ID</key><integer>4534</integer>
+			<key>Track ID</key><integer>4996</integer>
 			<key>Name</key><string>可愛くてごめん</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -149,13 +151,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5C8A1F414C330436</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/05%20%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/05%20%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%94%E3%82%81%E3%82%93.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4540</key>
+		<key>5002</key>
 		<dict>
-			<key>Track ID</key><integer>4540</integer>
+			<key>Track ID</key><integer>5002</integer>
 			<key>Name</key><string>unravel</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -185,13 +187,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CA66767F6218BD15</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/08%20unravel.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/08%20unravel.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4542</key>
+		<key>5004</key>
 		<dict>
-			<key>Track ID</key><integer>4542</integer>
+			<key>Track ID</key><integer>5004</integer>
 			<key>Name</key><string>ブリキノダンス</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -221,13 +223,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>51E0F1BFE8B4DBFE</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/09%20%E3%83%96%E3%83%AA%E3%82%AD%E3%83%8E%E3%83%80%E3%83%B3%E3%82%B9.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Ado%E3%81%AE%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0/09%20%E3%83%96%E3%83%AA%E3%82%AD%E3%83%8E%E3%83%80%E3%83%B3%E3%82%B9.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4546</key>
+		<key>5008</key>
 		<dict>
-			<key>Track ID</key><integer>4546</integer>
+			<key>Track ID</key><integer>5008</integer>
 			<key>Name</key><string>MIRROR</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -257,13 +259,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>3972EB07B7D1409E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/MIRROR%20-%20Single/01%20MIRROR.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/MIRROR%20-%20Single/01%20MIRROR.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4548</key>
+		<key>5010</key>
 		<dict>
-			<key>Track ID</key><integer>4548</integer>
+			<key>Track ID</key><integer>5010</integer>
 			<key>Name</key><string>Value</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -284,22 +286,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3852354104</integer>
-			<key>Play Date UTC</key><date>2026-01-27T16:21:44Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3856358215</integer>
+			<key>Play Date UTC</key><date>2026-03-15T00:36:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7385</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>4512D3B966F86D9F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Value%20-%20Single/01%20Value.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Value%20-%20Single/01%20Value.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11868</key>
+		<key>12330</key>
 		<dict>
-			<key>Track ID</key><integer>11868</integer>
+			<key>Track ID</key><integer>12330</integer>
 			<key>Name</key><string>Take Me to the Beach</string>
 			<key>Artist</key><string>Imagine Dragons feat. Ado</string>
 			<key>Album Artist</key><string>Imagine Dragons feat. Ado</string>
@@ -320,9 +322,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3853232951</integer>
-			<key>Play Date UTC</key><date>2026-02-06T20:29:11Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3858770743</integer>
+			<key>Play Date UTC</key><date>2026-04-11T21:45:43Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2025-03-29T00:00:34Z</date>
 			<key>Release Date</key><date>2024-12-16T12:00:00Z</date>
@@ -332,13 +334,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>542CE6EDB3D82A59</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Imagine%20Dragons%20feat.%20Ado/Take%20Me%20to%20the%20Beach%20-%20Single/01%20Take%20Me%20to%20the%20Beach.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Imagine%20Dragons%20feat.%20Ado/Take%20Me%20to%20the%20Beach%20-%20Single/01%20Take%20Me%20to%20the%20Beach.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11928</key>
+		<key>12390</key>
 		<dict>
-			<key>Track ID</key><integer>11928</integer>
+			<key>Track ID</key><integer>12390</integer>
 			<key>Name</key><string>Episode X</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -358,22 +360,22 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3851952455</integer>
-			<key>Play Date UTC</key><date>2026-01-23T00:47:35Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859460671</integer>
+			<key>Play Date UTC</key><date>2026-04-19T21:24:31Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>18617</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A483D3609EFB06F5</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/Episode%20X/01%20Episode%20X.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Episode%20X/01%20Episode%20X.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11938</key>
+		<key>12400</key>
 		<dict>
-			<key>Track ID</key><integer>11938</integer>
+			<key>Track ID</key><integer>12400</integer>
 			<key>Name</key><string>ウタカタララバイ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -403,13 +405,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8357CC4DAE134B36</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/04%20%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/04%20%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11940</key>
+		<key>12402</key>
 		<dict>
-			<key>Track ID</key><integer>11940</integer>
+			<key>Track ID</key><integer>12402</integer>
 			<key>Name</key><string>Tot Musica</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -439,13 +441,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5C42BEA355483EFC</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/05%20Tot%20Musica.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A6%E3%82%BF%E3%81%AE%E6%AD%8C%20ONE%20PIECE%20FILM%20RED/05%20Tot%20Musica.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11966</key>
+		<key>12428</key>
 		<dict>
-			<key>Track ID</key><integer>11966</integer>
+			<key>Track ID</key><integer>12428</integer>
 			<key>Name</key><string>心という名の不可解</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -475,13 +477,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>268C0DC875392CDD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E7%8B%82%E8%A8%80/10%20%E5%BF%83%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%A7%A3.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E7%8B%82%E8%A8%80/10%20%E5%BF%83%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%A7%A3.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11976</key>
+		<key>12438</key>
 		<dict>
-			<key>Track ID</key><integer>11976</integer>
+			<key>Track ID</key><integer>12438</integer>
 			<key>Name</key><string>ルル</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -511,13 +513,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>98A7D3E8A3A1C685</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AB%E3%83%AB/01%20%E3%83%AB%E3%83%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AB%E3%83%AB/01%20%E3%83%AB%E3%83%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11978</key>
+		<key>12440</key>
 		<dict>
-			<key>Track ID</key><integer>11978</integer>
+			<key>Track ID</key><integer>12440</integer>
 			<key>Name</key><string>唱</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -547,13 +549,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>A35CF35D9E9E35B1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%94%B1/01%20%E5%94%B1.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E5%94%B1/01%20%E5%94%B1.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12004</key>
+		<key>12466</key>
 		<dict>
-			<key>Track ID</key><integer>12004</integer>
+			<key>Track ID</key><integer>12466</integer>
 			<key>Name</key><string>踊</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -585,13 +587,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AC221A2E464EA1FD</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E8%B8%8A/01%20%E8%B8%8A.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E8%B8%8A/01%20%E8%B8%8A.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15360</key>
+		<key>15822</key>
 		<dict>
-			<key>Track ID</key><integer>15360</integer>
+			<key>Track ID</key><integer>15822</integer>
 			<key>Name</key><string>エルフ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -624,13 +626,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D78BC250584D00A4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%AB%E3%83%95%20-%20Single/01%20%E3%82%A8%E3%83%AB%E3%83%95.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%AB%E3%83%95%20-%20Single/01%20%E3%82%A8%E3%83%AB%E3%83%95.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15396</key>
+		<key>15858</key>
 		<dict>
-			<key>Track ID</key><integer>15396</integer>
+			<key>Track ID</key><integer>15858</integer>
 			<key>Name</key><string>初夏</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -662,13 +664,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C9C73EB370A03D9C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%88%9D%E5%A4%8F%20-%20Single/01%20%E5%88%9D%E5%A4%8F.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E5%88%9D%E5%A4%8F%20-%20Single/01%20%E5%88%9D%E5%A4%8F.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>25682</key>
+		<key>26144</key>
 		<dict>
-			<key>Track ID</key><integer>25682</integer>
+			<key>Track ID</key><integer>26144</integer>
 			<key>Name</key><string>十戒（1984）</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -700,13 +702,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9FC9A1E9B2DC389D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89%20-%20Single/01%20%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89%20-%20Single/01%20%E5%8D%81%E6%88%92%EF%BC%881984%EF%BC%89.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26522</key>
+		<key>26984</key>
 		<dict>
-			<key>Track ID</key><integer>26522</integer>
+			<key>Track ID</key><integer>26984</integer>
 			<key>Name</key><string>会いたくて</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -737,13 +739,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>592315F9353F21F8</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%20-%20Single/01%20%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%20-%20Single/01%20%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26528</key>
+		<key>26990</key>
 		<dict>
-			<key>Track ID</key><integer>26528</integer>
+			<key>Track ID</key><integer>26990</integer>
 			<key>Name</key><string>レディメイド</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -773,13 +775,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>2254D861FEE4A652</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89%20-%20Single/01%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89%20-%20Single/01%20%E3%83%AC%E3%83%87%E3%82%A3%E3%83%A1%E3%82%A4%E3%83%89.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26532</key>
+		<key>26994</key>
 		<dict>
-			<key>Track ID</key><integer>26532</integer>
+			<key>Track ID</key><integer>26994</integer>
 			<key>Name</key><string>うっせぇわ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -800,9 +802,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3853233342</integer>
-			<key>Play Date UTC</key><date>2026-02-06T20:35:42Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3857885914</integer>
+			<key>Play Date UTC</key><date>2026-04-01T16:58:34Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -810,13 +812,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8A49777E64A94DF6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F%20-%20Single/01%20%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F%20-%20Single/01%20%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26542</key>
+		<key>27004</key>
 		<dict>
-			<key>Track ID</key><integer>26542</integer>
+			<key>Track ID</key><integer>27004</integer>
 			<key>Name</key><string>阿修羅ちゃん</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -847,13 +849,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>0E04674937FF086D</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93%20-%20Single/01%20%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93%20-%20Single/01%20%E9%98%BF%E4%BF%AE%E7%BE%85%E3%81%A1%E3%82%83%E3%82%93.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26544</key>
+		<key>27006</key>
 		<dict>
-			<key>Track ID</key><integer>26544</integer>
+			<key>Track ID</key><integer>27006</integer>
 			<key>Name</key><string>千本桜</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -874,11 +876,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3842295214</integer>
-			<key>Play Date UTC</key><date>2025-10-03T05:13:34Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2026-02-14T02:56:07Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858965930</integer>
+			<key>Play Date UTC</key><date>2026-04-14T03:58:50Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-04-09T22:44:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -886,13 +888,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>50AFC8D7131319C7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%83%E6%9C%AC%E6%A1%9C%20-%20Single/01%20%E5%8D%83%E6%9C%AC%E6%A1%9C.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E5%8D%83%E6%9C%AC%E6%A1%9C%20-%20Single/01%20%E5%8D%83%E6%9C%AC%E6%A1%9C.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26546</key>
+		<key>27008</key>
 		<dict>
-			<key>Track ID</key><integer>26546</integer>
+			<key>Track ID</key><integer>27008</integer>
 			<key>Name</key><string>逆光 (UTA from ONE PIECE FILM RED)</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -913,9 +915,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3843583110</integer>
-			<key>Play Date UTC</key><date>2025-10-18T02:58:30Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3859303792</integer>
+			<key>Play Date UTC</key><date>2026-04-18T01:49:52Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-02-20T20:28:03Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -925,13 +927,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BA65CE7984DCE5C7</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Singl/01%20%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Singl/01%20%E9%80%86%E5%85%89%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26552</key>
+		<key>27014</key>
 		<dict>
-			<key>Track ID</key><integer>26552</integer>
+			<key>Track ID</key><integer>27014</integer>
 			<key>Name</key><string>アタシは問題作</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -955,6 +957,8 @@
 			<key>Play Count</key><integer>4</integer>
 			<key>Play Date</key><integer>3853233140</integer>
 			<key>Play Date UTC</key><date>2026-02-06T20:32:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-18T17:16:11Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -962,13 +966,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>82F3161FFED1C2C6</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C%20-%20Single/01%20%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C%20-%20Single/01%20%E3%82%A2%E3%82%BF%E3%82%B7%E3%81%AF%E5%95%8F%E9%A1%8C%E4%BD%9C.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26558</key>
+		<key>27020</key>
 		<dict>
-			<key>Track ID</key><integer>26558</integer>
+			<key>Track ID</key><integer>27020</integer>
 			<key>Name</key><string>新時代 (UTA from ONE PIECE FILM RED)</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1002,13 +1006,13 @@
 			<key>Sort Name</key><string>新時代</string>
 			<key>Persistent ID</key><string>1BCD05E10D1F3950</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Sing/01%20%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20-%20Sing/01%20%E6%96%B0%E6%99%82%E4%BB%A3%20(UTA%20from%20ONE%20PIECE%20FILM%20RED).mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26564</key>
+		<key>27026</key>
 		<dict>
-			<key>Track ID</key><integer>26564</integer>
+			<key>Track ID</key><integer>27026</integer>
 			<key>Name</key><string>クラクラ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1029,9 +1033,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3852109372</integer>
-			<key>Play Date UTC</key><date>2026-01-24T20:22:52Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3857905699</integer>
+			<key>Play Date UTC</key><date>2026-04-01T22:28:19Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1039,13 +1043,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>014D28E55CB2A348</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9%20-%20Single/01%20%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9%20-%20Single/01%20%E3%82%AF%E3%83%A9%E3%82%AF%E3%83%A9.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26568</key>
+		<key>27030</key>
 		<dict>
-			<key>Track ID</key><integer>26568</integer>
+			<key>Track ID</key><integer>27030</integer>
 			<key>Name</key><string>シャルル</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1075,13 +1079,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7D07CBDD59A8CDF1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB%20-%20Single/01%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB%20-%20Single/01%20%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26574</key>
+		<key>27036</key>
 		<dict>
-			<key>Track ID</key><integer>26574</integer>
+			<key>Track ID</key><integer>27036</integer>
 			<key>Name</key><string>フールフールフール</string>
 			<key>Artist</key><string>おくのほそみち feat. Ado</string>
 			<key>Album Artist</key><string>おくのほそみち feat. Ado</string>
@@ -1111,13 +1115,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D9327C15C095C820</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E3%81%8A%E3%81%8F%E3%81%AE%E3%81%BB%E3%81%9D%E3%81%BF%E3%81%A1%20feat.%20Ado/%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%20-%20Single/01%20%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%81%8A%E3%81%8F%E3%81%AE%E3%81%BB%E3%81%9D%E3%81%BF%E3%81%A1%20feat.%20Ado/%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%20-%20Single/01%20%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26832</key>
+		<key>27294</key>
 		<dict>
-			<key>Track ID</key><integer>26832</integer>
+			<key>Track ID</key><integer>27294</integer>
 			<key>Name</key><string>Stay Gold (From 'Beyblade X')</string>
 			<key>Artist</key><string>Jax Jones &#38; Ado</string>
 			<key>Album Artist</key><string>Jax Jones &#38; Ado</string>
@@ -1138,9 +1142,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>11</integer>
-			<key>Play Date</key><integer>3852791110</integer>
-			<key>Play Date UTC</key><date>2026-02-01T17:45:10Z</date>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3859304208</integer>
+			<key>Play Date UTC</key><date>2026-04-18T01:56:48Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1148,13 +1152,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5FE169911FB401BB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Jax%20Jones%20&#38;%20Ado/Stay%20Gold%20(From%20'BEYBLADE%20X')%20-%20Single/01%20Stay%20Gold%20(From%20'Beyblade%20X').mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Jax%20Jones%20&#38;%20Ado/Stay%20Gold%20(From%20'BEYBLADE%20X')%20-%20Single/01%20Stay%20Gold%20(From%20'Beyblade%20X').mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28772</key>
+		<key>29234</key>
 		<dict>
-			<key>Track ID</key><integer>28772</integer>
+			<key>Track ID</key><integer>29234</integer>
 			<key>Name</key><string>CAT'S EYE</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1184,13 +1188,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>06B29E4EDE243CCB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/CAT'S%20EYE%20-%20Single/01%20CAT'S%20EYE.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/CAT'S%20EYE%20-%20Single/01%20CAT'S%20EYE.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32940</key>
+		<key>33402</key>
 		<dict>
-			<key>Track ID</key><integer>32940</integer>
+			<key>Track ID</key><integer>33402</integer>
 			<key>Name</key><string>MAGIC</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1210,9 +1214,9 @@
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3848301495</integer>
-			<key>Play Date UTC</key><date>2025-12-11T18:38:15Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3859295419</integer>
+			<key>Play Date UTC</key><date>2026-04-17T23:30:19Z</date>
 			<key>Release Date</key><date>2025-10-31T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1221,13 +1225,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B83B867B17B81334</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/MAGIC%20-%20Single/01%20MAGIC.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/MAGIC%20-%20Single/01%20MAGIC.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34222</key>
+		<key>34684</key>
 		<dict>
-			<key>Track ID</key><integer>34222</integer>
+			<key>Track ID</key><integer>34684</integer>
 			<key>Name</key><string>soldier game</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1258,13 +1262,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>41398D8DED75B0EB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/soldier%20game%20-%20Single/01%20soldier%20game.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/soldier%20game%20-%20Single/01%20soldier%20game.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34936</key>
+		<key>35398</key>
 		<dict>
-			<key>Track ID</key><integer>34936</integer>
+			<key>Track ID</key><integer>35398</integer>
 			<key>Name</key><string>エンゼルシーク</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1297,13 +1301,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8EA4892C511786B4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF%20-%20Single/01%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF%20-%20Single/01%20%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E3%82%B7%E3%83%BC%E3%82%AF.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>182497</key>
+		<key>35736</key>
 		<dict>
-			<key>Track ID</key><integer>182497</integer>
+			<key>Track ID</key><integer>35736</integer>
 			<key>Name</key><string>Radio Noise</string>
 			<key>Artist</key><string>ミコ吉 feat Ado</string>
 			<key>Album Artist</key><string>ミコ吉 feat Ado</string>
@@ -1330,16 +1334,17 @@
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1382</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9F441F25A4699B9E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/%E3%83%9F%E3%82%B3%E5%90%89%20feat%20Ado/Radio%20Noise%20-%20Single/01%20Radio%20Noise.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%83%9F%E3%82%B3%E5%90%89%20feat%20Ado/Radio%20Noise%20-%20Single/01%20Radio%20Noise.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>182504</key>
+		<key>35738</key>
 		<dict>
-			<key>Track ID</key><integer>182504</integer>
+			<key>Track ID</key><integer>35738</integer>
 			<key>Name</key><string>立ち入り禁止</string>
 			<key>Artist</key><string>Ayase &#38; Ado</string>
 			<key>Album</key><string>まふまふ トリビュートアルバム ～転生～</string>
@@ -1361,15 +1366,55 @@
 			<key>Play Count</key><integer>1</integer>
 			<key>Play Date</key><integer>3855918547</integer>
 			<key>Play Date UTC</key><date>2026-03-09T22:29:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-03-17T16:34:54Z</date>
 			<key>Release Date</key><date>2022-03-30T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6736</integer>
 			<key>Compilation</key><true/>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BE32E72E85A9B7C4</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Compilations/%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5%20%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%20%EF%BD%9E%E8%BB%A2%E7%94%9F%EF%BD%9E/04%20%E7%AB%8B%E3%81%A1%E5%85%A5%E3%82%8A%E7%A6%81%E6%AD%A2.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Compilations/%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5%20%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%83%88%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%20%EF%BD%9E%E8%BB%A2%E7%94%9F%EF%BD%9E/04%20%E7%AB%8B%E3%81%A1%E5%85%A5%E3%82%8A%E7%A6%81%E6%AD%A2.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>38106</key>
+		<dict>
+			<key>Track ID</key><integer>38106</integer>
+			<key>Name</key><string>アイアイア</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>アイアイア - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>61143118</integer>
+			<key>Total Time</key><integer>254347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>138</integer>
+			<key>Date Modified</key><date>2026-03-27T21:32:45Z</date>
+			<key>Date Added</key><date>2026-03-17T03:49:04Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3857210245</integer>
+			<key>Play Date UTC</key><date>2026-03-24T21:17:25Z</date>
+			<key>Release Date</key><date>2026-03-15T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>17799</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8A18373081C0994</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%A2%20-%20Single/01%20%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%A2.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -1379,7 +1424,7 @@
 		<dict>
 			<key>Name</key><string>Ado</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>113147</integer>
+			<key>Playlist ID</key><integer>124678</integer>
 			<key>Playlist Persistent ID</key><string>30295C9EA3099F94</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1425,115 +1470,118 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>26532</integer>
+					<key>Track ID</key><integer>26994</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26528</integer>
+					<key>Track ID</key><integer>26990</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26574</integer>
+					<key>Track ID</key><integer>27036</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12004</integer>
+					<key>Track ID</key><integer>12466</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26522</integer>
+					<key>Track ID</key><integer>26984</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26542</integer>
+					<key>Track ID</key><integer>27004</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26544</integer>
+					<key>Track ID</key><integer>27006</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11966</integer>
+					<key>Track ID</key><integer>12428</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26558</integer>
+					<key>Track ID</key><integer>27020</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26546</integer>
+					<key>Track ID</key><integer>27008</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11938</integer>
+					<key>Track ID</key><integer>12400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11940</integer>
+					<key>Track ID</key><integer>12402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26552</integer>
+					<key>Track ID</key><integer>27014</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11978</integer>
+					<key>Track ID</key><integer>12440</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26564</integer>
+					<key>Track ID</key><integer>27026</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4526</integer>
+					<key>Track ID</key><integer>4988</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4528</integer>
+					<key>Track ID</key><integer>4990</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4530</integer>
+					<key>Track ID</key><integer>4992</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4534</integer>
+					<key>Track ID</key><integer>4996</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4540</integer>
+					<key>Track ID</key><integer>5002</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4542</integer>
+					<key>Track ID</key><integer>5004</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4548</integer>
+					<key>Track ID</key><integer>5010</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4546</integer>
+					<key>Track ID</key><integer>5008</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11976</integer>
+					<key>Track ID</key><integer>12438</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15396</integer>
+					<key>Track ID</key><integer>15858</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11928</integer>
+					<key>Track ID</key><integer>12390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11868</integer>
+					<key>Track ID</key><integer>12330</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15360</integer>
+					<key>Track ID</key><integer>15822</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26568</integer>
+					<key>Track ID</key><integer>27030</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>25682</integer>
+					<key>Track ID</key><integer>26144</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26832</integer>
+					<key>Track ID</key><integer>27294</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28772</integer>
+					<key>Track ID</key><integer>29234</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32940</integer>
+					<key>Track ID</key><integer>33402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34222</integer>
+					<key>Track ID</key><integer>34684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34936</integer>
+					<key>Track ID</key><integer>35398</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>182504</integer>
+					<key>Track ID</key><integer>35738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>182497</integer>
+					<key>Track ID</key><integer>35736</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38106</integer>
 				</dict>
 			</array>
 		</dict>

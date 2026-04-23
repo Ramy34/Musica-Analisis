@@ -4,17 +4,17 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-03-10T05:46:52Z</date>
+	<key>Date</key><date>2026-04-23T00:18:48Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
-	<key>Music Folder</key><string>file://localhost/Z:/iTunes/iTunes%20Media/</string>
+	<key>Music Folder</key><string>file://localhost/D:/iTunes/iTunes%20Media/</string>
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>13202</key>
+		<key>13664</key>
 		<dict>
-			<key>Track ID</key><integer>13202</integer>
+			<key>Track ID</key><integer>13664</integer>
 			<key>Name</key><string>GRAN VÍA</string>
 			<key>Artist</key><string>Quevedo &#38; Aitana</string>
 			<key>Album Artist</key><string>Quevedo</string>
@@ -45,13 +45,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BD067CF5CACC1CF2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Quevedo/BUENAS%20NOCHES/04%20GRAN%20V%C3%8DA.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Quevedo/BUENAS%20NOCHES/04%20GRAN%20V%C3%8DA.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24260</key>
+		<key>24722</key>
 		<dict>
-			<key>Track ID</key><integer>24260</integer>
+			<key>Track ID</key><integer>24722</integer>
 			<key>Name</key><string>Enemigos</string>
 			<key>Artist</key><string>Aitana &#38; Reik</string>
 			<key>Album Artist</key><string>Aitana &#38; Reik</string>
@@ -72,9 +72,11 @@
 			<key>Bit Rate</key><integer>333</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3853668543</integer>
-			<key>Play Date UTC</key><date>2026-02-11T21:29:03Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859212532</integer>
+			<key>Play Date UTC</key><date>2026-04-17T00:28:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-17T00:24:11Z</date>
 			<key>Release Date</key><date>2020-05-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -82,13 +84,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6C44EAECD4E7C783</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20Reik/Enemigos%20-%20Single/01%20Enemigos.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20Reik/Enemigos%20-%20Single/01%20Enemigos.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24264</key>
+		<key>24726</key>
 		<dict>
-			<key>Track ID</key><integer>24264</integer>
+			<key>Track ID</key><integer>24726</integer>
 			<key>Name</key><string>Formentera</string>
 			<key>Artist</key><string>Aitana &#38; NICKI NICOLE</string>
 			<key>Album Artist</key><string>Aitana &#38; NICKI NICOLE</string>
@@ -109,9 +111,9 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>15</integer>
-			<key>Play Date</key><integer>3855690383</integer>
-			<key>Play Date UTC</key><date>2026-03-07T07:06:23Z</date>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3858968536</integer>
+			<key>Play Date UTC</key><date>2026-04-14T04:42:16Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-12-23T02:52:48Z</date>
 			<key>Release Date</key><date>2021-12-02T12:00:00Z</date>
@@ -122,13 +124,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1A9492A175A9A427</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20NICKI%20NICOLE/Formentera%20-%20Single/01%20Formentera.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20NICKI%20NICOLE/Formentera%20-%20Single/01%20Formentera.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24266</key>
+		<key>24728</key>
 		<dict>
-			<key>Track ID</key><integer>24266</integer>
+			<key>Track ID</key><integer>24728</integer>
 			<key>Name</key><string>Friend De Semana</string>
 			<key>Artist</key><string>Danna Paola, Luísa Sonza &#38; Aitana</string>
 			<key>Album Artist</key><string>Danna Paola, Luísa Sonza &#38; Aitana</string>
@@ -159,13 +161,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5A9ADF8188378F25</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Danna%20Paola,%20Lu%C3%ADsa%20Sonza%20&#38;%20Aitana/Friend%20De%20Semana%20-%20Single/01%20Friend%20De%20Semana.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Danna%20Paola,%20Lu%C3%ADsa%20Sonza%20&#38;%20Aitana/Friend%20De%20Semana%20-%20Single/01%20Friend%20De%20Semana.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24318</key>
+		<key>24780</key>
 		<dict>
-			<key>Track ID</key><integer>24318</integer>
+			<key>Track ID</key><integer>24780</integer>
 			<key>Name</key><string>– (MENOS)</string>
 			<key>Artist</key><string>Aitana, Álvaro Díaz &#38; Pole</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -196,13 +198,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>5629514FFC96FAEB</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/11%20RAZONES/02%20%E2%80%93%20(MENOS).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/11%20RAZONES/02%20%E2%80%93%20(MENOS).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24344</key>
+		<key>24806</key>
 		<dict>
-			<key>Track ID</key><integer>24344</integer>
+			<key>Track ID</key><integer>24806</integer>
 			<key>Name</key><string>% (DIVIDIDO)</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -233,13 +235,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>19CC8FF3FF81C3BA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/11%20RAZONES/06%20%25%20(DIVIDIDO).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/11%20RAZONES/06%20%25%20(DIVIDIDO).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24394</key>
+		<key>24856</key>
 		<dict>
-			<key>Track ID</key><integer>24394</integer>
+			<key>Track ID</key><integer>24856</integer>
 			<key>Name</key><string>SEGUNDO INTENTO</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -260,9 +262,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853667568</integer>
-			<key>Play Date UTC</key><date>2026-02-11T21:12:48Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857153180</integer>
+			<key>Play Date UTC</key><date>2026-03-24T05:26:20Z</date>
 			<key>Release Date</key><date>2025-01-23T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -271,13 +273,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>29E19C826DB7E845</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/SEGUNDO%20INTENTO%20-%20Single/01%20SEGUNDO%20INTENTO.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/SEGUNDO%20INTENTO%20-%20Single/01%20SEGUNDO%20INTENTO.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24422</key>
+		<key>24884</key>
 		<dict>
-			<key>Track ID</key><integer>24422</integer>
+			<key>Track ID</key><integer>24884</integer>
 			<key>Name</key><string>Mon Amour (Remix)</string>
 			<key>Artist</key><string>zzoilo &#38; Aitana</string>
 			<key>Album Artist</key><string>zzoilo &#38; Aitana</string>
@@ -298,9 +300,9 @@
 			<key>Bit Rate</key><integer>335</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853665565</integer>
-			<key>Play Date UTC</key><date>2026-02-11T20:39:25Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3858001377</integer>
+			<key>Play Date UTC</key><date>2026-04-03T01:02:57Z</date>
 			<key>Release Date</key><date>2021-08-18T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -309,13 +311,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>AFE3E7CB343E2CC1</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/zzoilo%20&#38;%20Aitana/Mon%20Amour%20(Remix)%20-%20Single/01%20Mon%20Amour%20(Remix).m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/zzoilo%20&#38;%20Aitana/Mon%20Amour%20(Remix)%20-%20Single/01%20Mon%20Amour%20(Remix).m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24432</key>
+		<key>24894</key>
 		<dict>
-			<key>Track ID</key><integer>24432</integer>
+			<key>Track ID</key><integer>24894</integer>
 			<key>Name</key><string>Lo Malo</string>
 			<key>Artist</key><string>Aitana &#38; Ana Guerra</string>
 			<key>Album Artist</key><string>Aitana &#38; Ana Guerra</string>
@@ -347,13 +349,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>016C3603641A9F85</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20Ana%20Guerra/Lo%20Malo%20-%20Single/01%20Lo%20Malo.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana%20&#38;%20Ana%20Guerra/Lo%20Malo%20-%20Single/01%20Lo%20Malo.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24436</key>
+		<key>24898</key>
 		<dict>
-			<key>Track ID</key><integer>24436</integer>
+			<key>Track ID</key><integer>24898</integer>
 			<key>Name</key><string>Nada Sale Mal</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -385,13 +387,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>465A367303F9758C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Nada%20Sale%20Mal%20-%20Single/01%20Nada%20Sale%20Mal.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Nada%20Sale%20Mal%20-%20Single/01%20Nada%20Sale%20Mal.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24446</key>
+		<key>24908</key>
 		<dict>
-			<key>Track ID</key><integer>24446</integer>
+			<key>Track ID</key><integer>24908</integer>
 			<key>Name</key><string>Teléfono</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -423,13 +425,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F2315139D54BA3DA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Tel%C3%A9fono%20-%20Single/01%20Tel%C3%A9fono.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Tel%C3%A9fono%20-%20Single/01%20Tel%C3%A9fono.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24456</key>
+		<key>24918</key>
 		<dict>
-			<key>Track ID</key><integer>24456</integer>
+			<key>Track ID</key><integer>24918</integer>
 			<key>Name</key><string>Mejor Que Tú</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -460,13 +462,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>147C213D02F83D09</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Tr%C3%A1iler%20-%20EP/03%20Mejor%20Que%20T%C3%BA.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Tr%C3%A1iler%20-%20EP/03%20Mejor%20Que%20T%C3%BA.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>24466</key>
+		<key>24928</key>
 		<dict>
-			<key>Track ID</key><integer>24466</integer>
+			<key>Track ID</key><integer>24928</integer>
 			<key>Name</key><string>Ella Bailaba</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -497,13 +499,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BFA81818D3240881</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Alpha/06%20Ella%20Bailaba.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Alpha/06%20Ella%20Bailaba.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>25684</key>
+		<key>26146</key>
 		<dict>
-			<key>Track ID</key><integer>25684</integer>
+			<key>Track ID</key><integer>26146</integer>
 			<key>Name</key><string>6 DE FEBRERO</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -533,13 +535,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>43F56139035B2444</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/6%20DE%20FEBRERO%20-%20Single/01%206%20DE%20FEBRERO.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/6%20DE%20FEBRERO%20-%20Single/01%206%20DE%20FEBRERO.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26676</key>
+		<key>27138</key>
 		<dict>
-			<key>Track ID</key><integer>26676</integer>
+			<key>Track ID</key><integer>27138</integer>
 			<key>Name</key><string>LA CHICA PERFECTA</string>
 			<key>Artist</key><string>Aitana &#38; Fangoria</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -570,13 +572,13 @@
 			<key>Sort Name</key><string>CHICA PERFECTA</string>
 			<key>Persistent ID</key><string>81B69D789C8EB167</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/19%20LA%20CHICA%20PERFECTA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/19%20LA%20CHICA%20PERFECTA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26694</key>
+		<key>27156</key>
 		<dict>
-			<key>Track ID</key><integer>26694</integer>
+			<key>Track ID</key><integer>27156</integer>
 			<key>Name</key><string>¿PARA QUÉ VOLVER </string>
 			<key>Artist</key><string>Aitana &#38; Ela Taubert</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -605,13 +607,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>726ABFE9DA72C018</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/04%20%C2%BFPARA%20QU%C3%89%20VOLVER.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/04%20%C2%BFPARA%20QU%C3%89%20VOLVER.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26696</key>
+		<key>27158</key>
 		<dict>
-			<key>Track ID</key><integer>26696</integer>
+			<key>Track ID</key><integer>27158</integer>
 			<key>Name</key><string>CUARTO AZUL</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -640,13 +642,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6371E01C245EE94A</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/05%20CUARTO%20AZUL.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/05%20CUARTO%20AZUL.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26712</key>
+		<key>27174</key>
 		<dict>
-			<key>Track ID</key><integer>26712</integer>
+			<key>Track ID</key><integer>27174</integer>
 			<key>Name</key><string>MÚSICA EN EL CIELO</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -666,9 +668,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3855306105</integer>
-			<key>Play Date UTC</key><date>2026-03-02T20:21:45Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3859530825</integer>
+			<key>Play Date UTC</key><date>2026-04-20T16:53:45Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-12-20T16:20:04Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -677,13 +679,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>354200B70849E8DF</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/09%20M%C3%9ASICA%20EN%20EL%20CIELO.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/09%20M%C3%9ASICA%20EN%20EL%20CIELO.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26732</key>
+		<key>27194</key>
 		<dict>
-			<key>Track ID</key><integer>26732</integer>
+			<key>Track ID</key><integer>27194</integer>
 			<key>Name</key><string>CONEXIÓN PSÍQUICA</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -704,22 +706,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3853667968</integer>
-			<key>Play Date UTC</key><date>2026-02-11T21:19:28Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3856358435</integer>
+			<key>Play Date UTC</key><date>2026-03-15T00:40:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4811</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>1B9513FE81550C89</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/14%20CONEXI%C3%93N%20PS%C3%8DQUICA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/14%20CONEXI%C3%93N%20PS%C3%8DQUICA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26734</key>
+		<key>27196</key>
 		<dict>
-			<key>Track ID</key><integer>26734</integer>
+			<key>Track ID</key><integer>27196</integer>
 			<key>Name</key><string>SUPERESTRELLA</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -740,22 +742,22 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3853666018</integer>
-			<key>Play Date UTC</key><date>2026-02-11T20:46:58Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3857890344</integer>
+			<key>Play Date UTC</key><date>2026-04-01T18:12:24Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5263</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>B22D7B29D35B5ECA</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/15%20SUPERESTRELLA.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/15%20SUPERESTRELLA.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26736</key>
+		<key>27198</key>
 		<dict>
-			<key>Track ID</key><integer>26736</integer>
+			<key>Track ID</key><integer>27198</integer>
 			<key>Name</key><string>EX EX EX</string>
 			<key>Artist</key><string>Aitana &#38; Kenia Os</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -784,13 +786,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>C6F942636B74CBC9</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/16%20EX%20EX%20EX.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/16%20EX%20EX%20EX.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26738</key>
+		<key>27200</key>
 		<dict>
-			<key>Track ID</key><integer>26738</integer>
+			<key>Track ID</key><integer>27200</integer>
 			<key>Name</key><string>HOY ES TU CUMPLEAÑOS</string>
 			<key>Artist</key><string>Aitana &#38; Danny Ocean</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -819,13 +821,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>892A82A8783467C2</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/17%20HOY%20ES%20TU%20CUMPLEA%C3%91OS.mp3</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/CUARTO%20AZUL/17%20HOY%20ES%20TU%20CUMPLEA%C3%91OS.mp3</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33094</key>
+		<key>33556</key>
 		<dict>
-			<key>Track ID</key><integer>33094</integer>
+			<key>Track ID</key><integer>33556</integer>
 			<key>Name</key><string>El Mismo Sol (Operación Triunfo 2017)</string>
 			<key>Artist</key><string>Alfred García &#38; Aitana</string>
 			<key>Album Artist</key><string>Alfred García &#38; Aitana</string>
@@ -845,9 +847,9 @@
 			<key>Bit Rate</key><integer>328</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853667225</integer>
-			<key>Play Date UTC</key><date>2026-02-11T21:07:05Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859311733</integer>
+			<key>Play Date UTC</key><date>2026-04-18T04:02:13Z</date>
 			<key>Release Date</key><date>2017-11-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -858,13 +860,13 @@
 			<key>Sort Name</key><string>Mismo Sol (Operación Triunfo 2017)</string>
 			<key>Persistent ID</key><string>4CB7717B70760C4E</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Alfred%20Garc%C3%ADa%20&#38;%20Aitana/El%20Mismo%20Sol%20(Operaci%C3%B3n%20Triunfo%202017)%20-/01%20El%20Mismo%20Sol%20(Operaci%C3%B3n%20Triunfo%202.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Alfred%20Garc%C3%ADa%20&#38;%20Aitana/El%20Mismo%20Sol%20(Operaci%C3%B3n%20Triunfo%202017)%20-/01%20El%20Mismo%20Sol%20(Operaci%C3%B3n%20Triunfo%202.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33104</key>
+		<key>33566</key>
 		<dict>
-			<key>Track ID</key><integer>33104</integer>
+			<key>Track ID</key><integer>33566</integer>
 			<key>Name</key><string>New Rules (Operación Triunfo 2017)</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -897,13 +899,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EB84FC409FBE5E0F</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/New%20Rules%20(Operaci%C3%B3n%20Triunfo%202017)%20-%20Sin/01%20New%20Rules%20(Operaci%C3%B3n%20Triunfo%202017.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/New%20Rules%20(Operaci%C3%B3n%20Triunfo%202017)%20-%20Sin/01%20New%20Rules%20(Operaci%C3%B3n%20Triunfo%202017.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33112</key>
+		<key>33574</key>
 		<dict>
-			<key>Track ID</key><integer>33112</integer>
+			<key>Track ID</key><integer>33574</integer>
 			<key>Name</key><string>Instruction (Operación Triunfo 2017)</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -923,9 +925,9 @@
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3853668690</integer>
-			<key>Play Date UTC</key><date>2026-02-11T21:31:30Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3857551884</integer>
+			<key>Play Date UTC</key><date>2026-03-28T20:11:24Z</date>
 			<key>Release Date</key><date>2018-01-22T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -934,13 +936,13 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>EBC69DA251EECEC0</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Instruction%20(Operaci%C3%B3n%20Triunfo%202017)%20-%20S/01%20Instruction%20(Operaci%C3%B3n%20Triunfo%2020.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Instruction%20(Operaci%C3%B3n%20Triunfo%202017)%20-%20S/01%20Instruction%20(Operaci%C3%B3n%20Triunfo%2020.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33124</key>
+		<key>33586</key>
 		<dict>
-			<key>Track ID</key><integer>33124</integer>
+			<key>Track ID</key><integer>33586</integer>
 			<key>Name</key><string>Arde</string>
 			<key>Artist</key><string>Aitana</string>
 			<key>Album Artist</key><string>Aitana</string>
@@ -961,9 +963,9 @@
 			<key>Bit Rate</key><integer>314</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3853666730</integer>
-			<key>Play Date UTC</key><date>2026-02-11T20:58:50Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3858595388</integer>
+			<key>Play Date UTC</key><date>2026-04-09T21:03:08Z</date>
 			<key>Release Date</key><date>2018-01-28T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -971,7 +973,7 @@
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>384904B486562B6C</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/Z:/iTunes/iTunes%20Media/Music/Aitana/Sus%20Canciones%20(Operaci%C3%B3n%20Triunfo%202017)/03%20Arde.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Aitana/Sus%20Canciones%20(Operaci%C3%B3n%20Triunfo%202017)/03%20Arde.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
@@ -981,7 +983,7 @@
 		<dict>
 			<key>Name</key><string>Aitana</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>113304</integer>
+			<key>Playlist ID</key><integer>124839</integer>
 			<key>Playlist Persistent ID</key><string>A6545FAC741AEE2E</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1022,82 +1024,82 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>33094</integer>
+					<key>Track ID</key><integer>33556</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33104</integer>
+					<key>Track ID</key><integer>33566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33112</integer>
+					<key>Track ID</key><integer>33574</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33124</integer>
+					<key>Track ID</key><integer>33586</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24432</integer>
+					<key>Track ID</key><integer>24894</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24446</integer>
+					<key>Track ID</key><integer>24908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24456</integer>
+					<key>Track ID</key><integer>24918</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24436</integer>
+					<key>Track ID</key><integer>24898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24260</integer>
+					<key>Track ID</key><integer>24722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24266</integer>
+					<key>Track ID</key><integer>24728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24318</integer>
+					<key>Track ID</key><integer>24780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24344</integer>
+					<key>Track ID</key><integer>24806</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24422</integer>
+					<key>Track ID</key><integer>24884</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24264</integer>
+					<key>Track ID</key><integer>24726</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24466</integer>
+					<key>Track ID</key><integer>24928</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13202</integer>
+					<key>Track ID</key><integer>13664</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>24394</integer>
+					<key>Track ID</key><integer>24856</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>25684</integer>
+					<key>Track ID</key><integer>26146</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26736</integer>
+					<key>Track ID</key><integer>27198</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26738</integer>
+					<key>Track ID</key><integer>27200</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26676</integer>
+					<key>Track ID</key><integer>27138</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26734</integer>
+					<key>Track ID</key><integer>27196</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26694</integer>
+					<key>Track ID</key><integer>27156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26696</integer>
+					<key>Track ID</key><integer>27158</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26712</integer>
+					<key>Track ID</key><integer>27174</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26732</integer>
+					<key>Track ID</key><integer>27194</integer>
 				</dict>
 			</array>
 		</dict>
