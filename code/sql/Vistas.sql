@@ -2,11 +2,11 @@
 CREATE OR REPLACE VIEW vista.biblioteca AS
 WITH base AS (
     SELECT
-        a.name AS "Canción",
+        COALESCE(a.name, 'null') AS "Canción",
         a.artist AS "Artista",
         a.album AS "Álbum",
         a.album_artist AS "Artista del álbum",
-        COALESCE(a.play_count, 0) AS "Reproducciones",
+        COALESCE(a.play_count::NUMERIC, 0) AS "Reproducciones",
         a.genre AS "Género",
         a.total_time AS "Duración minutos",
         a.filename AS "Nombre archivo",
@@ -52,8 +52,8 @@ WITH base AS (
         b.tuning AS "Tuning",
         b.has_lyrics AS "Tiene letra",
         b.lyrics_text AS "Letra",
-        b.duration_seconds / 3600.0 AS "Duración horas",
-        CASE a.rating
+        b.duration_seconds::NUMERIC / 3600.0 AS "Duración horas",
+        CASE a.rating::NUMERIC
             WHEN 20 THEN '1'
             WHEN 40 THEN '2'
             WHEN 60 THEN '3'
@@ -62,15 +62,15 @@ WITH base AS (
             ELSE '0'
         END AS "Calificación",
         CASE
-            WHEN b.duration_seconds <= 30.00 THEN '0'
-            WHEN b.duration_seconds <= 90.00 THEN '1'
-            WHEN b.duration_seconds <= 150.00 THEN '2'
-            WHEN b.duration_seconds <= 210.00 THEN '3'
-            WHEN b.duration_seconds <= 270.00 THEN '4'
-            WHEN b.duration_seconds <= 330.00 THEN '5'
-            WHEN b.duration_seconds <= 390.00 THEN '6'
-            WHEN b.duration_seconds <= 450.00 THEN '7'
-            WHEN b.duration_seconds <= 510.00 THEN '8'
+            WHEN b.duration_seconds::NUMERIC <= 30.00 THEN '0'
+            WHEN b.duration_seconds::NUMERIC <= 90.00 THEN '1'
+            WHEN b.duration_seconds::NUMERIC <= 150.00 THEN '2'
+            WHEN b.duration_seconds::NUMERIC <= 210.00 THEN '3'
+            WHEN b.duration_seconds::NUMERIC <= 270.00 THEN '4'
+            WHEN b.duration_seconds::NUMERIC <= 330.00 THEN '5'
+            WHEN b.duration_seconds::NUMERIC <= 390.00 THEN '6'
+            WHEN b.duration_seconds::NUMERIC <= 450.00 THEN '7'
+            WHEN b.duration_seconds::NUMERIC <= 510.00 THEN '8'
             ELSE '9 o más'
         END AS "Escala de minutos"
     FROM raw.biblioteca a
@@ -151,25 +151,38 @@ LIMIT 25;
 
 -- Creamos la vista de artistas desnormalizados
 CREATE OR REPLACE VIEW vista.artistas AS
+WITH base AS (
+    SELECT
+        m.artist AS artista_original,
+        CASE
+            -- Si es excepción, no se divide
+            WHEN e.artista IS NOT NULL THEN ARRAY[m.artist]
+            
+            -- Si no es excepción, se divide
+            ELSE string_to_array(
+                regexp_replace(
+                    m.artist,
+                    'feat\.?|&|\mcon\M|\mwith\M|/|、',
+                    ',',
+                    'gi'
+                ),
+                ','
+            )
+        END AS artistas_array
+
+    FROM raw.metadata m
+    LEFT JOIN adm.cat_artista_excepciones e
+        ON UPPER(m.artist) = UPPER(e.artista)
+)
+
 SELECT DISTINCT
-    m.artist AS "Artista original",
-    TRIM(partes.artista) AS "Artista"
-FROM raw.metadata m
-LEFT JOIN adm.cat_artista_excepciones e
-    ON UPPER(m.artist) = UPPER(e.artista)
-CROSS JOIN LATERAL regexp_split_to_table(
-    CASE
-        WHEN e.artista IS NOT NULL THEN m.artist
-        ELSE regexp_replace(
-            m.artist,
-            'feat\\.?|&|\\mcon\\M|\\mwith\\M|/|、',
-            ',',
-            'gi'
-        )
-    END,
-    ','
-) AS partes(artista)
-WHERE TRIM(partes.artista) <> '';
+    artista_original AS "Artista original",
+    TRIM(f.value) AS "Artista"
+FROM base
+CROSS JOIN LATERAL unnest(artistas_array) AS f(value)
+WHERE 
+    TRIM(f.value) IS NOT NULL
+    AND TRIM(f.value) <> '';
 
 -- Creacion de la vista de canciones desnormalizadas
 CREATE OR REPLACE VIEW vista.canciones AS
@@ -240,11 +253,11 @@ CREATE OR REPLACE VIEW vista.playlist AS
 WITH base AS (
     SELECT
         a.playlist AS "Playlist",
-        a.name AS "Canción",
+        COALESCE(a.name, 'null') AS "Canción",
         a.artist AS "Artista",
         a.album AS "Álbum",
         a.album_artist AS "Artista álbum",
-        COALESCE(a.play_count, 0) AS "Reproducciones",
+        COALESCE(a.play_count::NUMERIC, 0) AS "Reproducciones",
         a.genre AS "Género",
         a.total_time AS "Duración minutos",
         a.filename AS "Nombre archivo",
@@ -271,7 +284,7 @@ WITH base AS (
         a.play_date AS "Fecha de última reproducción",
         a.play_date_utc AS "Fecha de última reproducción UTC",
         a.purchased AS "Comprado",
-        CASE a.rating
+        CASE a.rating::NUMERIC
             WHEN 20 THEN '1'
             WHEN 40 THEN '2'
             WHEN 60 THEN '3'
@@ -299,17 +312,17 @@ WITH base AS (
         b.tuning AS "Tuning",
         b.has_lyrics AS "Tiene letra",
         b.lyrics_text AS "Letra",
-        b.duration_seconds / 3600.0 AS "Duración horas",
+        b.duration_seconds::NUMERIC / 3600.0 AS "Duración horas",
         CASE
-            WHEN b.duration_seconds <= 30.00 THEN '0'
-            WHEN b.duration_seconds <= 90.00 THEN '1'
-            WHEN b.duration_seconds <= 150.00 THEN '2'
-            WHEN b.duration_seconds <= 210.00 THEN '3'
-            WHEN b.duration_seconds <= 270.00 THEN '4'
-            WHEN b.duration_seconds <= 330.00 THEN '5'
-            WHEN b.duration_seconds <= 390.00 THEN '6'
-            WHEN b.duration_seconds <= 450.00 THEN '7'
-            WHEN b.duration_seconds <= 510.00 THEN '8'
+            WHEN b.duration_seconds::NUMERIC <= 30.00 THEN '0'
+            WHEN b.duration_seconds::NUMERIC <= 90.00 THEN '1'
+            WHEN b.duration_seconds::NUMERIC <= 150.00 THEN '2'
+            WHEN b.duration_seconds::NUMERIC <= 210.00 THEN '3'
+            WHEN b.duration_seconds::NUMERIC <= 270.00 THEN '4'
+            WHEN b.duration_seconds::NUMERIC <= 330.00 THEN '5'
+            WHEN b.duration_seconds::NUMERIC <= 390.00 THEN '6'
+            WHEN b.duration_seconds::NUMERIC <= 450.00 THEN '7'
+            WHEN b.duration_seconds::NUMERIC <= 510.00 THEN '8'
             ELSE '9 o más'
         END AS "Escala de minutos"
     FROM raw.playlist a
@@ -398,9 +411,9 @@ SELECT
     c."Artista",
     COUNT(c."Canción") AS "Total de canciones",
     SUM(c."Reproducciones") AS "Total de reproducciones",
-    AVG(c."Bpm") AS "Bpm promedio",
-    AVG(c."Ratio de bit") AS "Bit rate promedio",
-    AVG(c."Ratio de muestro") AS "Ratio de muestreo promedio",
+    AVG(c."Bpm"::NUMERIC) AS "Bpm promedio",
+    AVG(c."Ratio de bit"::NUMERIC) AS "Bit rate promedio",
+    AVG(c."Ratio de muestro"::NUMERIC) AS "Ratio de muestreo promedio",
     SUM(CASE WHEN c."Me gusta" = 'Sí' THEN 1 ELSE 0 END) AS "Cantidad de favoritas",
     MAX(CASE WHEN p."Playlist" IS NOT NULL THEN 'Sí' ELSE 'No' END) AS "Tiene playlist"
 FROM vista.canciones c

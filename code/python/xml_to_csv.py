@@ -168,7 +168,6 @@ def main(input_folder, output_folder):
 
     raw_output = os.path.join(output_folder, "RAW")
 
-
     if not os.path.isdir(raw_input):
         print(f"[ERROR] No existe: {raw_input}")
         return
@@ -181,7 +180,6 @@ def main(input_folder, output_folder):
 
     process_raw(raw_input, raw_output)
     process_pre_raw(pre_raw_input, raw_output)
-
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:

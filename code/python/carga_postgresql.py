@@ -103,6 +103,20 @@ def actualizar_control_playlist(flag, d, conn, nombre, esquema, registros):
     conn.commit()
     cur.close()
 
+def creacion_vistas(conn):
+    # Ruta del script actual
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    # Construir ruta al SQL
+    sql_path = os.path.join(base_dir, "..", "sql", "vistas.sql")
+
+    cursor = conn.cursor()
+    with open(sql_path, "r", encoding="utf-8") as f:
+        sql = f.read()
+    cursor.execute(sql)
+    conn.commit()
+
+    cursor.close()
+
 def main(HOST, USER, PASSWORD, DB, CSV_PATH):
     # === CONEXIÓN A SNOWFLAKE ===
     conn = psycopg2.connect(
@@ -125,7 +139,7 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
                 TABLE = clean_name(d['archivo'].replace(".csv", ""))
                 SCHEMA = d['subcarpeta'].upper()
                 # === CARGAR CSV CON PANDAS ===
-                df = pd.read_csv(d['ruta_completa'])
+                df = pd.read_csv(d['ruta_completa'], dtype=str)
                 # Si el CSV está vacío, abortamos
                 if df.empty:
                     print(f"[INFO] El archivo {d['archivo']} está vacío. Se omite.")
@@ -137,8 +151,9 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
                     cursor = conn.cursor()
                     cursor.execute(f"CREATE SCHEMA IF NOT EXISTS {SCHEMA};")
                     cols = ", ".join([f"{col} {infer_postgres_type(df[col].dtype)}" for col in df.columns])
-                    cursor.execute(f"DROP TABLE IF EXISTS {SCHEMA}.{TABLE};")
+                    cursor.execute(f"DROP TABLE IF EXISTS {SCHEMA}.{TABLE} CASCADE;")
                     create_table_sql = f"CREATE TABLE {SCHEMA}.{TABLE} ({cols});"
+                    #create_table_sql = f"TRUNCATE TABLE {SCHEMA}.{TABLE};"
                     cursor.execute(create_table_sql)
 
                     # COPY (rápido)
@@ -155,6 +170,7 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
                     cursor.close()
         else:
             print(f"[INFO] Omitido (no es CSV): {d['archivo']}")
+    creacion_vistas(conn)
     conn.close()
 
 if __name__ == "__main__":
