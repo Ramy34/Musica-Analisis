@@ -118,7 +118,7 @@ def creacion_vistas(conn):
     cursor.close()
 
 def main(HOST, USER, PASSWORD, DB, CSV_PATH):
-    # === CONEXIÓN A SNOWFLAKE ===
+    # === CONEXIÓN A POSTGRESQL ===
     conn = psycopg2.connect(
         host=HOST,
         database=DB,
