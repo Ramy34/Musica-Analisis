@@ -31,8 +31,10 @@ A diferencia de los resúmenes anuales como Spotify Wrapped, este proyecto te da
 
 ## ⚙️ Uso e Instalación
 
-----
-1. Clona el repositorio e instala las dependencias de Python necesarias (revisa tus importaciones como `pandas`, `mutagen`, `psycopg2`).
+1. Clona el repositorio e instala las dependencias de Python necesarias usando el archivo `requirements.txt`:
+   ```bash
+   pip install -r requirements.txt
+   ```
 2. Configura tus credenciales de PostgreSQL y rutas de carpetas a través de tu clase de configuración (`config_loader.py`).
 3. Inicializa las tablas base y catálogos en PostgreSQL ejecutando el script `code/sql/01 - Inicializacion.sql`.
 4. Ejecuta el orquestador principal desde la terminal:
