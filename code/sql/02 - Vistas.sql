@@ -84,7 +84,12 @@ SELECT
     base.*,
     CASE WHEN base."Calificación" < '5' THEN 'No' ELSE 'Sí' END AS "Me gusta",
     CASE WHEN base."Reproducciones" > 0 THEN 'Sí' ELSE 'No' END AS "Reproducido",
-    CASE WHEN base."Comentarios" LIKE '%Se encuentra en spotify%' THEN 'Sí' ELSE 'No' END AS "En Spotify"
+    CASE WHEN base."Comentarios" LIKE '%Se encuentra en spotify%' THEN 'Sí' ELSE 'No' END AS "En Spotify",
+    EXISTS (
+        SELECT 1 FROM adm.cat_comentarios cat 
+        WHERE base."Comentarios" ILIKE '%' || cat.comentario || '%' 
+          AND cat.discrimina_playlist = TRUE
+    ) AS "Discrimina playlist"
 FROM base;
 
 -- Creamos la vista del resumen del top 25
@@ -145,7 +150,8 @@ SELECT
     "Escala de minutos",
     "Me gusta",
     "Reproducido",
-    "En Spotify"
+    "En Spotify",
+    "Discrimina playlist"
 FROM vista.biblioteca
 ORDER BY "Reproducciones" DESC
 LIMIT 25;
@@ -315,7 +321,8 @@ SELECT
     a."Escala de minutos",
     a."Me gusta",
     a."Reproducido",
-    a."En Spotify"
+    a."En Spotify",
+    a."Discrimina playlist"
 FROM vista.biblioteca a
 INNER JOIN vista.artistas b
     ON a."Artista" = b."Artista original";
@@ -468,7 +475,8 @@ SELECT
     "Escala de minutos",
     "Me gusta",
     "Reproducido",
-    "En Spotify"
+    "En Spotify",
+    "Discrimina playlist"
 FROM vista.canciones
 WHERE UPPER("Artista") NOT IN (
     SELECT UPPER("Playlist")
@@ -476,6 +484,20 @@ WHERE UPPER("Artista") NOT IN (
     WHERE "Playlist" NOT LIKE '%Concierto%'
     GROUP BY UPPER("Playlist")
 );
+
+-- Creacion de la vista de resumen por comentario
+CREATE OR REPLACE VIEW vista.resumen_comentarios AS
+SELECT 
+    "Comentarios",
+    "Discrimina playlist",
+    COUNT(*) AS "Cantidad"
+FROM 
+    vista.biblioteca 
+GROUP BY 
+    "Comentarios",
+    "Discrimina playlist"
+ORDER BY 
+    "Cantidad" DESC;
 
 -- Creacion de la vista de resumen por artista
 CREATE OR REPLACE VIEW vista.artista_resumen AS

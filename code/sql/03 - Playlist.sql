@@ -56,11 +56,7 @@ WHERE 1=1
 -- Solo canciones favoritas
 AND b."Me gusta" = 'Sí'
 
-AND (
-        b."Comentarios" = 'No está en spotify'
-    OR 
-        b."Comentarios" = 'Se encuentra en spotify'
-    )
+AND b."Discrimina playlist" = FALSE
 
 -- Evitar intros/skits
 AND b."Duración segundos" >= 150

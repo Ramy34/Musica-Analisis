@@ -34,7 +34,7 @@ SELECT
     *
 FROM vista.biblioteca
 WHERE "Me gusta" = 'Sí'
-  AND "Comentarios" !~* 'es live|es acústico|es remix|from the first take';
+  AND "Discrimina playlist" = FALSE;
 
 -- Lista de canciones recien agregadas
 SELECT

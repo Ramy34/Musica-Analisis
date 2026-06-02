@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS adm.control_playlist (
 );
 
 CREATE TABLE IF NOT EXISTS adm.cat_artista_excepciones (
-    artista TEXT NOT NULL,
+    artista TEXT PRIMARY KEY,
     activo BOOLEAN DEFAULT TRUE,
     fecha_alta TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     comentarios TEXT
@@ -46,10 +46,11 @@ VALUES
 ('GuruConnect', 'Nombre unico'),
 ('5 Seconds of Summer', 'Nombre de banda'),
 ('Luis R Conriquez', 'Nombre artistico completo'),
-('MYTH & ROID', 'Banda japonesa');
+('MYTH & ROID', 'Banda japonesa')
+ON CONFLICT (artista) DO NOTHING;
 
 CREATE TABLE IF NOT EXISTS adm.cat_comentarios (
-    comentario TEXT NOT NULL,
+    comentario TEXT PRIMARY KEY,
     discrimina_playlist BOOLEAN DEFAULT FALSE
 );
 
@@ -65,3 +66,4 @@ VALUES
 ('Es TV Ver', TRUE),
 ('Es live', TRUE),
 ('No es Ado', TRUE)
+ON CONFLICT (comentario) DO NOTHING;
