@@ -1,43 +1,44 @@
-# 🎵 Tablero Musical
+# 🎵 Musica-Analisis (Tablero Musical)
 
-**Tablero Musical** es un proyecto que combina **Python**, **Snowflake** y **Power BI** para visualizar y entender mejor lo que escuchamos en nuestra biblioteca de **iTunes**.  
+**Musica-Analisis** es un proyecto de Ingeniería de Datos (Pipeline ETL) que combina **Python**, **PostgreSQL** y herramientas de BI para extraer, transformar, analizar y dar una nueva vida a tu biblioteca musical local (iTunes/Apple Music).
 
-El flujo de trabajo es el siguiente:
-- **Python** extrae metadatos de archivos de música locales (`.mp3` y `.m4a`), procesa la información y la convierte en archivos `.csv`.
-- **Snowflake** actúa como base de datos en la nube, permitiendo almacenar, transformar y consultar los datos de forma eficiente.  
-- **Power BI** consume esos reportes o datos desde Snowflake y los transforma en dashboards interactivos, similares a los que ofrecen plataformas de streaming, pero con el detalle de tu propia colección musical.
+A diferencia de los resúmenes anuales como Spotify Wrapped, este proyecto te da control total sobre tu información, permitiéndote analizar tus hábitos de escucha históricos y generar **playlists inteligentes (M3U)** de forma completamente automatizada.
 
 ---
 
-## 📊 Tecnologías utilizadas
-- [Python](https://www.python.org/) – Procesamiento de datos y generación de reportes  
-- [Snowflake](https://www.snowflake.com/) – Almacenamiento y análisis de datos en la nube  
-- [Power BI](https://powerbi.microsoft.com/) – Visualización y dashboards interactivos  
+## 🚀 El Flujo de Trabajo (Pipeline ETL)
+
+1. **Extracción de Metadatos (`extraccion_metdatos.py`)**: Escanea tus archivos de audio `.mp3` y `.m4a` para extraer etiquetas profundas (BPM, Letras, Tonos, Danzabilidad, Colores de beaTunes) y las exporta a CSV mediante procesamiento en paralelo.
+2. **Parseo de XML (`xml_to_csv.py`)**: Convierte las exportaciones de la biblioteca de iTunes (`.xml` / `plist`) a formato tabular, rescatando datos invaluables como contador de reproducciones, fechas de salto y calificaciones.
+3. **Carga en Base de Datos (`carga_postgresql.py`)**: Sube los datos procesados a **PostgreSQL**, creando automáticamente esquemas, tablas dinámicas y vistas precalculadas listas para el análisis.
+4. **Generación de Playlists (`generar_playlist.py`)**: Consulta la base de datos para crear archivos `.m3u8` automatizados basados en algoritmos personalizados (ej. una lista "nocturna" basada en BPM y género).
 
 ---
 
-## 🔍 Insights disponibles
-El tablero ofrece métricas y visualizaciones como:
-- Canciones más escuchadas  
-- Artistas favoritos  
-- Evolución de géneros a lo largo del tiempo  
-- Duración promedio de canciones  
-- Tendencias y hábitos de escucha personalizados  
+## 📊 Tecnologías Utilizadas
+- **Python**: Orquestación del flujo (`multiprocessing`), manejo de datos (`pandas`), extracción de tags de audio (`mutagen`), y conexión a base de datos (`psycopg2`).
+- **PostgreSQL**: Motor de base de datos relacional para el almacenamiento centralizado, normalización de artistas y limpieza de datos (gestión de catálogos y excepciones).
+- **Power BI**: Herramienta de BI para conectarse a las vistas de la base de datos y crear dashboards interactivos (Opcional).
 
 ---
 
-## 👥 Público objetivo
-Este proyecto está pensado para quienes escuchan música desde su **biblioteca de iTunes en iPod o iPhone antiguo** y quieren obtener estadísticas al estilo de los resúmenes anuales de **Spotify**, pero con mayor personalización y en cualquier momento.  
+## ✨ Características Principales
+- **Orquestador Centralizado (`main.py`)**: Ejecuta todo el flujo con un solo comando, mostrando barras de progreso a color en la terminal y manteniendo un registro de auditoría (`musica_analisis.log`).
+- **Desnormalización Inteligente de Artistas**: Maneja agrupaciones complejas y colaboraciones (ej. "Jesse & Joy", o artistas con comas) para calcular estadísticas reales por artista individual.
+- **Filtros Dinámicos**: Discrimina automáticamente versiones en vivo, acústicas, instrumentales o repetidas basándose en los comentarios de la canción para mantener tus listas limpias.
 
 ---
 
-## ✨ Valor agregado
-- Reportes en tiempo real: siempre tendrás la **última versión de tus datos** corriendo el script en Python.  
-- Integración con **Snowflake** para análisis avanzado y almacenamiento escalable.  
-- Mayor nivel de detalle que los resúmenes estándar de Spotify/YouTube.  
-- Basado en tu propia biblioteca de música, sin depender de servicios externos.  
+## ⚙️ Uso e Instalación
 
----
+----
+1. Clona el repositorio e instala las dependencias de Python necesarias (revisa tus importaciones como `pandas`, `mutagen`, `psycopg2`).
+2. Configura tus credenciales de PostgreSQL y rutas de carpetas a través de tu clase de configuración (`config_loader.py`).
+3. Inicializa las tablas base y catálogos en PostgreSQL ejecutando el script `code/sql/01 - Inicializacion.sql`.
+4. Ejecuta el orquestador principal desde la terminal:
+   ```bash
+   python main.py
+   ```
+5. Revisa la carpeta de salida para encontrar tus nuevas playlists M3U generadas o conecta tu software de visualización a la base de datos PostgreSQL.
 
-## ⚙️ Instalación
-*(pendiente de completar pasos técnicos de instalación)*  
+*Nota: Las carpetas con archivos de audio XML y CSV deben organizarse según lo especificado en la configuración del proyecto.*
