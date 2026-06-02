@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:23:05Z</date>
+	<key>Date</key><date>2026-05-30T03:12:16Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>7878</key>
+		<key>8064</key>
 		<dict>
-			<key>Track ID</key><integer>7878</integer>
+			<key>Track ID</key><integer>8064</integer>
 			<key>Name</key><string>Compartamos Tumbas</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -47,9 +47,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7892</key>
+		<key>8078</key>
 		<dict>
-			<key>Track ID</key><integer>7892</integer>
+			<key>Track ID</key><integer>8078</integer>
 			<key>Name</key><string>Las Pequeñas Cosas</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -73,6 +73,8 @@
 			<key>Play Count</key><integer>6</integer>
 			<key>Play Date</key><integer>3853672437</integer>
 			<key>Play Date UTC</key><date>2026-02-11T22:33:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-05-05T06:45:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4522</integer>
@@ -84,9 +86,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7898</key>
+		<key>8084</key>
 		<dict>
-			<key>Track ID</key><integer>7898</integer>
+			<key>Track ID</key><integer>8084</integer>
 			<key>Name</key><string>Pobrecito</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -120,9 +122,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7904</key>
+		<key>8090</key>
 		<dict>
-			<key>Track ID</key><integer>7904</integer>
+			<key>Track ID</key><integer>8090</integer>
 			<key>Name</key><string>Baila Sin Parar</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -156,9 +158,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7914</key>
+		<key>8100</key>
 		<dict>
-			<key>Track ID</key><integer>7914</integer>
+			<key>Track ID</key><integer>8100</integer>
 			<key>Name</key><string>Turista del Amor</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -192,9 +194,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7918</key>
+		<key>8104</key>
 		<dict>
-			<key>Track ID</key><integer>7918</integer>
+			<key>Track ID</key><integer>8104</integer>
 			<key>Name</key><string>Corazón de Metal</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -228,9 +230,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7920</key>
+		<key>8106</key>
 		<dict>
-			<key>Track ID</key><integer>7920</integer>
+			<key>Track ID</key><integer>8106</integer>
 			<key>Name</key><string>Nada Me Importa</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -251,9 +253,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853672205</integer>
-			<key>Play Date UTC</key><date>2026-02-11T22:30:05Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3861129620</integer>
+			<key>Play Date UTC</key><date>2026-05-09T05:00:20Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-10-28T04:29:53Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -266,9 +268,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7926</key>
+		<key>8112</key>
 		<dict>
-			<key>Track ID</key><integer>7926</integer>
+			<key>Track ID</key><integer>8112</integer>
 			<key>Name</key><string>Lluvia de Estrellas</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -302,9 +304,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7934</key>
+		<key>8120</key>
 		<dict>
-			<key>Track ID</key><integer>7934</integer>
+			<key>Track ID</key><integer>8120</integer>
 			<key>Name</key><string>Dame Tu Cariño</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -338,9 +340,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7942</key>
+		<key>8128</key>
 		<dict>
-			<key>Track ID</key><integer>7942</integer>
+			<key>Track ID</key><integer>8128</integer>
 			<key>Name</key><string>Universos Paralelos</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -360,9 +362,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3853674674</integer>
-			<key>Play Date UTC</key><date>2026-02-11T23:11:14Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3861610536</integer>
+			<key>Play Date UTC</key><date>2026-05-14T18:35:36Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>2839</integer>
@@ -373,9 +375,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7966</key>
+		<key>8152</key>
 		<dict>
-			<key>Track ID</key><integer>7966</integer>
+			<key>Track ID</key><integer>8152</integer>
 			<key>Name</key><string>Ya Se Murió (Owned Version)</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -408,9 +410,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>7970</key>
+		<key>8156</key>
 		<dict>
-			<key>Track ID</key><integer>7970</integer>
+			<key>Track ID</key><integer>8156</integer>
 			<key>Name</key><string>Somos Invencibles</string>
 			<key>Artist</key><string>JotDog &#38; Dr. Shenka</string>
 			<key>Album Artist</key><string>JotDog &#38; Dr. Shenka</string>
@@ -430,9 +432,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3857890711</integer>
-			<key>Play Date UTC</key><date>2026-04-01T18:18:31Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3861442853</integer>
+			<key>Play Date UTC</key><date>2026-05-12T20:00:53Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -444,9 +446,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26142</key>
+		<key>26328</key>
 		<dict>
-			<key>Track ID</key><integer>26142</integer>
+			<key>Track ID</key><integer>26328</integer>
 			<key>Name</key><string>Es Lo Qué Hay</string>
 			<key>Artist</key><string>JotDog feat. Sabo Romo</string>
 			<key>Album Artist</key><string>JotDog feat. Sabo Romo</string>
@@ -479,9 +481,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27136</key>
+		<key>27322</key>
 		<dict>
-			<key>Track ID</key><integer>27136</integer>
+			<key>Track ID</key><integer>27322</integer>
 			<key>Name</key><string>Catástrofes Perfumadas</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -516,9 +518,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27338</key>
+		<key>27524</key>
 		<dict>
-			<key>Track ID</key><integer>27338</integer>
+			<key>Track ID</key><integer>27524</integer>
 			<key>Name</key><string>Lo Que Digo Yo (Owned Version)</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -552,9 +554,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33384</key>
+		<key>33570</key>
 		<dict>
-			<key>Track ID</key><integer>33384</integer>
+			<key>Track ID</key><integer>33570</integer>
 			<key>Name</key><string>Sobrenatural</string>
 			<key>Artist</key><string>JotDog</string>
 			<key>Album Artist</key><string>JotDog</string>
@@ -589,11 +591,11 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>37330</key>
+		<key>37516</key>
 		<dict>
-			<key>Track ID</key><integer>37330</integer>
+			<key>Track ID</key><integer>37516</integer>
 			<key>Name</key><string>Arréglame el Alma</string>
-			<key>Artist</key><string>Panteon Rococo, Jotdog</string>
+			<key>Artist</key><string>Panteon Rococo, JotDog</string>
 			<key>Album Artist</key><string>Panteon Rococo</string>
 			<key>Album</key><string>Ni Carne Ni Pescado</string>
 			<key>Genre</key><string>Ska</string>
@@ -606,14 +608,14 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>BPM</key><integer>148</integer>
-			<key>Date Modified</key><date>2026-04-09T20:42:00Z</date>
+			<key>Date Modified</key><date>2026-05-15T06:38:53Z</date>
 			<key>Date Added</key><date>2026-03-11T18:14:26Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3856112194</integer>
-			<key>Play Date UTC</key><date>2026-03-12T04:16:34Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859808749</integer>
+			<key>Play Date UTC</key><date>2026-04-23T22:05:49Z</date>
 			<key>Release Date</key><date>2012-10-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -630,9 +632,9 @@
 	<key>Playlists</key>
 	<array>
 		<dict>
-			<key>Name</key><string>Jotdog</string>
+			<key>Name</key><string>JotDog</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>125387</integer>
+			<key>Playlist ID</key><integer>151323</integer>
 			<key>Playlist Persistent ID</key><string>4C54B9D35EF56B73</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -673,55 +675,55 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>7892</integer>
+					<key>Track ID</key><integer>8112</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7898</integer>
+					<key>Track ID</key><integer>8104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7904</integer>
+					<key>Track ID</key><integer>8120</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7914</integer>
+					<key>Track ID</key><integer>8152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7918</integer>
+					<key>Track ID</key><integer>26328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7920</integer>
+					<key>Track ID</key><integer>8090</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7926</integer>
+					<key>Track ID</key><integer>8100</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7934</integer>
+					<key>Track ID</key><integer>8156</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7942</integer>
+					<key>Track ID</key><integer>27322</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7878</integer>
+					<key>Track ID</key><integer>8078</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26142</integer>
+					<key>Track ID</key><integer>8106</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27136</integer>
+					<key>Track ID</key><integer>8064</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7966</integer>
+					<key>Track ID</key><integer>33570</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>7970</integer>
+					<key>Track ID</key><integer>8128</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33384</integer>
+					<key>Track ID</key><integer>27524</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27338</integer>
+					<key>Track ID</key><integer>8084</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>37330</integer>
+					<key>Track ID</key><integer>37516</integer>
 				</dict>
 			</array>
 		</dict>

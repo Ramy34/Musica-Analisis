@@ -1,3 +1,5 @@
+import os
+
 import psycopg2
 from pathlib import Path
 
@@ -5,6 +7,20 @@ def clean(name):
     return (
         name.replace("_", " ").capitalize()
     )
+
+def creacion_vistas(conn):
+    # Ruta del script actual
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    # Construir ruta al SQL
+    sql_path = os.path.join(base_dir, "..", "sql", "03 - Playlist.sql")
+
+    cursor = conn.cursor()
+    with open(sql_path, "r", encoding="utf-8") as f:
+        sql = f.read()
+    cursor.execute(sql)
+    conn.commit()
+
+    cursor.close()
 
 def main(host, user, password, database, m3u_path):
     schema = "playlist"
@@ -18,6 +34,9 @@ def main(host, user, password, database, m3u_path):
     
     cur = conn.cursor()
     
+    # === CREACIÓN DE VISTAS DE PLAYLISTS ===
+    creacion_vistas(conn)
+
     # === OBTENER LISTA DE PLAYLISTS EXISTENTES ===
     lista_playlist_sql = f"SELECT table_name FROM information_schema.views WHERE table_schema = '{schema}';"
     cur.execute(lista_playlist_sql)
@@ -28,7 +47,7 @@ def main(host, user, password, database, m3u_path):
         print(f"[INFO] Procesando playlist: {clean(playlist_name)}")
 
         # === OBTENER CANCIONES DE LA PLAYLIST ===
-        canciones_sql = f'SELECT "Artista original", "Canción", "Ruta archivo" FROM {schema}."{playlist_name}" GROUP BY "Artista original", "Canción", "Ruta archivo";'
+        canciones_sql = f'SELECT "Artista", "Canción", "Ruta archivo" FROM {schema}."{playlist_name}" GROUP BY "Artista", "Canción", "Ruta archivo";'
 
         cur.execute(canciones_sql)
         canciones = cur.fetchall()

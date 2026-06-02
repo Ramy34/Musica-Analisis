@@ -107,7 +107,7 @@ def creacion_vistas(conn):
     # Ruta del script actual
     base_dir = os.path.dirname(os.path.abspath(__file__))
     # Construir ruta al SQL
-    sql_path = os.path.join(base_dir, "..", "sql", "vistas.sql")
+    sql_path = os.path.join(base_dir, "..", "sql", "02 - Vistas.sql")
 
     cursor = conn.cursor()
     with open(sql_path, "r", encoding="utf-8") as f:

@@ -14,7 +14,7 @@ WITH base AS (
         a.album_rating AS "Calificacion del álbum",
         a.album_rating_computed AS "Calificación del álbum computarizado",
         a.artwork_count AS "Carátula",
-        a.bpm AS "Bpm",
+        COALESCE(a.bpm::NUMERIC, 0) AS "Bpm",
         a.bit_rate AS "Ratio de bit",
         a.comments AS "Comentarios",
         a.compilation AS "Compilación",
@@ -44,12 +44,12 @@ WITH base AS (
         a.track_type AS "Tipo canción",
         a.year AS "Año",
         b.filepath AS "Ruta archivo",
-        b.duration_seconds AS "Duración segundos",
+        b.duration_seconds::NUMERIC AS "Duración segundos",
         b.beatunes_tempo_color AS "Tempo color",
         b.beatunes_spectrum AS "Espctro",
         b.beatunes_color AS "Color",
         b.beatunes_tempo_timbre_color AS "Tempo Timbre Color",
-        b.mood_danceability AS "Danzabilidad",
+        b.mood_danceability::NUMERIC AS "Danzabilidad",
         b.tuning AS "Tuning",
         b.has_lyrics AS "Tiene letra",
         b.lyrics_text AS "Letra",
@@ -483,18 +483,32 @@ SELECT
     c."Artista",
     COUNT(c."Canción") AS "Total de canciones",
     SUM(c."Reproducciones") AS "Total de reproducciones",
-    AVG(c."Bpm"::NUMERIC) AS "Bpm promedio",
-    AVG(c."Ratio de bit"::NUMERIC) AS "Bit rate promedio",
-    AVG(c."Ratio de muestro"::NUMERIC) AS "Ratio de muestreo promedio",
     SUM(CASE WHEN c."Me gusta" = 'Sí' THEN 1 ELSE 0 END) AS "Cantidad de favoritas",
-    MAX(CASE WHEN p."Playlist" IS NOT NULL THEN 'Sí' ELSE 'No' END) AS "Tiene playlist"
-FROM vista.canciones c
+    ROUND(SUM(CASE WHEN c."Me gusta" = 'Sí' THEN 1 ELSE 0 END)::NUMERIC / COUNT(c."Canción")::NUMERIC * 100, 2) AS "% favoritas",
+    ROUND(SUM(CASE WHEN c."Reproducido" = 'Sí' THEN 1 ELSE 0 END)::NUMERIC / COUNT(c."Canción")::NUMERIC * 100, 2) AS "% reproducidas",
+    ROUND(SUM(CASE WHEN c."Tiene letra" = 'Sí' THEN 1 ELSE 0 END)::NUMERIC / COUNT(c."Canción")::NUMERIC * 100, 2) AS "% con letra",
+    COALESCE(ROUND(SUM(CASE WHEN c."Me gusta" = 'Sí' AND c."Tiene letra" = 'Sí' THEN 1 ELSE 0 END)::NUMERIC / NULLIF(SUM(CASE WHEN c."Me gusta" = 'Sí' THEN 1 ELSE 0 END), 0)::NUMERIC * 100, 2), 0) AS "% con letra favoritas",
+    TRUNC(AVG(c."Bpm"::NUMERIC), 2) AS "Bpm promedio",
+    TRUNC(AVG(c."Ratio de bit"::NUMERIC), 2) AS "Bit rate promedio",
+    TRUNC(AVG(c."Ratio de muestro"::NUMERIC), 2) AS "Ratio de muestreo promedio", 
+    MAX(CASE WHEN p."Playlist" IS NOT NULL THEN 'Sí' ELSE 'No' END) AS "Tiene playlist",
+    COALESCE(p."Total de canciones playlist", 0) AS "Total de canciones playlist"
+FROM 
+    vista.canciones c
 LEFT JOIN (
-    SELECT "Playlist"
-    FROM vista.playlist
-    WHERE "Playlist" NOT LIKE 'Concierto%'
-    GROUP BY "Playlist"
+    SELECT
+        "Playlist",
+        COUNT("Canción") AS "Total de canciones playlist"
+    FROM 
+        vista.playlist
+    WHERE 
+        "Playlist" NOT LIKE 'Concierto%'
+    GROUP BY 
+        "Playlist"
 ) p
     ON UPPER(c."Artista") = UPPER(p."Playlist")
-GROUP BY c."Artista"
-ORDER BY "Total de canciones" DESC;
+GROUP BY 
+    c."Artista",
+    p."Total de canciones playlist"
+ORDER BY 
+    "Total de canciones" DESC;
