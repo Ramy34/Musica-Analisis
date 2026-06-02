@@ -1,10 +1,12 @@
 import os
 import csv
+import sys
 from mutagen.mp3 import MP3
 from mutagen.mp4 import MP4
 from mutagen import MutagenError
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import multiprocessing
+import logging
 
 # === Funciones auxiliares ===
 def extraer_txxx(tags, desc):
@@ -20,12 +22,6 @@ def limpiar_valor(valor):
         except UnicodeDecodeError:
             return valor.decode('latin1', errors='ignore')
     return valor
-
-def log_progress(current, total, last_logged=[0]):
-    percent = int((current / total) * 100)
-    if percent >= last_logged[0] + 10 or current == total:
-        print(f"[INFO] {percent}% completado ({current}/{total})")
-        last_logged[0] = percent
 
 # === Letras ===
 def extraer_letra_mp3(tags):
@@ -85,7 +81,8 @@ def extraer_metadatos_mp3(archivo):
             'has_lyrics': letras['has_lyrics'],
             'lyrics_text': letras['lyrics_text']
         }
-    except MutagenError:
+    except Exception as e:
+        logging.debug(f"Error extrayendo MP3 {archivo}: {e}")
         return {}
 
 def extraer_atom_m4a(tags, nombre):
@@ -119,7 +116,8 @@ def extraer_metadatos_m4a(archivo):
             'has_lyrics': letras['has_lyrics'],
             'lyrics_text': letras['lyrics_text']
         }
-    except MutagenError:
+    except Exception as e:
+        logging.debug(f"Error extrayendo M4A {archivo}: {e}")
         return {}
 
 # === Procesamiento ===
@@ -149,6 +147,7 @@ def main(carpeta_musica, csv_salida, num_workers=4):
 
     datos_canciones = []
     procesadas = 0
+    ultimo_porcentaje = 0
 
     archivos = []
     for carpeta_raiz, _, files in os.walk(carpeta_musica):
@@ -158,7 +157,7 @@ def main(carpeta_musica, csv_salida, num_workers=4):
                 archivos.append(ruta)
 
     total = len(archivos)
-    print(f"[INFO] Se encontraron {total} archivos para procesar.", flush=True)
+    logging.info(f"Se encontraron {total} archivos para procesar.")
 
     with ProcessPoolExecutor(max_workers=num_workers) as executor:
         futuros = {executor.submit(procesar_archivo, archivo): archivo for archivo in archivos}
@@ -167,18 +166,56 @@ def main(carpeta_musica, csv_salida, num_workers=4):
             if resultado:
                 datos_canciones.append(resultado)
             procesadas += 1
-            log_progress(procesadas, total)
+            
+            porcentaje_actual = int((procesadas / total) * 100)
+            
+            # --- Barra de progreso interactiva en consola ---
+            longitud_barra = 40
+            relleno = int(longitud_barra * procesadas // total)
+            barra = '=' * relleno + '-' * (longitud_barra - relleno)
+            
+            # --- Asignación de colores ANSI ---
+            if porcentaje_actual < 50:
+                color = "\033[93m"  # Amarillo claro
+            elif porcentaje_actual < 100:
+                color = "\033[94m"  # Azul claro
+            else:
+                color = "\033[92m"  # Verde claro
+            reset = "\033[0m"       # Restaurar color original
+            
+            sys.stdout.write(f"\rProgreso: [{color}{barra}{reset}] {porcentaje_actual}% ({procesadas}/{total})")
+            sys.stdout.flush()
+
+            # --- Mensaje cada 10% únicamente en el archivo de log ---
+            if porcentaje_actual >= ultimo_porcentaje + 10 or procesadas == total:
+                mensaje = f"{porcentaje_actual}% completado ({procesadas}/{total})"
+                logger = logging.getLogger()
+                for handler in logger.handlers:
+                    if isinstance(handler, logging.FileHandler):
+                        record = logging.LogRecord(name=logger.name, level=logging.INFO, pathname=__file__, lineno=0, msg=mensaje, args=(), exc_info=None)
+                        handler.emit(record)
+                ultimo_porcentaje = porcentaje_actual
+
+    sys.stdout.write("\n")
 
     with open(csv_salida, 'w', encoding='utf-8', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=campos_csv)
         writer.writeheader()
         writer.writerows(datos_canciones)
 
-    print(f"[OK] Metadatos exportados a '{csv_salida}' con {len(datos_canciones)} canciones.", flush=True)
+    logging.info(f"Metadatos exportados a '{csv_salida}' con {len(datos_canciones)} canciones.")
 
 # === Bloque principal ===
 if __name__ == '__main__':
     multiprocessing.freeze_support()
+    logging.basicConfig(
+        level=logging.INFO, 
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler("musica_analisis.log", encoding='utf-8'),
+            logging.StreamHandler()
+        ]
+    )
     import argparse
 
     parser = argparse.ArgumentParser(description="Extraer metadatos de archivos de música y exportar a CSV.")

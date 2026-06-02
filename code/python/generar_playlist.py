@@ -2,6 +2,8 @@ import os
 
 import psycopg2
 from pathlib import Path
+import sys
+import logging
 
 def clean(name):
     return (
@@ -42,9 +44,16 @@ def main(host, user, password, database, m3u_path):
     cur.execute(lista_playlist_sql)
     rows = cur.fetchall()
 
+    total = len(rows)
+    if total == 0:
+        logging.warning("No se encontraron playlists para generar.")
+        return
+
+    procesadas = 0
+
     for playlist in rows:
         playlist_name = playlist[0]
-        print(f"[INFO] Procesando playlist: {clean(playlist_name)}")
+        logging.info(f"Procesando playlist: {clean(playlist_name)}")
 
         # === OBTENER CANCIONES DE LA PLAYLIST ===
         canciones_sql = f'SELECT "Artista", "Canción", "Ruta archivo" FROM {schema}."{playlist_name}" GROUP BY "Artista", "Canción", "Ruta archivo";'
@@ -61,13 +70,33 @@ def main(host, user, password, database, m3u_path):
                 f.write(f"#EXTINF:-1,{artista} - {cancion}\n")
                 f.write(f"{ruta}\n")
 
-        print(f"[OK] Playlist generada: {playlist_path.resolve()} con {len(canciones)} canciones.")
+        logging.info(f"Playlist generada: {playlist_path.resolve()} con {len(canciones)} canciones.")
+        
+        procesadas += 1
+        porcentaje_actual = int((procesadas / total) * 100)
+        
+        longitud_barra = 40
+        relleno = int(longitud_barra * procesadas // total)
+        barra = '=' * relleno + '-' * (longitud_barra - relleno)
+        
+        color = "\033[93m" if porcentaje_actual < 50 else "\033[94m" if porcentaje_actual < 100 else "\033[92m"
+        reset = "\033[0m"
+        
+        sys.stdout.write(f"\rProgreso Playlists: [{color}{barra}{reset}] {porcentaje_actual}% ({procesadas}/{total})")
+        sys.stdout.flush()
    
+    sys.stdout.write("\n")
     cur.close()
     conn.close()
 
 if __name__ == "__main__":
     import argparse
+
+    logging.basicConfig(
+        level=logging.INFO, 
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[logging.StreamHandler()]
+    )
 
     parser = argparse.ArgumentParser(description="Generar nuevas playlists.")
     parser.add_argument("HOST", help="Host de POSTGRES.")

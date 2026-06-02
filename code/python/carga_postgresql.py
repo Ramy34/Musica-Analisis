@@ -4,6 +4,8 @@ import pandas as pd
 from datetime import datetime
 import psycopg2
 from io import StringIO
+import sys
+import logging
 
 # === LIMPIAR NOMBRES DE COLUMNAS ===
 def clean_name(name):
@@ -128,22 +130,31 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
     
     insertar = obtener_insertar(conn)
 
-    for d in lista_archivos_csv(CSV_PATH):
-        if d['archivo'].lower().endswith(".csv"):
-            
-            flag_insertar = buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper(), d['fecha_modificacion'])
+    todos_archivos = lista_archivos_csv(CSV_PATH)
+    archivos_csv = [d for d in todos_archivos if d['archivo'].lower().endswith(".csv")]
+    total = len(archivos_csv)
 
-            if flag_insertar == False:
-                print(f"[INFO] Omitido: {d['archivo']} en {d['subcarpeta']}")
+    if total == 0:
+        logging.warning("No se encontraron archivos CSV para cargar.")
+        conn.close()
+        return
+
+    procesadas = 0
+
+    for d in archivos_csv:
+        flag_insertar = buscar_insertar(insertar, clean_name(d['archivo'].replace(".csv", "")), d['subcarpeta'].upper(), d['fecha_modificacion'])
+
+        if flag_insertar == False:
+            logging.info(f"Omitido (sin cambios): {d['archivo']} en {d['subcarpeta']}")
+        else:
+            TABLE = clean_name(d['archivo'].replace(".csv", ""))
+            SCHEMA = d['subcarpeta'].upper()
+            # === CARGAR CSV CON PANDAS ===
+            df = pd.read_csv(d['ruta_completa'], dtype=str)
+            # Si el CSV está vacío, abortamos
+            if df.empty:
+                logging.warning(f"El archivo {d['archivo']} está vacío. Se omite.")
             else:
-                TABLE = clean_name(d['archivo'].replace(".csv", ""))
-                SCHEMA = d['subcarpeta'].upper()
-                # === CARGAR CSV CON PANDAS ===
-                df = pd.read_csv(d['ruta_completa'], dtype=str)
-                # Si el CSV está vacío, abortamos
-                if df.empty:
-                    print(f"[INFO] El archivo {d['archivo']} está vacío. Se omite.")
-                    continue
                 # Limpiar nombres de columnas
                 df.columns = [clean_name(c) for c in df.columns]
 
@@ -153,7 +164,6 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
                     cols = ", ".join([f"{col} {infer_postgres_type(df[col].dtype)}" for col in df.columns])
                     cursor.execute(f"DROP TABLE IF EXISTS {SCHEMA}.{TABLE} CASCADE;")
                     create_table_sql = f"CREATE TABLE {SCHEMA}.{TABLE} ({cols});"
-                    #create_table_sql = f"TRUNCATE TABLE {SCHEMA}.{TABLE};"
                     cursor.execute(create_table_sql)
 
                     # COPY (rápido)
@@ -164,18 +174,45 @@ def main(HOST, USER, PASSWORD, DB, CSV_PATH):
                     cursor.copy_expert(f"COPY {SCHEMA}.{TABLE} FROM STDIN WITH CSV HEADER", buffer)
 
                     actualizar_control_playlist(flag_insertar, d, conn, TABLE, SCHEMA, len(df))
+                    logging.info(f"Cargado exitosamente: {d['archivo']} en {SCHEMA}")
                 except Exception as e:
-                    print(f"[Error]: {e}")
+                    conn.rollback()  # ¡Crucial! Evita que toda la ejecución de BD falle si un CSV tiene errores.
+                    logging.error(f"Error procesando {d['archivo']}: {e}")
                 finally:
                     cursor.close()
-        else:
-            print(f"[INFO] Omitido (no es CSV): {d['archivo']}")
-    creacion_vistas(conn)
+        
+        procesadas += 1
+        porcentaje_actual = int((procesadas / total) * 100)
+        
+        longitud_barra = 40
+        relleno = int(longitud_barra * procesadas // total)
+        barra = '=' * relleno + '-' * (longitud_barra - relleno)
+        
+        color = "\033[93m" if porcentaje_actual < 50 else "\033[94m" if porcentaje_actual < 100 else "\033[92m"
+        reset = "\033[0m"
+        
+        sys.stdout.write(f"\rProgreso Carga BD: [{color}{barra}{reset}] {porcentaje_actual}% ({procesadas}/{total})")
+        sys.stdout.flush()
+
+    sys.stdout.write("\n")
+    logging.info("Creando/Actualizando vistas en la base de datos...")
+    try:
+        creacion_vistas(conn)
+    except Exception as e:
+        conn.rollback()
+        logging.error(f"Error al crear vistas: {e}")
+
     conn.close()
 
 if __name__ == "__main__":
 
     import argparse
+    
+    logging.basicConfig(
+        level=logging.INFO, 
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[logging.StreamHandler()]
+    )
 
     parser = argparse.ArgumentParser(description="Cargar los CSV a Snowflake.")
     parser.add_argument("HOST", help="Host de POSTGRES.")
