@@ -881,3 +881,326 @@
 2026-06-02 17:06:56,442 - INFO - Procesando playlist: Nocturna
 2026-06-02 17:06:58,239 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Nocturna.m3u8 con 79 canciones.
 2026-06-02 17:06:58,239 - INFO - El proceso finalizó con éxito.
+2026-06-06 15:21:44,464 - INFO - Iniciando el pipeline de Musica-Analisis...
+2026-06-06 15:21:44,600 - INFO - Ejecutando extracción de metadatos de archivos de audio...
+2026-06-06 15:21:45,456 - INFO - Se encontraron 17047 archivos para procesar.
+2026-06-06 15:21:56,759 - INFO - 10% completado (1705/17047)
+2026-06-06 15:22:05,039 - INFO - 20% completado (3410/17047)
+2026-06-06 15:22:11,936 - INFO - 30% completado (5115/17047)
+2026-06-06 15:22:18,012 - INFO - 40% completado (6819/17047)
+2026-06-06 15:22:24,008 - INFO - 50% completado (8524/17047)
+2026-06-06 15:22:30,078 - INFO - 60% completado (10229/17047)
+2026-06-06 15:22:36,320 - INFO - 70% completado (11933/17047)
+2026-06-06 15:22:42,465 - INFO - 80% completado (13638/17047)
+2026-06-06 15:22:50,903 - INFO - 90% completado (15343/17047)
+2026-06-06 15:22:59,975 - INFO - 100% completado (17047/17047)
+2026-06-06 15:23:00,620 - INFO - Metadatos exportados a 'D:\Códigos\Musica-Analisis\files\csv\RAW\Metadata.csv' con 17047 canciones.
+2026-06-06 15:23:00,663 - INFO - Convirtiendo archivos XML a CSV...
+2026-06-06 15:23:04,810 - INFO - Convertido: Biblioteca.xml
+2026-06-06 15:23:04,839 - INFO - PRE_RAW -> Procesado: Ado.xml
+2026-06-06 15:23:04,847 - INFO - PRE_RAW -> Procesado: Against The Current.xml
+2026-06-06 15:23:04,862 - INFO - PRE_RAW -> Procesado: Aimer.xml
+2026-06-06 15:23:04,869 - INFO - PRE_RAW -> Procesado: Aitana.xml
+2026-06-06 15:23:04,873 - INFO - PRE_RAW -> Procesado: Alex Soto.xml
+2026-06-06 15:23:04,878 - INFO - PRE_RAW -> Procesado: ALI.xml
+2026-06-06 15:23:04,887 - INFO - PRE_RAW -> Procesado: Babymetal.xml
+2026-06-06 15:23:04,894 - INFO - PRE_RAW -> Procesado: Bad Omens.xml
+2026-06-06 15:23:04,900 - INFO - PRE_RAW -> Procesado: Belanova.xml
+2026-06-06 15:23:04,904 - INFO - PRE_RAW -> Procesado: Chrissy Costanza.xml
+2026-06-06 15:23:04,910 - INFO - PRE_RAW -> Procesado: Concierto_ Ado WORLD TOUR 2025 Hibana.xml
+2026-06-06 15:23:04,916 - INFO - PRE_RAW -> Procesado: Concierto_ Aespa SYNK Parallel Line - CDMX 2025.xml
+2026-06-06 15:23:04,920 - INFO - PRE_RAW -> Procesado: Concierto_ Against The Current Nightmares & Daydreams - CDMX 2023.xml
+2026-06-06 15:23:04,925 - INFO - PRE_RAW -> Procesado: Concierto_ Atarashii Gakko! World Tour Part II - CDMX 2024.xml
+2026-06-06 15:23:04,929 - INFO - PRE_RAW -> Procesado: Concierto_ Babymetal Wold Tour 2025-2026.xml
+2026-06-06 15:23:04,933 - INFO - PRE_RAW -> Procesado: Concierto_ BlackPink Born Pink World Tour - CDMX 2023.xml
+2026-06-06 15:23:04,938 - INFO - PRE_RAW -> Procesado: Concierto_ Daoko World Tour - CDMX 2023.xml
+2026-06-06 15:23:04,943 - INFO - PRE_RAW -> Procesado: Concierto_ Dua Lipa Radical Optimism Tour.xml
+2026-06-06 15:23:04,949 - INFO - PRE_RAW -> Procesado: Concierto_ El Cuarteto de Nos Lámina Once Tour.xml
+2026-06-06 15:23:04,956 - INFO - PRE_RAW -> Procesado: Concierto_ LiSA Another Great Day.xml
+2026-06-06 15:23:04,959 - INFO - PRE_RAW -> Procesado: Concierto_ Nano World Tour 2025 - CDMX 2025.xml
+2026-06-06 15:23:04,965 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock DETOX Tour.xml
+2026-06-06 15:23:04,971 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock Luxury Disease Japan Tour 2023.xml
+2026-06-06 15:23:04,974 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock USA - South America - Europe Tour 2014.xml
+2026-06-06 15:23:04,982 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2023.xml
+2026-06-06 15:23:04,990 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2024.xml
+2026-06-06 15:23:04,997 - INFO - PRE_RAW -> Procesado: Concierto_ Scandal Tour 2025 Love, Spark, Joy.xml
+2026-06-06 15:23:05,001 - INFO - PRE_RAW -> Procesado: Concierto_ SiM Latam Tour.xml
+2026-06-06 15:23:05,007 - INFO - PRE_RAW -> Procesado: Concierto_ Twice Ready To Be - CDMX 2024.xml
+2026-06-06 15:23:05,015 - INFO - PRE_RAW -> Procesado: Cö shu Nie.xml
+2026-06-06 15:23:05,025 - INFO - PRE_RAW -> Procesado: DAOKO.xml
+2026-06-06 15:23:05,038 - INFO - PRE_RAW -> Procesado: Dua Lipa.xml
+2026-06-06 15:23:05,048 - INFO - PRE_RAW -> Procesado: El Cuarteto de Nos.xml
+2026-06-06 15:23:05,061 - INFO - PRE_RAW -> Procesado: Ellie Goulding.xml
+2026-06-06 15:23:05,070 - INFO - PRE_RAW -> Procesado: Flip.xml
+2026-06-06 15:23:05,080 - INFO - PRE_RAW -> Procesado: Garnidelia.xml
+2026-06-06 15:23:05,087 - INFO - PRE_RAW -> Procesado: Jesse & Joy.xml
+2026-06-06 15:23:05,091 - INFO - PRE_RAW -> Procesado: Jotdog.xml
+2026-06-06 15:23:05,095 - INFO - PRE_RAW -> Procesado: Knotlamp.xml
+2026-06-06 15:23:05,105 - INFO - PRE_RAW -> Procesado: Ling Tosite Sigure.xml
+2026-06-06 15:23:05,122 - INFO - PRE_RAW -> Procesado: LiSA.xml
+2026-06-06 15:23:05,125 - INFO - PRE_RAW -> Procesado: Maisondes.xml
+2026-06-06 15:23:05,131 - INFO - PRE_RAW -> Procesado: Milet.xml
+2026-06-06 15:23:05,133 - INFO - PRE_RAW -> Procesado: Montevideo.xml
+2026-06-06 15:23:05,139 - INFO - PRE_RAW -> Procesado: Måneskin.xml
+2026-06-06 15:23:05,170 - INFO - PRE_RAW -> Procesado: One Ok Rock.xml
+2026-06-06 15:23:05,183 - INFO - PRE_RAW -> Procesado: Paty Cantú.xml
+2026-06-06 15:23:05,193 - INFO - PRE_RAW -> Procesado: Sabino.xml
+2026-06-06 15:23:05,198 - INFO - PRE_RAW -> Procesado: Sakanaction.xml
+2026-06-06 15:23:05,211 - INFO - PRE_RAW -> Procesado: Scandal.xml
+2026-06-06 15:23:05,215 - INFO - PRE_RAW -> Procesado: Sekai no Owari.xml
+2026-06-06 15:23:05,220 - INFO - PRE_RAW -> Procesado: SiM.xml
+2026-06-06 15:23:05,230 - INFO - PRE_RAW -> Procesado: The Oral Cigarettes.xml
+2026-06-06 15:23:05,239 - INFO - PRE_RAW -> Procesado: TK from 凛として時雨.xml
+2026-06-06 15:23:05,254 - INFO - PRE_RAW -> Procesado: Twice.xml
+2026-06-06 15:23:05,265 - INFO - PRE_RAW -> Procesado: Voilà.xml
+2026-06-06 15:23:05,269 - INFO - PRE_RAW -> Procesado: Yoasobi.xml
+2026-06-06 15:23:05,271 - INFO - PRE_RAW -> Procesado: こっちのけんと.xml
+2026-06-06 15:23:05,275 - INFO - PRE_RAW -> Procesado: キタニタツヤ.xml
+2026-06-06 15:23:05,282 - INFO - PRE_RAW -> Procesado: ジェニーハイ.xml
+2026-06-06 15:23:05,295 - INFO - PRE_RAW -> Procesado: ナノ.xml
+2026-06-06 15:23:05,298 - INFO - PRE_RAW -> Procesado: ファントムシータ.xml
+2026-06-06 15:23:05,307 - INFO - PRE_RAW -> Procesado: フレデリック.xml
+2026-06-06 15:23:05,314 - INFO - PRE_RAW -> Procesado: ポルカドットスティングレイ.xml
+2026-06-06 15:23:05,324 - INFO - PRE_RAW -> Procesado: 宇多田ヒカル.xml
+2026-06-06 15:23:05,333 - INFO - PRE_RAW -> Procesado: 家入レオ.xml
+2026-06-06 15:23:05,341 - INFO - PRE_RAW -> Procesado: 新しい学校のリーダーズ.xml
+2026-06-06 15:23:05,405 - INFO - PRE_RAW unificado -> D:\Códigos\Musica-Analisis\files\csv\RAW\Playlist.csv
+2026-06-06 15:23:05,409 - INFO - Cargando datos en la base de datos PostgreSQL...
+2026-06-06 15:23:07,505 - INFO - Cargado exitosamente: Biblioteca.csv en RAW
+2026-06-06 15:23:08,794 - INFO - Cargado exitosamente: Metadata.csv en RAW
+2026-06-06 15:23:08,990 - INFO - Cargado exitosamente: Playlist.csv en RAW
+2026-06-06 15:23:08,990 - INFO - Creando/Actualizando vistas en la base de datos...
+2026-06-06 15:23:09,127 - INFO - Generando playlists...
+2026-06-06 15:23:09,201 - INFO - Procesando playlist: Nocturna
+2026-06-06 15:23:10,999 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Nocturna.m3u8 con 79 canciones.
+2026-06-06 15:23:10,999 - INFO - Procesando playlist: Canciones rankeadas
+2026-06-06 15:23:15,173 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Canciones rankeadas.m3u8 con 141 canciones.
+2026-06-06 15:23:15,174 - INFO - El proceso finalizó con éxito.
+2026-06-06 15:51:53,246 - INFO - Iniciando el pipeline de Musica-Analisis...
+2026-06-06 15:51:53,311 - INFO - Ejecutando extracción de metadatos de archivos de audio...
+2026-06-06 15:51:53,691 - INFO - Se encontraron 17051 archivos para procesar.
+2026-06-06 15:51:57,032 - INFO - 10% completado (1706/17051)
+2026-06-06 15:51:58,439 - INFO - 20% completado (3411/17051)
+2026-06-06 15:51:59,468 - INFO - 30% completado (5116/17051)
+2026-06-06 15:52:00,565 - INFO - 40% completado (6821/17051)
+2026-06-06 15:52:01,613 - INFO - 50% completado (8526/17051)
+2026-06-06 15:52:02,730 - INFO - 60% completado (10231/17051)
+2026-06-06 15:52:03,649 - INFO - 70% completado (11936/17051)
+2026-06-06 15:52:04,573 - INFO - 80% completado (13641/17051)
+2026-06-06 15:52:05,535 - INFO - 90% completado (15346/17051)
+2026-06-06 15:52:06,566 - INFO - 100% completado (17051/17051)
+2026-06-06 15:52:07,098 - INFO - Metadatos exportados a 'D:\Códigos\Musica-Analisis\files\csv\RAW\Metadata.csv' con 17051 canciones.
+2026-06-06 15:52:07,137 - INFO - Convirtiendo archivos XML a CSV...
+2026-06-06 15:52:10,459 - INFO - Convertido: Biblioteca.xml
+2026-06-06 15:52:10,481 - INFO - PRE_RAW -> Procesado: Ado.xml
+2026-06-06 15:52:10,487 - INFO - PRE_RAW -> Procesado: Against The Current.xml
+2026-06-06 15:52:10,499 - INFO - PRE_RAW -> Procesado: Aimer.xml
+2026-06-06 15:52:10,503 - INFO - PRE_RAW -> Procesado: Aitana.xml
+2026-06-06 15:52:10,507 - INFO - PRE_RAW -> Procesado: Alex Soto.xml
+2026-06-06 15:52:10,510 - INFO - PRE_RAW -> Procesado: ALI.xml
+2026-06-06 15:52:10,515 - INFO - PRE_RAW -> Procesado: Babymetal.xml
+2026-06-06 15:52:10,521 - INFO - PRE_RAW -> Procesado: Bad Omens.xml
+2026-06-06 15:52:10,525 - INFO - PRE_RAW -> Procesado: Belanova.xml
+2026-06-06 15:52:10,528 - INFO - PRE_RAW -> Procesado: Chrissy Costanza.xml
+2026-06-06 15:52:10,532 - INFO - PRE_RAW -> Procesado: Concierto_ Ado WORLD TOUR 2025 Hibana.xml
+2026-06-06 15:52:10,536 - INFO - PRE_RAW -> Procesado: Concierto_ Aespa SYNK Parallel Line - CDMX 2025.xml
+2026-06-06 15:52:10,539 - INFO - PRE_RAW -> Procesado: Concierto_ Against The Current Nightmares & Daydreams - CDMX 2023.xml
+2026-06-06 15:52:10,543 - INFO - PRE_RAW -> Procesado: Concierto_ Atarashii Gakko! World Tour Part II - CDMX 2024.xml
+2026-06-06 15:52:10,545 - INFO - PRE_RAW -> Procesado: Concierto_ Babymetal Wold Tour 2025-2026.xml
+2026-06-06 15:52:10,549 - INFO - PRE_RAW -> Procesado: Concierto_ BlackPink Born Pink World Tour - CDMX 2023.xml
+2026-06-06 15:52:10,552 - INFO - PRE_RAW -> Procesado: Concierto_ Daoko World Tour - CDMX 2023.xml
+2026-06-06 15:52:10,556 - INFO - PRE_RAW -> Procesado: Concierto_ Dua Lipa Radical Optimism Tour.xml
+2026-06-06 15:52:10,560 - INFO - PRE_RAW -> Procesado: Concierto_ El Cuarteto de Nos Lámina Once Tour.xml
+2026-06-06 15:52:10,563 - INFO - PRE_RAW -> Procesado: Concierto_ LiSA Another Great Day.xml
+2026-06-06 15:52:10,565 - INFO - PRE_RAW -> Procesado: Concierto_ Nano World Tour 2025 - CDMX 2025.xml
+2026-06-06 15:52:10,568 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock DETOX Tour.xml
+2026-06-06 15:52:10,573 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock Luxury Disease Japan Tour 2023.xml
+2026-06-06 15:52:10,576 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock USA - South America - Europe Tour 2014.xml
+2026-06-06 15:52:10,581 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2023.xml
+2026-06-06 15:52:10,586 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2024.xml
+2026-06-06 15:52:10,589 - INFO - PRE_RAW -> Procesado: Concierto_ Scandal Tour 2025 Love, Spark, Joy.xml
+2026-06-06 15:52:10,592 - INFO - PRE_RAW -> Procesado: Concierto_ SiM Latam Tour.xml
+2026-06-06 15:52:10,596 - INFO - PRE_RAW -> Procesado: Concierto_ Twice Ready To Be - CDMX 2024.xml
+2026-06-06 15:52:10,602 - INFO - PRE_RAW -> Procesado: Cö shu Nie.xml
+2026-06-06 15:52:10,608 - INFO - PRE_RAW -> Procesado: DAOKO.xml
+2026-06-06 15:52:10,616 - INFO - PRE_RAW -> Procesado: Dua Lipa.xml
+2026-06-06 15:52:10,624 - INFO - PRE_RAW -> Procesado: El Cuarteto de Nos.xml
+2026-06-06 15:52:10,633 - INFO - PRE_RAW -> Procesado: Ellie Goulding.xml
+2026-06-06 15:52:10,639 - INFO - PRE_RAW -> Procesado: Flip.xml
+2026-06-06 15:52:10,646 - INFO - PRE_RAW -> Procesado: Garnidelia.xml
+2026-06-06 15:52:10,651 - INFO - PRE_RAW -> Procesado: Jesse & Joy.xml
+2026-06-06 15:52:10,654 - INFO - PRE_RAW -> Procesado: Jotdog.xml
+2026-06-06 15:52:10,657 - INFO - PRE_RAW -> Procesado: Knotlamp.xml
+2026-06-06 15:52:10,663 - INFO - PRE_RAW -> Procesado: Ling Tosite Sigure.xml
+2026-06-06 15:52:10,675 - INFO - PRE_RAW -> Procesado: LiSA.xml
+2026-06-06 15:52:10,678 - INFO - PRE_RAW -> Procesado: Maisondes.xml
+2026-06-06 15:52:10,684 - INFO - PRE_RAW -> Procesado: Milet.xml
+2026-06-06 15:52:10,685 - INFO - PRE_RAW -> Procesado: Montevideo.xml
+2026-06-06 15:52:10,690 - INFO - PRE_RAW -> Procesado: Måneskin.xml
+2026-06-06 15:52:10,707 - INFO - PRE_RAW -> Procesado: One Ok Rock.xml
+2026-06-06 15:52:10,718 - INFO - PRE_RAW -> Procesado: Paty Cantú.xml
+2026-06-06 15:52:10,726 - INFO - PRE_RAW -> Procesado: Sabino.xml
+2026-06-06 15:52:10,731 - INFO - PRE_RAW -> Procesado: Sakanaction.xml
+2026-06-06 15:52:10,742 - INFO - PRE_RAW -> Procesado: Scandal.xml
+2026-06-06 15:52:10,745 - INFO - PRE_RAW -> Procesado: Sekai no Owari.xml
+2026-06-06 15:52:10,750 - INFO - PRE_RAW -> Procesado: SiM.xml
+2026-06-06 15:52:10,758 - INFO - PRE_RAW -> Procesado: The Oral Cigarettes.xml
+2026-06-06 15:52:10,765 - INFO - PRE_RAW -> Procesado: TK from 凛として時雨.xml
+2026-06-06 15:52:10,775 - INFO - PRE_RAW -> Procesado: Twice.xml
+2026-06-06 15:52:10,783 - INFO - PRE_RAW -> Procesado: Voilà.xml
+2026-06-06 15:52:10,787 - INFO - PRE_RAW -> Procesado: Yoasobi.xml
+2026-06-06 15:52:10,788 - INFO - PRE_RAW -> Procesado: こっちのけんと.xml
+2026-06-06 15:52:10,792 - INFO - PRE_RAW -> Procesado: キタニタツヤ.xml
+2026-06-06 15:52:10,797 - INFO - PRE_RAW -> Procesado: ジェニーハイ.xml
+2026-06-06 15:52:10,807 - INFO - PRE_RAW -> Procesado: ナノ.xml
+2026-06-06 15:52:10,810 - INFO - PRE_RAW -> Procesado: ファントムシータ.xml
+2026-06-06 15:52:10,817 - INFO - PRE_RAW -> Procesado: フレデリック.xml
+2026-06-06 15:52:10,824 - INFO - PRE_RAW -> Procesado: ポルカドットスティングレイ.xml
+2026-06-06 15:52:10,831 - INFO - PRE_RAW -> Procesado: 宇多田ヒカル.xml
+2026-06-06 15:52:10,837 - INFO - PRE_RAW -> Procesado: 家入レオ.xml
+2026-06-06 15:52:10,844 - INFO - PRE_RAW -> Procesado: 新しい学校のリーダーズ.xml
+2026-06-06 15:52:10,891 - INFO - PRE_RAW unificado -> D:\Códigos\Musica-Analisis\files\csv\RAW\Playlist.csv
+2026-06-06 15:52:10,894 - INFO - Cargando datos en la base de datos PostgreSQL...
+2026-06-06 15:52:11,806 - INFO - Cargado exitosamente: Biblioteca.csv en RAW
+2026-06-06 15:52:12,920 - INFO - Cargado exitosamente: Metadata.csv en RAW
+2026-06-06 15:52:13,113 - INFO - Cargado exitosamente: Playlist.csv en RAW
+2026-06-06 15:52:13,113 - INFO - Creando/Actualizando vistas en la base de datos...
+2026-06-06 15:52:13,194 - INFO - Generando playlists...
+2026-06-06 15:52:13,267 - ERROR - Ocurrió un error en la ejecución: operator does not exist: text < timestamp with time zone
+LINE 176:   AND b."Fecha de última reproducción UTC" < CURRENT_TIMESTA...
+                                                     ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+Traceback (most recent call last):
+  File "D:\Códigos\Musica-Analisis\main.py", line 38, in main
+    generar_playlist.main(config.postgresql_credentials["host"], config.postgresql_credentials["user"], config.postgresql_credentials["password"], config.postgresql_credentials["base"], config.paths["m3u_playlist_output"])
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Códigos\Musica-Analisis\code\python\generar_playlist.py", line 40, in main
+    creacion_vistas(conn)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "D:\Códigos\Musica-Analisis\code\python\generar_playlist.py", line 22, in creacion_vistas
+    cursor.execute(sql)
+    ~~~~~~~~~~~~~~^^^^^
+psycopg2.errors.UndefinedFunction: operator does not exist: text < timestamp with time zone
+LINE 176:   AND b."Fecha de última reproducción UTC" < CURRENT_TIMESTA...
+                                                     ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2026-06-06 15:54:12,724 - INFO - Iniciando el pipeline de Musica-Analisis...
+2026-06-06 15:54:12,771 - INFO - Ejecutando extracción de metadatos de archivos de audio...
+2026-06-06 15:54:13,142 - INFO - Se encontraron 17051 archivos para procesar.
+2026-06-06 15:54:15,766 - INFO - 10% completado (1706/17051)
+2026-06-06 15:54:16,955 - INFO - 20% completado (3411/17051)
+2026-06-06 15:54:17,756 - INFO - 30% completado (5116/17051)
+2026-06-06 15:54:18,630 - INFO - 40% completado (6821/17051)
+2026-06-06 15:54:19,377 - INFO - 50% completado (8526/17051)
+2026-06-06 15:54:20,192 - INFO - 60% completado (10231/17051)
+2026-06-06 15:54:21,120 - INFO - 70% completado (11936/17051)
+2026-06-06 15:54:22,092 - INFO - 80% completado (13641/17051)
+2026-06-06 15:54:23,002 - INFO - 90% completado (15346/17051)
+2026-06-06 15:54:24,048 - INFO - 100% completado (17051/17051)
+2026-06-06 15:54:24,566 - INFO - Metadatos exportados a 'D:\Códigos\Musica-Analisis\files\csv\RAW\Metadata.csv' con 17051 canciones.
+2026-06-06 15:54:24,606 - INFO - Convirtiendo archivos XML a CSV...
+2026-06-06 15:54:27,905 - INFO - Convertido: Biblioteca.xml
+2026-06-06 15:54:27,928 - INFO - PRE_RAW -> Procesado: Ado.xml
+2026-06-06 15:54:27,935 - INFO - PRE_RAW -> Procesado: Against The Current.xml
+2026-06-06 15:54:27,946 - INFO - PRE_RAW -> Procesado: Aimer.xml
+2026-06-06 15:54:27,951 - INFO - PRE_RAW -> Procesado: Aitana.xml
+2026-06-06 15:54:27,955 - INFO - PRE_RAW -> Procesado: Alex Soto.xml
+2026-06-06 15:54:27,958 - INFO - PRE_RAW -> Procesado: ALI.xml
+2026-06-06 15:54:27,964 - INFO - PRE_RAW -> Procesado: Babymetal.xml
+2026-06-06 15:54:27,969 - INFO - PRE_RAW -> Procesado: Bad Omens.xml
+2026-06-06 15:54:27,973 - INFO - PRE_RAW -> Procesado: Belanova.xml
+2026-06-06 15:54:27,977 - INFO - PRE_RAW -> Procesado: Chrissy Costanza.xml
+2026-06-06 15:54:27,980 - INFO - PRE_RAW -> Procesado: Concierto_ Ado WORLD TOUR 2025 Hibana.xml
+2026-06-06 15:54:27,984 - INFO - PRE_RAW -> Procesado: Concierto_ Aespa SYNK Parallel Line - CDMX 2025.xml
+2026-06-06 15:54:27,987 - INFO - PRE_RAW -> Procesado: Concierto_ Against The Current Nightmares & Daydreams - CDMX 2023.xml
+2026-06-06 15:54:27,991 - INFO - PRE_RAW -> Procesado: Concierto_ Atarashii Gakko! World Tour Part II - CDMX 2024.xml
+2026-06-06 15:54:27,994 - INFO - PRE_RAW -> Procesado: Concierto_ Babymetal Wold Tour 2025-2026.xml
+2026-06-06 15:54:27,997 - INFO - PRE_RAW -> Procesado: Concierto_ BlackPink Born Pink World Tour - CDMX 2023.xml
+2026-06-06 15:54:28,000 - INFO - PRE_RAW -> Procesado: Concierto_ Daoko World Tour - CDMX 2023.xml
+2026-06-06 15:54:28,003 - INFO - PRE_RAW -> Procesado: Concierto_ Dua Lipa Radical Optimism Tour.xml
+2026-06-06 15:54:28,007 - INFO - PRE_RAW -> Procesado: Concierto_ El Cuarteto de Nos Lámina Once Tour.xml
+2026-06-06 15:54:28,010 - INFO - PRE_RAW -> Procesado: Concierto_ LiSA Another Great Day.xml
+2026-06-06 15:54:28,013 - INFO - PRE_RAW -> Procesado: Concierto_ Nano World Tour 2025 - CDMX 2025.xml
+2026-06-06 15:54:28,016 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock DETOX Tour.xml
+2026-06-06 15:54:28,021 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock Luxury Disease Japan Tour 2023.xml
+2026-06-06 15:54:28,023 - INFO - PRE_RAW -> Procesado: Concierto_ One Ok Rock USA - South America - Europe Tour 2014.xml
+2026-06-06 15:54:28,028 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2023.xml
+2026-06-06 15:54:28,033 - INFO - PRE_RAW -> Procesado: Concierto_ Paty Cantú Feliz Breakup Tour - CDMX 2024.xml
+2026-06-06 15:54:28,036 - INFO - PRE_RAW -> Procesado: Concierto_ Scandal Tour 2025 Love, Spark, Joy.xml
+2026-06-06 15:54:28,040 - INFO - PRE_RAW -> Procesado: Concierto_ SiM Latam Tour.xml
+2026-06-06 15:54:28,044 - INFO - PRE_RAW -> Procesado: Concierto_ Twice Ready To Be - CDMX 2024.xml
+2026-06-06 15:54:28,049 - INFO - PRE_RAW -> Procesado: Cö shu Nie.xml
+2026-06-06 15:54:28,056 - INFO - PRE_RAW -> Procesado: DAOKO.xml
+2026-06-06 15:54:28,064 - INFO - PRE_RAW -> Procesado: Dua Lipa.xml
+2026-06-06 15:54:28,072 - INFO - PRE_RAW -> Procesado: El Cuarteto de Nos.xml
+2026-06-06 15:54:28,081 - INFO - PRE_RAW -> Procesado: Ellie Goulding.xml
+2026-06-06 15:54:28,087 - INFO - PRE_RAW -> Procesado: Flip.xml
+2026-06-06 15:54:28,094 - INFO - PRE_RAW -> Procesado: Garnidelia.xml
+2026-06-06 15:54:28,099 - INFO - PRE_RAW -> Procesado: Jesse & Joy.xml
+2026-06-06 15:54:28,102 - INFO - PRE_RAW -> Procesado: Jotdog.xml
+2026-06-06 15:54:28,105 - INFO - PRE_RAW -> Procesado: Knotlamp.xml
+2026-06-06 15:54:28,111 - INFO - PRE_RAW -> Procesado: Ling Tosite Sigure.xml
+2026-06-06 15:54:28,123 - INFO - PRE_RAW -> Procesado: LiSA.xml
+2026-06-06 15:54:28,126 - INFO - PRE_RAW -> Procesado: Maisondes.xml
+2026-06-06 15:54:28,131 - INFO - PRE_RAW -> Procesado: Milet.xml
+2026-06-06 15:54:28,133 - INFO - PRE_RAW -> Procesado: Montevideo.xml
+2026-06-06 15:54:28,136 - INFO - PRE_RAW -> Procesado: Måneskin.xml
+2026-06-06 15:54:28,154 - INFO - PRE_RAW -> Procesado: One Ok Rock.xml
+2026-06-06 15:54:28,166 - INFO - PRE_RAW -> Procesado: Paty Cantú.xml
+2026-06-06 15:54:28,173 - INFO - PRE_RAW -> Procesado: Sabino.xml
+2026-06-06 15:54:28,178 - INFO - PRE_RAW -> Procesado: Sakanaction.xml
+2026-06-06 15:54:28,188 - INFO - PRE_RAW -> Procesado: Scandal.xml
+2026-06-06 15:54:28,192 - INFO - PRE_RAW -> Procesado: Sekai no Owari.xml
+2026-06-06 15:54:28,196 - INFO - PRE_RAW -> Procesado: SiM.xml
+2026-06-06 15:54:28,203 - INFO - PRE_RAW -> Procesado: The Oral Cigarettes.xml
+2026-06-06 15:54:28,210 - INFO - PRE_RAW -> Procesado: TK from 凛として時雨.xml
+2026-06-06 15:54:28,221 - INFO - PRE_RAW -> Procesado: Twice.xml
+2026-06-06 15:54:28,229 - INFO - PRE_RAW -> Procesado: Voilà.xml
+2026-06-06 15:54:28,233 - INFO - PRE_RAW -> Procesado: Yoasobi.xml
+2026-06-06 15:54:28,234 - INFO - PRE_RAW -> Procesado: こっちのけんと.xml
+2026-06-06 15:54:28,238 - INFO - PRE_RAW -> Procesado: キタニタツヤ.xml
+2026-06-06 15:54:28,243 - INFO - PRE_RAW -> Procesado: ジェニーハイ.xml
+2026-06-06 15:54:28,253 - INFO - PRE_RAW -> Procesado: ナノ.xml
+2026-06-06 15:54:28,256 - INFO - PRE_RAW -> Procesado: ファントムシータ.xml
+2026-06-06 15:54:28,263 - INFO - PRE_RAW -> Procesado: フレデリック.xml
+2026-06-06 15:54:28,269 - INFO - PRE_RAW -> Procesado: ポルカドットスティングレイ.xml
+2026-06-06 15:54:28,276 - INFO - PRE_RAW -> Procesado: 宇多田ヒカル.xml
+2026-06-06 15:54:28,283 - INFO - PRE_RAW -> Procesado: 家入レオ.xml
+2026-06-06 15:54:28,289 - INFO - PRE_RAW -> Procesado: 新しい学校のリーダーズ.xml
+2026-06-06 15:54:28,336 - INFO - PRE_RAW unificado -> D:\Códigos\Musica-Analisis\files\csv\RAW\Playlist.csv
+2026-06-06 15:54:28,340 - INFO - Cargando datos en la base de datos PostgreSQL...
+2026-06-06 15:54:29,179 - INFO - Cargado exitosamente: Biblioteca.csv en RAW
+2026-06-06 15:54:30,336 - INFO - Cargado exitosamente: Metadata.csv en RAW
+2026-06-06 15:54:30,502 - INFO - Cargado exitosamente: Playlist.csv en RAW
+2026-06-06 15:54:30,502 - INFO - Creando/Actualizando vistas en la base de datos...
+2026-06-06 15:54:30,547 - INFO - Generando playlists...
+2026-06-06 15:54:30,642 - INFO - Procesando playlist: Canciones rankeadas
+2026-06-06 15:54:33,924 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Canciones rankeadas.m3u8 con 141 canciones.
+2026-06-06 15:54:33,925 - INFO - Procesando playlist: Nocturna
+2026-06-06 15:54:35,658 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Nocturna.m3u8 con 79 canciones.
+2026-06-06 15:54:35,658 - INFO - Procesando playlist: Entrenamiento
+2026-06-06 15:54:35,687 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Entrenamiento.m3u8 con 200 canciones.
+2026-06-06 15:54:35,688 - INFO - Procesando playlist: Karaoke
+2026-06-06 15:54:35,723 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Karaoke.m3u8 con 20 canciones.
+2026-06-06 15:54:35,723 - INFO - Procesando playlist: Modo zen
+2026-06-06 15:54:35,751 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Modo zen.m3u8 con 50 canciones.
+2026-06-06 15:54:35,751 - INFO - Procesando playlist: Baul recuerdos
+2026-06-06 15:54:35,783 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Baul recuerdos.m3u8 con 0 canciones.
+2026-06-06 15:54:35,783 - INFO - Procesando playlist: Segunda oportunidad
+2026-06-06 15:54:35,843 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Segunda oportunidad.m3u8 con 2 canciones.
+2026-06-06 15:54:35,844 - INFO - Procesando playlist: Obsesion reciente
+2026-06-06 15:54:35,904 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Obsesion reciente.m3u8 con 1 canciones.
+2026-06-06 15:54:35,904 - INFO - Procesando playlist: Viajes epicos
+2026-06-06 15:54:35,928 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Viajes epicos.m3u8 con 12 canciones.
+2026-06-06 15:54:35,928 - INFO - Procesando playlist: Vibras acusticas
+2026-06-06 15:54:35,955 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Vibras acusticas.m3u8 con 37 canciones.
+2026-06-06 15:54:35,955 - INFO - Procesando playlist: Rafaga corta
+2026-06-06 15:54:35,976 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Rafaga corta.m3u8 con 20 canciones.
+2026-06-06 15:54:35,976 - INFO - Procesando playlist: Exclusivos locales
+2026-06-06 15:54:36,020 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Exclusivos locales.m3u8 con 48 canciones.
+2026-06-06 15:54:36,020 - INFO - Procesando playlist: Viaje cromatico
+2026-06-06 15:54:36,121 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Viaje cromatico.m3u8 con 2754 canciones.
+2026-06-06 15:54:36,121 - INFO - Procesando playlist: Maquina tiempo 2000s
+2026-06-06 15:54:36,149 - INFO - Playlist generada: D:\Códigos\Musica-Analisis\files\playlists\Maquina tiempo 2000s.m3u8 con 50 canciones.
+2026-06-06 15:54:36,149 - INFO - El proceso finalizó con éxito.

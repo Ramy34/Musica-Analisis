@@ -114,11 +114,180 @@ ORDER BY
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+CREATE OR REPLACE VIEW playlist.entrenamiento AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Bpm",
+    b."Danzabilidad",
+    b."Reproducciones",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+  AND b."Bpm" >= 120
+  AND b."Danzabilidad" >= 60
+ORDER BY b."Bpm" DESC, b."Danzabilidad" DESC;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+CREATE OR REPLACE VIEW playlist.karaoke AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Reproducciones",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+  AND b."Tiene letra" = 'Sí'
+  AND b."Reproducciones" >= 15
+ORDER BY b."Reproducciones" DESC;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+CREATE OR REPLACE VIEW playlist.modo_zen AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Bpm",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Discrimina playlist" = FALSE
+  AND (b."Comentarios" ILIKE '%Es instrumental%' OR b."Género" IN ('Soundtrack', 'Instrumental', 'Jazz', 'Clásica', 'Lo-Fi', 'Ambient'))
+  AND b."Bpm" <= 100
+ORDER BY RANDOM()
+LIMIT 50;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+CREATE OR REPLACE VIEW playlist.baul_recuerdos AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Fecha de última reproducción",
+    b."Reproducciones",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+  AND b."Fecha de última reproducción UTC"::TIMESTAMP < CURRENT_TIMESTAMP - INTERVAL '1 year'
+ORDER BY RANDOM()
+LIMIT 50;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.segunda_oportunidad AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Cuenta de saltos",
+    b."Fecha del último salto",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Cuenta de saltos"::NUMERIC > 3
+  AND b."Discrimina playlist" = FALSE
+ORDER BY b."Cuenta de saltos"::NUMERIC DESC
+LIMIT 50;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.obsesion_reciente AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Reproducciones",
+    b."Fecha de adición",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Fecha de adición"::TIMESTAMP >= CURRENT_TIMESTAMP - INTERVAL '3 months'
+  AND b."Reproducciones" >= 10
+  AND b."Discrimina playlist" = FALSE
+ORDER BY b."Reproducciones" DESC;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.viajes_epicos AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Duración minutos",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Duración segundos" >= 420
+  AND b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+ORDER BY b."Duración segundos" DESC;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.vibras_acusticas AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Comentarios",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Comentarios" ILIKE '%Es acústico%'
+  AND b."Me gusta" = 'Sí'
+ORDER BY RANDOM()
+LIMIT 50;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.rafaga_corta AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Duración minutos",
+    b."Bpm",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Duración segundos" <= 150
+  AND b."Bpm" >= 130
+  AND b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+ORDER BY RANDOM()
+LIMIT 50;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.exclusivos_locales AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Género",
+    b."Comentarios",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."En Spotify" = 'No'
+  AND b."Discrimina playlist" = FALSE
+  AND b."Me gusta" = 'Sí'
+ORDER BY RANDOM();
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.viaje_cromatico AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Color",
+    b."Bpm",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Color" IS NOT NULL AND b."Color" != ''
+  AND b."Discrimina playlist" = FALSE
+  AND b."Me gusta" = 'Sí'
+ORDER BY b."Color" ASC, b."Bpm" ASC;
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CREATE OR REPLACE VIEW playlist.maquina_tiempo_2000s AS
+SELECT
+    b."Canción",
+    b."Artista",
+    b."Álbum",
+    b."Año",
+    b."Ruta archivo"
+FROM vista.biblioteca b
+WHERE b."Año" LIKE '200%'
+  AND b."Me gusta" = 'Sí'
+  AND b."Discrimina playlist" = FALSE
+ORDER BY RANDOM()
+LIMIT 50;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
