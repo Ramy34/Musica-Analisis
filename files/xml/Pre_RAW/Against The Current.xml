@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-05-30T03:10:40Z</date>
+	<key>Date</key><date>2026-07-08T06:12:45Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>5200</key>
+		<key>5296</key>
 		<dict>
-			<key>Track ID</key><integer>5200</integer>
+			<key>Track ID</key><integer>5296</integer>
 			<key>Name</key><string>'good guy'</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5206</key>
+		<key>5302</key>
 		<dict>
-			<key>Track ID</key><integer>5206</integer>
+			<key>Track ID</key><integer>5302</integer>
 			<key>Name</key><string>blindfolded</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -86,9 +86,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5208</key>
+		<key>5304</key>
 		<dict>
-			<key>Track ID</key><integer>5208</integer>
+			<key>Track ID</key><integer>5304</integer>
 			<key>Name</key><string>that won't save us</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -124,9 +124,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5212</key>
+		<key>5308</key>
 		<dict>
-			<key>Track ID</key><integer>5212</integer>
+			<key>Track ID</key><integer>5308</integer>
 			<key>Name</key><string>jump</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -150,6 +150,8 @@
 			<key>Play Count</key><integer>6</integer>
 			<key>Play Date</key><integer>3861125807</integer>
 			<key>Play Date UTC</key><date>2026-05-09T03:56:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-06-20T03:47:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>7236</integer>
@@ -160,9 +162,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5218</key>
+		<key>5314</key>
 		<dict>
-			<key>Track ID</key><integer>5218</integer>
+			<key>Track ID</key><integer>5314</integer>
 			<key>Name</key><string>lullaby</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -196,9 +198,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5232</key>
+		<key>5328</key>
 		<dict>
-			<key>Track ID</key><integer>5232</integer>
+			<key>Track ID</key><integer>5328</integer>
 			<key>Name</key><string>Gravity</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -232,9 +234,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5236</key>
+		<key>5332</key>
 		<dict>
-			<key>Track ID</key><integer>5236</integer>
+			<key>Track ID</key><integer>5332</integer>
 			<key>Name</key><string>Paralyzed</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -258,6 +260,8 @@
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3851448931</integer>
 			<key>Play Date UTC</key><date>2026-01-17T04:55:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-06-20T03:38:40Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>10355</integer>
@@ -268,9 +272,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5238</key>
+		<key>5334</key>
 		<dict>
-			<key>Track ID</key><integer>5238</integer>
+			<key>Track ID</key><integer>5334</integer>
 			<key>Name</key><string>Fireproof</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -304,9 +308,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5240</key>
+		<key>5336</key>
 		<dict>
-			<key>Track ID</key><integer>5240</integer>
+			<key>Track ID</key><integer>5336</integer>
 			<key>Name</key><string>Brighter</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -340,9 +344,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5242</key>
+		<key>5338</key>
 		<dict>
-			<key>Track ID</key><integer>5242</integer>
+			<key>Track ID</key><integer>5338</integer>
 			<key>Name</key><string>Running with the Wild Things</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -376,9 +380,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5244</key>
+		<key>5340</key>
 		<dict>
-			<key>Track ID</key><integer>5244</integer>
+			<key>Track ID</key><integer>5340</integer>
 			<key>Name</key><string>Forget Me Now</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -412,9 +416,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5246</key>
+		<key>5342</key>
 		<dict>
-			<key>Track ID</key><integer>5246</integer>
+			<key>Track ID</key><integer>5342</integer>
 			<key>Name</key><string>Chasing Ghosts</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -448,9 +452,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5248</key>
+		<key>5344</key>
 		<dict>
-			<key>Track ID</key><integer>5248</integer>
+			<key>Track ID</key><integer>5344</integer>
 			<key>Name</key><string>One More Weekend</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -484,9 +488,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5252</key>
+		<key>5348</key>
 		<dict>
-			<key>Track ID</key><integer>5252</integer>
+			<key>Track ID</key><integer>5348</integer>
 			<key>Name</key><string>Young &#38; Relentless</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -520,9 +524,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5254</key>
+		<key>5350</key>
 		<dict>
-			<key>Track ID</key><integer>5254</integer>
+			<key>Track ID</key><integer>5350</integer>
 			<key>Name</key><string>Runaway</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -556,9 +560,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5258</key>
+		<key>5354</key>
 		<dict>
-			<key>Track ID</key><integer>5258</integer>
+			<key>Track ID</key><integer>5354</integer>
 			<key>Name</key><string>Wasteland</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -592,9 +596,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5260</key>
+		<key>5356</key>
 		<dict>
-			<key>Track ID</key><integer>5260</integer>
+			<key>Track ID</key><integer>5356</integer>
 			<key>Name</key><string>Blood Like Gasoline</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -628,9 +632,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5276</key>
+		<key>5372</key>
 		<dict>
-			<key>Track ID</key><integer>5276</integer>
+			<key>Track ID</key><integer>5372</integer>
 			<key>Name</key><string>Infinity</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -664,9 +668,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5282</key>
+		<key>5378</key>
 		<dict>
-			<key>Track ID</key><integer>5282</integer>
+			<key>Track ID</key><integer>5378</integer>
 			<key>Name</key><string>Another You (Another Way)</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -700,9 +704,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5286</key>
+		<key>5382</key>
 		<dict>
-			<key>Track ID</key><integer>5286</integer>
+			<key>Track ID</key><integer>5382</integer>
 			<key>Name</key><string>Strangers Again</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -736,9 +740,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5288</key>
+		<key>5384</key>
 		<dict>
-			<key>Track ID</key><integer>5288</integer>
+			<key>Track ID</key><integer>5384</integer>
 			<key>Name</key><string>The Fuss</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -773,9 +777,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5294</key>
+		<key>5390</key>
 		<dict>
-			<key>Track ID</key><integer>5294</integer>
+			<key>Track ID</key><integer>5390</integer>
 			<key>Name</key><string>Voices</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -809,9 +813,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5296</key>
+		<key>5392</key>
 		<dict>
-			<key>Track ID</key><integer>5296</integer>
+			<key>Track ID</key><integer>5392</integer>
 			<key>Name</key><string>Scream</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -845,9 +849,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5300</key>
+		<key>5396</key>
 		<dict>
-			<key>Track ID</key><integer>5300</integer>
+			<key>Track ID</key><integer>5396</integer>
 			<key>Name</key><string>P.A.T.T.</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -884,9 +888,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5304</key>
+		<key>5400</key>
 		<dict>
-			<key>Track ID</key><integer>5304</integer>
+			<key>Track ID</key><integer>5400</integer>
 			<key>Name</key><string>Come Alive</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -920,9 +924,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5306</key>
+		<key>5402</key>
 		<dict>
-			<key>Track ID</key><integer>5306</integer>
+			<key>Track ID</key><integer>5402</integer>
 			<key>Name</key><string>Sweet Surrender</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -956,9 +960,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5308</key>
+		<key>5404</key>
 		<dict>
-			<key>Track ID</key><integer>5308</integer>
+			<key>Track ID</key><integer>5404</integer>
 			<key>Name</key><string>silent stranger</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -993,9 +997,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5314</key>
+		<key>5410</key>
 		<dict>
-			<key>Track ID</key><integer>5314</integer>
+			<key>Track ID</key><integer>5410</integer>
 			<key>Name</key><string>weapon</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1030,9 +1034,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5316</key>
+		<key>5412</key>
 		<dict>
-			<key>Track ID</key><integer>5316</integer>
+			<key>Track ID</key><integer>5412</integer>
 			<key>Name</key><string>Wildfire</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1069,9 +1073,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5322</key>
+		<key>5418</key>
 		<dict>
-			<key>Track ID</key><integer>5322</integer>
+			<key>Track ID</key><integer>5418</integer>
 			<key>Name</key><string>Dreaming Alone</string>
 			<key>Artist</key><string>Against The Current &#38; Taka</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1107,9 +1111,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8238</key>
+		<key>8334</key>
 		<dict>
-			<key>Track ID</key><integer>8238</integer>
+			<key>Track ID</key><integer>8334</integer>
 			<key>Name</key><string>Legends Never Die</string>
 			<key>Artist</key><string>League of Legends &#38; Against The Current</string>
 			<key>Album Artist</key><string>League of Legends &#38; Against The Current</string>
@@ -1144,9 +1148,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>11542</key>
+		<key>11638</key>
 		<dict>
-			<key>Track ID</key><integer>11542</integer>
+			<key>Track ID</key><integer>11638</integer>
 			<key>Name</key><string>Teenagers</string>
 			<key>Artist</key><string>The Summer Set &#38; Against The Current</string>
 			<key>Album Artist</key><string>The Summer Set &#38; Against The Current</string>
@@ -1183,9 +1187,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12232</key>
+		<key>12328</key>
 		<dict>
-			<key>Track ID</key><integer>12232</integer>
+			<key>Track ID</key><integer>12328</integer>
 			<key>Name</key><string>Caught It</string>
 			<key>Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
@@ -1220,9 +1224,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12786</key>
+		<key>12882</key>
 		<dict>
-			<key>Track ID</key><integer>12786</integer>
+			<key>Track ID</key><integer>12882</integer>
 			<key>Name</key><string>SUICIDAL THOUGHTS (NO ONE'S HOME)</string>
 			<key>Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
@@ -1257,9 +1261,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15398</key>
+		<key>15494</key>
 		<dict>
-			<key>Track ID</key><integer>15398</integer>
+			<key>Track ID</key><integer>15494</integer>
 			<key>Name</key><string>Outsiders</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1294,9 +1298,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15404</key>
+		<key>15500</key>
 		<dict>
-			<key>Track ID</key><integer>15404</integer>
+			<key>Track ID</key><integer>15500</integer>
 			<key>Name</key><string>Out Of Your Mind</string>
 			<key>Artist</key><string>MisterWives, Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>MisterWives</string>
@@ -1332,9 +1336,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15406</key>
+		<key>15502</key>
 		<dict>
-			<key>Track ID</key><integer>15406</integer>
+			<key>Track ID</key><integer>15502</integer>
 			<key>Name</key><string>Barely Breathing</string>
 			<key>Artist</key><string>From Ashes to New feat. Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>From Ashes to New</string>
@@ -1371,9 +1375,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15410</key>
+		<key>15506</key>
 		<dict>
-			<key>Track ID</key><integer>15410</integer>
+			<key>Track ID</key><integer>15506</integer>
 			<key>Name</key><string>Romantic Disaster</string>
 			<key>Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
 			<key>Album Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
@@ -1411,9 +1415,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>28520</key>
+		<key>28616</key>
 		<dict>
-			<key>Track ID</key><integer>28520</integer>
+			<key>Track ID</key><integer>28616</integer>
 			<key>Name</key><string>NIJI</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1446,9 +1450,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>38538</key>
+		<key>38634</key>
 		<dict>
-			<key>Track ID</key><integer>38538</integer>
+			<key>Track ID</key><integer>38634</integer>
 			<key>Name</key><string>Heavenly</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1482,9 +1486,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>39496</key>
+		<key>39592</key>
 		<dict>
-			<key>Track ID</key><integer>39496</integer>
+			<key>Track ID</key><integer>39592</integer>
 			<key>Name</key><string>Dead Man Walking</string>
 			<key>Artist</key><string>Against The Current</string>
 			<key>Album Artist</key><string>Against The Current</string>
@@ -1518,13 +1522,51 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>40818</key>
+		<dict>
+			<key>Track ID</key><integer>40818</integer>
+			<key>Name</key><string>Always You &#38; I</string>
+			<key>Artist</key><string>Against The Current</string>
+			<key>Album Artist</key><string>Against The Current</string>
+			<key>Composer</key><string>Chrissy Costanza, Dan Gow &#38; Josh Gilbert</string>
+			<key>Album</key><string>Always You &#38; I - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>51504379</integer>
+			<key>Total Time</key><integer>218730</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>95</integer>
+			<key>Date Modified</key><date>2026-07-08T05:40:38Z</date>
+			<key>Date Added</key><date>2026-07-06T17:46:11Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3866230248</integer>
+			<key>Play Date UTC</key><date>2026-07-07T05:50:48Z</date>
+			<key>Release Date</key><date>2026-07-03T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8533</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>115F3498B0B7B097</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Against%20The%20Current/Always%20You%20&#38;%20I%20-%20Single/01%20Always%20You%20&#38;%20I.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Against The Current</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>150636</integer>
+			<key>Playlist ID</key><integer>161605</integer>
 			<key>Playlist Persistent ID</key><string>8A096985B4F1A72D</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1566,127 +1608,130 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>5300</integer>
+					<key>Track ID</key><integer>5396</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15406</integer>
+					<key>Track ID</key><integer>15502</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12232</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5200</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5314</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>28520</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5244</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5288</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5304</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5306</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5308</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5238</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5248</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>5286</integer>
+					<key>Track ID</key><integer>12328</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>5296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15404</integer>
+					<key>Track ID</key><integer>5410</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5212</integer>
+					<key>Track ID</key><integer>28616</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5218</integer>
+					<key>Track ID</key><integer>5340</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5232</integer>
+					<key>Track ID</key><integer>5384</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5254</integer>
+					<key>Track ID</key><integer>5400</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5276</integer>
+					<key>Track ID</key><integer>5402</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5282</integer>
+					<key>Track ID</key><integer>5404</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5294</integer>
+					<key>Track ID</key><integer>5334</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5206</integer>
+					<key>Track ID</key><integer>5344</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5236</integer>
+					<key>Track ID</key><integer>5382</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5240</integer>
+					<key>Track ID</key><integer>5392</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5242</integer>
+					<key>Track ID</key><integer>15500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5258</integer>
+					<key>Track ID</key><integer>5308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5260</integer>
+					<key>Track ID</key><integer>5314</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5316</integer>
+					<key>Track ID</key><integer>5328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12786</integer>
+					<key>Track ID</key><integer>5350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>39496</integer>
+					<key>Track ID</key><integer>5372</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5208</integer>
+					<key>Track ID</key><integer>5378</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>38538</integer>
+					<key>Track ID</key><integer>5390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5246</integer>
+					<key>Track ID</key><integer>5302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5252</integer>
+					<key>Track ID</key><integer>5332</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15398</integer>
+					<key>Track ID</key><integer>5336</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8238</integer>
+					<key>Track ID</key><integer>5338</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11542</integer>
+					<key>Track ID</key><integer>5354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5322</integer>
+					<key>Track ID</key><integer>5356</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15410</integer>
+					<key>Track ID</key><integer>5412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12882</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>39592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>38634</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5342</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5348</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40818</integer>
 				</dict>
 			</array>
 		</dict>

@@ -24,6 +24,11 @@ class Config:
             "base": os.getenv("POSTGRESQL_DATABASE"),
             "port": os.getenv("POSTGRESQL_PORT")
         }
+        
+        # Carga el token de Genius desde tu archivo .env, o usa el json como respaldo
+        self.api_keys = {
+            "genius_token": os.getenv("GENIUS_TOKEN", self._data.get("api_keys", {}).get("genius_token"))
+        }
 
     def _resolve_paths_by_os(self):
         system = platform.system()

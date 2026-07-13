@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:25:52Z</date>
+	<key>Date</key><date>2026-07-08T06:21:20Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12332</key>
+		<key>12614</key>
 		<dict>
-			<key>Track ID</key><integer>12332</integer>
+			<key>Track ID</key><integer>12614</integer>
 			<key>Name</key><string>はいよろこんで</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
@@ -51,9 +51,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13276</key>
+		<key>13558</key>
 		<dict>
-			<key>Track ID</key><integer>13276</integer>
+			<key>Track ID</key><integer>13558</integer>
 			<key>Name</key><string>もういいよ</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
@@ -88,9 +88,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15870</key>
+		<key>16152</key>
 		<dict>
-			<key>Track ID</key><integer>15870</integer>
+			<key>Track ID</key><integer>16152</integer>
 			<key>Name</key><string>どんぐりGAME</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
@@ -125,9 +125,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16294</key>
+		<key>16576</key>
 		<dict>
-			<key>Track ID</key><integer>16294</integer>
+			<key>Track ID</key><integer>16576</integer>
 			<key>Name</key><string>死ぬな！</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
@@ -162,9 +162,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>25176</key>
+		<key>25458</key>
 		<dict>
-			<key>Track ID</key><integer>25176</integer>
+			<key>Track ID</key><integer>25458</integer>
 			<key>Name</key><string>けっかおーらい - Kekka Orai</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
@@ -199,14 +199,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33750</key>
+		<key>34032</key>
 		<dict>
-			<key>Track ID</key><integer>33750</integer>
+			<key>Track ID</key><integer>34032</integer>
 			<key>Name</key><string>ピクルス</string>
 			<key>Artist</key><string>こっちのけんと</string>
 			<key>Album Artist</key><string>こっちのけんと</string>
 			<key>Album</key><string>ピクルス - Single</string>
-			<key>Genre</key><string>J-pop</string>
+			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Audio Apple Lossless</string>
 			<key>Size</key><integer>36592924</integer>
 			<key>Total Time</key><integer>165256</integer>
@@ -216,14 +216,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>158</integer>
-			<key>Date Modified</key><date>2026-02-21T06:35:17Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:22:27Z</date>
 			<key>Date Added</key><date>2025-12-22T17:34:58Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3855686642</integer>
-			<key>Play Date UTC</key><date>2026-03-07T06:04:02Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861458727</integer>
+			<key>Play Date UTC</key><date>2026-05-13T00:25:27Z</date>
 			<key>Release Date</key><date>2025-12-17T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -236,13 +236,50 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>40606</key>
+		<dict>
+			<key>Track ID</key><integer>40606</integer>
+			<key>Name</key><string>だだ</string>
+			<key>Artist</key><string>こっちのけんと</string>
+			<key>Album Artist</key><string>こっちのけんと</string>
+			<key>Album</key><string>だだ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>35633617</integer>
+			<key>Total Time</key><integer>161466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>93</integer>
+			<key>Date Modified</key><date>2026-07-03T06:21:10Z</date>
+			<key>Date Added</key><date>2026-07-02T06:55:49Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3865886117</integer>
+			<key>Play Date UTC</key><date>2026-07-03T06:15:17Z</date>
+			<key>Release Date</key><date>2026-06-26T12:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>9292</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D2363BC33CFD246</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/%E3%81%93%E3%81%A3%E3%81%A1%E3%81%AE%E3%81%91%E3%82%93%E3%81%A8/%E3%81%A0%E3%81%A0%20-%20Single/01%20%E3%81%A0%E3%81%A0.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>こっちのけんと</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>126280</integer>
+			<key>Playlist ID</key><integer>163167</integer>
 			<key>Playlist Persistent ID</key><string>927F44277714D748</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -287,22 +324,25 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>16294</integer>
+					<key>Track ID</key><integer>16576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15870</integer>
+					<key>Track ID</key><integer>12614</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12332</integer>
+					<key>Track ID</key><integer>16152</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13276</integer>
+					<key>Track ID</key><integer>13558</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>25176</integer>
+					<key>Track ID</key><integer>25458</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33750</integer>
+					<key>Track ID</key><integer>34032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40606</integer>
 				</dict>
 			</array>
 		</dict>

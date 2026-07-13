@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:25:41Z</date>
+	<key>Date</key><date>2026-07-08T06:21:13Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12150</key>
+		<key>12432</key>
 		<dict>
-			<key>Track ID</key><integer>12150</integer>
+			<key>Track ID</key><integer>12432</integer>
 			<key>Name</key><string>UNDEAD</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13284</key>
+		<key>13566</key>
 		<dict>
-			<key>Track ID</key><integer>13284</integer>
+			<key>Track ID</key><integer>13566</integer>
 			<key>Name</key><string>モノトーン</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -89,9 +89,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>14094</key>
+		<key>14376</key>
 		<dict>
-			<key>Track ID</key><integer>14094</integer>
+			<key>Track ID</key><integer>14376</integer>
 			<key>Name</key><string>Biri-Biri</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -127,9 +127,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16248</key>
+		<key>16530</key>
 		<dict>
-			<key>Track ID</key><integer>16248</integer>
+			<key>Track ID</key><integer>16530</integer>
 			<key>Name</key><string>怪物</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -167,9 +167,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16250</key>
+		<key>16532</key>
 		<dict>
-			<key>Track ID</key><integer>16250</integer>
+			<key>Track ID</key><integer>16532</integer>
 			<key>Name</key><string>Romance</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -190,9 +190,9 @@
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3842205587</integer>
-			<key>Play Date UTC</key><date>2025-10-02T04:19:47Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859815702</integer>
+			<key>Play Date UTC</key><date>2026-04-24T00:01:42Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-02-07T06:14:22Z</date>
 			<key>Release Date</key><date>2021-09-15T12:00:00Z</date>
@@ -207,9 +207,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16252</key>
+		<key>16534</key>
 		<dict>
-			<key>Track ID</key><integer>16252</integer>
+			<key>Track ID</key><integer>16534</integer>
 			<key>Name</key><string>アイドル</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -245,9 +245,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16254</key>
+		<key>16536</key>
 		<dict>
-			<key>Track ID</key><integer>16254</integer>
+			<key>Track ID</key><integer>16536</integer>
 			<key>Name</key><string>祝福</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -283,9 +283,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26068</key>
+		<key>26350</key>
 		<dict>
-			<key>Track ID</key><integer>26068</integer>
+			<key>Track ID</key><integer>26350</integer>
 			<key>Name</key><string>ハルジオン</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -320,9 +320,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26070</key>
+		<key>26352</key>
 		<dict>
-			<key>Track ID</key><integer>26070</integer>
+			<key>Track ID</key><integer>26352</integer>
 			<key>Name</key><string>夜に駆ける</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -357,9 +357,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26072</key>
+		<key>26354</key>
 		<dict>
-			<key>Track ID</key><integer>26072</integer>
+			<key>Track ID</key><integer>26354</integer>
 			<key>Name</key><string>たぶん</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -396,9 +396,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26080</key>
+		<key>26362</key>
 		<dict>
-			<key>Track ID</key><integer>26080</integer>
+			<key>Track ID</key><integer>26362</integer>
 			<key>Name</key><string>アンコール</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -433,9 +433,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26086</key>
+		<key>26368</key>
 		<dict>
-			<key>Track ID</key><integer>26086</integer>
+			<key>Track ID</key><integer>26368</integer>
 			<key>Name</key><string>三原色</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -472,9 +472,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26090</key>
+		<key>26372</key>
 		<dict>
-			<key>Track ID</key><integer>26090</integer>
+			<key>Track ID</key><integer>26372</integer>
 			<key>Name</key><string>群青</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -495,9 +495,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3844098631</integer>
-			<key>Play Date UTC</key><date>2025-10-24T02:10:31Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3863280823</integer>
+			<key>Play Date UTC</key><date>2026-06-03T02:33:43Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2026-04-19T21:37:26Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -511,9 +511,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26102</key>
+		<key>26384</key>
 		<dict>
-			<key>Track ID</key><integer>26102</integer>
+			<key>Track ID</key><integer>26384</integer>
 			<key>Name</key><string>もしも命が描けたら</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -548,9 +548,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26104</key>
+		<key>26386</key>
 		<dict>
-			<key>Track ID</key><integer>26104</integer>
+			<key>Track ID</key><integer>26386</integer>
 			<key>Name</key><string>セブンティーン</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -571,9 +571,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3850467142</integer>
-			<key>Play Date UTC</key><date>2026-01-05T20:12:22Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3863539355</integer>
+			<key>Play Date UTC</key><date>2026-06-06T02:22:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -585,9 +585,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26108</key>
+		<key>26390</key>
 		<dict>
-			<key>Track ID</key><integer>26108</integer>
+			<key>Track ID</key><integer>26390</integer>
 			<key>Name</key><string>ミスター</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -608,9 +608,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3852366155</integer>
-			<key>Play Date UTC</key><date>2026-01-27T19:42:35Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861164946</integer>
+			<key>Play Date UTC</key><date>2026-05-09T14:49:06Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -622,9 +622,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26124</key>
+		<key>26406</key>
 		<dict>
-			<key>Track ID</key><integer>26124</integer>
+			<key>Track ID</key><integer>26406</integer>
 			<key>Name</key><string>勇者</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -645,9 +645,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851449320</integer>
-			<key>Play Date UTC</key><date>2026-01-17T05:02:00Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3861347266</integer>
+			<key>Play Date UTC</key><date>2026-05-11T17:27:46Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-02-07T06:06:41Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -661,17 +661,17 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32984</key>
+		<key>33266</key>
 		<dict>
-			<key>Track ID</key><integer>32984</integer>
+			<key>Track ID</key><integer>33266</integer>
 			<key>Name</key><string>劇上</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
 			<key>Composer</key><string>Ayase</string>
 			<key>Album</key><string>劇上 - Single</string>
-			<key>Genre</key><string>J-pop</string>
+			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
-			<key>Size</key><integer>8365618</integer>
+			<key>Size</key><integer>8366804</integer>
 			<key>Total Time</key><integer>198948</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -679,14 +679,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>130</integer>
-			<key>Date Modified</key><date>2026-01-07T21:40:54Z</date>
+			<key>Date Modified</key><date>2026-06-18T02:08:12Z</date>
 			<key>Date Added</key><date>2025-10-06T05:51:16Z</date>
 			<key>Bit Rate</key><integer>330</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3847185019</integer>
-			<key>Play Date UTC</key><date>2025-11-28T20:30:19Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861194054</integer>
+			<key>Play Date UTC</key><date>2026-05-09T22:54:14Z</date>
 			<key>Skip Count</key><integer>3</integer>
 			<key>Skip Date</key><date>2026-02-07T06:14:43Z</date>
 			<key>Release Date</key><date>2025-10-02T12:00:00Z</date>
@@ -701,9 +701,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34024</key>
+		<key>34306</key>
 		<dict>
-			<key>Track ID</key><integer>34024</integer>
+			<key>Track ID</key><integer>34306</integer>
 			<key>Name</key><string>アドレナ</string>
 			<key>Artist</key><string>YOASOBI</string>
 			<key>Album Artist</key><string>YOASOBI</string>
@@ -723,9 +723,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3859036857</integer>
-			<key>Play Date UTC</key><date>2026-04-14T23:40:57Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3860341942</integer>
+			<key>Play Date UTC</key><date>2026-04-30T02:12:22Z</date>
 			<key>Release Date</key><date>2026-01-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -738,13 +738,49 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>40574</key>
+		<dict>
+			<key>Track ID</key><integer>40574</integer>
+			<key>Name</key><string>オリオン</string>
+			<key>Artist</key><string>YOASOBI</string>
+			<key>Album Artist</key><string>YOASOBI</string>
+			<key>Album</key><string>THE BOOK for,</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>48880676</integer>
+			<key>Total Time</key><integer>206657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>94</integer>
+			<key>Date Modified</key><date>2026-07-03T06:11:40Z</date>
+			<key>Date Added</key><date>2026-06-26T23:59:15Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3865884542</integer>
+			<key>Play Date UTC</key><date>2026-07-03T05:49:02Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>8996</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E501EFCF9CD75E95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/YOASOBI/THE%20BOOK%20for,/01%20%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Yoasobi</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>126235</integer>
+			<key>Playlist ID</key><integer>163121</integer>
 			<key>Playlist Persistent ID</key><string>9A27156CCAFDEB64</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -789,61 +825,64 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>26070</integer>
+					<key>Track ID</key><integer>12432</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26068</integer>
+					<key>Track ID</key><integer>26362</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26072</integer>
+					<key>Track ID</key><integer>26386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26090</integer>
+					<key>Track ID</key><integer>16532</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16248</integer>
+					<key>Track ID</key><integer>16530</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26086</integer>
+					<key>Track ID</key><integer>14376</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26080</integer>
+					<key>Track ID</key><integer>34306</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16250</integer>
+					<key>Track ID</key><integer>26368</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26108</integer>
+					<key>Track ID</key><integer>26372</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26102</integer>
+					<key>Track ID</key><integer>16534</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16254</integer>
+					<key>Track ID</key><integer>26354</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26104</integer>
+					<key>Track ID</key><integer>13566</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16252</integer>
+					<key>Track ID</key><integer>26406</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26124</integer>
+					<key>Track ID</key><integer>16536</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14094</integer>
+					<key>Track ID</key><integer>26390</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12150</integer>
+					<key>Track ID</key><integer>33266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13284</integer>
+					<key>Track ID</key><integer>26352</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32984</integer>
+					<key>Track ID</key><integer>26350</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34024</integer>
+					<key>Track ID</key><integer>26384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>40574</integer>
 				</dict>
 			</array>
 		</dict>

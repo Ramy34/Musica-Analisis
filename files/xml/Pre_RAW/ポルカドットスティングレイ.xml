@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:26:34Z</date>
+	<key>Date</key><date>2026-07-08T06:21:41Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>12392</key>
+		<key>12674</key>
 		<dict>
-			<key>Track ID</key><integer>12392</integer>
+			<key>Track ID</key><integer>12674</integer>
 			<key>Name</key><string>キメラ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -48,9 +48,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12478</key>
+		<key>12760</key>
 		<dict>
-			<key>Track ID</key><integer>12478</integer>
+			<key>Track ID</key><integer>12760</integer>
 			<key>Name</key><string>ゴーストダイブ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -83,9 +83,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12506</key>
+		<key>12788</key>
 		<dict>
-			<key>Track ID</key><integer>12506</integer>
+			<key>Track ID</key><integer>12788</integer>
 			<key>Name</key><string>アウト</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -120,9 +120,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13314</key>
+		<key>13596</key>
 		<dict>
-			<key>Track ID</key><integer>13314</integer>
+			<key>Track ID</key><integer>13596</integer>
 			<key>Name</key><string>テレキャスター・ストライプ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -157,9 +157,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13318</key>
+		<key>13600</key>
 		<dict>
-			<key>Track ID</key><integer>13318</integer>
+			<key>Track ID</key><integer>13600</integer>
 			<key>Name</key><string>ポルカドット・スティングレイ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -180,9 +180,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3857404879</integer>
-			<key>Play Date UTC</key><date>2026-03-27T03:21:19Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3859800625</integer>
+			<key>Play Date UTC</key><date>2026-04-23T19:50:25Z</date>
 			<key>Release Date</key><date>2015-06-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -195,9 +195,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13328</key>
+		<key>13610</key>
 		<dict>
-			<key>Track ID</key><integer>13328</integer>
+			<key>Track ID</key><integer>13610</integer>
 			<key>Name</key><string>黄昏サイキック</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -233,9 +233,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13338</key>
+		<key>13620</key>
 		<dict>
-			<key>Track ID</key><integer>13338</integer>
+			<key>Track ID</key><integer>13620</integer>
 			<key>Name</key><string>夜明けのオレンジ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -256,9 +256,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3856935993</integer>
-			<key>Play Date UTC</key><date>2026-03-21T17:06:33Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3861705140</integer>
+			<key>Play Date UTC</key><date>2026-05-15T20:52:20Z</date>
 			<key>Release Date</key><date>2015-06-13T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -271,9 +271,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13358</key>
+		<key>13640</key>
 		<dict>
-			<key>Track ID</key><integer>13358</integer>
+			<key>Track ID</key><integer>13640</integer>
 			<key>Name</key><string>リスミー</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -299,7 +299,6 @@
 			<key>Release Date</key><date>2018-05-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4447</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>D691E500C1E7C14B</string>
@@ -308,9 +307,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13366</key>
+		<key>13648</key>
 		<dict>
-			<key>Track ID</key><integer>13366</integer>
+			<key>Track ID</key><integer>13648</integer>
 			<key>Name</key><string>大脱走</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -336,7 +335,6 @@
 			<key>Release Date</key><date>2019-02-06T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8074</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>7F66C6130DBE90F1</string>
@@ -345,9 +343,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13370</key>
+		<key>13652</key>
 		<dict>
-			<key>Track ID</key><integer>13370</integer>
+			<key>Track ID</key><integer>13652</integer>
 			<key>Name</key><string>SURF</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -374,7 +372,6 @@
 			<key>Release Date</key><date>2022-09-07T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4986</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>643401545F063F11</string>
@@ -383,9 +380,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13374</key>
+		<key>13656</key>
 		<dict>
-			<key>Track ID</key><integer>13374</integer>
+			<key>Track ID</key><integer>13656</integer>
 			<key>Name</key><string>顔も覚えてない</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -411,7 +408,6 @@
 			<key>Release Date</key><date>2017-11-08T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10753</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>91977E1F19D4F55B</string>
@@ -420,9 +416,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13380</key>
+		<key>13662</key>
 		<dict>
-			<key>Track ID</key><integer>13380</integer>
+			<key>Track ID</key><integer>13662</integer>
 			<key>Name</key><string>7</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -442,13 +438,12 @@
 			<key>Bit Rate</key><integer>328</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3856950041</integer>
-			<key>Play Date UTC</key><date>2026-03-21T21:00:41Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3860313391</integer>
+			<key>Play Date UTC</key><date>2026-04-29T18:16:31Z</date>
 			<key>Release Date</key><date>2019-02-06T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4883</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>59D42F9E655847DF</string>
@@ -457,9 +452,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13390</key>
+		<key>13672</key>
 		<dict>
-			<key>Track ID</key><integer>13390</integer>
+			<key>Track ID</key><integer>13672</integer>
 			<key>Name</key><string>ストップ・モーション</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -479,9 +474,9 @@
 			<key>Bit Rate</key><integer>327</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3856957015</integer>
-			<key>Play Date UTC</key><date>2026-03-21T22:56:55Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3865958582</integer>
+			<key>Play Date UTC</key><date>2026-07-04T02:23:02Z</date>
 			<key>Release Date</key><date>2020-12-16T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -493,9 +488,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13410</key>
+		<key>13692</key>
 		<dict>
-			<key>Track ID</key><integer>13410</integer>
+			<key>Track ID</key><integer>13692</integer>
 			<key>Name</key><string>リドー</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -521,7 +516,6 @@
 			<key>Release Date</key><date>2022-08-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8139</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>9A399E89436B366C</string>
@@ -530,9 +524,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13412</key>
+		<key>13694</key>
 		<dict>
-			<key>Track ID</key><integer>13412</integer>
+			<key>Track ID</key><integer>13694</integer>
 			<key>Name</key><string>何者</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -566,9 +560,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13420</key>
+		<key>13702</key>
 		<dict>
-			<key>Track ID</key><integer>13420</integer>
+			<key>Track ID</key><integer>13702</integer>
 			<key>Name</key><string>odoru yo-ni</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -595,7 +589,6 @@
 			<key>Release Date</key><date>2022-09-07T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>80</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>1519</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>E3D0FE06170347D7</string>
@@ -604,9 +597,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13426</key>
+		<key>13708</key>
 		<dict>
-			<key>Track ID</key><integer>13426</integer>
+			<key>Track ID</key><integer>13708</integer>
 			<key>Name</key><string>エレクトリック・パブリック</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -640,9 +633,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13428</key>
+		<key>13710</key>
 		<dict>
-			<key>Track ID</key><integer>13428</integer>
+			<key>Track ID</key><integer>13710</integer>
 			<key>Name</key><string>ミドリ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -662,9 +655,9 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3856937434</integer>
-			<key>Play Date UTC</key><date>2026-03-21T17:30:34Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3861446546</integer>
+			<key>Play Date UTC</key><date>2026-05-12T21:02:26Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-03-21T02:07:47Z</date>
 			<key>Release Date</key><date>2017-04-26T12:00:00Z</date>
@@ -678,9 +671,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13430</key>
+		<key>13712</key>
 		<dict>
-			<key>Track ID</key><integer>13430</integer>
+			<key>Track ID</key><integer>13712</integer>
 			<key>Name</key><string>心ここに在らず</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -701,9 +694,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3856936759</integer>
-			<key>Play Date UTC</key><date>2026-03-21T17:19:19Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3860315162</integer>
+			<key>Play Date UTC</key><date>2026-04-29T18:46:02Z</date>
 			<key>Release Date</key><date>2016-11-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -715,9 +708,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13432</key>
+		<key>13714</key>
 		<dict>
-			<key>Track ID</key><integer>13432</integer>
+			<key>Track ID</key><integer>13714</integer>
 			<key>Name</key><string>シンクロニシカ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -753,9 +746,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13434</key>
+		<key>13716</key>
 		<dict>
-			<key>Track ID</key><integer>13434</integer>
+			<key>Track ID</key><integer>13716</integer>
 			<key>Name</key><string>人魚</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -790,9 +783,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13436</key>
+		<key>13718</key>
 		<dict>
-			<key>Track ID</key><integer>13436</integer>
+			<key>Track ID</key><integer>13718</integer>
 			<key>Name</key><string>ベニクラゲ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -826,9 +819,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13442</key>
+		<key>13724</key>
 		<dict>
-			<key>Track ID</key><integer>13442</integer>
+			<key>Track ID</key><integer>13724</integer>
 			<key>Name</key><string>トゲめくスピカ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -862,9 +855,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13446</key>
+		<key>13728</key>
 		<dict>
-			<key>Track ID</key><integer>13446</integer>
+			<key>Track ID</key><integer>13728</integer>
 			<key>Name</key><string>女神</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -899,9 +892,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13450</key>
+		<key>13732</key>
 		<dict>
-			<key>Track ID</key><integer>13450</integer>
+			<key>Track ID</key><integer>13732</integer>
 			<key>Name</key><string>バケノカワ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -936,9 +929,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13456</key>
+		<key>13738</key>
 		<dict>
-			<key>Track ID</key><integer>13456</integer>
+			<key>Track ID</key><integer>13738</integer>
 			<key>Name</key><string>化身</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -973,9 +966,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13458</key>
+		<key>13740</key>
 		<dict>
-			<key>Track ID</key><integer>13458</integer>
+			<key>Track ID</key><integer>13740</integer>
 			<key>Name</key><string>ヒミツ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -995,9 +988,9 @@
 			<key>Bit Rate</key><integer>322</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3856948238</integer>
-			<key>Play Date UTC</key><date>2026-03-21T20:30:38Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3860417268</integer>
+			<key>Play Date UTC</key><date>2026-04-30T23:07:48Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-04-18T01:30:55Z</date>
 			<key>Release Date</key><date>2018-10-15T12:00:00Z</date>
@@ -1012,9 +1005,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13478</key>
+		<key>13760</key>
 		<dict>
-			<key>Track ID</key><integer>13478</integer>
+			<key>Track ID</key><integer>13760</integer>
 			<key>Name</key><string>Sp813</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1041,7 +1034,6 @@
 			<key>Release Date</key><date>2020-01-08T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>8801</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>BCB2CDC0027D28ED</string>
@@ -1050,9 +1042,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13490</key>
+		<key>13772</key>
 		<dict>
-			<key>Track ID</key><integer>13490</integer>
+			<key>Track ID</key><integer>13772</integer>
 			<key>Name</key><string>阿吽</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1072,13 +1064,12 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3859300442</integer>
-			<key>Play Date UTC</key><date>2026-04-18T00:54:02Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3863543565</integer>
+			<key>Play Date UTC</key><date>2026-06-06T03:32:45Z</date>
 			<key>Release Date</key><date>2019-09-20T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12189</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>CE913D0AD1CED18C</string>
@@ -1087,9 +1078,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13498</key>
+		<key>13780</key>
 		<dict>
-			<key>Track ID</key><integer>13498</integer>
+			<key>Track ID</key><integer>13780</integer>
 			<key>Name</key><string>ICHIDAIJI</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1116,7 +1107,6 @@
 			<key>Release Date</key><date>2018-04-27T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>12295</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>42FBF8D07636F403</string>
@@ -1125,9 +1115,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13502</key>
+		<key>13784</key>
 		<dict>
-			<key>Track ID</key><integer>13502</integer>
+			<key>Track ID</key><integer>13784</integer>
 			<key>Name</key><string>ツキカゲ</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1162,9 +1152,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>13508</key>
+		<key>13790</key>
 		<dict>
-			<key>Track ID</key><integer>13508</integer>
+			<key>Track ID</key><integer>13790</integer>
 			<key>Name</key><string>hide and seek</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1200,9 +1190,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26152</key>
+		<key>26434</key>
 		<dict>
-			<key>Track ID</key><integer>26152</integer>
+			<key>Track ID</key><integer>26434</integer>
 			<key>Name</key><string>魔物</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1222,9 +1212,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3857051136</integer>
-			<key>Play Date UTC</key><date>2026-03-23T01:05:36Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3860335447</integer>
+			<key>Play Date UTC</key><date>2026-04-30T00:24:07Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4263</integer>
@@ -1235,9 +1225,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33742</key>
+		<key>34024</key>
 		<dict>
-			<key>Track ID</key><integer>33742</integer>
+			<key>Track ID</key><integer>34024</integer>
 			<key>Name</key><string>キラーレコード</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1262,7 +1252,6 @@
 			<key>Play Date UTC</key><date>2026-03-23T01:21:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>14392</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8400F5477B6CFA6A</string>
@@ -1271,9 +1260,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33770</key>
+		<key>34052</key>
 		<dict>
-			<key>Track ID</key><integer>33770</integer>
+			<key>Track ID</key><integer>34052</integer>
 			<key>Name</key><string>Boy Boy</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1299,7 +1288,6 @@
 			<key>Release Date</key><date>2025-12-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>10484</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>F2A81771A10984E7</string>
@@ -1308,16 +1296,16 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>38128</key>
+		<key>38408</key>
 		<dict>
-			<key>Track ID</key><integer>38128</integer>
+			<key>Track ID</key><integer>38408</integer>
 			<key>Name</key><string>天誅</string>
 			<key>Artist</key><string>緑仙 feat. ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>緑仙</string>
 			<key>Album</key><string>パラグラム - EP</string>
 			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Audio Apple Lossless</string>
-			<key>Size</key><integer>56126934</integer>
+			<key>Size</key><integer>56127031</integer>
 			<key>Total Time</key><integer>247066</integer>
 			<key>Disc Number</key><integer>1</integer>
 			<key>Disc Count</key><integer>1</integer>
@@ -1325,14 +1313,14 @@
 			<key>Track Count</key><integer>6</integer>
 			<key>Year</key><integer>2023</integer>
 			<key>BPM</key><integer>136</integer>
-			<key>Date Modified</key><date>2026-03-24T18:54:34Z</date>
+			<key>Date Modified</key><date>2026-03-24T19:03:22Z</date>
 			<key>Date Added</key><date>2026-03-23T21:25:08Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3857126117</integer>
-			<key>Play Date UTC</key><date>2026-03-23T21:55:17Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861516113</integer>
+			<key>Play Date UTC</key><date>2026-05-13T16:21:53Z</date>
 			<key>Release Date</key><date>2023-10-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1345,9 +1333,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>38372</key>
+		<key>38652</key>
 		<dict>
-			<key>Track ID</key><integer>38372</integer>
+			<key>Track ID</key><integer>38652</integer>
 			<key>Name</key><string>逆様</string>
 			<key>Artist</key><string>ポルカドットスティングレイ</string>
 			<key>Album Artist</key><string>ポルカドットスティングレイ</string>
@@ -1388,7 +1376,7 @@
 		<dict>
 			<key>Name</key><string>ポルカドットスティングレイ</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>126457</integer>
+			<key>Playlist ID</key><integer>163375</integer>
 			<key>Playlist Persistent ID</key><string>A81F6F1F5B33541B</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1433,115 +1421,115 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>13318</integer>
+					<key>Track ID</key><integer>13772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13328</integer>
+					<key>Track ID</key><integer>13694</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13338</integer>
+					<key>Track ID</key><integer>12760</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13314</integer>
+					<key>Track ID</key><integer>13708</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13430</integer>
+					<key>Track ID</key><integer>13620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13434</integer>
+					<key>Track ID</key><integer>13596</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13426</integer>
+					<key>Track ID</key><integer>13656</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13428</integer>
+					<key>Track ID</key><integer>13600</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13432</integer>
+					<key>Track ID</key><integer>13712</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13436</integer>
+					<key>Track ID</key><integer>26434</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13374</integer>
+					<key>Track ID</key><integer>13724</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13498</integer>
+					<key>Track ID</key><integer>13738</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13458</integer>
+					<key>Track ID</key><integer>13640</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13358</integer>
+					<key>Track ID</key><integer>12674</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13366</integer>
+					<key>Track ID</key><integer>13710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13380</integer>
+					<key>Track ID</key><integer>13718</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13450</integer>
+					<key>Track ID</key><integer>13610</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13490</integer>
+					<key>Track ID</key><integer>13716</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13446</integer>
+					<key>Track ID</key><integer>13672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13442</integer>
+					<key>Track ID</key><integer>13714</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13478</integer>
+					<key>Track ID</key><integer>13728</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13456</integer>
+					<key>Track ID</key><integer>13760</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13390</integer>
+					<key>Track ID</key><integer>13648</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13412</integer>
+					<key>Track ID</key><integer>13702</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13508</integer>
+					<key>Track ID</key><integer>38408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13502</integer>
+					<key>Track ID</key><integer>12788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13370</integer>
+					<key>Track ID</key><integer>13740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13410</integer>
+					<key>Track ID</key><integer>13780</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13420</integer>
+					<key>Track ID</key><integer>13662</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12478</integer>
+					<key>Track ID</key><integer>13652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>38128</integer>
+					<key>Track ID</key><integer>13692</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12506</integer>
+					<key>Track ID</key><integer>38652</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12392</integer>
+					<key>Track ID</key><integer>34052</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26152</integer>
+					<key>Track ID</key><integer>13790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33770</integer>
+					<key>Track ID</key><integer>13784</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33742</integer>
+					<key>Track ID</key><integer>13732</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>38372</integer>
+					<key>Track ID</key><integer>34024</integer>
 				</dict>
 			</array>
 		</dict>

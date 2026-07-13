@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-05-15T06:20:19Z</date>
+	<key>Date</key><date>2026-07-08T06:15:57Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6578</key>
+		<key>6692</key>
 		<dict>
-			<key>Track ID</key><integer>6578</integer>
+			<key>Track ID</key><integer>6692</integer>
 			<key>Name</key><string>あぼーん</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -35,9 +35,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3861122750</integer>
-			<key>Play Date UTC</key><date>2026-05-09T03:05:50Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3863726094</integer>
+			<key>Play Date UTC</key><date>2026-06-08T06:14:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -49,9 +49,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6580</key>
+		<key>6694</key>
 		<dict>
-			<key>Track ID</key><integer>6580</integer>
+			<key>Track ID</key><integer>6694</integer>
 			<key>Name</key><string>Allure of the Dark</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -71,9 +71,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3847090298</integer>
-			<key>Play Date UTC</key><date>2025-11-27T18:11:38Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3863090115</integer>
+			<key>Play Date UTC</key><date>2026-05-31T21:35:15Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -85,9 +85,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6604</key>
+		<key>6718</key>
 		<dict>
-			<key>Track ID</key><integer>6604</integer>
+			<key>Track ID</key><integer>6718</integer>
 			<key>Name</key><string>水星</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -108,9 +108,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3852375848</integer>
-			<key>Play Date UTC</key><date>2026-01-27T22:24:08Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3863442775</integer>
+			<key>Play Date UTC</key><date>2026-06-04T23:32:55Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>5334</integer>
@@ -121,9 +121,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6606</key>
+		<key>6720</key>
 		<dict>
-			<key>Track ID</key><integer>6606</integer>
+			<key>Track ID</key><integer>6720</integer>
 			<key>Name</key><string>かけてあげる</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -157,9 +157,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6628</key>
+		<key>6742</key>
 		<dict>
-			<key>Track ID</key><integer>6628</integer>
+			<key>Track ID</key><integer>6742</integer>
 			<key>Name</key><string>はじめましての気持ちを</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -194,15 +194,15 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6636</key>
+		<key>6750</key>
 		<dict>
-			<key>Track ID</key><integer>6636</integer>
+			<key>Track ID</key><integer>6750</integer>
 			<key>Name</key><string>最近</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
 			<key>Composer</key><string>daoko &#38; COASARU</string>
 			<key>Album</key><string>HYPER GIRL -向こう側の女の子-</string>
-			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>6590625</integer>
 			<key>Total Time</key><integer>202762</integer>
@@ -212,7 +212,7 @@
 			<key>Track Count</key><integer>13</integer>
 			<key>Year</key><integer>2012</integer>
 			<key>BPM</key><integer>120</integer>
-			<key>Date Modified</key><date>2025-12-26T22:02:15Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:09Z</date>
 			<key>Date Added</key><date>2024-09-26T20:49:23Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -230,9 +230,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6658</key>
+		<key>6772</key>
 		<dict>
-			<key>Track ID</key><integer>6658</integer>
+			<key>Track ID</key><integer>6772</integer>
 			<key>Name</key><string>ダイスキ</string>
 			<key>Artist</key><string>DAOKO with TeddyLoid</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -268,9 +268,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6660</key>
+		<key>6774</key>
 		<dict>
-			<key>Track ID</key><integer>6660</integer>
+			<key>Track ID</key><integer>6774</integer>
 			<key>Name</key><string>Bang!</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -291,9 +291,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>13</integer>
-			<key>Play Date</key><integer>3861456348</integer>
-			<key>Play Date UTC</key><date>2026-05-12T23:45:48Z</date>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3862139677</integer>
+			<key>Play Date UTC</key><date>2026-05-20T21:34:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
 			<key>Album Rating Computed</key><true/>
@@ -305,9 +305,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6672</key>
+		<key>6786</key>
 		<dict>
-			<key>Track ID</key><integer>6672</integer>
+			<key>Track ID</key><integer>6786</integer>
 			<key>Name</key><string>ShibuyaK</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -328,9 +328,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3861183699</integer>
-			<key>Play Date UTC</key><date>2026-05-09T20:01:39Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3863695277</integer>
+			<key>Play Date UTC</key><date>2026-06-07T21:41:17Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -342,9 +342,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6674</key>
+		<key>6788</key>
 		<dict>
-			<key>Track ID</key><integer>6674</integer>
+			<key>Track ID</key><integer>6788</integer>
 			<key>Name</key><string>さみしいかみさま</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -379,9 +379,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6676</key>
+		<key>6790</key>
 		<dict>
-			<key>Track ID</key><integer>6676</integer>
+			<key>Track ID</key><integer>6790</integer>
 			<key>Name</key><string>ゆめみてたのあたし</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -416,9 +416,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6684</key>
+		<key>6798</key>
 		<dict>
-			<key>Track ID</key><integer>6684</integer>
+			<key>Track ID</key><integer>6798</integer>
 			<key>Name</key><string>種も仕掛けもある魔法</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -438,9 +438,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3851970096</integer>
-			<key>Play Date UTC</key><date>2026-01-23T05:41:36Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861700554</integer>
+			<key>Play Date UTC</key><date>2026-05-15T19:35:54Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-04-17T00:28:54Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -453,9 +453,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6696</key>
+		<key>6810</key>
 		<dict>
-			<key>Track ID</key><integer>6696</integer>
+			<key>Track ID</key><integer>6810</integer>
 			<key>Name</key><string>天使がいたよ</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -488,9 +488,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6698</key>
+		<key>6812</key>
 		<dict>
-			<key>Track ID</key><integer>6698</integer>
+			<key>Track ID</key><integer>6812</integer>
 			<key>Name</key><string>Fts</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -510,9 +510,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3846061991</integer>
-			<key>Play Date UTC</key><date>2025-11-15T20:33:11Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3863156598</integer>
+			<key>Play Date UTC</key><date>2026-06-01T16:03:18Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>1759</integer>
@@ -523,9 +523,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6700</key>
+		<key>6814</key>
 		<dict>
-			<key>Track ID</key><integer>6700</integer>
+			<key>Track ID</key><integer>6814</integer>
 			<key>Name</key><string>Slump</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -558,9 +558,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6704</key>
+		<key>6818</key>
 		<dict>
-			<key>Track ID</key><integer>6704</integer>
+			<key>Track ID</key><integer>6818</integer>
 			<key>Name</key><string>Gameover</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -580,9 +580,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3854294071</integer>
-			<key>Play Date UTC</key><date>2026-02-19T03:14:31Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3862941592</integer>
+			<key>Play Date UTC</key><date>2026-05-30T04:19:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6458</integer>
@@ -593,9 +593,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6718</key>
+		<key>6832</key>
 		<dict>
-			<key>Track ID</key><integer>6718</integer>
+			<key>Track ID</key><integer>6832</integer>
 			<key>Name</key><string>赤目のビル</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -618,6 +618,8 @@
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3853830191</integer>
 			<key>Play Date UTC</key><date>2026-02-13T18:23:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-06-07T22:25:54Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>3220</integer>
@@ -628,15 +630,15 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6750</key>
+		<key>6864</key>
 		<dict>
-			<key>Track ID</key><integer>6750</integer>
+			<key>Track ID</key><integer>6864</integer>
 			<key>Name</key><string>Ututu</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
 			<key>Composer</key><string>Pigeondust</string>
 			<key>Album</key><string>UTUTU</string>
-			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>4350035</integer>
 			<key>Total Time</key><integer>132963</integer>
@@ -646,7 +648,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2013</integer>
 			<key>BPM</key><integer>90</integer>
-			<key>Date Modified</key><date>2026-01-07T17:07:33Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:09Z</date>
 			<key>Date Added</key><date>2024-09-26T20:49:34Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -665,9 +667,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6772</key>
+		<key>6886</key>
 		<dict>
-			<key>Track ID</key><integer>6772</integer>
+			<key>Track ID</key><integer>6886</integer>
 			<key>Name</key><string>Affordance</string>
 			<key>Artist</key><string>DAOKO &#38; GuruConnect</string>
 			<key>Album Artist</key><string>DAOKO &#38; GuruConnect</string>
@@ -687,9 +689,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3843646975</integer>
-			<key>Play Date UTC</key><date>2025-10-18T20:42:55Z</date>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3861797070</integer>
+			<key>Play Date UTC</key><date>2026-05-16T22:24:30Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -701,14 +703,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6774</key>
+		<key>6888</key>
 		<dict>
-			<key>Track ID</key><integer>6774</integer>
+			<key>Track ID</key><integer>6888</integer>
 			<key>Name</key><string>Groggy Ghost</string>
 			<key>Artist</key><string>DAOKO &#38; TAAR</string>
 			<key>Album Artist</key><string>DAOKO &#38; TAAR</string>
 			<key>Album</key><string>Groggy Ghost - Single</string>
-			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>6307838</integer>
 			<key>Total Time</key><integer>193671</integer>
@@ -718,7 +720,7 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2021</integer>
 			<key>BPM</key><integer>96</integer>
-			<key>Date Modified</key><date>2026-01-07T18:37:33Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:10Z</date>
 			<key>Date Added</key><date>2024-09-26T20:49:36Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
@@ -737,9 +739,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6776</key>
+		<key>6890</key>
 		<dict>
-			<key>Track ID</key><integer>6776</integer>
+			<key>Track ID</key><integer>6890</integer>
 			<key>Name</key><string>Escape</string>
 			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
 			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
@@ -773,9 +775,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6778</key>
+		<key>6892</key>
 		<dict>
-			<key>Track ID</key><integer>6778</integer>
+			<key>Track ID</key><integer>6892</integer>
 			<key>Name</key><string>Mad</string>
 			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
 			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
@@ -809,9 +811,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6780</key>
+		<key>6894</key>
 		<dict>
-			<key>Track ID</key><integer>6780</integer>
+			<key>Track ID</key><integer>6894</integer>
 			<key>Name</key><string>Spoopy</string>
 			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
 			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
@@ -845,9 +847,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6784</key>
+		<key>6898</key>
 		<dict>
-			<key>Track ID</key><integer>6784</integer>
+			<key>Track ID</key><integer>6898</integer>
 			<key>Name</key><string>Cha Cha</string>
 			<key>Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
 			<key>Album Artist</key><string>DAOKO &#38; Yohji Igarashi</string>
@@ -884,9 +886,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6786</key>
+		<key>6900</key>
 		<dict>
-			<key>Track ID</key><integer>6786</integer>
+			<key>Track ID</key><integer>6900</integer>
 			<key>Name</key><string>千客万来</string>
 			<key>Artist</key><string>DAOKO × MIYAVI</string>
 			<key>Album Artist</key><string>DAOKO × MIYAVI</string>
@@ -921,9 +923,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6794</key>
+		<key>6908</key>
 		<dict>
-			<key>Track ID</key><integer>6794</integer>
+			<key>Track ID</key><integer>6908</integer>
 			<key>Name</key><string>ステップアップLOVE</string>
 			<key>Artist</key><string>DAOKO×岡村靖幸</string>
 			<key>Album Artist</key><string>DAOKO×岡村靖幸</string>
@@ -958,9 +960,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6800</key>
+		<key>6914</key>
 		<dict>
-			<key>Track ID</key><integer>6800</integer>
+			<key>Track ID</key><integer>6914</integer>
 			<key>Name</key><string>打上花火</string>
 			<key>Artist</key><string>DAOKO×米津玄師</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -988,7 +990,6 @@
 			<key>Skip Date</key><date>2026-04-16T22:55:32Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>5313</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>8CD70CE23CC22449</string>
@@ -997,9 +998,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>6802</key>
+		<key>6916</key>
 		<dict>
-			<key>Track ID</key><integer>6802</integer>
+			<key>Track ID</key><integer>6916</integer>
 			<key>Name</key><string>Troy</string>
 			<key>Artist</key><string>Dios feat. DAOKO</string>
 			<key>Album Artist</key><string>Dios feat. DAOKO</string>
@@ -1022,6 +1023,8 @@
 			<key>Play Count</key><integer>5</integer>
 			<key>Play Date</key><integer>3857552633</integer>
 			<key>Play Date UTC</key><date>2026-03-28T20:23:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-06-08T06:23:37Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1033,9 +1036,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>8568</key>
+		<key>8682</key>
 		<dict>
-			<key>Track ID</key><integer>8568</integer>
+			<key>Track ID</key><integer>8682</integer>
 			<key>Name</key><string>IRONY</string>
 			<key>Artist</key><string>m-flo feat. DAOKO</string>
 			<key>Album Artist</key><string>m-flo</string>
@@ -1072,9 +1075,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15324</key>
+		<key>15438</key>
 		<dict>
-			<key>Track ID</key><integer>15324</integer>
+			<key>Track ID</key><integer>15438</integer>
 			<key>Name</key><string>御伽の街</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -1110,9 +1113,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>23626</key>
+		<key>23740</key>
 		<dict>
-			<key>Track ID</key><integer>23626</integer>
+			<key>Track ID</key><integer>23740</integer>
 			<key>Name</key><string>金星</string>
 			<key>Artist</key><string>女王蜂 feat. DAOKO</string>
 			<key>Album Artist</key><string>女王蜂</string>
@@ -1149,14 +1152,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29450</key>
+		<key>29564</key>
 		<dict>
-			<key>Track ID</key><integer>29450</integer>
+			<key>Track ID</key><integer>29564</integer>
 			<key>Name</key><string>僕だけのフォトン</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
 			<key>Album</key><string>僕だけのフォトン - Single</string>
-			<key>Genre</key><string>J-pop</string>
+			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
 			<key>Size</key><integer>7373741</integer>
 			<key>Total Time</key><integer>172083</integer>
@@ -1166,14 +1169,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>130</integer>
-			<key>Date Modified</key><date>2026-02-21T02:28:34Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:22:15Z</date>
 			<key>Date Added</key><date>2025-10-01T04:09:30Z</date>
 			<key>Bit Rate</key><integer>333</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3846769898</integer>
-			<key>Play Date UTC</key><date>2025-11-24T01:11:38Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3865959441</integer>
+			<key>Play Date UTC</key><date>2026-07-04T02:37:21Z</date>
 			<key>Release Date</key><date>2025-09-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1186,14 +1189,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35722</key>
+		<key>35836</key>
 		<dict>
-			<key>Track ID</key><integer>35722</integer>
+			<key>Track ID</key><integer>35836</integer>
 			<key>Name</key><string>Dimension</string>
 			<key>Artist</key><string>DAOKO feat Amekazesyokudou &#38; Gomess</string>
 			<key>Album Artist</key><string>DAOKO</string>
 			<key>Album</key><string>Dimension</string>
-			<key>Genre</key><string>Hip-Hop-Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Audio Apple Lossless</string>
 			<key>Size</key><integer>33753912</integer>
 			<key>Total Time</key><integer>282517</integer>
@@ -1203,7 +1206,7 @@
 			<key>Track Count</key><integer>10</integer>
 			<key>Year</key><integer>2015</integer>
 			<key>BPM</key><integer>124</integer>
-			<key>Date Modified</key><date>2026-05-15T06:12:47Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:11Z</date>
 			<key>Date Added</key><date>2026-02-21T01:34:41Z</date>
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -1214,18 +1217,17 @@
 			<key>Release Date</key><date>2015-02-04T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>4058</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>26BA27E897E12F68</string>
 			<key>Track Type</key><string>File</string>
-			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Daoko/Dimension/10%20Dimension.m4a</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/DAOKO/Dimension/10%20Dimension.m4a</string>
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35756</key>
+		<key>35870</key>
 		<dict>
-			<key>Track ID</key><integer>35756</integer>
+			<key>Track ID</key><integer>35870</integer>
 			<key>Name</key><string>ファイアーエムブレムメインテーマ (Ver Heroes)</string>
 			<key>Artist</key><string>DAOKO × スチャダラパー</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -1251,7 +1253,6 @@
 			<key>Release Date</key><date>2019-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>6146</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>ED4EC6F7FEBF948B</string>
@@ -1260,9 +1261,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35758</key>
+		<key>35872</key>
 		<dict>
-			<key>Track ID</key><integer>35758</integer>
+			<key>Track ID</key><integer>35872</integer>
 			<key>Name</key><string>A n n i v e r s a r y</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -1277,7 +1278,7 @@
 			<key>Track Count</key><integer>18</integer>
 			<key>Year</key><integer>2019</integer>
 			<key>BPM</key><integer>112</integer>
-			<key>Date Modified</key><date>2026-02-27T12:16:26Z</date>
+			<key>Date Modified</key><date>2026-03-09T19:31:38Z</date>
 			<key>Date Added</key><date>2026-02-21T02:03:28Z</date>
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -1288,7 +1289,6 @@
 			<key>Release Date</key><date>2019-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>11651</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>6ACD0D0CD31DA2F9</string>
@@ -1297,9 +1297,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35788</key>
+		<key>35902</key>
 		<dict>
-			<key>Track ID</key><integer>35788</integer>
+			<key>Track ID</key><integer>35902</integer>
 			<key>Name</key><string>明けたら</string>
 			<key>Artist</key><string>DAOKO</string>
 			<key>Album Artist</key><string>DAOKO</string>
@@ -1325,7 +1325,6 @@
 			<key>Release Date</key><date>2019-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>60</integer>
-			<key>Album Rating Computed</key><true/>
 			<key>Normalization</key><integer>9965</integer>
 			<key>Artwork Count</key><integer>1</integer>
 			<key>Persistent ID</key><string>29F84A5FD3B1252C</string>
@@ -1334,14 +1333,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>36502</key>
+		<key>36616</key>
 		<dict>
-			<key>Track ID</key><integer>36502</integer>
+			<key>Track ID</key><integer>36616</integer>
 			<key>Name</key><string>World Is Yours (Band Ver)</string>
 			<key>Artist</key><string>Genius PJ' S feat DAOKO</string>
 			<key>Album Artist</key><string>Genius PJ' S feat DAOKO</string>
 			<key>Album</key><string>World Is Yours (Band Ver) - Single</string>
-			<key>Genre</key><string>Hip-Hop-Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Audio Apple Lossless</string>
 			<key>Size</key><integer>90048962</integer>
 			<key>Total Time</key><integer>386820</integer>
@@ -1351,7 +1350,7 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>148</integer>
-			<key>Date Modified</key><date>2026-05-15T06:14:37Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:11Z</date>
 			<key>Date Added</key><date>2026-03-09T23:36:56Z</date>
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -1371,9 +1370,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>36532</key>
+		<key>36646</key>
 		<dict>
-			<key>Track ID</key><integer>36532</integer>
+			<key>Track ID</key><integer>36646</integer>
 			<key>Name</key><string>Taiwan Girl</string>
 			<key>Artist</key><string>Uotomizz feat DAOKO</string>
 			<key>Album Artist</key><string>Uotomizz</string>
@@ -1393,9 +1392,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3861196658</integer>
-			<key>Play Date UTC</key><date>2026-05-09T23:37:38Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3864044170</integer>
+			<key>Play Date UTC</key><date>2026-06-11T22:36:10Z</date>
 			<key>Release Date</key><date>2025-01-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1408,9 +1407,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>36976</key>
+		<key>37090</key>
 		<dict>
-			<key>Track ID</key><integer>36976</integer>
+			<key>Track ID</key><integer>37090</integer>
 			<key>Name</key><string>意識 ～Consciously～ - Shinichi Osawa Remix</string>
 			<key>Artist</key><string>椎名林檎 &#38; Shinichi Osawa &#38; DAOKO</string>
 			<key>Album Artist</key><string>椎名林檎</string>
@@ -1451,7 +1450,7 @@
 		<dict>
 			<key>Name</key><string>DAOKO</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>149829</integer>
+			<key>Playlist ID</key><integer>161979</integer>
 			<key>Playlist Persistent ID</key><string>FC32CBBD63348315</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1495,121 +1494,121 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>6660</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6658</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6700</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6784</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6786</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6636</integer>
+					<key>Track ID</key><integer>6774</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6772</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6776</integer>
+					<key>Track ID</key><integer>6814</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6778</integer>
+					<key>Track ID</key><integer>6886</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6698</integer>
+					<key>Track ID</key><integer>6898</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6704</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6628</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>6718</integer>
+					<key>Track ID</key><integer>6900</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>6750</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6578</integer>
+					<key>Track ID</key><integer>6812</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15324</integer>
+					<key>Track ID</key><integer>6818</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6802</integer>
+					<key>Track ID</key><integer>6890</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>8568</integer>
+					<key>Track ID</key><integer>6892</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>36532</integer>
+					<key>Track ID</key><integer>6786</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35758</integer>
+					<key>Track ID</key><integer>6692</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6672</integer>
+					<key>Track ID</key><integer>36646</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6674</integer>
+					<key>Track ID</key><integer>6742</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6676</integer>
+					<key>Track ID</key><integer>6832</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6696</integer>
+					<key>Track ID</key><integer>6864</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6774</integer>
+					<key>Track ID</key><integer>15438</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6794</integer>
+					<key>Track ID</key><integer>6916</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>23626</integer>
+					<key>Track ID</key><integer>8682</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6580</integer>
+					<key>Track ID</key><integer>6694</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6604</integer>
+					<key>Track ID</key><integer>6718</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6780</integer>
+					<key>Track ID</key><integer>35872</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6800</integer>
+					<key>Track ID</key><integer>6788</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6606</integer>
+					<key>Track ID</key><integer>6790</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29450</integer>
+					<key>Track ID</key><integer>6810</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6684</integer>
+					<key>Track ID</key><integer>6888</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35722</integer>
+					<key>Track ID</key><integer>6908</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>36976</integer>
+					<key>Track ID</key><integer>23740</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35788</integer>
+					<key>Track ID</key><integer>29564</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35756</integer>
+					<key>Track ID</key><integer>6798</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>36502</integer>
+					<key>Track ID</key><integer>6894</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6914</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>37090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>36616</integer>
 				</dict>
 			</array>
 		</dict>

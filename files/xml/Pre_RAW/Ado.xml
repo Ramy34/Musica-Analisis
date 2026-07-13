@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:18:23Z</date>
+	<key>Date</key><date>2026-07-08T06:12:39Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>4988</key>
+		<key>5270</key>
 		<dict>
-			<key>Track ID</key><integer>4988</integer>
+			<key>Track ID</key><integer>5270</integer>
 			<key>Name</key><string>ドライフラワー</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -34,9 +34,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3859528456</integer>
-			<key>Play Date UTC</key><date>2026-04-20T16:14:16Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3861432900</integer>
+			<key>Play Date UTC</key><date>2026-05-12T17:15:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>6239</integer>
@@ -47,9 +47,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4990</key>
+		<key>5272</key>
 		<dict>
-			<key>Track ID</key><integer>4990</integer>
+			<key>Track ID</key><integer>5272</integer>
 			<key>Name</key><string>飾りじゃないのよ涙は</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -82,9 +82,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4992</key>
+		<key>5274</key>
 		<dict>
-			<key>Track ID</key><integer>4992</integer>
+			<key>Track ID</key><integer>5274</integer>
 			<key>Name</key><string>愛して 愛して 愛して</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -105,11 +105,11 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3842283880</integer>
-			<key>Play Date UTC</key><date>2025-10-03T02:04:40Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2026-04-11T21:10:20Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3859814706</integer>
+			<key>Play Date UTC</key><date>2026-04-23T23:45:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2026-05-13T15:17:01Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>11299</integer>
@@ -120,9 +120,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>4996</key>
+		<key>5278</key>
 		<dict>
-			<key>Track ID</key><integer>4996</integer>
+			<key>Track ID</key><integer>5278</integer>
 			<key>Name</key><string>可愛くてごめん</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -142,9 +142,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3853323301</integer>
-			<key>Play Date UTC</key><date>2026-02-07T21:35:01Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3862304872</integer>
+			<key>Play Date UTC</key><date>2026-05-22T19:27:52Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>11204</integer>
@@ -155,9 +155,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5002</key>
+		<key>5284</key>
 		<dict>
-			<key>Track ID</key><integer>5002</integer>
+			<key>Track ID</key><integer>5284</integer>
 			<key>Name</key><string>unravel</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -191,9 +191,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5004</key>
+		<key>5286</key>
 		<dict>
-			<key>Track ID</key><integer>5004</integer>
+			<key>Track ID</key><integer>5286</integer>
 			<key>Name</key><string>ブリキノダンス</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -214,9 +214,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853232431</integer>
-			<key>Play Date UTC</key><date>2026-02-06T20:20:31Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3863645869</integer>
+			<key>Play Date UTC</key><date>2026-06-07T07:57:49Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>15169</integer>
@@ -227,9 +227,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5008</key>
+		<key>5290</key>
 		<dict>
-			<key>Track ID</key><integer>5008</integer>
+			<key>Track ID</key><integer>5290</integer>
 			<key>Name</key><string>MIRROR</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -250,9 +250,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>9</integer>
-			<key>Play Date</key><integer>3851874200</integer>
-			<key>Play Date UTC</key><date>2026-01-22T03:03:20Z</date>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3860158498</integer>
+			<key>Play Date UTC</key><date>2026-04-27T23:14:58Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>4960</integer>
@@ -263,9 +263,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>5010</key>
+		<key>5292</key>
 		<dict>
-			<key>Track ID</key><integer>5010</integer>
+			<key>Track ID</key><integer>5292</integer>
 			<key>Name</key><string>Value</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -299,9 +299,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12330</key>
+		<key>12612</key>
 		<dict>
-			<key>Track ID</key><integer>12330</integer>
+			<key>Track ID</key><integer>12612</integer>
 			<key>Name</key><string>Take Me to the Beach</string>
 			<key>Artist</key><string>Imagine Dragons feat. Ado</string>
 			<key>Album Artist</key><string>Imagine Dragons feat. Ado</string>
@@ -338,9 +338,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12390</key>
+		<key>12672</key>
 		<dict>
-			<key>Track ID</key><integer>12390</integer>
+			<key>Track ID</key><integer>12672</integer>
 			<key>Name</key><string>Episode X</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -373,9 +373,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12400</key>
+		<key>12682</key>
 		<dict>
-			<key>Track ID</key><integer>12400</integer>
+			<key>Track ID</key><integer>12682</integer>
 			<key>Name</key><string>ウタカタララバイ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -409,9 +409,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12402</key>
+		<key>12684</key>
 		<dict>
-			<key>Track ID</key><integer>12402</integer>
+			<key>Track ID</key><integer>12684</integer>
 			<key>Name</key><string>Tot Musica</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -445,9 +445,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12428</key>
+		<key>12710</key>
 		<dict>
-			<key>Track ID</key><integer>12428</integer>
+			<key>Track ID</key><integer>12710</integer>
 			<key>Name</key><string>心という名の不可解</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -481,9 +481,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12438</key>
+		<key>12720</key>
 		<dict>
-			<key>Track ID</key><integer>12438</integer>
+			<key>Track ID</key><integer>12720</integer>
 			<key>Name</key><string>ルル</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -504,9 +504,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>6</integer>
-			<key>Play Date</key><integer>3853232790</integer>
-			<key>Play Date UTC</key><date>2026-02-06T20:26:30Z</date>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3863443175</integer>
+			<key>Play Date UTC</key><date>2026-06-04T23:39:35Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>18321</integer>
@@ -517,9 +517,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12440</key>
+		<key>12722</key>
 		<dict>
-			<key>Track ID</key><integer>12440</integer>
+			<key>Track ID</key><integer>12722</integer>
 			<key>Name</key><string>唱</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -540,9 +540,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3855739758</integer>
-			<key>Play Date UTC</key><date>2026-03-07T20:49:18Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3860783630</integer>
+			<key>Play Date UTC</key><date>2026-05-05T04:53:50Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>22203</integer>
@@ -553,9 +553,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12466</key>
+		<key>12748</key>
 		<dict>
-			<key>Track ID</key><integer>12466</integer>
+			<key>Track ID</key><integer>12748</integer>
 			<key>Name</key><string>踊</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -591,9 +591,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15822</key>
+		<key>16104</key>
 		<dict>
-			<key>Track ID</key><integer>15822</integer>
+			<key>Track ID</key><integer>16104</integer>
 			<key>Name</key><string>エルフ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -614,11 +614,11 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>15</integer>
-			<key>Play Date</key><integer>3849352103</integer>
-			<key>Play Date UTC</key><date>2025-12-23T22:28:23Z</date>
-			<key>Skip Count</key><integer>1</integer>
-			<key>Skip Date</key><date>2026-01-13T18:53:09Z</date>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3860339258</integer>
+			<key>Play Date UTC</key><date>2026-04-30T01:27:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2026-07-08T06:10:07Z</date>
 			<key>Release Date</key><date>2025-01-24T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -630,9 +630,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15858</key>
+		<key>16140</key>
 		<dict>
-			<key>Track ID</key><integer>15858</integer>
+			<key>Track ID</key><integer>16140</integer>
 			<key>Name</key><string>初夏</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -668,9 +668,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26144</key>
+		<key>26426</key>
 		<dict>
-			<key>Track ID</key><integer>26144</integer>
+			<key>Track ID</key><integer>26426</integer>
 			<key>Name</key><string>十戒（1984）</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -691,9 +691,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>16</integer>
-			<key>Play Date</key><integer>3852719443</integer>
-			<key>Play Date UTC</key><date>2026-01-31T21:50:43Z</date>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3863697428</integer>
+			<key>Play Date UTC</key><date>2026-06-07T22:17:08Z</date>
 			<key>Skip Count</key><integer>2</integer>
 			<key>Skip Date</key><date>2026-02-21T18:38:34Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -706,9 +706,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26984</key>
+		<key>27266</key>
 		<dict>
-			<key>Track ID</key><integer>26984</integer>
+			<key>Track ID</key><integer>27266</integer>
 			<key>Name</key><string>会いたくて</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -743,9 +743,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26990</key>
+		<key>27272</key>
 		<dict>
-			<key>Track ID</key><integer>26990</integer>
+			<key>Track ID</key><integer>27272</integer>
 			<key>Name</key><string>レディメイド</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -766,9 +766,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>8</integer>
-			<key>Play Date</key><integer>3853620443</integer>
-			<key>Play Date UTC</key><date>2026-02-11T08:07:23Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3862299729</integer>
+			<key>Play Date UTC</key><date>2026-05-22T18:02:09Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Normalization</key><integer>12870</integer>
@@ -779,9 +779,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>26994</key>
+		<key>27276</key>
 		<dict>
-			<key>Track ID</key><integer>26994</integer>
+			<key>Track ID</key><integer>27276</integer>
 			<key>Name</key><string>うっせぇわ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -816,9 +816,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27004</key>
+		<key>27286</key>
 		<dict>
-			<key>Track ID</key><integer>27004</integer>
+			<key>Track ID</key><integer>27286</integer>
 			<key>Name</key><string>阿修羅ちゃん</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -839,9 +839,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3853307367</integer>
-			<key>Play Date UTC</key><date>2026-02-07T17:09:27Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3861138707</integer>
+			<key>Play Date UTC</key><date>2026-05-09T07:31:47Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -853,9 +853,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27006</key>
+		<key>27288</key>
 		<dict>
-			<key>Track ID</key><integer>27006</integer>
+			<key>Track ID</key><integer>27288</integer>
 			<key>Name</key><string>千本桜</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -892,9 +892,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27008</key>
+		<key>27290</key>
 		<dict>
-			<key>Track ID</key><integer>27008</integer>
+			<key>Track ID</key><integer>27290</integer>
 			<key>Name</key><string>逆光 (UTA from ONE PIECE FILM RED)</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -931,9 +931,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27014</key>
+		<key>27296</key>
 		<dict>
-			<key>Track ID</key><integer>27014</integer>
+			<key>Track ID</key><integer>27296</integer>
 			<key>Name</key><string>アタシは問題作</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -954,9 +954,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3853233140</integer>
-			<key>Play Date UTC</key><date>2026-02-06T20:32:20Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3860781809</integer>
+			<key>Play Date UTC</key><date>2026-05-05T04:23:29Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-04-18T17:16:11Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -970,9 +970,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27020</key>
+		<key>27302</key>
 		<dict>
-			<key>Track ID</key><integer>27020</integer>
+			<key>Track ID</key><integer>27302</integer>
 			<key>Name</key><string>新時代 (UTA from ONE PIECE FILM RED)</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -993,9 +993,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3842203282</integer>
-			<key>Play Date UTC</key><date>2025-10-02T03:41:22Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3859881385</integer>
+			<key>Play Date UTC</key><date>2026-04-24T18:16:25Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-02-20T20:39:53Z</date>
 			<key>Rating</key><integer>100</integer>
@@ -1010,9 +1010,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27026</key>
+		<key>27308</key>
 		<dict>
-			<key>Track ID</key><integer>27026</integer>
+			<key>Track ID</key><integer>27308</integer>
 			<key>Name</key><string>クラクラ</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1047,9 +1047,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27030</key>
+		<key>27312</key>
 		<dict>
-			<key>Track ID</key><integer>27030</integer>
+			<key>Track ID</key><integer>27312</integer>
 			<key>Name</key><string>シャルル</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1083,9 +1083,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27036</key>
+		<key>27318</key>
 		<dict>
-			<key>Track ID</key><integer>27036</integer>
+			<key>Track ID</key><integer>27318</integer>
 			<key>Name</key><string>フールフールフール</string>
 			<key>Artist</key><string>おくのほそみち feat. Ado</string>
 			<key>Album Artist</key><string>おくのほそみち feat. Ado</string>
@@ -1119,9 +1119,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>27294</key>
+		<key>27576</key>
 		<dict>
-			<key>Track ID</key><integer>27294</integer>
+			<key>Track ID</key><integer>27576</integer>
 			<key>Name</key><string>Stay Gold (From 'Beyblade X')</string>
 			<key>Artist</key><string>Jax Jones &#38; Ado</string>
 			<key>Album Artist</key><string>Jax Jones &#38; Ado</string>
@@ -1142,9 +1142,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3859304208</integer>
-			<key>Play Date UTC</key><date>2026-04-18T01:56:48Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3863155694</integer>
+			<key>Play Date UTC</key><date>2026-06-01T15:48:14Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1156,14 +1156,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29234</key>
+		<key>29516</key>
 		<dict>
-			<key>Track ID</key><integer>29234</integer>
+			<key>Track ID</key><integer>29516</integer>
 			<key>Name</key><string>CAT'S EYE</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
 			<key>Album</key><string>CAT'S EYE - Single</string>
-			<key>Genre</key><string>J-pop</string>
+			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio MPEG</string>
 			<key>Size</key><integer>5888314</integer>
 			<key>Total Time</key><integer>180767</integer>
@@ -1173,14 +1173,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>73</integer>
-			<key>Date Modified</key><date>2026-01-07T18:56:25Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:22:15Z</date>
 			<key>Date Added</key><date>2025-09-13T09:22:08Z</date>
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>5</integer>
-			<key>Play Date</key><integer>3851437993</integer>
-			<key>Play Date UTC</key><date>2026-01-17T01:53:13Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3860337226</integer>
+			<key>Play Date UTC</key><date>2026-04-30T00:53:46Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -1192,14 +1192,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33402</key>
+		<key>33684</key>
 		<dict>
-			<key>Track ID</key><integer>33402</integer>
+			<key>Track ID</key><integer>33684</integer>
 			<key>Name</key><string>MAGIC</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
 			<key>Album</key><string>MAGIC - Single</string>
-			<key>Genre</key><string>J-pop</string>
+			<key>Genre</key><string>J-Pop</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
 			<key>Size</key><integer>7116047</integer>
 			<key>Total Time</key><integer>172362</integer>
@@ -1209,14 +1209,14 @@
 			<key>Track Count</key><integer>1</integer>
 			<key>Year</key><integer>2025</integer>
 			<key>BPM</key><integer>133</integer>
-			<key>Date Modified</key><date>2026-01-07T18:22:35Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:22:15Z</date>
 			<key>Date Added</key><date>2025-10-31T17:32:11Z</date>
 			<key>Bit Rate</key><integer>324</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>4</integer>
-			<key>Play Date</key><integer>3859295419</integer>
-			<key>Play Date UTC</key><date>2026-04-17T23:30:19Z</date>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3862304433</integer>
+			<key>Play Date UTC</key><date>2026-05-22T19:20:33Z</date>
 			<key>Release Date</key><date>2025-10-31T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1229,9 +1229,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>34684</key>
+		<key>34966</key>
 		<dict>
-			<key>Track ID</key><integer>34684</integer>
+			<key>Track ID</key><integer>34966</integer>
 			<key>Name</key><string>soldier game</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1251,9 +1251,9 @@
 			<key>Bit Rate</key><integer>1536</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3851407761</integer>
-			<key>Play Date UTC</key><date>2026-01-16T17:29:21Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859809729</integer>
+			<key>Play Date UTC</key><date>2026-04-23T22:22:09Z</date>
 			<key>Release Date</key><date>2026-01-14T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1266,9 +1266,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35398</key>
+		<key>35680</key>
 		<dict>
-			<key>Track ID</key><integer>35398</integer>
+			<key>Track ID</key><integer>35680</integer>
 			<key>Name</key><string>エンゼルシーク</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1305,9 +1305,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35736</key>
+		<key>36018</key>
 		<dict>
-			<key>Track ID</key><integer>35736</integer>
+			<key>Track ID</key><integer>36018</integer>
 			<key>Name</key><string>Radio Noise</string>
 			<key>Artist</key><string>ミコ吉 feat Ado</string>
 			<key>Album Artist</key><string>ミコ吉 feat Ado</string>
@@ -1327,9 +1327,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3855921621</integer>
-			<key>Play Date UTC</key><date>2026-03-09T23:20:21Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3859803483</integer>
+			<key>Play Date UTC</key><date>2026-04-23T20:38:03Z</date>
 			<key>Release Date</key><date>2021-02-01T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1342,9 +1342,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>35738</key>
+		<key>36020</key>
 		<dict>
-			<key>Track ID</key><integer>35738</integer>
+			<key>Track ID</key><integer>36020</integer>
 			<key>Name</key><string>立ち入り禁止</string>
 			<key>Artist</key><string>Ayase &#38; Ado</string>
 			<key>Album</key><string>まふまふ トリビュートアルバム ～転生～</string>
@@ -1363,9 +1363,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3855918547</integer>
-			<key>Play Date UTC</key><date>2026-03-09T22:29:07Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3862137513</integer>
+			<key>Play Date UTC</key><date>2026-05-20T20:58:33Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2026-03-17T16:34:54Z</date>
 			<key>Release Date</key><date>2022-03-30T12:00:00Z</date>
@@ -1381,9 +1381,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>38106</key>
+		<key>38386</key>
 		<dict>
-			<key>Track ID</key><integer>38106</integer>
+			<key>Track ID</key><integer>38386</integer>
 			<key>Name</key><string>アイアイア</string>
 			<key>Artist</key><string>Ado</string>
 			<key>Album Artist</key><string>Ado</string>
@@ -1403,9 +1403,9 @@
 			<key>Bit Rate</key><integer>2304</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>1</integer>
-			<key>Play Date</key><integer>3857210245</integer>
-			<key>Play Date UTC</key><date>2026-03-24T21:17:25Z</date>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3860315432</integer>
+			<key>Play Date UTC</key><date>2026-04-29T18:50:32Z</date>
 			<key>Release Date</key><date>2026-03-15T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -1418,13 +1418,49 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
+		<key>40816</key>
+		<dict>
+			<key>Track ID</key><integer>40816</integer>
+			<key>Name</key><string>Love me forever!</string>
+			<key>Artist</key><string>Ado</string>
+			<key>Album Artist</key><string>Ado</string>
+			<key>Album</key><string>Love me forever! - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>Audio Apple Lossless</string>
+			<key>Size</key><integer>58991292</integer>
+			<key>Total Time</key><integer>249330</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2026</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2026-07-03T06:37:50Z</date>
+			<key>Date Added</key><date>2026-07-03T06:25:05Z</date>
+			<key>Bit Rate</key><integer>2304</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>Se encuentra en spotify</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3865887413</integer>
+			<key>Play Date UTC</key><date>2026-07-03T06:36:53Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4213</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6367A661A41FAB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/D:/iTunes/iTunes%20Media/Music/Ado/Love%20me%20forever!%20-%20Single/01%20Love%20me%20forever!.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>Ado</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>124678</integer>
+			<key>Playlist ID</key><integer>161563</integer>
 			<key>Playlist Persistent ID</key><string>30295C9EA3099F94</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -1470,118 +1506,121 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>26994</integer>
+					<key>Track ID</key><integer>26426</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26990</integer>
+					<key>Track ID</key><integer>16104</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27036</integer>
+					<key>Track ID</key><integer>12710</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12466</integer>
+					<key>Track ID</key><integer>27576</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26984</integer>
+					<key>Track ID</key><integer>16140</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27004</integer>
+					<key>Track ID</key><integer>12612</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27006</integer>
+					<key>Track ID</key><integer>5272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12428</integer>
+					<key>Track ID</key><integer>5290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27020</integer>
+					<key>Track ID</key><integer>5270</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27008</integer>
+					<key>Track ID</key><integer>12684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12400</integer>
+					<key>Track ID</key><integer>27272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12402</integer>
+					<key>Track ID</key><integer>12672</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27014</integer>
+					<key>Track ID</key><integer>27290</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12440</integer>
+					<key>Track ID</key><integer>5274</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27026</integer>
+					<key>Track ID</key><integer>5284</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4988</integer>
+					<key>Track ID</key><integer>27308</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4990</integer>
+					<key>Track ID</key><integer>12720</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4992</integer>
+					<key>Track ID</key><integer>12748</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>4996</integer>
+					<key>Track ID</key><integer>27318</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5002</integer>
+					<key>Track ID</key><integer>5278</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5004</integer>
+					<key>Track ID</key><integer>29516</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5010</integer>
+					<key>Track ID</key><integer>27288</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>5008</integer>
+					<key>Track ID</key><integer>12722</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12438</integer>
+					<key>Track ID</key><integer>27286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15858</integer>
+					<key>Track ID</key><integer>5286</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12390</integer>
+					<key>Track ID</key><integer>33684</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12330</integer>
+					<key>Track ID</key><integer>5292</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15822</integer>
+					<key>Track ID</key><integer>27296</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27030</integer>
+					<key>Track ID</key><integer>12682</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>26144</integer>
+					<key>Track ID</key><integer>27312</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>27294</integer>
+					<key>Track ID</key><integer>27266</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29234</integer>
+					<key>Track ID</key><integer>27302</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33402</integer>
+					<key>Track ID</key><integer>27276</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>34684</integer>
+					<key>Track ID</key><integer>36020</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35398</integer>
+					<key>Track ID</key><integer>34966</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35738</integer>
+					<key>Track ID</key><integer>38386</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>35736</integer>
+					<key>Track ID</key><integer>36018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>38106</integer>
+					<key>Track ID</key><integer>40816</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>35680</integer>
 				</dict>
 			</array>
 		</dict>

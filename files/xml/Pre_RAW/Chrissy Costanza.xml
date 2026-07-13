@@ -4,7 +4,7 @@
 <dict>
 	<key>Major Version</key><integer>1</integer>
 	<key>Minor Version</key><integer>1</integer>
-	<key>Date</key><date>2026-04-23T00:19:39Z</date>
+	<key>Date</key><date>2026-07-08T06:15:43Z</date>
 	<key>Application Version</key><string>12.13.10.3</string>
 	<key>Features</key><integer>5</integer>
 	<key>Show Content Ratings</key><true/>
@@ -12,9 +12,9 @@
 	<key>Library Persistent ID</key><string>B1B91368C3F0FB12</string>
 	<key>Tracks</key>
 	<dict>
-		<key>6980</key>
+		<key>7262</key>
 		<dict>
-			<key>Track ID</key><integer>6980</integer>
+			<key>Track ID</key><integer>7262</integer>
 			<key>Name</key><string>Phoenix</string>
 			<key>Artist</key><string>FPX &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>FPX &#38; Chrissy Costanza</string>
@@ -34,9 +34,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>12</integer>
-			<key>Play Date</key><integer>3851444047</integer>
-			<key>Play Date UTC</key><date>2026-01-17T03:34:07Z</date>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3861181139</integer>
+			<key>Play Date UTC</key><date>2026-05-09T19:18:59Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -51,9 +51,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12046</key>
+		<key>12328</key>
 		<dict>
-			<key>Track ID</key><integer>12046</integer>
+			<key>Track ID</key><integer>12328</integer>
 			<key>Name</key><string>Caught It</string>
 			<key>Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>VOILÀ, Chrissy Costanza &#38; Against The Current</string>
@@ -74,9 +74,9 @@
 			<key>Bit Rate</key><integer>256</integer>
 			<key>Sample Rate</key><integer>44100</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>10</integer>
-			<key>Play Date</key><integer>3856788320</integer>
-			<key>Play Date UTC</key><date>2026-03-20T00:05:20Z</date>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3861198284</integer>
+			<key>Play Date UTC</key><date>2026-05-10T00:04:44Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
 			<key>Album Rating Computed</key><true/>
@@ -88,9 +88,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12566</key>
+		<key>12848</key>
 		<dict>
-			<key>Track ID</key><integer>12566</integer>
+			<key>Track ID</key><integer>12848</integer>
 			<key>Name</key><string>Perfect Crime</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -126,14 +126,14 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>12600</key>
+		<key>12882</key>
 		<dict>
-			<key>Track ID</key><integer>12600</integer>
+			<key>Track ID</key><integer>12882</integer>
 			<key>Name</key><string>SUICIDAL THOUGHTS (NO ONE'S HOME)</string>
 			<key>Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album Artist</key><string>Ryan Oakes, Chrissy Costanza &#38; Against The Current</string>
 			<key>Album</key><string>SUICIDAL THOUGHTS (NO ONE'S HOME) - Single</string>
-			<key>Genre</key><string>Hip-Hop-Rap</string>
+			<key>Genre</key><string>Hip-Hop / Rap</string>
 			<key>Kind</key><string>Archivo de audio AAC</string>
 			<key>Size</key><integer>6987989</integer>
 			<key>Total Time</key><integer>165000</integer>
@@ -143,7 +143,7 @@
 			<key>Track Count</key><integer>2</integer>
 			<key>Year</key><integer>2024</integer>
 			<key>BPM</key><integer>92</integer>
-			<key>Date Modified</key><date>2026-01-07T20:49:51Z</date>
+			<key>Date Modified</key><date>2026-05-15T22:21:13Z</date>
 			<key>Date Added</key><date>2025-01-16T03:54:24Z</date>
 			<key>Bit Rate</key><integer>332</integer>
 			<key>Sample Rate</key><integer>48000</integer>
@@ -163,9 +163,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15218</key>
+		<key>15500</key>
 		<dict>
-			<key>Track ID</key><integer>15218</integer>
+			<key>Track ID</key><integer>15500</integer>
 			<key>Name</key><string>Out Of Your Mind</string>
 			<key>Artist</key><string>MisterWives, Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>MisterWives</string>
@@ -201,9 +201,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15220</key>
+		<key>15502</key>
 		<dict>
-			<key>Track ID</key><integer>15220</integer>
+			<key>Track ID</key><integer>15502</integer>
 			<key>Name</key><string>Barely Breathing</string>
 			<key>Artist</key><string>From Ashes to New feat. Against The Current &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>From Ashes to New</string>
@@ -223,9 +223,9 @@
 			<key>Bit Rate</key><integer>321</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>11</integer>
-			<key>Play Date</key><integer>3858002166</integer>
-			<key>Play Date UTC</key><date>2026-04-03T01:16:06Z</date>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3859799881</integer>
+			<key>Play Date UTC</key><date>2026-04-23T19:38:01Z</date>
 			<key>Skip Count</key><integer>1</integer>
 			<key>Skip Date</key><date>2025-06-23T23:13:41Z</date>
 			<key>Release Date</key><date>2023-07-28T12:00:00Z</date>
@@ -240,9 +240,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>15224</key>
+		<key>15506</key>
 		<dict>
-			<key>Track ID</key><integer>15224</integer>
+			<key>Track ID</key><integer>15506</integer>
 			<key>Name</key><string>Romantic Disaster</string>
 			<key>Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
 			<key>Album Artist</key><string>LiL Lotus &#38; Against The Current feat. Chrissy Costanza</string>
@@ -263,9 +263,11 @@
 			<key>Bit Rate</key><integer>325</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>2</integer>
-			<key>Play Date</key><integer>3842424076</integer>
-			<key>Play Date UTC</key><date>2025-10-04T17:01:16Z</date>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3861716263</integer>
+			<key>Play Date UTC</key><date>2026-05-15T23:57:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2026-04-25T16:57:19Z</date>
 			<key>Release Date</key><date>2021-08-20T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -278,9 +280,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16464</key>
+		<key>16746</key>
 		<dict>
-			<key>Track ID</key><integer>16464</integer>
+			<key>Track ID</key><integer>16746</integer>
 			<key>Name</key><string>But, What If I Fly </string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -315,9 +317,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16714</key>
+		<key>16996</key>
 		<dict>
-			<key>Track ID</key><integer>16714</integer>
+			<key>Track ID</key><integer>16996</integer>
 			<key>Name</key><string>7 Minutes in Hell</string>
 			<key>Artist</key><string>Chrissy Costanza &#38; VOILÀ</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -338,9 +340,9 @@
 			<key>Bit Rate</key><integer>320</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>7</integer>
-			<key>Play Date</key><integer>3849071201</integer>
-			<key>Play Date UTC</key><date>2025-12-20T16:26:41Z</date>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3865887695</integer>
+			<key>Play Date UTC</key><date>2026-07-03T06:41:35Z</date>
 			<key>Release Date</key><date>2024-07-19T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -352,9 +354,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>16906</key>
+		<key>17188</key>
 		<dict>
-			<key>Track ID</key><integer>16906</integer>
+			<key>Track ID</key><integer>17188</integer>
 			<key>Name</key><string>Pick Your Poison</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -375,9 +377,9 @@
 			<key>Bit Rate</key><integer>323</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3849625876</integer>
-			<key>Play Date UTC</key><date>2025-12-27T02:31:16Z</date>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3861612451</integer>
+			<key>Play Date UTC</key><date>2026-05-14T19:07:31Z</date>
 			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -389,9 +391,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17126</key>
+		<key>17408</key>
 		<dict>
-			<key>Track ID</key><integer>17126</integer>
+			<key>Track ID</key><integer>17408</integer>
 			<key>Name</key><string>You’d Be Right</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -412,9 +414,9 @@
 			<key>Bit Rate</key><integer>326</integer>
 			<key>Sample Rate</key><integer>48000</integer>
 			<key>Comments</key><string>Se encuentra en spotify</string>
-			<key>Play Count</key><integer>3</integer>
-			<key>Play Date</key><integer>3849626233</integer>
-			<key>Play Date UTC</key><date>2025-12-27T02:37:13Z</date>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3863544928</integer>
+			<key>Play Date UTC</key><date>2026-06-06T03:55:28Z</date>
 			<key>Release Date</key><date>2024-10-09T12:00:00Z</date>
 			<key>Rating</key><integer>100</integer>
 			<key>Album Rating</key><integer>100</integer>
@@ -426,9 +428,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>17198</key>
+		<key>17480</key>
 		<dict>
-			<key>Track ID</key><integer>17198</integer>
+			<key>Track ID</key><integer>17480</integer>
 			<key>Name</key><string>Some Like It Hot</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -463,9 +465,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>29736</key>
+		<key>30018</key>
 		<dict>
-			<key>Track ID</key><integer>29736</integer>
+			<key>Track ID</key><integer>30018</integer>
 			<key>Name</key><string>Phoenix</string>
 			<key>Artist</key><string>League of Legends Music, Cailin Russo &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>League of Legends Music, Cailin Russo &#38; Chrissy Costanza</string>
@@ -501,9 +503,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>32990</key>
+		<key>33272</key>
 		<dict>
-			<key>Track ID</key><integer>32990</integer>
+			<key>Track ID</key><integer>33272</integer>
 			<key>Name</key><string>Rope</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -538,9 +540,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>33452</key>
+		<key>33734</key>
 		<dict>
-			<key>Track ID</key><integer>33452</integer>
+			<key>Track ID</key><integer>33734</integer>
 			<key>Name</key><string>Weather</string>
 			<key>Artist</key><string>Chrissy Costanza</string>
 			<key>Album Artist</key><string>Chrissy Costanza</string>
@@ -575,9 +577,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>36338</key>
+		<key>36620</key>
 		<dict>
-			<key>Track ID</key><integer>36338</integer>
+			<key>Track ID</key><integer>36620</integer>
 			<key>Name</key><string>Blazing Heart (English Version)</string>
 			<key>Artist</key><string>HOYO-MiX &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>HOYO-MiX</string>
@@ -613,9 +615,9 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 		</dict>
-		<key>36402</key>
+		<key>36684</key>
 		<dict>
-			<key>Track ID</key><integer>36402</integer>
+			<key>Track ID</key><integer>36684</integer>
 			<key>Name</key><string>Eye Of The Untold Her (Echo In The Dark)</string>
 			<key>Artist</key><string>Lindsey Stirling &#38; Chrissy Costanza</string>
 			<key>Album Artist</key><string>Lindsey Stirling</string>
@@ -657,7 +659,7 @@
 		<dict>
 			<key>Name</key><string>Chrissy Costanza</string>
 			<key>Description</key><string></string>
-			<key>Playlist ID</key><integer>125016</integer>
+			<key>Playlist ID</key><integer>161920</integer>
 			<key>Playlist Persistent ID</key><string>BB2545ECB8B3BA1D</string>
 			<key>Parent Persistent ID</key><string>4615C0A709E8FBCB</string>
 			<key>All Items</key><true/>
@@ -699,55 +701,55 @@
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>15218</integer>
+					<key>Track ID</key><integer>7262</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12600</integer>
+					<key>Track ID</key><integer>15502</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15220</integer>
+					<key>Track ID</key><integer>12328</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15224</integer>
+					<key>Track ID</key><integer>16996</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12046</integer>
+					<key>Track ID</key><integer>15500</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16714</integer>
+					<key>Track ID</key><integer>17188</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>6980</integer>
+					<key>Track ID</key><integer>33272</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29736</integer>
+					<key>Track ID</key><integer>16746</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16464</integer>
+					<key>Track ID</key><integer>30018</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16906</integer>
+					<key>Track ID</key><integer>12882</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17126</integer>
+					<key>Track ID</key><integer>12848</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>17198</integer>
+					<key>Track ID</key><integer>17408</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>12566</integer>
+					<key>Track ID</key><integer>17480</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>32990</integer>
+					<key>Track ID</key><integer>33734</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>33452</integer>
+					<key>Track ID</key><integer>15506</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>36338</integer>
+					<key>Track ID</key><integer>36620</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>36402</integer>
+					<key>Track ID</key><integer>36684</integer>
 				</dict>
 			</array>
 		</dict>

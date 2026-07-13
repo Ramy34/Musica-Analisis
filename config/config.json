@@ -24,5 +24,8 @@
     "log_level": "INFO",
     "threads": 4,
     "procesar_todo": true
+  },
+  "api_keys": {
+    "genius_token": "HsUECxA514f4xAy_JX0_Mh591n75neXjtrvCAkggOH4ckFiA7tn3x1c3P_zQDsdL"
   }
 }
